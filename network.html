@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="ICT RADAR ネットワーク基礎体力トレーニング">
+<title>ネットワーク基礎体力 | ICT RADAR</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="site-header">
+  <a class="brand" href="index.html"><span class="brand-mark">◉</span><span>ICT RADAR</span></a>
+  <nav aria-label="ネットワーク学習メニュー"><a href="#map">地図</a><a href="#foundation">基礎</a><a href="#diagnose">切り分け</a><a href="#current">最新情報</a><a href="index.html#quiz">今日のクイズ</a></nav>
+</header>
+<main>
+<section class="topic-hero">
+  <p class="eyebrow">ICT BASIC FITNESS / NETWORK</p>
+  <p class="topic-back"><a href="index.html#learn">← もっと知りたい</a></p>
+  <h1>ネットワークの<br>基礎体力</h1>
+  <p class="lead">用語を暗記する前に、「端末からサービスまで、通信がどこを通っているか」を一本の地図として理解します。基礎は安定して学び、変わる情報はCURRENTとして別に更新します。</p>
+  <div class="topic-principle"><strong>最初の原則</strong><span>「つながっている」と「使える」は違う。</span></div>
+</section>
+
+<section id="map" class="section">
+  <div class="section-head"><div><p class="eyebrow">01 / MAP</p><h2>まず、通信の地図を持つ</h2></div><span class="status">3分で全体像</span></div>
+  <p class="section-intro">Webサイトやクラウドが使えるまでには、いくつもの段階があります。「ネットがダメ」で一括りにしないことが、切り分けの出発点です。</p>
+  <div class="network-map">
+    <div><b>端末</b><span>PC / tablet</span></div><i>→</i>
+    <div><b>Wi-Fi</b><span>APへ接続</span></div><i>→</i>
+    <div><b>IP設定</b><span>DHCP等</span></div><i>→</i>
+    <div><b>校内LAN</b><span>switch / router</span></div><i>→</i>
+    <div><b>インターネット</b><span>回線 / ISP</span></div><i>→</i>
+    <div><b>DNS</b><span>名前解決</span></div><i>→</i>
+    <div><b>サービス</b><span>Web / cloud</span></div><i>→</i>
+    <div><b>認証・認可</b><span>誰？何ができる？</span></div>
+  </div>
+  <div class="distinction"><b>重要な区別</b><p>Wi-Fiマークが出ている → APとは接続できている可能性がある。<br>だからといって、DNS・インターネット・クラウドサービス・認証まで正常とは限りません。</p></div>
+</section>
+
+<section id="foundation" class="section">
+  <div class="section-head"><div><p class="eyebrow">02 / FOUNDATION</p><h2>ここは変わりにくい基礎</h2></div><span class="tag foundation">FOUNDATION</span></div>
+  <p class="section-intro">試験のための単語集ではなく、現象を説明し、切り分けるために必要な概念です。</p>
+  <div class="concept-grid">
+    <article><span>01</span><h3>IPアドレス</h3><p>ネットワーク上で通信相手を識別するためのアドレス。IPv4とIPv6があります。</p><b>問い：この端末は通信に必要なアドレスを持っている？</b></article>
+    <article><span>02</span><h3>DHCP</h3><p>IPアドレスなど、通信に必要な設定を端末へ提供する仕組み。</p><b>問い：端末は適切なネットワーク設定を受け取れた？</b></article>
+    <article><span>03</span><h3>DNS</h3><p>人が使う名前から、通信先を見つけるための仕組み。</p><b>問い：名前から通信先を解決できている？</b></article>
+    <article><span>04</span><h3>デフォルトゲートウェイ</h3><p>自分のネットワークの外へ通信するときの出口。</p><b>問い：外へ出る経路はある？</b></article>
+    <article><span>05</span><h3>アクセスポイント</h3><p>無線端末をネットワークへ接続する入口。電波の届き方だけでなく同時接続や配置も関係します。</p><b>問い：無線区間だけの問題？</b></article>
+    <article><span>06</span><h3>ルーター / スイッチ</h3><p>ルーターは異なるネットワーク間、スイッチは主に同一LAN内の通信をつなぎます。</p><b>問い：どの区間まで通信できている？</b></article>
+    <article><span>07</span><h3>帯域と遅延</h3><p>一度に運べる量と、応答にかかる時間は別の性質です。「遅い」の中身を分けます。</p><b>問い：足りないのは容量？応答性？</b></article>
+    <article><span>08</span><h3>HTTPS</h3><p>Web通信を保護する仕組み。ただし、通信先の内容が正しいことや、入力してよい情報まで保証するものではありません。</p><b>問い：通信の安全と情報の妥当性を混同していない？</b></article>
+  </div>
+</section>
+
+<section id="diagnose" class="section">
+  <div class="section-head"><div><p class="eyebrow">03 / DIAGNOSE</p><h2>「ネットが遅い」を分解する</h2></div><span class="status">学校ICTの実践</span></div>
+  <p class="section-intro">いきなり設定を変えるのではなく、観察して影響範囲を絞ります。</p>
+  <div class="diagnose-flow">
+    <article><span>1</span><h3>誰に？</h3><p>自分だけ / 複数人 / 全員</p></article>
+    <article><span>2</span><h3>どこで？</h3><p>この席 / 教室 / 校舎 / 学校全体</p></article>
+    <article><span>3</span><h3>何が？</h3><p>特定サイト / 全Web / ログイン / 動画 / 全通信</p></article>
+    <article><span>4</span><h3>いつから？</h3><p>常時 / 特定時間 / 変更後 / 今日だけ</p></article>
+  </div>
+  <div class="authority-box"><p class="eyebrow">BEFORE ACT</p><h3>原因らしい場所が見えても、すぐ変更しない。</h3><p>「私は、この環境で、これを変更する権限を持っているか？」を確認します。技術的に変更できることと、変更してよいことは別です。</p></div>
+</section>
+
+<section id="current" class="section">
+  <div class="section-head"><div><p class="eyebrow">04 / CURRENT WATCH</p><h2>ネットワークの「今」</h2></div><span class="tag current">CURRENT</span></div>
+  <p class="section-intro">規格、国の調査、学校向けの整備指針は変わります。ここは基礎知識と混ぜず、一次情報を確認して更新します。</p>
+  <div id="networkCurrentMeta" class="radar-meta">確認情報を読み込んでいます…</div>
+  <div id="networkCurrent" class="current-grid"></div>
+  <div class="update-policy">
+    <h3>更新ルール</h3>
+    <p><b>FOUNDATION</b> は概念が変わらない限り維持。<b>CURRENT</b> は文部科学省などの一次情報とIETF等の標準を定期確認し、「確認日」を表示します。新しい情報を自動で見つけても、意味づけは確認してから掲載します。</p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="section-head"><div><p class="eyebrow">05 / CHECK</p><h2>基礎体力チェック</h2></div></div>
+  <div class="distinction"><b>このページを読んだら</b><p>IP・DHCP・DNSを説明できるかではなく、「Wi-FiはつながるのにWebが開かない」と言われたとき、何を順番に確認するかを自分の言葉で言えるか確かめてみてください。</p><a class="button primary" href="index.html#quiz">今日のクイズへ →</a></div>
+</section>
+</main>
+<footer><strong>ICT RADAR</strong><p>ICT基礎体力トレーニング / ネットワーク</p><p class="small">基礎知識と更新情報を分離し、CURRENTは一次情報を確認して掲載します。</p></footer>
+<script src="network.js"></script>
+</body></html>
