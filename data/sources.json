@@ -1,0 +1,9 @@
+{
+  "sources": [
+    {"id":"ict-enews","name":"ICT教育ニュース","feed":"https://ict-enews.net/feed/","site":"https://ict-enews.net/","enabled":true},
+    {"id":"kodomo-it","name":"こどもとIT","feed":"https://edu.watch.impress.co.jp/data/rss/1.0/kit/feed.rdf","site":"https://edu.watch.impress.co.jp/","enabled":true},
+    {"id":"reseed","name":"ReseEd","feed":"https://reseed.resemom.jp/rss.xml","site":"https://reseed.resemom.jp/","enabled":true},
+    {"id":"kknews","name":"教育家庭新聞 KKS Web","feed":"https://www.kknews.co.jp/feed","site":"https://www.kknews.co.jp/ict","enabled":true}
+  ],
+  "keywords": ["ICT","GIGA","生成AI","AI","校務","DX","文部科学省","文科省","教育委員会","学習指導要領","デジタル教科書","情報活用能力","セキュリティ","個人情報","著作権","ネットワーク","端末","クラウド","アカウント","Google","Microsoft","Apple","Chromebook","iPad","Windows","プログラミング","情報教育","情報I","データ","CBT","MEXCBT"]
+}
