@@ -9,3 +9,15 @@ async function loadNetworkCurrent(){
  }catch(_){meta.textContent="CURRENT情報を読み込めませんでした。";root.innerHTML="";}
 }
 loadNetworkCurrent();
+async function loadNetworkWatch(){
+ try{
+  const r=await fetch("data/network-watch.json",{cache:"no-store"}); if(!r.ok)return;
+  const d=await r.json(); const changed=(d.sources||[]).filter(x=>x.changed);
+  if(!changed.length)return;
+  const section=document.getElementById("current"); if(!section)return;
+  const alert=document.createElement("div"); alert.className="source-change-alert";
+  alert.innerHTML="<b>一次情報の変更を検知しました</b><p>"+changed.map(x=>e(x.name)).join(" / ")+" に変更があります。内容確認が終わるまで、CURRENTの記述は前回確認時点の情報として扱ってください。</p>";
+  section.insertBefore(alert,document.getElementById("networkCurrentMeta"));
+ }catch(_){}
+}
+loadNetworkWatch();
