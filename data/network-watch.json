@@ -1,0 +1,8 @@
+{
+  "last_run": "",
+  "sources": [
+    {"id":"mext-school-network","name":"文部科学省 学校のネットワーク環境整備","url":"https://www.mext.go.jp/a_menu/shotou/zyouhou/detail/mext_02734.html","hash":"","changed":false,"changed_at":""},
+    {"id":"ietf-dhcpv6","name":"IETF RFC 9915","url":"https://datatracker.ietf.org/doc/rfc9915/","hash":"","changed":false,"changed_at":""},
+    {"id":"ietf-dns-bcp","name":"IETF RFC 10001","url":"https://datatracker.ietf.org/doc/rfc10001/","hash":"","changed":false,"changed_at":""}
+  ]
+}
