@@ -2,6 +2,11 @@ name: Update ICT Radar
 
 on:
   workflow_dispatch:
+  push:
+    paths:
+      - 'data/sources.json'
+      - 'scripts/update_radar.py'
+      - '.github/workflows/update-radar.yml'
   schedule:
     - cron: "17 */6 * * *"
 
