@@ -9,11 +9,9 @@
 </head>
 <body>
 <header class="site-header">
-  <a class="brand" href="#top" aria-label="ICT RADAR トップ">
-    <span class="brand-mark">◉</span><span>ICT RADAR</span>
-  </a>
+  <a class="brand" href="#top" aria-label="ICT RADAR トップ"><span class="brand-mark">◉</span><span>ICT RADAR</span></a>
   <nav aria-label="メインメニュー">
-    <a href="#today">今日のICT</a><a href="#quiz">今日のクイズ</a><a href="#scene">こんなとき</a><a href="#learn">学ぶ</a>
+    <a href="#today">今日のICT</a><a href="#quiz">今日のクイズ</a><a href="#scene">こんなとき</a><a href="#media">メディア</a><a href="#learn">学ぶ</a>
   </nav>
 </header>
 
@@ -22,37 +20,16 @@
     <p class="eyebrow">学校ICTの「今」と「基本」をつなぐ</p>
     <h1>知らないことに、<br>出会える。</h1>
     <p class="lead">何を調べればいいか分からなくても大丈夫。今日の話題、1問クイズ、困った場面から、必要な知識への入口を見つけます。</p>
-    <div class="hero-actions">
-      <a class="button primary" href="#quiz">今日の1問をやる</a>
-      <a class="button" href="#today">今日のICTを見る</a>
-    </div>
+    <div class="hero-actions"><a class="button primary" href="#quiz">今日の1問をやる</a><a class="button" href="#today">今日のICTを見る</a></div>
   </section>
 
   <section id="today" class="section">
-    <div class="section-head">
-      <div><p class="eyebrow">TODAY</p><h2>今日のICT</h2></div>
-      <span class="status">初期版</span>
-    </div>
+    <div class="section-head"><div><p class="eyebrow">TODAY</p><h2>今日のICT</h2></div><span class="status">初期版</span></div>
     <p class="section-intro">「全部読む」ではなく、まず変化に気づくための入口です。現在はサンプル表示。自動収集は次の段階で接続します。</p>
     <div class="cards">
-      <article class="card">
-        <div class="meta"><span class="tag current">CURRENT</span><span>制度・政策</span></div>
-        <h3>「決まったこと」と「検討中」を分けて読む</h3>
-        <p>諮問、WG、論点整理、答申、告示。行政情報は段階を見分けるだけで読み違いが減ります。</p>
-        <a href="#learn">基礎を確認する →</a>
-      </article>
-      <article class="card">
-        <div class="meta"><span class="tag foundation">FOUNDATION</span><span>ネットワーク</span></div>
-        <h3>「Wi-Fiにつながる」と「使える」は別</h3>
-        <p>接続、IP、DNS、HTTPS、認証、認可。現象を順番に切り分けるための基本です。</p>
-        <a href="#scene">場面から確認する →</a>
-      </article>
-      <article class="card">
-        <div class="meta"><span class="tag current">CURRENT</span><span>情報収集</span></div>
-        <h3>同じ知らない言葉を何度も見たら調べる</h3>
-        <p>ニュースは答えではなく「次に調べる言葉」を見つけるレーダーとして使います。</p>
-        <a href="#sources">一次情報レーダーへ →</a>
-      </article>
+      <article class="card"><div class="meta"><span class="tag current">CURRENT</span><span>制度・政策</span></div><h3>「決まったこと」と「検討中」を分けて読む</h3><p>諮問、WG、論点整理、答申、告示。行政情報は段階を見分けるだけで読み違いが減ります。</p><a href="#learn">基礎を確認する →</a></article>
+      <article class="card"><div class="meta"><span class="tag foundation">FOUNDATION</span><span>ネットワーク</span></div><h3>「Wi-Fiにつながる」と「使える」は別</h3><p>接続、IP、DNS、HTTPS、認証、認可。現象を順番に切り分けるための基本です。</p><a href="#scene">場面から確認する →</a></article>
+      <article class="card"><div class="meta"><span class="tag current">CURRENT</span><span>情報収集</span></div><h3>同じ知らない言葉を何度も見たら調べる</h3><p>ニュースは答えではなく「次に調べる言葉」を見つけるレーダーとして使います。</p><a href="#media">参考メディアを見る →</a></article>
     </div>
   </section>
 
@@ -75,6 +52,41 @@
     <div id="sceneAnswer" class="scene-answer" hidden></div>
   </section>
 
+  <section id="media" class="section media-section">
+    <div class="section-head"><div><p class="eyebrow">MEDIA RADAR</p><h2>参考メディア</h2></div><span class="status">発見のアンテナ</span></div>
+    <p class="section-intro">ここは「答えを確定する場所」ではなく、知らない言葉や変化に出会う場所です。気になる情報を見つけたら、最後は一次情報で確認します。</p>
+    <div class="radar-flow" aria-label="ICT RADARの情報確認フロー"><span>見つける</span><b>→</b><span>言葉を知る</span><b>→</b><span>一次情報で確認</span><b>→</b><span>学ぶ</span></div>
+
+    <div class="media-groups">
+      <div class="media-group">
+        <h3>学校ICTの現場を見る</h3>
+        <div class="media-grid">
+          <a class="media-card" href="https://edu.watch.impress.co.jp/" target="_blank" rel="noopener"><span class="media-type">現場・実践</span><strong>こどもとIT</strong><p>GIGA、生成AI、授業実践、端末・サービスなど。学校ICTの現場で何が起きているかを見る。</p><em>サイトを開く ↗</em></a>
+          <a class="media-card" href="https://ict-enews.net/" target="_blank" rel="noopener"><span class="media-type">広く・早く</span><strong>ICT教育ニュース</strong><p>教育行政、学校、企業、教材、イベント、調査まで幅広く拾う。変化を検知するセンサーとして。</p><em>サイトを開く ↗</em></a>
+        </div>
+      </div>
+
+      <div class="media-group">
+        <h3>制度・教育業界の動きを見る</h3>
+        <div class="media-grid">
+          <a class="media-card" href="https://www.kknews.co.jp/ict" target="_blank" rel="noopener"><span class="media-type">制度・自治体</span><strong>教育家庭新聞 KKS Web</strong><p>教育委員会、ICT環境、校務DX、整備、制度動向を追うときのアンテナ。</p><em>サイトを開く ↗</em></a>
+          <a class="media-card" href="https://reseed.resemom.jp/" target="_blank" rel="noopener"><span class="media-type">教育業界</span><strong>ReseEd</strong><p>教育行政、教材・校務、ICT機器、活用事例、生成AIなど教育業界の動きを見る。</p><em>サイトを開く ↗</em></a>
+          <a class="media-card" href="https://resemom.jp/category/it-education/" target="_blank" rel="noopener"><span class="media-type">利用者側</span><strong>リセマム 教育ICT</strong><p>教育ICTに加え、子ども・保護者・調査など利用者側から見える変化も拾う。</p><em>サイトを開く ↗</em></a>
+        </div>
+      </div>
+
+      <div class="media-group">
+        <h3>技術と少し先の変化を見る</h3>
+        <div class="media-grid">
+          <a class="media-card" href="https://www.sentankyo.jp/" target="_blank" rel="noopener"><span class="media-type">教育の先</span><strong>先端教育オンライン</strong><p>AI、教育政策、人材育成、大学・自治体DXなど、少し先の論点を探す。</p><em>サイトを開く ↗</em></a>
+          <a class="media-card" href="https://techtarget.itmedia.co.jp/tt/category/education/" target="_blank" rel="noopener"><span class="media-type">技術</span><strong>TechTargetジャパン 教育IT</strong><p>学校インフラ、クラウド、端末、ソフトウェアなど技術側の論点を補う。</p><em>サイトを開く ↗</em></a>
+          <a class="media-card policy-media" href="https://journal.meti.go.jp/" target="_blank" rel="noopener"><span class="media-type">政策解説</span><strong>METI Journal ONLINE</strong><p>AI、DX、デジタル人材、産業政策など、教育の外側から来る変化を読む経産省のウェブマガジン。</p><em>サイトを開く ↗</em></a>
+        </div>
+      </div>
+    </div>
+    <p class="media-note"><strong>ICT RADARのルール：</strong>参考メディアで「知らない言葉」を見つける。重要そうなら一次情報へ行く。メディア記事だけで制度・法律・運用を確定しない。</p>
+  </section>
+
   <section id="learn" class="section">
     <div class="section-head"><div><p class="eyebrow">LEARN</p><h2>もっと知りたい</h2></div></div>
     <div class="learn-grid">
@@ -88,8 +100,8 @@
   </section>
 
   <section id="sources" class="section sources">
-    <div class="section-head"><div><p class="eyebrow">SOURCE RADAR</p><h2>一次情報レーダー</h2></div></div>
-    <p class="section-intro">ニュースで言葉を見つけたら、最後は発生源へ。ここでは「何を見る場所か」で整理します。</p>
+    <div class="section-head"><div><p class="eyebrow">PRIMARY SOURCE RADAR</p><h2>一次情報レーダー</h2></div><span class="status">確かめる場所</span></div>
+    <p class="section-intro">参考メディアで言葉を見つけたら、最後は発生源へ。「何を見る場所か」で整理しています。</p>
     <div class="source-list">
       <a href="https://www.mext.go.jp/" target="_blank" rel="noopener"><strong>文部科学省</strong><span>教育政策・GIGA・学習指導要領</span></a>
       <a href="https://www.digital.go.jp/" target="_blank" rel="noopener"><strong>デジタル庁</strong><span>デジタル社会・教育DX・データ</span></a>
@@ -102,8 +114,7 @@
 </main>
 
 <footer>
-  <strong>ICT RADAR</strong>
-  <p>学校ICTの「今」と「基本」をつなぐ情報・学習サイト</p>
+  <strong>ICT RADAR</strong><p>学校ICTの「今」と「基本」をつなぐ情報・学習サイト</p>
   <p class="small">掲載情報は学習・情報整理を目的としています。制度や運用の判断では、必ず最新の一次情報と所属組織のルールを確認してください。</p>
 </footer>
 <script src="app.js"></script>
