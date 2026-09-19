@@ -1,8 +1,29 @@
 {
-  "last_run": "",
+  "last_run": "2026-09-19T22:01:59.536067+00:00",
   "sources": [
-    {"id":"mext-school-network","name":"文部科学省 学校のネットワーク環境整備","url":"https://www.mext.go.jp/a_menu/shotou/zyouhou/detail/mext_02734.html","hash":"","changed":false,"changed_at":""},
-    {"id":"ietf-dhcpv6","name":"IETF RFC 9915","url":"https://datatracker.ietf.org/doc/rfc9915/","hash":"","changed":false,"changed_at":""},
-    {"id":"ietf-dns-bcp","name":"IETF RFC 10001","url":"https://datatracker.ietf.org/doc/rfc10001/","hash":"","changed":false,"changed_at":""}
+    {
+      "id": "mext-school-network",
+      "name": "文部科学省 学校のネットワーク環境整備",
+      "url": "https://www.mext.go.jp/a_menu/shotou/zyouhou/detail/mext_02734.html",
+      "hash": "94d8cf590c823bb7467babc8b20a48364f683721462c083156d418b05bf0e93c",
+      "changed": false,
+      "changed_at": ""
+    },
+    {
+      "id": "ietf-dhcpv6",
+      "name": "IETF RFC 9915",
+      "url": "https://datatracker.ietf.org/doc/rfc9915/",
+      "hash": "2e04ee9439eec9d4e0a9ade23e87e8d58f5c1308218c3352e479e26f8f343881",
+      "changed": false,
+      "changed_at": ""
+    },
+    {
+      "id": "ietf-dns-bcp",
+      "name": "IETF RFC 10001",
+      "url": "https://datatracker.ietf.org/doc/rfc10001/",
+      "hash": "dccd3d62433c10e9c729b6ce385227fb9e20a26a22bd5495c86b5b8a659939bc",
+      "changed": false,
+      "changed_at": ""
+    }
   ]
 }
