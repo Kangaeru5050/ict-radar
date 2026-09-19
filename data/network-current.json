@@ -1,0 +1,50 @@
+{
+  "last_reviewed": "2026-09-20",
+  "review_policy": "基礎知識とCURRENTを分離。CURRENTは一次情報を確認して更新する。",
+  "items": [
+    {
+      "label": "学校ネットワーク",
+      "title": "文科省の最新掲載では、必要なネットワーク速度を確保済みの学校は63.9%",
+      "body": "令和8年3月公表、調査時点は令和7年12月1日。公立学校31,818校のうち20,318校が「必要なネットワーク速度」を確保済みとされています。前回調査から約40ポイント上昇しています。",
+      "source_name": "文部科学省「学校のネットワークの状況について（令和8年3月）」",
+      "source_url": "https://www.mext.go.jp/content/20260331-mxt_shuukyo01-000035663_003.pdf.pdf",
+      "checked": "2026-09-20"
+    },
+    {
+      "label": "学校ネットワーク",
+      "title": "ネットワークアセスメント実施済みの設置者は71.6%",
+      "body": "令和7年12月1日時点。文科省資料では、一部の学校のみ実施した設置者を含め1,299設置者が実施済みです。速度だけでなく、校内機器・設定・配線・通信契約など原因箇所を切り分ける考え方が重要です。",
+      "source_name": "文部科学省「学校のネットワークの状況について（令和8年3月）」",
+      "source_url": "https://www.mext.go.jp/content/20260331-mxt_shuukyo01-000035663_003.pdf.pdf",
+      "checked": "2026-09-20"
+    },
+    {
+      "label": "標準",
+      "title": "DHCPv6の現行Internet StandardはRFC 9915",
+      "body": "2026年1月公開。RFC 8415を置き換えました。基礎学習では「DHCPはネットワーク設定を提供する仕組み」という概念を押さえ、規格番号やIPv6固有の詳細はCURRENTとして分けて扱います。",
+      "source_name": "IETF RFC 9915",
+      "source_url": "https://datatracker.ietf.org/doc/rfc9915/",
+      "checked": "2026-09-20"
+    },
+    {
+      "label": "標準",
+      "title": "DNSのIPv4/IPv6混在環境に関するBCPが2026年8月に更新",
+      "body": "RFC 10001は、権威DNSサーバーと再帰リゾルバーの双方がIPv4とIPv6をサポートすることを推奨しています。DNSの基本概念は変わりませんが、運用上のベストプラクティスは更新されます。",
+      "source_name": "IETF RFC 10001 / BCP 91",
+      "source_url": "https://datatracker.ietf.org/doc/rfc10001/",
+      "checked": "2026-09-20"
+    }
+  ],
+  "watch_sources": [
+    {
+      "name": "文部科学省 学校のネットワーク環境整備",
+      "url": "https://www.mext.go.jp/a_menu/shotou/zyouhou/detail/mext_02734.html",
+      "role": "学校ネットワークのガイドブック・調査・施策"
+    },
+    {
+      "name": "IETF Datatracker",
+      "url": "https://datatracker.ietf.org/",
+      "role": "インターネット標準・BCPの更新"
+    }
+  ]
+}
