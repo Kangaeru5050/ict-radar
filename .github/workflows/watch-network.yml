@@ -1,0 +1,36 @@
+name: Watch Network Sources
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'data/network-watch.json'
+      - 'scripts/check_network_sources.py'
+      - '.github/workflows/watch-network.yml'
+  schedule:
+    - cron: "35 21 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Check official network sources
+        run: python scripts/check_network_sources.py
+      - name: Commit source-change signal
+        run: |
+          if git diff --quiet data/network-watch.json; then
+            echo "No changes"
+            exit 0
+          fi
+          git config user.name "ict-radar-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/network-watch.json
+          git commit -m "Update network source watch"
+          git push
