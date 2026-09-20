@@ -11,7 +11,7 @@
 <header class="site-header">
   <a class="brand" href="#top" aria-label="ICT RADAR トップ"><span class="brand-mark">◉</span><span>ICT RADAR</span></a>
   <nav aria-label="メインメニュー">
-    <a href="#today">今日のICT</a><a href="#live">新着</a><a href="#quiz">今日のクイズ</a><a href="diagnosis.html">基礎体力診断</a><a href="#scene">こんなとき</a><a href="#media">メディア</a><a href="#learn">学ぶ</a>
+    <a href="#today">今日のICT</a><a href="#live">新着</a><a href="#quiz">今日のクイズ</a><a href="diagnosis.html">基礎体力診断</a><a href="#scene">場面から探す</a><a href="#learn">基礎から学ぶ</a><a href="#media">情報を探す</a>
   </nav>
 </header>
 
@@ -19,7 +19,7 @@
   <section class="hero">
     <p class="eyebrow">学校ICTの「今」と「基本」をつなぐ</p>
     <h1>知らないことに、<br>出会える。</h1>
-    <p class="lead">何を調べればいいか分からなくても大丈夫。今日の話題、1問クイズ、困った場面から、必要な知識への入口を見つけます。</p>
+    <p class="lead">何を調べればいいか分からなくても大丈夫。今日の話題、1問クイズ、やりたいことや困りごとから、必要な知識への入口を見つけます。</p>
     <div class="hero-actions"><a class="button primary" href="#quiz">今日の1問をやる</a><a class="button" href="diagnosis.html">ICT基礎体力診断</a><a class="button" href="#today">今日のICTを見る</a></div>
   </section>
 
@@ -28,7 +28,7 @@
     <p class="section-intro">「全部読む」ではなく、まず変化に気づくための入口です。下の「新着レーダー」では、登録した参考メディアからICT関連語を含む新着を自動収集します。</p>
     <div class="cards">
       <article class="card"><div class="meta"><span class="tag current">CURRENT</span><span>制度・政策</span></div><h3>「決まったこと」と「検討中」を分けて読む</h3><p>諮問、WG、論点整理、答申、告示。行政情報は段階を見分けるだけで読み違いが減ります。</p><a href="#learn">基礎を確認する →</a></article>
-      <article class="card"><div class="meta"><span class="tag foundation">FOUNDATION</span><span>ネットワーク</span></div><h3>「Wi-Fiにつながる」と「使える」は別</h3><p>接続、IP、DNS、HTTPS、認証、認可。現象を順番に切り分けるための基本です。</p><a href="#scene">場面から確認する →</a></article>
+      <article class="card"><div class="meta"><span class="tag foundation">FOUNDATION</span><span>ネットワーク</span></div><h3>「Wi-Fiにつながる」と「使える」は別</h3><p>接続、IP、DNS、HTTPS、認証、認可。現象を順番に切り分けるための基本です。</p><a href="#scene">場面から探す →</a></article>
       <article class="card"><div class="meta"><span class="tag current">CURRENT</span><span>情報収集</span></div><h3>同じ知らない言葉を何度も見たら調べる</h3><p>ニュースは答えではなく「次に調べる言葉」を見つけるレーダーとして使います。</p><a href="#media">参考メディアを見る →</a></article>
     </div>
   </section>
@@ -52,15 +52,15 @@
   </section>
 
   <section id="scene" class="section">
-    <div class="section-head"><div><p class="eyebrow">SCENE</p><h2>こんなとき、どうする？</h2></div></div>
-    <p class="section-intro">用語を知らなくても、起きていることから入れます。</p>
+    <div class="section-head"><div><p class="eyebrow">START FROM A SCENE</p><h2>場面から探す</h2></div></div>
+    <p class="section-intro">用語が分からなくても大丈夫です。今やりたいこと・困っていることに近い場面を選ぶと、確認する順番と学ぶ基礎が見つかります。</p>
     <div class="scene-grid">
       <button class="scene-card" data-scene="wifi"><strong>Wi-Fiにつながらない</strong><span>どこから切り分ける？</span></button>
       <button class="scene-card" data-scene="app"><strong>新しいアプリを使いたい</strong><span>何を確認すればいい？</span></button>
       <button class="scene-card" data-scene="ai"><strong>生成AIを授業で使いたい</strong><span>「使える」と「使ってよい」を分ける</span></button>
       <button class="scene-card" data-scene="account"><strong>新年度になった</strong><span>アカウント・権限・端末を確認</span></button>
       <button class="scene-card" data-scene="photo"><strong>子どもの写真を扱いたい</strong><span>公開前に何を見る？</span></button>
-      <button class="scene-card" data-scene="unknown"><strong>何から勉強すればいい？</strong><span>まず基礎の地図を見る</span></button>
+      <button class="scene-card" data-scene="unknown"><strong>ICT担当になった・基礎から学びたい</strong><span>6つの基礎を薄く一周する</span></button>
     </div>
     <div id="sceneAnswer" class="scene-answer" hidden></div>
   </section>
@@ -101,14 +101,15 @@
   </section>
 
   <section id="learn" class="section">
-    <div class="section-head"><div><p class="eyebrow">LEARN</p><h2>もっと知りたい</h2></div></div>
+    <div class="section-head"><div><p class="eyebrow">BASIC FITNESS</p><h2>基礎から学ぶ</h2></div></div>
+    <p class="section-intro">全部を一度に覚える必要はありません。まず6領域の「地図」を持ち、今日のクイズや12問診断で曖昧だったところへ戻ります。</p>
     <div class="learn-grid">
-      <a class="learn-link" href="network.html"><article><span>01</span><h3>ネットワーク</h3><p>IP / DHCP / DNS / Wi-Fi / HTTPS</p><b>基礎体力トレーニング →</b></article></a>
-      <a class="learn-link" href="security.html"><article><span>02</span><h3>セキュリティ</h3><p>認証 / 認可 / MFA / 脅威 / インシデント対応</p><b>基礎体力トレーニング →</b></article></a>
-      <article><span>03</span><h3>アカウント</h3><p>作成 / 権限 / 年度更新 / 廃止</p></article>
-      <article><span>04</span><h3>個人情報</h3><p>取得 / 保存 / 共有 / 外部送信</p></article>
-      <article><span>05</span><h3>著作権</h3><p>35条 / 引用 / 公衆送信 / AI</p></article>
-      <article><span>06</span><h3>教育政策</h3><p>GIGA / 校務DX / 学習指導要領</p></article>
+      <a class="learn-link" href="network.html"><article><span>01</span><h3>ネットワーク</h3><p>IP / DHCP / DNS / Wi-Fi / 切り分け</p><b>学ぶ →</b></article></a>
+      <a class="learn-link" href="security.html"><article><span>02</span><h3>セキュリティ</h3><p>認証 / 認可 / MFA / 脅威 / HANDOFF</p><b>学ぶ →</b></article></a>
+      <a class="learn-link" href="account.html"><article><span>03</span><h3>アカウント・クラウド</h3><p>作成 / 権限 / 年度更新 / 廃止 / SSO</p><b>学ぶ →</b></article></a>
+      <a class="learn-link" href="privacy.html"><article><span>04</span><h3>個人情報・教育データ</h3><p>目的 / 最小化 / 共有 / 外部送信 / 削除</p><b>学ぶ →</b></article></a>
+      <a class="learn-link" href="copyright.html"><article><span>05</span><h3>著作権</h3><p>35条 / 引用 / 公衆送信 / AI / 公開</p><b>学ぶ →</b></article></a>
+      <a class="learn-link" href="policy.html"><article><span>06</span><h3>教育ICT・一次情報</h3><p>学習指導要領 / 政策形成 / 統計 / 生成AI</p><b>学ぶ →</b></article></a>
     </div>
   </section>
 
