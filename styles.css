@@ -104,3 +104,26 @@
 .example-thinking b{display:block;color:var(--ink);font-size:10px}
 @media(max-width:900px){.network-roles{grid-template-columns:repeat(2,1fr)}}
 @media(max-width:600px){.network-roles{grid-template-columns:1fr}.network-roles article{padding:17px}.network-example{grid-template-columns:1fr}.checkpoint-line{margin-right:-22px;padding-right:22px}}
+
+
+/* Beginner bridge: roles -> one familiar scene -> diagnosis */
+.beginner-story{margin:32px 0 18px;background:#fff;border:1px solid var(--line);border-radius:20px;padding:clamp(18px,3vw,28px)}
+.story-head h4{font-size:clamp(21px,2.6vw,28px);line-height:1.4;margin:3px 0 8px}
+.story-head>p:last-child{font-size:13px;color:var(--muted);max-width:820px;margin:0}
+.story-steps{display:grid;grid-template-columns:repeat(2,1fr);gap:10px;margin-top:24px}
+.story-steps article{display:grid;grid-template-columns:30px 42px 1fr;gap:10px;align-items:start;background:#f8fbf9;border:1px solid var(--line);border-radius:15px;padding:16px}
+.story-no{display:grid;place-items:center;width:28px;height:28px;border-radius:50%;background:var(--green);color:#fff;font-size:11px;font-weight:900}
+.story-icon{font-size:24px;line-height:1.2}
+.story-steps h5{font-size:15px;line-height:1.5;margin:0 0 5px}
+.story-steps p{font-size:11px;line-height:1.75;color:var(--muted);margin:0 0 9px}
+.story-steps b{display:block;font-size:9px;color:#9a4e32}
+.story-steps small{display:block;font-size:10px;line-height:1.6;color:var(--muted);margin-top:2px}
+.story-caution{display:grid;grid-template-columns:100px 1fr;gap:14px;margin-top:12px;padding:15px 17px;background:#fff7d9;border-radius:13px}
+.story-caution b{font-size:11px;color:#8a6200}.story-caution p{font-size:12px;line-height:1.8;color:#5d5847;margin:0}
+.symptom-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:9px;margin:20px 0 10px}
+.symptom-grid article{background:#fff;border:1px solid #cfdde7;border-radius:13px;padding:14px}
+.symptom-grid span{display:block;font-size:9px;font-weight:900;color:#397fb8;margin-bottom:4px}
+.symptom-grid b{display:block;font-size:13px;line-height:1.55}
+.symptom-grid p{font-size:10px;line-height:1.7;color:var(--muted);margin:6px 0 0}
+.checkpoint-caption{font-size:10px!important;color:var(--muted);margin:10px 0 0!important}
+@media(max-width:760px){.story-steps,.symptom-grid{grid-template-columns:1fr}.story-caution{grid-template-columns:1fr;gap:4px}}
