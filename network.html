@@ -111,24 +111,62 @@
       </article>
     </div>
 
-    <div class="checkpoint-guide">
-      <div>
-        <p class="eyebrow">CHECKPOINTS</p>
-        <h4>「通信の順番」ではなく、「どこまで正常か」を確かめる</h4>
-        <p>実際の通信は、DNSや認証などが単純に一直線の順番で並ぶわけではありません。切り分けでは、次のような確認ポイントとして考えると分かりやすくなります。</p>
+    <div class="beginner-story">
+      <div class="story-head">
+        <p class="eyebrow">PUT THEM TOGETHER</p>
+        <h4>登場人物は分かった。では、どうつながっている？</h4>
+        <p>たとえば、学校のタブレットでブラウザを開き、クラウド教材を使う場面を考えます。下は通信の厳密なパケット順序ではなく、<strong>「使える状態になるために、何が働いているか」</strong>を初心者向けに整理したものです。</p>
       </div>
-      <div class="checkpoint-line" aria-label="障害切り分けの確認ポイント">
-        <span>① 端末</span><i>→</i><span>② Wi-Fi / AP</span><i>→</i><span>③ IP設定</span><i>→</i><span>④ 校内LAN</span><i>→</i><span>⑤ 外への経路</span><i>→</i><span>⑥ 名前解決</span><i>→</i><span>⑦ サービス</span><i>→</i><span>⑧ 認証・権限</span>
+
+      <div class="story-steps">
+        <article>
+          <span class="story-no">1</span><span class="story-icon" aria-hidden="true">📶</span>
+          <div><h5>まず、学校のWi-Fiにつながる</h5><p>端末は近くの<strong>AP</strong>を通して、校内ネットワークに参加します。</p><b>ここで止まると</b><small>Wi-Fi自体につながらない／特定の教室だけつながりにくい</small></div>
+        </article>
+        <article>
+          <span class="story-no">2</span><span class="story-icon" aria-hidden="true">🏷️</span>
+          <div><h5>通信に必要な「自分の情報」をもらう</h5><p><strong>DHCP</strong>などから、IPアドレス・ゲートウェイ・DNSといった通信設定を受け取ります。IPアドレスは、ネットワーク上で端末を区別するための番号です。</p><b>ここで止まると</b><small>Wi-Fiマークは出ても、その先へ正しく通信できないことがある</small></div>
+        </article>
+        <article>
+          <span class="story-no">3</span><span class="story-icon" aria-hidden="true">🔎</span>
+          <div><h5>行きたいサービスの「行き先」を調べる</h5><p>人が入力したWebサイト名を、<strong>DNS</strong>が通信先のIPアドレスに対応づけます。いわば「名前から行き先を調べる」役目です。</p><b>ここで止まると</b><small>通信できる経路があっても、名前でWebサイトを開けないことがある</small></div>
+        </article>
+        <article>
+          <span class="story-no">4</span><span class="story-icon" aria-hidden="true">🚪</span>
+          <div><h5>校内から、目的のネットワークへ進む</h5><p><strong>スイッチやLAN</strong>で校内を通り、必要に応じて<strong>ゲートウェイ／ルーター</strong>から外部や別ネットワークへ進みます。</p><b>ここで止まると</b><small>校内の一部だけ、または校外のサービスだけ使えないことがある</small></div>
+        </article>
+        <article>
+          <span class="story-no">5</span><span class="story-icon" aria-hidden="true">☁️</span>
+          <div><h5>クラウドサービスに届く</h5><p>ここまで来て、ようやく目的のWebサイトや学習アプリなどの<strong>サービス</strong>と通信できます。</p><b>ここで止まると</b><small>他のWebサイトは使えるのに、そのサービスだけ使えないことがある</small></div>
+        </article>
+        <article>
+          <span class="story-no">6</span><span class="story-icon" aria-hidden="true">🔐</span>
+          <div><h5>「あなたは誰？」「何をしてよい？」を確認する</h5><p><strong>認証</strong>で利用者を確認し、<strong>認可</strong>で利用できる機能やデータを決めます。IdP・SSO・MFAなども関係します。</p><b>ここで止まると</b><small>サイトは開くのにログインできない／ログインできても必要な機能が使えない</small></div>
+        </article>
+      </div>
+
+      <div class="story-caution">
+        <b>ここが大事</b>
+        <p>「Wi-Fiにつながった」は、1段階目が通ったという情報にすぎません。クラウド教材を使うには、その後にも複数の仕組みが働きます。だから<strong>「ネットがつながらない」を一つの故障として扱わない</strong>ことが切り分けの出発点です。</p>
       </div>
     </div>
 
-    <div class="network-example">
-      <div class="example-question"><span>たとえば</span><strong>「Wi-Fiマークは出ているのに、Webサイトが開かない」</strong></div>
-      <div class="example-thinking">
-        <p><b>分かること</b>少なくとも、端末とAPの無線接続はできている可能性があります。</p>
-        <p><b>まだ分からないこと</b>IP設定、校内LAN、外への経路、DNS、サービス側などが正常とは限りません。</p>
-        <p><b>次の一手</b>「Wi-Fiがつながっているからネットワークは正常」と決めず、どこまで正常かを一つずつ確認します。</p>
+    <div class="checkpoint-guide">
+      <div>
+        <p class="eyebrow">NOW, DIAGNOSE</p>
+        <h4>トラブルになったら、「どこまでできている？」と戻ってみる</h4>
+        <p>全部を一度に調べる必要はありません。目に見える現象から、正常だと分かるところと、まだ分からないところを分けます。</p>
       </div>
+      <div class="symptom-grid">
+        <article><span>症状 A</span><b>Wi-Fiマークが出ない</b><p>まず端末とAPの間を疑う。電波、接続先、端末側の設定などを確認する。</p></article>
+        <article><span>症状 B</span><b>Wi-Fiマークは出るがWebが開かない</b><p>APより先へ進めているかを見る。IP設定、LAN、外への経路、DNSなどはまだ未確認。</p></article>
+        <article><span>症状 C</span><b>他のWebは開くが、1つのサービスだけ開かない</b><p>インターネット全体より、サービス側・フィルタリング・経路など対象を絞って考えられる。</p></article>
+        <article><span>症状 D</span><b>ログイン画面までは開くが入れない</b><p>通信そのものより、アカウント、認証、MFA、権限などを確認する段階に近い。</p></article>
+      </div>
+      <div class="checkpoint-line" aria-label="障害切り分けで確認する範囲">
+        <span>端末</span><i>→</i><span>Wi-Fi / AP</span><i>→</i><span>IP設定</span><i>→</i><span>校内LAN</span><i>→</i><span>外への経路</span><i>→</i><span>DNS</span><i>→</i><span>サービス</span><i>→</i><span>認証・権限</span>
+      </div>
+      <p class="checkpoint-caption">この並びは「通信パケットが必ずこの順番で進む」という意味ではありません。障害時に、どの範囲まで正常かを考えるための確認地図です。</p>
     </div>
   </div>
 </section>
