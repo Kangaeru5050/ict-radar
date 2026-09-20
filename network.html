@@ -50,26 +50,92 @@
   </div>
 
   <div class="communication-map-block">
-    <p class="eyebrow">COMMUNICATION PATH</p>
-    <h3>次に、1本の通信をたどる</h3>
-    <p>Webサイトやクラウドが使えるまでには、いくつもの段階があります。「ネットがダメ」で一括りにしないことが、切り分けの出発点です。</p>
-    <div class="network-map">
-      <div><b>端末</b><span>PC / tablet</span></div><i>→</i>
-      <div><b>Wi-Fi</b><span>APへ接続</span></div><i>→</i>
-      <div><b>IP設定</b><span>DHCP等</span></div><i>→</i>
-      <div><b>校内LAN</b><span>switch / router</span></div><i>→</i>
-      <div><b>インターネット</b><span>回線 / ISP</span></div><i>→</i>
-      <div><b>DNS</b><span>名前解決</span></div><i>→</i>
-      <div><b>サービス</b><span>Web / cloud</span></div><i>→</i>
-      <div><b>認証・認可</b><span>誰？何ができる？</span></div>
+    <p class="eyebrow">MEET THE NETWORK</p>
+    <h3>次に、通信を支える「登場人物」を知る</h3>
+    <p>「AP」「DHCP」「DNS」といった言葉は、最初から覚えていなくて大丈夫です。まずは、それぞれが何をする係なのか、そこで問題が起きると何ができなくなるのかを見てみましょう。</p>
+
+    <div class="network-roles">
+      <article>
+        <span class="role-icon" aria-hidden="true">💻</span>
+        <div class="role-name"><small>START</small><h4>端末</h4><em>PC・タブレット</em></div>
+        <p><b>何をする？</b>利用者が通信を始める場所です。Wi-Fi設定やネットワーク設定を持っています。</p>
+        <p class="role-trouble"><b>ここで問題があると</b>その端末だけつながらない、という形になりやすい。</p>
+      </article>
+      <article>
+        <span class="role-icon" aria-hidden="true">📶</span>
+        <div class="role-name"><small>ENTRANCE</small><h4>AP</h4><em>アクセスポイント</em></div>
+        <p><b>何をする？</b>端末をWi-Fiで校内ネットワークへつなぐ「無線の入口」です。</p>
+        <p class="role-trouble"><b>ここで問題があると</b>Wi-Fiにつながらない、特定の教室だけ不安定、などが起こります。</p>
+      </article>
+      <article>
+        <span class="role-icon" aria-hidden="true">🏷️</span>
+        <div class="role-name"><small>SETTING</small><h4>DHCP</h4><em>通信設定を渡す仕組み</em></div>
+        <p><b>何をする？</b>IPアドレス、ゲートウェイ、DNSなど、通信に必要な設定を端末へ自動で渡します。</p>
+        <p class="role-trouble"><b>ここで問題があると</b>Wi-Fiには接続したように見えても、正しく通信できないことがあります。</p>
+      </article>
+      <article>
+        <span class="role-icon" aria-hidden="true">🔀</span>
+        <div class="role-name"><small>INSIDE SCHOOL</small><h4>スイッチ / LAN</h4><em>校内をつなぐ</em></div>
+        <p><b>何をする？</b>校内の端末やAPなどをつなぎ、LANの中で通信を中継します。</p>
+        <p class="role-trouble"><b>ここで問題があると</b>特定の教室・フロア・系統だけ通信できないことがあります。</p>
+      </article>
+      <article>
+        <span class="role-icon" aria-hidden="true">🚪</span>
+        <div class="role-name"><small>EXIT</small><h4>ルーター / ゲートウェイ</h4><em>別のネットワークへの出口</em></div>
+        <p><b>何をする？</b>校内LANから別のネットワークへ通信を渡します。</p>
+        <p class="role-trouble"><b>ここで問題があると</b>校内では通信できても、外部や別ネットワークへ進めません。</p>
+      </article>
+      <article>
+        <span class="role-icon" aria-hidden="true">🔎</span>
+        <div class="role-name"><small>FIND</small><h4>DNS</h4><em>名前から通信先を探す</em></div>
+        <p><b>何をする？</b>Webサイトなどの名前を、通信に使うIPアドレスへ結びつけます。</p>
+        <p class="role-trouble"><b>ここで問題があると</b>回線自体は動いていても、名前を使ってWebサイトを開けないことがあります。</p>
+      </article>
+      <article>
+        <span class="role-icon" aria-hidden="true">🌐</span>
+        <div class="role-name"><small>ROUTE</small><h4>インターネット / 閉域網</h4><em>通信先までの経路</em></div>
+        <p><b>何をする？</b>クラウドや教育委員会など、校外の通信先までデータを運びます。</p>
+        <p class="role-trouble"><b>ここで問題があると</b>校内ネットワークは正常でも、外のサービスへ届きません。</p>
+      </article>
+      <article>
+        <span class="role-icon" aria-hidden="true">☁️</span>
+        <div class="role-name"><small>DESTINATION</small><h4>クラウドサービス</h4><em>使いたいサービス</em></div>
+        <p><b>何をする？</b>学習アプリ、校務支援、Webサービスなど、利用者が最終的に使いたい機能を提供します。</p>
+        <p class="role-trouble"><b>ここで問題があると</b>インターネットは使えるのに、特定のサービスだけ使えないことがあります。</p>
+      </article>
+      <article>
+        <span class="role-icon" aria-hidden="true">🔐</span>
+        <div class="role-name"><small>IDENTITY &amp; PERMISSION</small><h4>IdP・認証・認可</h4><em>誰？ 何をしてよい？</em></div>
+        <p><b>何をする？</b>認証で「誰か」を確認し、認可で「何をしてよいか」を決めます。SSOやMFAもここに関係します。</p>
+        <p class="role-trouble"><b>ここで問題があると</b>サービスには届いているのにログインできない、ログイン後に必要な機能が使えないことがあります。</p>
+      </article>
     </div>
-    <div class="distinction"><b>重要な区別</b><p>Wi-Fiマークが出ている → APとは接続できている可能性がある。<br>だからといって、DNS・インターネット・クラウドサービス・認証まで正常とは限りません。</p></div>
+
+    <div class="checkpoint-guide">
+      <div>
+        <p class="eyebrow">CHECKPOINTS</p>
+        <h4>「通信の順番」ではなく、「どこまで正常か」を確かめる</h4>
+        <p>実際の通信は、DNSや認証などが単純に一直線の順番で並ぶわけではありません。切り分けでは、次のような確認ポイントとして考えると分かりやすくなります。</p>
+      </div>
+      <div class="checkpoint-line" aria-label="障害切り分けの確認ポイント">
+        <span>① 端末</span><i>→</i><span>② Wi-Fi / AP</span><i>→</i><span>③ IP設定</span><i>→</i><span>④ 校内LAN</span><i>→</i><span>⑤ 外への経路</span><i>→</i><span>⑥ 名前解決</span><i>→</i><span>⑦ サービス</span><i>→</i><span>⑧ 認証・権限</span>
+      </div>
+    </div>
+
+    <div class="network-example">
+      <div class="example-question"><span>たとえば</span><strong>「Wi-Fiマークは出ているのに、Webサイトが開かない」</strong></div>
+      <div class="example-thinking">
+        <p><b>分かること</b>少なくとも、端末とAPの無線接続はできている可能性があります。</p>
+        <p><b>まだ分からないこと</b>IP設定、校内LAN、外への経路、DNS、サービス側などが正常とは限りません。</p>
+        <p><b>次の一手</b>「Wi-Fiがつながっているからネットワークは正常」と決めず、どこまで正常かを一つずつ確認します。</p>
+      </div>
+    </div>
   </div>
 </section>
 
 <section id="foundation" class="section">
-  <div class="section-head"><div><p class="eyebrow">02 / FOUNDATION</p><h2>ここは変わりにくい基礎</h2></div><span class="tag foundation">FOUNDATION</span></div>
-  <p class="section-intro">試験のための単語集ではなく、現象を説明し、切り分けるために必要な概念です。</p>
+  <div class="section-head"><div><p class="eyebrow">02 / FOUNDATION</p><h2>用語を、もう少し正確に理解する</h2></div><span class="tag foundation">FOUNDATION</span></div>
+  <p class="section-intro">上の「登場人物」で役割をつかんだら、ここで技術用語として少し正確にします。試験のための暗記ではなく、現象を説明し、切り分けるための基礎です。</p>
   <div class="concept-grid">
     <article><span>01</span><h3>IPアドレス</h3><p>ネットワーク上で通信相手を識別するためのアドレス。IPv4とIPv6があります。</p><b>問い：この端末は通信に必要なアドレスを持っている？</b></article>
     <article><span>02</span><h3>DHCP</h3><p>IPアドレスなど、通信に必要な設定を端末へ提供する仕組み。</p><b>問い：端末は適切なネットワーク設定を受け取れた？</b></article>
