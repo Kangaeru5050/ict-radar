@@ -1,0 +1,42 @@
+{
+  "last_run": null,
+  "note": "一次情報の更新検知用。changed=true は内容確認が必要なことを示し、自動で解釈・公開内容を書き換えない。",
+  "sources": [
+    {
+      "id": "mext-security",
+      "name": "文部科学省 教育情報セキュリティポリシー",
+      "url": "https://www.mext.go.jp/a_menu/shotou/zyouhou/detail/1397369.htm",
+      "filter": "",
+      "hash": "",
+      "changed": false,
+      "changed_at": null
+    },
+    {
+      "id": "ipa-threats",
+      "name": "IPA 情報セキュリティ10大脅威",
+      "url": "https://www.ipa.go.jp/security/10threats/index.html",
+      "filter": "",
+      "hash": "",
+      "changed": false,
+      "changed_at": null
+    },
+    {
+      "id": "npa-cyber",
+      "name": "警察庁 サイバー関連発表",
+      "url": "https://www.npa.go.jp/news/release/index.html",
+      "filter": "サイバー|不正アクセス|ランサム|フィッシング|マルウェア",
+      "hash": "",
+      "changed": false,
+      "changed_at": null
+    },
+    {
+      "id": "nco-news",
+      "name": "国家サイバー統括室 新着情報",
+      "url": "https://www.cyber.go.jp/news/list",
+      "filter": "サイバー|セキュリティ|脅威|注意喚起|基準|戦略",
+      "hash": "",
+      "changed": false,
+      "changed_at": null
+    }
+  ]
+}
