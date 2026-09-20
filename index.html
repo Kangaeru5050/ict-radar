@@ -104,7 +104,7 @@
     <div class="section-head"><div><p class="eyebrow">LEARN</p><h2>もっと知りたい</h2></div></div>
     <div class="learn-grid">
       <a class="learn-link" href="network.html"><article><span>01</span><h3>ネットワーク</h3><p>IP / DHCP / DNS / Wi-Fi / HTTPS</p><b>基礎体力トレーニング →</b></article></a>
-      <article><span>02</span><h3>セキュリティ</h3><p>認証 / 認可 / MFA / ゼロトラスト</p></article>
+      <a class="learn-link" href="security.html"><article><span>02</span><h3>セキュリティ</h3><p>認証 / 認可 / MFA / 脅威 / インシデント対応</p><b>基礎体力トレーニング →</b></article></a>
       <article><span>03</span><h3>アカウント</h3><p>作成 / 権限 / 年度更新 / 廃止</p></article>
       <article><span>04</span><h3>個人情報</h3><p>取得 / 保存 / 共有 / 外部送信</p></article>
       <article><span>05</span><h3>著作権</h3><p>35条 / 引用 / 公衆送信 / AI</p></article>
@@ -115,21 +115,41 @@
   <section id="sources" class="section sources">
     <div class="section-head"><div><p class="eyebrow">PRIMARY SOURCE RADAR</p><h2>一次情報レーダー</h2></div><span class="status">確かめる場所</span></div>
     <p class="section-intro">参考メディアで言葉を見つけたら、最後は発生源へ。教育だけに閉じず、過去の出題領域や学校ICT実務で確認先になる省庁・公的機関を「何を見る場所か」で整理しています。</p>
-    <div class="source-list">
-      <a href="https://www.mext.go.jp/" target="_blank" rel="noopener"><strong>文部科学省</strong><span>教育政策・GIGA・学習指導要領・学校ICT</span></a>
-      <a href="https://www.soumu.go.jp/main_sosiki/cybersecurity/kokumin/" target="_blank" rel="noopener"><strong>総務省</strong><span>情報通信・サイバーセキュリティ・情報通信白書</span></a>
-      <a href="https://www.digital.go.jp/" target="_blank" rel="noopener"><strong>デジタル庁</strong><span>デジタル社会・教育DX・データ</span></a>
-      <a href="https://www.ipa.go.jp/security/" target="_blank" rel="noopener"><strong>IPA</strong><span>情報セキュリティ・10大脅威・技術・注意喚起</span></a>
-      <a href="https://www.npa.go.jp/bureau/cyber/" target="_blank" rel="noopener"><strong>警察庁</strong><span>サイバー犯罪・不正アクセス・脅威情勢・統計</span></a>
-      <a href="https://www.keishicho.metro.tokyo.lg.jp/kurashi/cyber/" target="_blank" rel="noopener"><strong>警視庁</strong><span>デジタルトラブル・サイバー犯罪・被害事例・相談</span></a>
-      <a href="https://www.cyber.go.jp/" target="_blank" rel="noopener"><strong>国家サイバー統括室（NCO）</strong><span>国のサイバーセキュリティ戦略・基準・注意警戒情報</span></a>
-      <a href="https://www.ppc.go.jp/" target="_blank" rel="noopener"><strong>個人情報保護委員会</strong><span>個人情報保護法・ガイドライン・漏えい対応</span></a>
-      <a href="https://www.bunka.go.jp/seisaku/chosakuken/" target="_blank" rel="noopener"><strong>文化庁</strong><span>著作権・35条・AIと著作権</span></a>
-      <a href="https://www.meti.go.jp/" target="_blank" rel="noopener"><strong>経済産業省</strong><span>DX・AI・デジタル人材・産業政策</span></a>
-      <a href="https://www.cfa.go.jp/policies/youth-kankyou/internet_use" target="_blank" rel="noopener"><strong>こども家庭庁</strong><span>青少年のインターネット利用・安全・こども政策</span></a>
-      <a href="https://www.mof.go.jp/policy/budget/" target="_blank" rel="noopener"><strong>財務省</strong><span>概算要求・政府予算・予算編成過程</span></a>
-      <a href="https://www.e-gov.go.jp/" target="_blank" rel="noopener"><strong>e-Gov</strong><span>法令検索・パブリックコメント・行政オープンデータ</span></a>
-      <a href="https://www.e-stat.go.jp/" target="_blank" rel="noopener"><strong>e-Stat</strong><span>政府統計・調査結果・元データ</span></a>
+    <div class="source-groups">
+      <section class="source-group">
+        <div class="source-group-head"><span>01</span><div><h3>教育制度・学校ICT</h3><p>学校ICTの制度、GIGA、教育DX、学習指導要領を確かめる。</p></div></div>
+        <div class="source-list">
+          <a href="https://www.mext.go.jp/" target="_blank" rel="noopener"><strong>文部科学省</strong><span>教育政策・GIGA・学習指導要領・学校ICT</span></a>
+          <a href="https://www.digital.go.jp/" target="_blank" rel="noopener"><strong>デジタル庁</strong><span>デジタル社会・教育DX・データ</span></a>
+          <a href="https://www.meti.go.jp/" target="_blank" rel="noopener"><strong>経済産業省</strong><span>DX・AI・デジタル人材・産業政策</span></a>
+          <a href="https://www.cfa.go.jp/policies/youth-kankyou/internet_use" target="_blank" rel="noopener"><strong>こども家庭庁</strong><span>青少年のインターネット利用・安全・こども政策</span></a>
+        </div>
+      </section>
+      <section class="source-group">
+        <div class="source-group-head"><span>02</span><div><h3>セキュリティ・サイバー犯罪</h3><p>対策の原則、最新の脅威、実際の犯罪・被害情勢を分けて見る。</p></div></div>
+        <div class="source-list">
+          <a href="https://www.soumu.go.jp/main_sosiki/cybersecurity/kokumin/" target="_blank" rel="noopener"><strong>総務省</strong><span>情報通信・サイバーセキュリティ・情報通信白書</span></a>
+          <a href="https://www.ipa.go.jp/security/" target="_blank" rel="noopener"><strong>IPA</strong><span>情報セキュリティ・10大脅威・技術・注意喚起</span></a>
+          <a href="https://www.npa.go.jp/bureau/cyber/" target="_blank" rel="noopener"><strong>警察庁</strong><span>サイバー犯罪・不正アクセス・脅威情勢・統計</span></a>
+          <a href="https://www.keishicho.metro.tokyo.lg.jp/kurashi/cyber/" target="_blank" rel="noopener"><strong>警視庁</strong><span>デジタルトラブル・被害事例・注意喚起・相談</span></a>
+          <a href="https://www.cyber.go.jp/" target="_blank" rel="noopener"><strong>国家サイバー統括室（NCO）</strong><span>国のサイバー戦略・基準・注意警戒情報</span></a>
+        </div>
+      </section>
+      <section class="source-group">
+        <div class="source-group-head"><span>03</span><div><h3>個人情報・著作権</h3><p>学校で扱う情報や著作物について、所管する一次情報へ戻る。</p></div></div>
+        <div class="source-list">
+          <a href="https://www.ppc.go.jp/" target="_blank" rel="noopener"><strong>個人情報保護委員会</strong><span>個人情報保護法・ガイドライン・漏えい対応</span></a>
+          <a href="https://www.bunka.go.jp/seisaku/chosakuken/" target="_blank" rel="noopener"><strong>文化庁</strong><span>著作権・35条・AIと著作権</span></a>
+        </div>
+      </section>
+      <section class="source-group">
+        <div class="source-group-head"><span>04</span><div><h3>法令・予算・統計</h3><p>ニュースの要約ではなく、法令本文、予算の段階、統計の元データを確認する。</p></div></div>
+        <div class="source-list">
+          <a href="https://www.e-gov.go.jp/" target="_blank" rel="noopener"><strong>e-Gov</strong><span>法令検索・パブリックコメント・行政オープンデータ</span></a>
+          <a href="https://www.mof.go.jp/policy/budget/" target="_blank" rel="noopener"><strong>財務省</strong><span>概算要求・政府予算・予算編成過程</span></a>
+          <a href="https://www.e-stat.go.jp/" target="_blank" rel="noopener"><strong>e-Stat</strong><span>政府統計・調査結果・元データ</span></a>
+        </div>
+      </section>
     </div>
   </section>
 </main>
