@@ -1,5 +1,5 @@
 {
-  "last_run": null,
+  "last_run": "2026-09-20T02:38:05.934487+00:00",
   "note": "一次情報の更新検知用。changed=true は内容確認が必要なことを示し、自動で解釈・公開内容を書き換えない。",
   "sources": [
     {
@@ -7,7 +7,7 @@
       "name": "文部科学省 教育情報セキュリティポリシー",
       "url": "https://www.mext.go.jp/a_menu/shotou/zyouhou/detail/1397369.htm",
       "filter": "",
-      "hash": "",
+      "hash": "1ec869fd4f6eca2c46e2a8b9523c79da31f8a6b859d975781931eee5479dc8ea",
       "changed": false,
       "changed_at": null
     },
@@ -16,7 +16,7 @@
       "name": "IPA 情報セキュリティ10大脅威",
       "url": "https://www.ipa.go.jp/security/10threats/index.html",
       "filter": "",
-      "hash": "",
+      "hash": "9e99c63c4aeb3a60a3ea1b205da9a23e1f0d68e79ff1f134afac45f8c696a339",
       "changed": false,
       "changed_at": null
     },
@@ -25,7 +25,7 @@
       "name": "警察庁 サイバー関連発表",
       "url": "https://www.npa.go.jp/news/release/index.html",
       "filter": "サイバー|不正アクセス|ランサム|フィッシング|マルウェア",
-      "hash": "",
+      "hash": "f4fc415b7ee0d929e72891c24459e0e2f2c87bd091fb5f185aa165caa59285ce",
       "changed": false,
       "changed_at": null
     },
@@ -34,7 +34,7 @@
       "name": "国家サイバー統括室 新着情報",
       "url": "https://www.cyber.go.jp/news/list",
       "filter": "サイバー|セキュリティ|脅威|注意喚起|基準|戦略",
-      "hash": "",
+      "hash": "d0faf6e10503813c907fec174e75cb5f7f16e16107e6cd6058721b9af9bb64f0",
       "changed": false,
       "changed_at": null
     }
