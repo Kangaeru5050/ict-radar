@@ -29,8 +29,8 @@
   <div class="section-head"><div><p class="eyebrow">CHOOSE</p><h2>受け方を選ぶ</h2></div><span class="status">A領域 v1.2</span></div>
   <div class="course-grid">
     <article class="course-card">
-      <span class="course-time">約5〜10分</span><h3>クイック診断</h3><strong>12問</strong>
-      <p>48問から、コンピュータ・データ、ネットワーク、セキュリティ、学校ICT実務を広くサンプリングします。</p>
+      <div class="course-badges"><span class="course-time">約5〜10分</span><span class="free-badge">無料・登録不要</span></div><h3>クイック診断</h3><strong>12問</strong>
+      <p>48問から、コンピュータ・データ、ネットワーク、セキュリティ、学校ICT実務を広くサンプリングします。正誤と確信度から、SOLID / FUZZY / GAP / MISCONCEPTIONを確認します。</p>
       <button id="startQuick" class="button primary" type="button">12問で診断する</button>
     </article>
     <article class="course-card">
@@ -39,7 +39,7 @@
       <button id="startFull" class="button" type="button">48問で診断する</button>
     </article>
   </div>
-  <p class="diagnosis-note">各問題に、迷ったこと・選んだ理由・知っていることを自由に記録できます。回答内容はこのブラウザ内だけで扱い、サーバーへ送信しません。総合診断の自動集計はQ1〜Q47を対象とし、Q48は記述・自己確認です。</p>
+  <div class="privacy-note"><b>この診断で費用・登録は発生しません</b><p>各問題に、迷ったこと・選んだ理由・知っていることを自由に記録できます。回答と自由記述はこのページ内で処理し、サーバーへ送信しません。現在、自由記述のAI解析は行いません。結果画面で本人が正答・確信度と並べて振り返るための欄です。</p></div><p class="diagnosis-note">総合診断の自動集計はQ1〜Q47を対象とし、Q48は記述・自己確認です。</p>
 </section>
 
 <section id="diagnosisRun" class="section diagnosis-run" hidden>
@@ -56,7 +56,9 @@
   <div id="resultReview"></div>
   <div class="result-actions">
     <button id="retryDiagnosis" class="button primary" type="button">もう一度受ける</button>
+    <button id="printDiagnosis" class="button" type="button">結果を印刷・PDF保存</button>
     <a class="button" href="network.html">ネットワークを学ぶ</a>
+    <a class="button" href="security.html">セキュリティを学ぶ</a>
   </div>
 </section>
 </main>
