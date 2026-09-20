@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="ICT RADAR セキュリティ基礎体力トレーニング">
+<title>セキュリティ基礎体力 | ICT RADAR</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="site-header">
+  <a class="brand" href="index.html"><span class="brand-mark">◉</span><span>ICT RADAR</span></a>
+  <nav aria-label="セキュリティ学習メニュー"><a href="#map">地図</a><a href="#foundation">基礎</a><a href="#scene">場面</a><a href="#current">最新情報</a><a href="diagnosis.html">基礎体力診断</a></nav>
+</header>
+<main>
+<section class="topic-hero">
+  <p class="eyebrow">ICT BASIC FITNESS / SECURITY</p>
+  <p class="topic-back"><a href="index.html#learn">← もっと知りたい</a></p>
+  <h1>セキュリティの<br>基礎体力</h1>
+  <p class="lead">「危ないから禁止する」ための知識ではありません。何を守るのか、何が起き得るのか、どこが弱いのか、起きたらどう続けて戻すのかを分けて考えます。</p>
+  <div class="topic-principle"><strong>最初の原則</strong><span>「できる」と「してよい」は違う。</span></div>
+</section>
+
+<section id="map" class="section">
+  <div class="section-head"><div><p class="eyebrow">01 / MAP</p><h2>セキュリティを「禁止」で覚えない</h2></div><span class="status">全体像</span></div>
+  <p class="section-intro">対策を先に暗記するのではなく、守る対象とリスクを見ます。予防だけでなく、検知・対応・復旧までがセキュリティです。</p>
+  <div class="security-map">
+    <article><span>1</span><h3>守る対象</h3><p>情報 / アカウント / 端末 / サービス / 学習・業務</p></article>
+    <i>→</i>
+    <article><span>2</span><h3>脅威</h3><p>攻撃 / 詐欺 / 紛失 / 誤操作 / 災害 / 内部不正</p></article>
+    <i>→</i>
+    <article><span>3</span><h3>弱点</h3><p>設定 / 権限 / 更新不足 / 運用 / 人 / 委託先</p></article>
+    <i>→</i>
+    <article><span>4</span><h3>影響</h3><p>漏えい / 改ざん / 停止 / なりすまし / 学習停止</p></article>
+    <i>→</i>
+    <article><span>5</span><h3>対策</h3><p>予防 / 検知 / 対応 / 復旧 / 再発防止</p></article>
+  </div>
+  <div class="distinction"><b>重要な区別</b><p>「脅威がある」ことと「事故が起きた」ことは同じではありません。脅威・脆弱性・影響を組み合わせてリスクを考え、必要な対策を選びます。</p></div>
+</section>
+
+<section id="foundation" class="section">
+  <div class="section-head"><div><p class="eyebrow">02 / FOUNDATION</p><h2>変わりにくい基礎</h2></div><span class="tag foundation">FOUNDATION</span></div>
+  <p class="section-intro">用語を言えるだけでなく、学校の場面で区別して使えることを目標にします。</p>
+  <div class="concept-grid security-concepts">
+    <article><span>01</span><h3>機密性・完全性・可用性</h3><p>見てよい人だけが見られる、正しい状態が保たれる、必要なとき使える。情報セキュリティの基本3要素です。</p><b>問い：守りたいのは秘密だけ？</b></article>
+    <article><span>02</span><h3>脅威・脆弱性・リスク</h3><p>起こり得る脅威と、悪用され得る弱点、起きた場合の影響を分けて考えます。</p><b>問い：対策の前に何を見積もる？</b></article>
+    <article><span>03</span><h3>認証と認可</h3><p>認証は「誰か」を確かめ、認可は「何をしてよいか」を決めます。ログイン成功と利用許可は別です。</p><b>問い：入れた＝使ってよい？</b></article>
+    <article><span>04</span><h3>MFA</h3><p>異なる種類の認証要素を組み合わせ、パスワードだけに依存しない認証を行います。</p><b>問い：パスワードを2回入れればMFA？</b></article>
+    <article><span>05</span><h3>最小権限</h3><p>役割に必要な範囲だけ権限を与えます。管理者権限を常用しないことも重要です。</p><b>問い：便利だから全員管理者でよい？</b></article>
+    <article><span>06</span><h3>更新と脆弱性</h3><p>OS・アプリ・機器・サービスの脆弱性情報を把握し、影響と手順を確認して更新します。</p><b>問い：更新しないリスクと、更新するリスクを見た？</b></article>
+    <article><span>07</span><h3>バックアップ</h3><p>同期とは別物です。削除や暗号化まで同期される場合があるため、復旧できる別のコピーと手順を考えます。</p><b>問い：本当に戻せる？</b></article>
+    <article><span>08</span><h3>暗号化</h3><p>保存中・通信中の情報を保護する重要な手段ですが、正当な利用者の誤操作や過剰権限まで自動で防ぐものではありません。</p><b>問い：暗号化だけで十分？</b></article>
+    <article><span>09</span><h3>ログ</h3><p>いつ、誰が、何をしたかを確認する手掛かり。取得するだけでなく、保存・監視・確認の設計が必要です。</p><b>問い：異常に気づける記録になっている？</b></article>
+    <article><span>10</span><h3>フィッシングとソーシャルエンジニアリング</h3><p>人の判断や心理を利用して、認証情報や金銭、操作を引き出す手口があります。</p><b>問い：技術対策だけで止められる？</b></article>
+    <article><span>11</span><h3>マルウェア・ランサムウェア</h3><p>不正なプログラムや、データ・システムを利用不能にして要求を行う攻撃を、感染経路・権限・横展開・復旧まで含めて考えます。</p><b>問い：感染端末1台だけを見ればよい？</b></article>
+    <article><span>12</span><h3>インシデント対応</h3><p>発見したら、勝手に消すより先に、報告経路・影響範囲・証拠保全・封じ込め・復旧を組織の手順に沿って進めます。</p><b>問い：自分で直す前に誰へつなぐ？</b></article>
+  </div>
+</section>
+
+<section id="scene" class="section">
+  <div class="section-head"><div><p class="eyebrow">03 / SCHOOL SCENES</p><h2>学校では、場面で判断する</h2></div><span class="status">MODEL → JUDGE</span></div>
+  <div class="scene-security-grid">
+    <article><span>SCENE 01</span><h3>新しいWebサービスを使いたい</h3><p>アカウント登録、要求権限、年齢条件、規約・プライバシー、入力・保存・外部送信する情報、学校の承認手続を分けて確認します。</p></article>
+    <article><span>SCENE 02</span><h3>端末を紛失した</h3><p>探すことだけに集中せず、端末・アカウント・保存情報・ログイン状態・遠隔制御の可否を確認し、定められた連絡先へ速やかに報告します。</p></article>
+    <article><span>SCENE 03</span><h3>怪しいメールを開いた</h3><p>責めるより、何を開いたか・入力したか・実行したかを確認。影響拡大を防ぎ、組織のインシデント対応へ接続します。</p></article>
+    <article><span>SCENE 04</span><h3>共有アカウントを使っている</h3><p>便利さだけでなく、誰が操作したか追跡できるか、権限が過大でないか、異動・退職時に整理できるかを見ます。</p></article>
+    <article><span>SCENE 05</span><h3>生成AIへ入力したい</h3><p>教育版かどうかだけで決めず、入力データ、保存・学習利用、契約・規約、個人情報・著作物、組織ルールを確認します。</p></article>
+    <article><span>SCENE 06</span><h3>「設定を変えれば直りそう」</h3><p>技術的に変更できても、変更権限・手順・影響範囲・戻し方・記録・HANDOFF先を確認してからACTします。</p></article>
+  </div>
+  <div class="authority-box"><p class="eyebrow">BEFORE ACT</p><h3>CAN と MAY を分ける。</h3><p>「技術的にできるか」と「この環境で自分が変更してよいか」は別です。学校ICTでは、セキュリティ知識と権限境界の理解をセットで扱います。</p></div>
+</section>
+
+<section id="current" class="section">
+  <div class="section-head"><div><p class="eyebrow">04 / CURRENT WATCH</p><h2>セキュリティの「今」</h2></div><span class="tag current">CURRENT</span></div>
+  <p class="section-intro">脅威の手口、国の方針、学校向けガイドラインは更新されます。FOUNDATIONと混ぜず、一次情報の確認日と状態を表示します。</p>
+  <div id="securityCurrentMeta" class="radar-meta">確認情報を読み込んでいます…</div>
+  <div id="securityCurrent" class="current-grid"></div>
+  <div class="update-policy"><h3>更新ルール</h3><p><b>FOUNDATION</b> は原理を維持。<b>CURRENT</b> は文部科学省、総務省、IPA、警察庁、国家サイバー統括室等を確認します。新しい脅威名を暗記するのではなく、「何が変わったか」「学校の運用に何が関係するか」を確認して更新します。</p></div>
+</section>
+
+<section class="section">
+  <div class="section-head"><div><p class="eyebrow">05 / CHECK</p><h2>基礎体力チェック</h2></div></div>
+  <div class="distinction"><b>このページを読んだら</b><p>「怪しいメールのリンクを押して、学校アカウントのIDとパスワードを入力してしまった」と相談されたとき、本人を責めたり自分だけで直したりせず、何を確認し、誰へつなぎ、学習・業務をどう継続するか説明できるか確かめてみてください。</p><a class="button primary" href="diagnosis.html">ICT基礎体力診断へ →</a></div>
+</section>
+</main>
+<footer><strong>ICT RADAR</strong><p>ICT基礎体力トレーニング / セキュリティ</p><p class="small">基礎知識と更新情報を分離し、CURRENTは一次情報を確認して掲載します。所属組織のポリシー・手順がある場合はそれを優先してください。</p></footer>
+<script src="security.js"></script>
+</body></html>
