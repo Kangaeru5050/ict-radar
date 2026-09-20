@@ -9,7 +9,7 @@
 <body>
 <header class="site-header">
   <a class="brand" href="index.html"><span class="brand-mark">◉</span><span>ICT RADAR</span></a>
-  <nav aria-label="ネットワーク学習メニュー"><a href="#map">地図</a><a href="#foundation">基礎</a><a href="#diagnose">切り分け</a><a href="#current">最新情報</a><a href="index.html#quiz">今日のクイズ</a></nav>
+  <nav aria-label="ネットワーク学習メニュー"><a href="#map">地図</a><a href="#foundation">基礎</a><a href="#levels">4段階</a><a href="#diagnose">切り分け</a><a href="#current">最新情報</a><a href="diagnosis.html">12問診断</a></nav>
 </header>
 <main>
 <section class="topic-hero">
@@ -51,8 +51,19 @@
   </div>
 </section>
 
+<section id="levels" class="section security-levels">
+  <div class="section-head"><div><p class="eyebrow">03 / TRAINING LADDER</p><h2>用語から、切り分けへ</h2></div><span class="status">KNOW → HANDOFF</span></div>
+  <p class="section-intro">ネットワークは用語暗記だけでは現場で使えません。「分かる」から「原因範囲を絞り、適切につなぐ」までを4段階で見ます。</p>
+  <div class="level-ladder">
+    <article><div class="level-no">Lv1</div><div><p class="eyebrow">KNOW</p><h3>知っている</h3><p>IP、DHCP、DNS、AP、ルーター等の役割を説明できる。</p></div><div class="level-check"><b>例</b><span>DNSは何をする？ DHCPは端末へ何を渡す？</span></div></article>
+    <article><div class="level-no">Lv2</div><div><p class="eyebrow">DISTINGUISH</p><h3>区別できる</h3><p>似た状態や機器の役割を一括りにしない。</p></div><div class="level-check"><b>例</b><span>Wi-Fi≠インターネット、AP≠ルーター、帯域≠遅延、DNS障害≠通信断。</span></div></article>
+    <article><div class="level-no">Lv3</div><div><p class="eyebrow">DIAGNOSE</p><h3>切り分けられる</h3><p>正常・異常を比較し、端末・無線・LAN・DNS・サービス等のどこまで正常かを絞る。</p></div><div class="level-check"><b>例</b><span>「誰に・どこで・何が・いつから」を集め、一つずつ条件を変えて確認する。</span></div></article>
+    <article><div class="level-no">Lv4</div><div><p class="eyebrow">SUPPORT / HANDOFF</p><h3>学習を止めずにつなげる</h3><p>権限境界を守り、確認済み情報と再現条件をそろえて担当者へ渡す。</p></div><div class="level-check"><b>例</b><span>勝手に設定変更せず、代替手段・影響範囲・端末情報・時刻・ログ等を整理する。</span></div></article>
+  </div>
+</section>
+
 <section id="diagnose" class="section">
-  <div class="section-head"><div><p class="eyebrow">03 / DIAGNOSE</p><h2>「ネットが遅い」を分解する</h2></div><span class="status">学校ICTの実践</span></div>
+  <div class="section-head"><div><p class="eyebrow">04 / DIAGNOSE</p><h2>「ネットが遅い」を分解する</h2></div><span class="status">学校ICTの実践</span></div>
   <p class="section-intro">いきなり設定を変えるのではなく、観察して影響範囲を絞ります。</p>
   <div class="diagnose-flow">
     <article><span>1</span><h3>誰に？</h3><p>自分だけ / 複数人 / 全員</p></article>
@@ -64,7 +75,7 @@
 </section>
 
 <section id="current" class="section">
-  <div class="section-head"><div><p class="eyebrow">04 / CURRENT WATCH</p><h2>ネットワークの「今」</h2></div><span class="tag current">CURRENT</span></div>
+  <div class="section-head"><div><p class="eyebrow">05 / CURRENT WATCH</p><h2>ネットワークの「今」</h2></div><span class="tag current">CURRENT</span></div>
   <p class="section-intro">規格、国の調査、学校向けの整備指針は変わります。ここは基礎知識と混ぜず、一次情報を確認して更新します。</p>
   <div id="networkCurrentMeta" class="radar-meta">確認情報を読み込んでいます…</div>
   <div id="networkCurrent" class="current-grid"></div>
@@ -75,8 +86,8 @@
 </section>
 
 <section class="section">
-  <div class="section-head"><div><p class="eyebrow">05 / CHECK</p><h2>基礎体力チェック</h2></div></div>
-  <div class="distinction"><b>このページを読んだら</b><p>IP・DHCP・DNSを説明できるかではなく、「Wi-FiはつながるのにWebが開かない」と言われたとき、何を順番に確認するかを自分の言葉で言えるか確かめてみてください。</p><a class="button primary" href="index.html#quiz">今日のクイズへ →</a></div>
+  <div class="section-head"><div><p class="eyebrow">06 / CHECK</p><h2>基礎体力チェック</h2></div></div>
+  <div class="distinction"><b>このページを読んだら</b><p>IP・DHCP・DNSを説明できるかではなく、「Wi-FiはつながるのにWebが開かない」と言われたとき、何を順番に確認するかを自分の言葉で言えるか確かめてみてください。</p><a class="button primary" href="diagnosis.html">12問診断へ →</a></div>
 </section>
 </main>
 <footer><strong>ICT RADAR</strong><p>ICT基礎体力トレーニング / ネットワーク</p><p class="small">基礎知識と更新情報を分離し、CURRENTは一次情報を確認して掲載します。</p></footer>
