@@ -1,5 +1,261 @@
 {
-  "generated_at": "2026-09-20T11:24:10.520129+00:00",
+  "generated_at": "2026-09-20T13:25:47.910932+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
-  "items": []
+  "collection": {
+    "successful_sources": 4,
+    "failed_sources": 0
+  },
+  "items": [
+    {
+      "title": "愛知県蟹江町、全小中学校で日本語学習ICT教材「すらら にほんご」を導入。外国ルーツの子供を支援",
+      "url": "https://www.kknews.co.jp/news/20260920o04",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-09-20T01:00:57+00:00",
+      "keywords": [
+        "ICT"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "長崎県立大生がニーズウェルで生成AIインターン データ分析やコード生成を体験",
+      "url": "https://www.kknews.co.jp/news/20260920o01",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-09-20T01:00:56+00:00",
+      "keywords": [
+        "生成AI",
+        "AI",
+        "データ"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "東京都、AIを学べるコンテンツの提供を開始　初心者向けテキスト「便利に使おう編」「安全に使おう編」公開",
+      "url": "https://www.kknews.co.jp/news/20260920o02",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-09-20T01:00:55+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "学びのユニバーサルデザインとAIで拓く子供主役の学び　10/10に渋谷でシンポジウムを開催〜みんなのコード",
+      "url": "https://www.kknews.co.jp/news/20260919o01",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-09-19T01:00:19+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "西大和学園高校でGemini研修を実施、アンドドットがDXハイスクール校を支援",
+      "url": "https://edu.watch.impress.co.jp/docs/news/event/2142074.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-09-18T03:03:00+00:00",
+      "keywords": [
+        "DX"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "【10/13 Zoom】大学DXセミナー：東北大学「データとAIで進化する大学」",
+      "url": "https://reseed.resemom.jp/article/2026/09/18/14154.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-09-18T01:15:03+00:00",
+      "keywords": [
+        "AI",
+        "DX",
+        "データ"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "岡山理科大学、Google Gemini公式noteが同学「スポーツ×生成AI」の取り組みを前後編で紹介",
+      "url": "https://ict-enews.net/2026/09/18ous/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-09-18T00:47:03+00:00",
+      "keywords": [
+        "生成AI",
+        "AI",
+        "Google"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "八ヶ岳農業大学校、「AI副校長」のサポートで学生・職員が育てた高原野菜を直売所で販売中",
+      "url": "https://ict-enews.net/2026/09/18yatsunou/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-09-18T00:46:54+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "立命館大学、文科省「大学・高専機能強化支援事業（成長分野転換基金）」に採択",
+      "url": "https://ict-enews.net/2026/09/18ritsumei-4/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-09-18T00:45:48+00:00",
+      "keywords": [
+        "文科省"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "エクシード、AI時代の学びを届けるための体験教材3種を試作　モニター教室募集",
+      "url": "https://ict-enews.net/2026/09/18tfe-2/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-09-18T00:44:56+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "CBTS、大雨で中止された国家試験を3日後にCBT試験へ切り替え",
+      "url": "https://ict-enews.net/2026/09/18cbts/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-09-18T00:43:38+00:00",
+      "keywords": [
+        "CBT"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "「AIとの対話だけで終わらせない」、デザインプロンプトで考える力を育てる相模原市立中野中学校の学び",
+      "url": "https://edu.watch.impress.co.jp/docs/report/2135740.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-09-17T21:30:00+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "保護者の66％が生成AIを利用、自由研究で子供にすすめたのは9％　いこーよファミリーラボ調べ",
+      "url": "https://edu.watch.impress.co.jp/docs/news/2141528.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-09-17T08:00:00+00:00",
+      "keywords": [
+        "生成AI",
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "Wi-Fi 7でNEXT GIGAを支援、フルノシステムズがEDIX大阪で実機展示",
+      "url": "https://edu.watch.impress.co.jp/docs/news/2141480.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-09-16T21:30:00+00:00",
+      "keywords": [
+        "GIGA"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "文科省、選考採用＜冬＞公表…10局等で職務経験者を募集",
+      "url": "https://reseed.resemom.jp/article/2026/09/16/14142.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-09-16T04:15:02+00:00",
+      "keywords": [
+        "文科省"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "「日本ICT教育アワード」地方自治体の事例募集、10/30まで",
+      "url": "https://reseed.resemom.jp/article/2026/09/16/14141.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-09-16T03:45:02+00:00",
+      "keywords": [
+        "ICT"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "文科省、国立教育政策研究所の学力調査専門職を募集…10/6まで",
+      "url": "https://reseed.resemom.jp/article/2026/09/16/14140.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-09-16T02:45:03+00:00",
+      "keywords": [
+        "文科省"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "問題を撮るとAIがヒントを提示、中高生向け「Knock」がEDIX大阪に出展",
+      "url": "https://edu.watch.impress.co.jp/docs/news/2141207.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-09-15T23:30:00+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "文科省、高校教育改革の先導校60校・機関を追加採択…5県で初採択",
+      "url": "https://reseed.resemom.jp/article/2026/09/15/14135.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-09-15T07:15:03+00:00",
+      "keywords": [
+        "文科省"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "インヴェンティットがEDIX大阪に出展、学校のセキュリティを「防ぐ・統制・記録」で支援",
+      "url": "https://edu.watch.impress.co.jp/docs/news/2141007.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-09-15T05:00:00+00:00",
+      "keywords": [
+        "セキュリティ"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "文科省、MEXCBT運用改善へ情報提供依頼…9/28まで",
+      "url": "https://reseed.resemom.jp/article/2026/09/15/14133.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-09-15T04:45:03+00:00",
+      "keywords": [
+        "文科省",
+        "CBT",
+        "MEXCBT"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "AIで「子供に合う教材」を形に、特別支援教員向け無料講座を仙台・東京・宮崎で開催",
+      "url": "https://edu.watch.impress.co.jp/docs/news/event/2140940.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-09-15T03:03:00+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    }
+  ]
 }
