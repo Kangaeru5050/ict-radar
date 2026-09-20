@@ -9,7 +9,7 @@
 <body>
 <header class="site-header">
   <a class="brand" href="index.html"><span class="brand-mark">◉</span><span>ICT RADAR</span></a>
-  <nav aria-label="セキュリティ学習メニュー"><a href="#map">地図</a><a href="#foundation">基礎</a><a href="#scene">場面</a><a href="#current">最新情報</a><a href="diagnosis.html">基礎体力診断</a></nav>
+  <nav aria-label="セキュリティ学習メニュー"><a href="#map">地図</a><a href="#foundation">基礎</a><a href="#levels">4段階</a><a href="#scene">場面</a><a href="#current">最新情報</a><a href="diagnosis.html">基礎体力診断</a></nav>
 </header>
 <main>
 <section class="topic-hero">
@@ -56,8 +56,35 @@
   </div>
 </section>
 
+<section id="levels" class="section security-levels">
+  <div class="section-head"><div><p class="eyebrow">03 / TRAINING LADDER</p><h2>「知っている」で終わらせない</h2></div><span class="status">KNOW → HANDOFF</span></div>
+  <p class="section-intro">同じ知識でも、用語を知っていることと、現場で使えることは別です。セキュリティの基礎体力を4段階で確認します。</p>
+  <div class="level-ladder">
+    <article>
+      <div class="level-no">Lv1</div><div><p class="eyebrow">KNOW</p><h3>知っている</h3><p>用語の意味を、自分の言葉で説明できる。</p></div>
+      <div class="level-check"><b>例</b><span>認証と認可とは何か。MFAとは何か。CIAの3要素は何か。</span></div>
+    </article>
+    <article>
+      <div class="level-no">Lv2</div><div><p class="eyebrow">DISTINGUISH</p><h3>区別できる</h3><p>似た言葉や、混同しやすい状態を分けられる。</p></div>
+      <div class="level-check"><b>例</b><span>認証≠認可、同期≠バックアップ、HTTPS≠利用許可、脅威≠インシデント。</span></div>
+    </article>
+    <article>
+      <div class="level-no">Lv3</div><div><p class="eyebrow">JUDGE</p><h3>場面で判断できる</h3><p>具体的な学校場面で、何を確認し、何を優先するか選べる。</p></div>
+      <div class="level-check"><b>例</b><span>新しいWebサービス、端末紛失、フィッシング、生成AI入力で確認事項を挙げられる。</span></div>
+    </article>
+    <article>
+      <div class="level-no">Lv4</div><div><p class="eyebrow">SUPPORT / HANDOFF</p><h3>安全につなげられる</h3><p>自分の権限境界を理解し、必要な情報をそろえて適切な相手へ渡せる。</p></div>
+      <div class="level-check"><b>例</b><span>「自分で直す」だけでなく、記録・報告・封じ込め・学習継続・復旧まで考える。</span></div>
+    </article>
+  </div>
+  <div class="transfer-box">
+    <div><span>用語問題に正解</span><b>≠</b><span>現場で使える</span></div>
+    <p>基礎体力診断でSOLIDでも、別の場面で説明・判断・HANDOFFできるかまで確認すると、知識の「転移」が見えます。</p>
+  </div>
+</section>
+
 <section id="scene" class="section">
-  <div class="section-head"><div><p class="eyebrow">03 / SCHOOL SCENES</p><h2>学校では、場面で判断する</h2></div><span class="status">MODEL → JUDGE</span></div>
+  <div class="section-head"><div><p class="eyebrow">04 / SCHOOL SCENES</p><h2>学校では、場面で判断する</h2></div><span class="status">MODEL → JUDGE</span></div>
   <div class="scene-security-grid">
     <article><span>SCENE 01</span><h3>新しいWebサービスを使いたい</h3><p>アカウント登録、要求権限、年齢条件、規約・プライバシー、入力・保存・外部送信する情報、学校の承認手続を分けて確認します。</p></article>
     <article><span>SCENE 02</span><h3>端末を紛失した</h3><p>探すことだけに集中せず、端末・アカウント・保存情報・ログイン状態・遠隔制御の可否を確認し、定められた連絡先へ速やかに報告します。</p></article>
@@ -70,7 +97,7 @@
 </section>
 
 <section id="current" class="section">
-  <div class="section-head"><div><p class="eyebrow">04 / CURRENT WATCH</p><h2>セキュリティの「今」</h2></div><span class="tag current">CURRENT</span></div>
+  <div class="section-head"><div><p class="eyebrow">05 / CURRENT WATCH</p><h2>セキュリティの「今」</h2></div><span class="tag current">CURRENT</span></div>
   <p class="section-intro">脅威の手口、国の方針、学校向けガイドラインは更新されます。FOUNDATIONと混ぜず、一次情報の確認日と状態を表示します。</p>
   <div id="securityCurrentMeta" class="radar-meta">確認情報を読み込んでいます…</div>
   <div id="securityCurrent" class="current-grid"></div>
@@ -78,7 +105,7 @@
 </section>
 
 <section class="section">
-  <div class="section-head"><div><p class="eyebrow">05 / CHECK</p><h2>基礎体力チェック</h2></div></div>
+  <div class="section-head"><div><p class="eyebrow">06 / CHECK</p><h2>基礎体力チェック</h2></div></div>
   <div class="distinction"><b>このページを読んだら</b><p>「怪しいメールのリンクを押して、学校アカウントのIDとパスワードを入力してしまった」と相談されたとき、本人を責めたり自分だけで直したりせず、何を確認し、誰へつなぎ、学習・業務をどう継続するか説明できるか確かめてみてください。</p><a class="button primary" href="diagnosis.html">ICT基礎体力診断へ →</a></div>
 </section>
 </main>
