@@ -18,7 +18,7 @@ function start(which){
 function renderQuestion(){
  const q=active[idx],a=answers[q.id]||{selected:[],confidence:"",note:""};
  $("#diagMode").textContent=(mode==="b"?"B領域12問":"A領域12問")+" ／ "+q.set_name;
- $("#diagProgressText").textContent=(idx+1)+" / "+active.length+"　"+q.domain+"　｜　"+q.cognition;
+ $("#diagProgressText").textContent=(idx+1)+" / "+active.length+"　"+q.domain+"　｜　"+q.cognition+(q.knowledge_type?"　｜　"+q.knowledge_type:"");
  $("#diagProgressBar").style.width=((idx+1)/active.length*100)+"%";
  const multi=q.form.includes("複数"), written=!q.options.length;
  let body='<article class="diag-question"><div class="diag-qmeta"><span>Q'+q.number+'</span><span>'+esc(q.form)+'</span></div><h3>'+esc(q.title)+'</h3><p class="diag-prompt">'+esc(q.prompt).replace(/\n/g,"<br>")+'</p>';
@@ -58,6 +58,10 @@ function answerCompare(x){
    +'</div>'
    +(x.a.note?'<div class="reflection-result"><span>あなたの説明・迷ったこと</span><p>'+esc(x.a.note).replace(/\n/g,"<br>")+'</p></div>':'<div class="reflection-result empty"><span>あなたの説明・迷ったこと</span><p>記述なし</p></div>');
 }
+function sourceLink(q){
+ if(!q.source_url)return "";
+ return '<p class="diagnosis-source"><a href="'+esc(q.source_url)+'" target="_blank" rel="noopener">一次情報を確認 ↗</a>'+(q.checked_at?' <span>確認日 '+esc(q.checked_at)+'</span>':'')+'</p>';
+}
 function learningLink(q){
  const d=q.domain||"";
  if(/DHCP|DNS|ネットワーク|Ethernet|PoE/.test(d))return '<a href="network.html">ネットワークの基礎を学ぶ →</a>';
@@ -77,7 +81,7 @@ function showResult(){
  $("#resultSets").innerHTML='<div class="result-set-grid">'+groups.map(g=>{const c={SOLID:0,FUZZY:0,GAP:0,MISCONCEPTION:0};g.rows.forEach(x=>c[x.status]++);return '<article><span>SET '+g.n+'</span><h3>'+esc(g.name)+'</h3><p>SOLID '+c.SOLID+' ／ FUZZY '+c.FUZZY+' ／ GAP '+c.GAP+' ／ MISCONCEPTION '+c.MISCONCEPTION+'</p></article>'}).join("")+'</div>';
  const review=rows.filter(x=>x.status!=="SOLID");
  let html='<div class="answer-review-head"><div><h3 class="review-title">あなたの回答と結果</h3><p>何を選び、どのくらい確信していたかを、正答と並べて確認できます。</p></div><span>'+rows.length+'問</span></div>';
- html+='<div class="review-list all-answers">'+rows.map(x=>'<details class="review-item '+x.status.toLowerCase()+'" '+(x.status==="MISCONCEPTION"?'open':'')+'><summary><b>'+x.status+'</b><span>Q'+x.q.number+' '+esc(x.q.title)+'</span><em>'+esc(confidenceLabel(x.a.confidence))+'</em></summary><div>'+answerCompare(x)+'<p class="result-meaning"><strong>判定：</strong>'+esc(({SOLID:"正解 × 確信。定着している可能性が高い状態です。",FUZZY:"正解ですが、迷い・勘がありました。曖昧な理解を確認します。",GAP:"不正解で、迷い・勘がありました。まだ形成されていない知識を確認します。",MISCONCEPTION:"不正解でしたが確信がありました。誤概念の可能性を優先して確認します。"}[x.status]))+'</p><p>'+esc(x.q.key_explanation)+'</p><p class="school-link">'+esc(x.q.school_connection)+'</p>'+learningLink(x.q)+'</div></details>').join("")+'</div>';
+ html+='<div class="review-list all-answers">'+rows.map(x=>'<details class="review-item '+x.status.toLowerCase()+'" '+(x.status==="MISCONCEPTION"?'open':'')+'><summary><b>'+x.status+'</b><span>Q'+x.q.number+' '+esc(x.q.title)+'</span><em>'+esc(confidenceLabel(x.a.confidence))+'</em></summary><div>'+answerCompare(x)+'<p class="result-meaning"><strong>判定：</strong>'+esc(({SOLID:"正解 × 確信。定着している可能性が高い状態です。",FUZZY:"正解ですが、迷い・勘がありました。曖昧な理解を確認します。",GAP:"不正解で、迷い・勘がありました。まだ形成されていない知識を確認します。",MISCONCEPTION:"不正解でしたが確信がありました。誤概念の可能性を優先して確認します。"}[x.status]))+'</p><p>'+esc(x.q.key_explanation)+'</p><p class="school-link">'+esc(x.q.school_connection)+'</p>'+sourceLink(x.q)+learningLink(x.q)+'</div></details>').join("")+'</div>';
  if(review.length)html+='<p class="review-priority"><b>見直しの優先：</b> MISCONCEPTION → FUZZY / GAP の順に確認すると、自信を持っていた誤解と曖昧な知識を見つけやすくなります。</p>';
  const q48=active.find(q=>q.id==="A48");
  if(q48&&answers.A48){html+='<div class="rubric-box"><p class="eyebrow">Q48 SELF REVIEW</p><h3>総合記述の自己確認</h3><p>Q48は自動採点しません。自分の記述と観点例を照らし合わせてください。</p><pre>'+esc(q48.rubric)+'</pre></div>'}
