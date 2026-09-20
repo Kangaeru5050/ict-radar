@@ -76,3 +76,31 @@
 .figure-reading{display:grid;grid-template-columns:130px 1fr;gap:16px;align-items:start;background:#fff7d9;border-radius:14px;padding:15px 18px}
 .figure-reading b{font-size:12px;color:#8a6200}.figure-reading p{font-size:12px;color:#5d5847;margin:0;line-height:1.8}
 @media(max-width:600px){.network-illustration{margin-left:-10px;margin-right:-10px;border-radius:16px;padding:9px}.illustration-label{align-items:flex-start;flex-direction:column;gap:5px}.figure-reading{grid-template-columns:1fr;gap:4px}.network-illustration figcaption{font-size:10px}}
+
+
+/* Beginner network roles */
+.network-roles{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin:26px 0}
+.network-roles article{background:#fff;border:1px solid var(--line);border-radius:17px;padding:19px;min-width:0}
+.role-icon{display:grid;place-items:center;width:46px;height:46px;border-radius:14px;background:var(--pale);font-size:24px;margin-bottom:12px}
+.role-name small{display:block;font-size:9px;font-weight:900;letter-spacing:.1em;color:var(--green)}
+.role-name h4{font-size:19px;line-height:1.35;margin:2px 0}
+.role-name em{display:block;font-style:normal;font-size:11px;color:var(--muted);margin-bottom:13px}
+.network-roles article>p{font-size:12px;line-height:1.75;color:var(--muted);margin:9px 0}
+.network-roles article>p b{color:var(--ink)}
+.network-roles .role-trouble{border-top:1px solid var(--line);padding-top:10px;margin-top:12px}
+.network-roles .role-trouble b{display:block;color:#9a4e32;font-size:10px;margin-bottom:2px}
+.checkpoint-guide{margin:30px 0 16px;padding:22px;background:#eef5fa;border:1px solid #d8e6f0;border-radius:18px}
+.checkpoint-guide h4{font-size:20px;margin:3px 0 7px}
+.checkpoint-guide>div>p:last-child{font-size:12px;color:var(--muted);margin:0;max-width:800px}
+.checkpoint-line{display:flex;align-items:center;gap:7px;overflow-x:auto;padding:18px 0 2px;margin-top:8px}
+.checkpoint-line span{white-space:nowrap;background:#fff;border:1px solid #cfdde7;border-radius:999px;padding:7px 10px;font-size:11px;font-weight:800}
+.checkpoint-line i{font-style:normal;font-weight:900;color:#397fb8}
+.network-example{display:grid;grid-template-columns:minmax(220px,.8fr) 1.4fr;gap:16px;background:#fff7d9;border-radius:18px;padding:20px}
+.example-question span,.example-question strong{display:block}
+.example-question span{font-size:10px;font-weight:900;color:#8a6200;margin-bottom:5px}
+.example-question strong{font-size:18px;line-height:1.55}
+.example-thinking{display:grid;gap:7px}
+.example-thinking p{background:rgba(255,255,255,.7);border-radius:10px;padding:10px 12px;font-size:11px;line-height:1.7;margin:0;color:#5d5847}
+.example-thinking b{display:block;color:var(--ink);font-size:10px}
+@media(max-width:900px){.network-roles{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:600px){.network-roles{grid-template-columns:1fr}.network-roles article{padding:17px}.network-example{grid-template-columns:1fr}.checkpoint-line{margin-right:-22px;padding-right:22px}}
