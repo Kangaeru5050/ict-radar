@@ -1,20 +1,23 @@
 const QUICK_IDS=["A01","A10","A12","A17","A19","A24","A30","A31","A36","A40","A43","A47"];
-let all=[],active=[],answers={},idx=0,mode="quick";
+let all=[],bAll=[],active=[],answers={},idx=0,mode="quick";
 const $=s=>document.querySelector(s);
 const esc=s=>String(s??"").replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[m]));
 async function loadData(){
- const parts=await Promise.all([1,2,3,4].map(n=>fetch("data/diagnosis-a48-"+n+".json",{cache:"no-store"}).then(r=>{if(!r.ok)throw new Error();return r.json()})));
- all=parts.flat();
+ const [parts,b]=await Promise.all([
+   Promise.all([1,2,3,4].map(n=>fetch("data/diagnosis-a48-"+n+".json",{cache:"no-store"}).then(r=>{if(!r.ok)throw new Error();return r.json()}))),
+   fetch("data/diagnosis-b12.json",{cache:"no-store"}).then(r=>{if(!r.ok)throw new Error();return r.json()})
+ ]);
+ all=parts.flat(); bAll=b;
 }
 function sameSet(a,b){return a.length===b.length&&[...a].sort().every((v,i)=>v===[...b].sort()[i])}
 function statusFor(q,a){if(!q.auto_score)return "SELF"; const ok=sameSet(a.selected||[],q.correct); if(ok)return a.confidence==="sure"?"SOLID":"FUZZY"; return a.confidence==="sure"?"MISCONCEPTION":"GAP"}
 function start(which){
- mode=which; active=which==="quick"?QUICK_IDS.map(id=>all.find(q=>q.id===id)):all.slice();
+ mode=which; active=which==="b"?bAll.slice():QUICK_IDS.map(id=>all.find(q=>q.id===id));
  answers={};idx=0; $("#diagnosisStart").hidden=true;$("#diagnosisResult").hidden=true;$("#diagnosisRun").hidden=false;renderQuestion();window.scrollTo({top:$("#diagnosisRun").offsetTop-80,behavior:"smooth"});
 }
 function renderQuestion(){
  const q=active[idx],a=answers[q.id]||{selected:[],confidence:"",note:""};
- $("#diagMode").textContent=(mode==="quick"?"クイック12問":"総合48問")+" ／ "+q.set_name;
+ $("#diagMode").textContent=(mode==="b"?"B領域12問":"A領域12問")+" ／ "+q.set_name;
  $("#diagProgressText").textContent=(idx+1)+" / "+active.length+"　"+q.domain+"　｜　"+q.cognition;
  $("#diagProgressBar").style.width=((idx+1)/active.length*100)+"%";
  const multi=q.form.includes("複数"), written=!q.options.length;
@@ -56,9 +59,13 @@ function answerCompare(x){
    +(x.a.note?'<div class="reflection-result"><span>あなたの説明・迷ったこと</span><p>'+esc(x.a.note).replace(/\n/g,"<br>")+'</p></div>':'<div class="reflection-result empty"><span>あなたの説明・迷ったこと</span><p>記述なし</p></div>');
 }
 function learningLink(q){
- const securityDomains=["暗号","公開鍵暗号","電子署名","完全性・ハッシュ","TLS・証明書","ID・アクセス管理","セキュリティ","認証・サービス評価"];
- if(q.set===2)return '<a href="network.html">ネットワーク基礎体力で学ぶ →</a>';
- if(securityDomains.includes(q.domain))return '<a href="security.html">セキュリティ基礎体力で学ぶ →</a>';
+ const d=q.domain||"";
+ if(/DHCP|DNS|ネットワーク|Ethernet|PoE/.test(d))return '<a href="network.html">ネットワークの基礎を学ぶ →</a>';
+ if(/セキュリティ|ID・アクセス|認証・サービス/.test(d))return '<a href="security.html">セキュリティの基礎を学ぶ →</a>';
+ if(/個人情報|データガバナンス/.test(d))return '<a href="privacy.html">個人情報・教育データを学ぶ →</a>';
+ if(/著作権|知的財産/.test(d))return '<a href="copyright.html">著作権を学ぶ →</a>';
+ if(/情報教育|学習指導要領|教育DX政策|一次情報|生成AI/.test(d))return '<a href="policy.html">教育ICT・一次情報を学ぶ →</a>';
+ if(/教育ICT基盤|アカウント/.test(d))return '<a href="account.html">アカウント・運用を学ぶ →</a>';
  return "";
 }
 function showResult(){
@@ -77,7 +84,7 @@ function showResult(){
  $("#resultReview").innerHTML=html;window.scrollTo({top:$("#diagnosisResult").offsetTop-70,behavior:"smooth"});
 }
 $("#startQuick").addEventListener("click",()=>start("quick"));
-$("#startFull").addEventListener("click",()=>start("full"));
+$("#startB").addEventListener("click",()=>start("b"));
 $("#quitDiagnosis").addEventListener("click",()=>{$("#diagnosisRun").hidden=true;$("#diagnosisStart").hidden=false});
 $("#retryDiagnosis").addEventListener("click",()=>start(mode));
 $("#printDiagnosis").addEventListener("click",()=>window.print());
