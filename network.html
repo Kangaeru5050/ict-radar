@@ -157,17 +157,82 @@
 </section>
 
 <section id="foundation" class="section">
-  <div class="section-head"><div><p class="eyebrow">02 / FOUNDATION</p><h2>用語を、もう少し正確に理解する</h2></div><span class="tag foundation">FOUNDATION</span></div>
-  <p class="section-intro">上の「登場人物」で役割をつかんだら、ここで技術用語として少し正確にします。試験のための暗記ではなく、現象を説明し、切り分けるための基礎です。</p>
-  <div class="concept-grid">
-    <article><span>01</span><h3>IPアドレス</h3><p>ネットワーク上で通信相手を識別するためのアドレス。IPv4とIPv6があります。</p><b>問い：この端末は通信に必要なアドレスを持っている？</b></article>
-    <article><span>02</span><h3>DHCP</h3><p>IPアドレスなど、通信に必要な設定を端末へ提供する仕組み。</p><b>問い：端末は適切なネットワーク設定を受け取れた？</b></article>
-    <article><span>03</span><h3>DNS</h3><p>人が使う名前から、通信先を見つけるための仕組み。</p><b>問い：名前から通信先を解決できている？</b></article>
-    <article><span>04</span><h3>デフォルトゲートウェイ</h3><p>自分のネットワークの外へ通信するときの出口。</p><b>問い：外へ出る経路はある？</b></article>
-    <article><span>05</span><h3>アクセスポイント</h3><p>無線端末をネットワークへ接続する入口。電波の届き方だけでなく同時接続や配置も関係します。</p><b>問い：無線区間だけの問題？</b></article>
-    <article><span>06</span><h3>ルーター / スイッチ</h3><p>ルーターは異なるネットワーク間、スイッチは主に同一LAN内の通信をつなぎます。</p><b>問い：どの区間まで通信できている？</b></article>
-    <article><span>07</span><h3>帯域と遅延</h3><p>一度に運べる量と、応答にかかる時間は別の性質です。「遅い」の中身を分けます。</p><b>問い：足りないのは容量？応答性？</b></article>
-    <article><span>08</span><h3>HTTPS</h3><p>Web通信を保護する仕組み。ただし、通信先の内容が正しいことや、入力してよい情報まで保証するものではありません。</p><b>問い：通信の安全と情報の妥当性を混同していない？</b></article>
+  <div class="section-head"><div><p class="eyebrow">02 / FOUNDATION</p><h2>端末は、どうやって「通信できる状態」になる？</h2></div><span class="tag foundation">FOUNDATION</span></div>
+  <p class="section-intro">ここからは用語を一つずつ暗記するのではなく、1台のタブレットがネットワークに参加するときに「何が必要になるか」を順に見ます。</p>
+
+  <div class="network-kit">
+    <div class="kit-head">
+      <div class="kit-device" aria-hidden="true">📱</div>
+      <div><p class="eyebrow">NETWORK SETTINGS</p><h3>Wi-Fiにつながっただけでは、まだ通信の準備は終わっていない</h3><p>ネットワークの中でデータを送り合うには、端末が自分の情報と、外へ出る方法、名前を調べる方法を知る必要があります。</p></div>
+    </div>
+
+    <div class="dhcp-gives">
+      <div class="dhcp-person">
+        <span aria-hidden="true">🏷️</span><b>DHCP</b><p>「このネットワークでは、この設定を使ってね」と必要な情報を端末へ渡します。</p>
+      </div>
+      <div class="give-arrow" aria-hidden="true">→</div>
+      <div class="setting-card">
+        <div><span>①</span><b>IPアドレス</b><small>このネットワークで<br>自分を区別する番号</small></div>
+        <div><span>②</span><b>サブネット</b><small>どこまでを<br>「同じネットワーク」と見るか</small></div>
+        <div><span>③</span><b>デフォルトゲートウェイ</b><small>外のネットワークへ行くとき<br>まず渡す相手</small></div>
+        <div><span>④</span><b>DNS</b><small>名前から<br>通信先を調べる相手</small></div>
+      </div>
+    </div>
+    <p class="kit-note">※実際の環境では設定方法や構成が異なります。ここでは、学校でよく使われるDHCPによる自動設定を入口に仕組みを整理しています。</p>
+  </div>
+
+  <div class="foundation-story">
+    <article>
+      <div class="foundation-visual"><span>①</span><strong>192.168.10.25</strong><small>例：IPアドレス</small></div>
+      <div><p class="eyebrow">WHO AM I?</p><h3>IPアドレス ―「この通信は、どの端末から？」</h3>
+        <p>ネットワークでは、データの送り元や送り先を区別する必要があります。そのために使うのがIPアドレスです。</p>
+        <div class="misconception"><b>ここを誤解しない</b><span>IPアドレスは端末に一生固定された「名前」ではありません。接続するネットワークや設定によって変わることがあります。</span></div>
+        <p class="when-broken"><b>うまく設定できないと：</b>Wi-Fiには接続していても、そのネットワークで正しく通信できないことがあります。</p>
+      </div>
+    </article>
+
+    <article>
+      <div class="foundation-visual"><span>②</span><strong>同じ？ 外？</strong><small>サブネット</small></div>
+      <div><p class="eyebrow">LOCAL OR OUTSIDE?</p><h3>サブネット ―「相手は同じネットワークの中？」</h3>
+        <p>IPアドレスだけでは、「相手が自分と同じネットワークにいるのか、外にいるのか」を判断できません。その範囲を判断するための情報がサブネットです。</p>
+        <div class="tiny-example"><span>同じ範囲の相手</span><b>→ 校内LANの中で届ける</b><span>外の相手</span><b>→ ゲートウェイへ渡す</b></div>
+        <p class="when-broken"><b>設定が合わないと：</b>本来届くはずの相手を「外」と判断するなど、正しい経路を選べなくなることがあります。</p>
+      </div>
+    </article>
+
+    <article>
+      <div class="foundation-visual"><span>③</span><strong>🚪 → 🌐</strong><small>デフォルトゲートウェイ</small></div>
+      <div><p class="eyebrow">HOW DO I GET OUT?</p><h3>デフォルトゲートウェイ ―「外へ行くなら、まずここへ」</h3>
+        <p>目的の相手が自分と同じネットワークにいないとき、端末は外へ向かう通信をゲートウェイへ渡します。学校ではルーターやFWなどが経路上に関係します。</p>
+        <div class="misconception"><b>イメージ</b><span>学校から遠くの目的地へ荷物を送りたいとき、まず校外へ出る「出口」に渡す感覚です。</span></div>
+        <p class="when-broken"><b>ここへ渡せないと：</b>校内の一部とは通信できても、インターネットや別ネットワークへ進めないことがあります。</p>
+      </div>
+    </article>
+
+    <article>
+      <div class="foundation-visual"><span>④</span><strong>名前 → 番号</strong><small>DNS</small></div>
+      <div><p class="eyebrow">WHERE IS IT?</p><h3>DNS ―「その名前のサービスは、どこにいる？」</h3>
+        <p>人はWebサイトやサービスを名前で覚えますが、IP通信では通信先のIPアドレスが必要です。DNSは、名前に対応する通信先を調べる仕組みです。</p>
+        <div class="tiny-example"><span>人が使う</span><b>example.jp</b><span>DNSで調べる</span><b>→ 通信先のIPアドレス</b></div>
+        <p class="when-broken"><b>名前解決できないと：</b>ネットワークの経路自体は生きていても、普段使う名前ではWebサイトを開けないことがあります。</p>
+      </div>
+    </article>
+  </div>
+
+  <div class="dhcp-summary">
+    <div aria-hidden="true">🏷️</div>
+    <div><p class="eyebrow">NOW DHCP MAKES SENSE</p><h3>だから、DHCPが必要になる</h3><p>端末がネットワークに参加するたびに、利用者がIPアドレス・サブネット・ゲートウェイ・DNSを手入力するのは現実的ではありません。DHCPは、こうした通信に必要な設定を自動的に端末へ渡します。</p></div>
+    <div class="dhcp-failure"><b>DHCPで問題が起きると</b><span>「Wi-Fiにはつながった。でも通信に必要な設定を受け取れていない」という状態が起こり得ます。</span></div>
+  </div>
+
+  <div class="foundation-more">
+    <p class="eyebrow">NEXT CONCEPTS</p><h3>ここまで見えたら、次の概念もつながる</h3>
+    <div class="concept-grid compact-concepts">
+      <article><span>05</span><h3>アクセスポイント</h3><p>無線端末をLANへつなぐ入口。Wi-Fiの電波が届くことと、その先の通信が正常なことは別です。</p><b>問い：無線区間だけの問題？</b></article>
+      <article><span>06</span><h3>ルーター / スイッチ</h3><p>スイッチは主にLAN内をつなぎ、ルーターは異なるネットワーク間の経路をつなぎます。</p><b>問い：どの区間まで通信できている？</b></article>
+      <article><span>07</span><h3>帯域と遅延</h3><p>一度に運べる量と、応答にかかる時間は別です。同じ「遅い」でも原因の見方が変わります。</p><b>問い：足りないのは容量？ 応答性？</b></article>
+      <article><span>08</span><h3>HTTPS</h3><p>Web通信を保護する仕組み。ただし、通信先の内容の正しさや、入力してよい情報まで保証するものではありません。</p><b>問い：通信の保護と情報の妥当性を混同していない？</b></article>
+    </div>
   </div>
 </section>
 
