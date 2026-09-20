@@ -21,19 +21,74 @@
 </section>
 
 <section id="map" class="section">
-  <div class="section-head"><div><p class="eyebrow">01 / MAP</p><h2>まず、通信の地図を持つ</h2></div><span class="status">3分で全体像</span></div>
-  <p class="section-intro">Webサイトやクラウドが使えるまでには、いくつもの段階があります。「ネットがダメ」で一括りにしないことが、切り分けの出発点です。</p>
-  <div class="network-map">
-    <div><b>端末</b><span>PC / tablet</span></div><i>→</i>
-    <div><b>Wi-Fi</b><span>APへ接続</span></div><i>→</i>
-    <div><b>IP設定</b><span>DHCP等</span></div><i>→</i>
-    <div><b>校内LAN</b><span>switch / router</span></div><i>→</i>
-    <div><b>インターネット</b><span>回線 / ISP</span></div><i>→</i>
-    <div><b>DNS</b><span>名前解決</span></div><i>→</i>
-    <div><b>サービス</b><span>Web / cloud</span></div><i>→</i>
-    <div><b>認証・認可</b><span>誰？何ができる？</span></div>
+  <div class="section-head"><div><p class="eyebrow">01 / BIG PICTURE</p><h2>まず、学校ネットワークの全体像を見る</h2></div><span class="status">図から入る</span></div>
+  <p class="section-intro">学校のネットワークは自治体によって構成が違います。最初に「ネットワーク分離」と「アクセス制御」という2つの考え方を見比べ、そのあと自分の自治体を7つの質問で読み解きます。</p>
+
+  <div class="web-figure" aria-labelledby="modelFigureTitle">
+    <div class="web-figure-head">
+      <div><span>図解 1</span><h3 id="modelFigureTitle">学校ICTのネットワークの考え方とつながり方</h3></div>
+      <p>どちらが優れているかではなく、<b>自分の自治体がどの構成か</b>を理解するための地図です。</p>
+    </div>
+    <div class="model-compare">
+      <article class="model-panel separation">
+        <div class="model-title"><b>1</b><div><h4>ネットワーク分離モデル</h4><span>従来型・三層分離の例</span></div></div>
+        <p>校務系・学習系・インターネット系を物理的・論理的に分けて運用します。</p>
+        <div class="mini-lanes">
+          <div class="lane admin"><b>校務系</b><span>校務端末 → 校務系FW → 閉域網／無害化通信</span><small>原則、一般インターネットへ直接接続しない構成</small></div>
+          <div class="lane learn"><b>学習系</b><span>学習端末 → 学習系FW → 学習用クラウド</span></div>
+          <div class="lane web"><b>インターネット系</b><span>閲覧用端末 → インターネット系FW → Web</span></div>
+        </div>
+        <div class="model-points"><b>見るポイント</b><span>どのネットワークにいる？</span><span>外へ出る経路は？</span><span>校務データはどう受け渡す？</span></div>
+      </article>
+
+      <article class="model-panel zerotrust">
+        <div class="model-title"><b>2</b><div><h4>ゼロトラスト（アクセス制御）モデル</h4><span>クラウド活用型の例</span></div></div>
+        <p>場所だけを信頼せず、「だれが・どの端末で・何にアクセスするか」を確認して必要なアクセスだけを許可します。</p>
+        <div class="zt-flow">
+          <div><b>利用者・端末</b><span>学校・自宅・出張先</span></div><i>→</i>
+          <div><b>IdP</b><span>SSO / MFA / リスク確認</span></div><i>→</i>
+          <div><b>SASE等</b><span>アクセス制御 / URL制御 / ログ</span></div><i>→</i>
+          <div><b>クラウド</b><span>校務 / 学習 / その他</span></div>
+        </div>
+        <div class="model-points"><b>見るポイント</b><span>認証基盤は？</span><span>端末の管理・認証は？</span><span>ログはどこへ集まる？</span></div>
+      </article>
+    </div>
+    <div class="figure-note"><b>混同しない</b><span><strong>ゼロトラスト</strong>は考え方、<strong>SASE</strong>は実現手段の一つ、<strong>MDM</strong>は端末管理の仕組みです。実際の自治体には移行途中や複合構成もあります。</span></div>
   </div>
-  <div class="distinction"><b>重要な区別</b><p>Wi-Fiマークが出ている → APとは接続できている可能性がある。<br>だからといって、DNS・インターネット・クラウドサービス・認証まで正常とは限りません。</p></div>
+
+  <div class="web-figure seven-figure" aria-labelledby="sevenFigureTitle">
+    <div class="web-figure-head">
+      <div><span>図解 2</span><h3 id="sevenFigureTitle">初めて行く自治体でも読める「7つの質問」</h3></div>
+      <p>製品名を覚えるより、<b>通信・認証・端末・権限・記録</b>の流れをたどります。</p>
+    </div>
+    <div class="seven-grid">
+      <article><b>1</b><h4>通信はどこを通る？</h4><p>校内FW？ 教委/DC？ SASE？ ローカルブレイクアウト？</p></article>
+      <article><b>2</b><h4>だれだと確認する？</h4><p>IdP、SSO、MFA、リスクベース認証はどこで行う？</p></article>
+      <article><b>3</b><h4>どの端末なら使える？</h4><p>管理対象端末？ MDM/EMM？ 端末認証？ OSや設定の状態は？</p></article>
+      <article><b>4</b><h4>どのサービスに入れる？</h4><p>学習系SaaS、校務支援、一般サービスで権限はどう違う？</p></article>
+      <article><b>5</b><h4>Webアクセスはどこで制御する？</h4><p>URLフィルタリングは校内FW？ クラウド型ゲートウェイ？</p></article>
+      <article><b>6</b><h4>何が記録・監視される？</h4><p>アクセスログ、端末ログ、異常検知、SIEM等はどこにある？</p></article>
+      <article><b>7</b><h4>障害時はどこまで正常？</h4><p>端末 → Wi-Fi → LAN → DNS → 認証 → サービスの順に境界を探す。</p></article>
+    </div>
+    <div class="seven-summary"><b>7つに答えられれば</b><p>知らない自治体でも「どこを通り、誰と端末をどう確認し、何にアクセスし、何を記録しているか」を自分の言葉で説明できます。</p></div>
+  </div>
+
+  <div class="communication-map-block">
+    <p class="eyebrow">COMMUNICATION PATH</p>
+    <h3>次に、1本の通信をたどる</h3>
+    <p>Webサイトやクラウドが使えるまでには、いくつもの段階があります。「ネットがダメ」で一括りにしないことが、切り分けの出発点です。</p>
+    <div class="network-map">
+      <div><b>端末</b><span>PC / tablet</span></div><i>→</i>
+      <div><b>Wi-Fi</b><span>APへ接続</span></div><i>→</i>
+      <div><b>IP設定</b><span>DHCP等</span></div><i>→</i>
+      <div><b>校内LAN</b><span>switch / router</span></div><i>→</i>
+      <div><b>インターネット</b><span>回線 / ISP</span></div><i>→</i>
+      <div><b>DNS</b><span>名前解決</span></div><i>→</i>
+      <div><b>サービス</b><span>Web / cloud</span></div><i>→</i>
+      <div><b>認証・認可</b><span>誰？何ができる？</span></div>
+    </div>
+    <div class="distinction"><b>重要な区別</b><p>Wi-Fiマークが出ている → APとは接続できている可能性がある。<br>だからといって、DNS・インターネット・クラウドサービス・認証まで正常とは限りません。</p></div>
+  </div>
 </section>
 
 <section id="foundation" class="section">
