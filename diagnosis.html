@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="ICT RADAR ICT基礎体力診断">
+<title>ICT基礎体力診断 | ICT RADAR</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="site-header">
+  <a class="brand" href="index.html"><span class="brand-mark">◉</span><span>ICT RADAR</span></a>
+  <nav><a href="index.html#quiz">今日のクイズ</a><a href="network.html">ネットワーク基礎体力</a><a href="index.html#learn">もっと知りたい</a></nav>
+</header>
+<main>
+<section class="topic-hero diagnosis-hero">
+  <p class="eyebrow">ICT BASIC FITNESS / DIAGNOSIS</p>
+  <p class="topic-back"><a href="index.html">← ICT RADAR</a></p>
+  <h1>ICT基礎体力<br>診断</h1>
+  <p class="lead">点数を競うテストではありません。正誤だけでなく「どのくらい確信して答えたか」を組み合わせて、曖昧な理解や誤概念の可能性を見つけます。</p>
+  <div class="diagnosis-model">
+    <div><b>SOLID</b><span>正解 × 確信</span><small>定着している</small></div>
+    <div><b>FUZZY</b><span>正解 × 迷い・勘</span><small>曖昧な理解</small></div>
+    <div><b>GAP</b><span>不正解 × 迷い・勘</span><small>まだ形成されていない</small></div>
+    <div><b>MISCONCEPTION</b><span>不正解 × 確信</span><small>誤概念を優先確認</small></div>
+  </div>
+</section>
+
+<section id="diagnosisStart" class="section">
+  <div class="section-head"><div><p class="eyebrow">CHOOSE</p><h2>受け方を選ぶ</h2></div><span class="status">A領域 v1.2</span></div>
+  <div class="course-grid">
+    <article class="course-card">
+      <span class="course-time">約5〜10分</span><h3>クイック診断</h3><strong>12問</strong>
+      <p>48問から、コンピュータ・データ、ネットワーク、セキュリティ、学校ICT実務を広くサンプリングします。</p>
+      <button id="startQuick" class="button primary" type="button">12問で診断する</button>
+    </article>
+    <article class="course-card">
+      <span class="course-time">じっくり</span><h3>総合診断</h3><strong>48問</strong>
+      <p>4セットで基礎から学校ICTへの転移まで確認します。Q48は記述式で、ルーブリックによる自己確認です。</p>
+      <button id="startFull" class="button" type="button">48問で診断する</button>
+    </article>
+  </div>
+  <p class="diagnosis-note">回答内容はこのブラウザ内だけに保存します。サーバーへ送信しません。総合診断の自動集計はQ1〜Q47を対象とし、Q48は記述・自己確認です。</p>
+</section>
+
+<section id="diagnosisRun" class="section diagnosis-run" hidden>
+  <div class="diag-topline"><button id="quitDiagnosis" class="text-button" type="button">← コース選択へ</button><span id="diagMode"></span></div>
+  <div class="diag-progress"><div id="diagProgressBar"></div></div>
+  <div id="diagProgressText" class="radar-meta"></div>
+  <div id="diagnosisQuestion"></div>
+</section>
+
+<section id="diagnosisResult" class="section" hidden>
+  <div class="section-head"><div><p class="eyebrow">RESULT</p><h2>診断結果</h2></div><span class="status">点数より「状態」を見る</span></div>
+  <div id="resultSummary"></div>
+  <div id="resultSets"></div>
+  <div id="resultReview"></div>
+  <div class="result-actions">
+    <button id="retryDiagnosis" class="button primary" type="button">もう一度受ける</button>
+    <a class="button" href="network.html">ネットワークを学ぶ</a>
+  </div>
+</section>
+</main>
+<footer><strong>ICT RADAR</strong><p>KANGAERU｜ICT基礎体力診断</p><p class="small">2021〜2026年度の出題領域を分析し、学校ICTで必要な基礎へ転移させて独自作成した診断です。試験実施団体による公認・監修・推奨を受けたものではありません。</p></footer>
+<script src="diagnosis.js"></script>
+</body></html>
