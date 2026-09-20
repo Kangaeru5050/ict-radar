@@ -80,4 +80,5 @@ $("#startQuick").addEventListener("click",()=>start("quick"));
 $("#startFull").addEventListener("click",()=>start("full"));
 $("#quitDiagnosis").addEventListener("click",()=>{$("#diagnosisRun").hidden=true;$("#diagnosisStart").hidden=false});
 $("#retryDiagnosis").addEventListener("click",()=>start(mode));
+$("#printDiagnosis").addEventListener("click",()=>window.print());
 loadData().catch(()=>{$("#diagnosisStart").innerHTML='<p>診断データを読み込めませんでした。少し時間をおいて再読み込みしてください。</p>'});
