@@ -41,6 +41,12 @@ function saveCurrent(validate=true){
 }
 function showErr(s){const e=$("#diagError");e.textContent=s;e.hidden=false}
 function next(){if(!saveCurrent(true))return;if(idx<active.length-1){idx++;renderQuestion();window.scrollTo({top:$("#diagnosisRun").offsetTop-70,behavior:"smooth"})}else showResult()}
+function learningLink(q){
+ const securityDomains=["暗号","公開鍵暗号","電子署名","完全性・ハッシュ","TLS・証明書","ID・アクセス管理","セキュリティ","認証・サービス評価"];
+ if(q.set===2)return '<a href="network.html">ネットワーク基礎体力で学ぶ →</a>';
+ if(securityDomains.includes(q.domain))return '<a href="security.html">セキュリティ基礎体力で学ぶ →</a>';
+ return "";
+}
 function showResult(){
  $("#diagnosisRun").hidden=true;$("#diagnosisResult").hidden=false;
  const scored=active.filter(q=>q.auto_score), rows=scored.map(q=>({q,a:answers[q.id],status:statusFor(q,answers[q.id])}));
@@ -51,7 +57,7 @@ function showResult(){
  const review=rows.filter(x=>x.status!=="SOLID");
  let html='<h3 class="review-title">確認したい問題</h3>';
  if(!review.length)html+='<p>自動採点対象はすべてSOLIDでした。別の場面へ転移できるか、総合診断や学習ページで確認してみてください。</p>';
- else html+='<div class="review-list">'+review.map(x=>'<details class="review-item '+x.status.toLowerCase()+'"><summary><b>'+x.status+'</b><span>Q'+x.q.number+' '+esc(x.q.title)+'</span></summary><div><p><strong>正答：</strong>'+x.q.correct.join("・")+'</p><p>'+esc(x.q.key_explanation)+'</p><p class="school-link">'+esc(x.q.school_connection)+'</p>'+(x.q.set===2?'<a href="network.html">ネットワーク基礎体力で学ぶ →</a>':'')+'</div></details>').join("")+'</div>';
+ else html+='<div class="review-list">'+review.map(x=>'<details class="review-item '+x.status.toLowerCase()+'"><summary><b>'+x.status+'</b><span>Q'+x.q.number+' '+esc(x.q.title)+'</span></summary><div><p><strong>正答：</strong>'+x.q.correct.join("・")+'</p><p>'+esc(x.q.key_explanation)+'</p><p class="school-link">'+esc(x.q.school_connection)+'</p>'+learningLink(x.q)+'</div></details>').join("")+'</div>';
  const q48=active.find(q=>q.id==="A48");
  if(q48&&answers.A48){html+='<div class="rubric-box"><p class="eyebrow">Q48 SELF REVIEW</p><h3>総合記述の自己確認</h3><p>Q48は自動採点しません。自分の記述と観点例を照らし合わせてください。</p><pre>'+esc(q48.rubric)+'</pre></div>'}
  $("#resultReview").innerHTML=html;window.scrollTo({top:$("#diagnosisResult").offsetTop-70,behavior:"smooth"});
