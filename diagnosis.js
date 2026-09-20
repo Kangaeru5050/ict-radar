@@ -41,6 +41,19 @@ function saveCurrent(validate=true){
 }
 function showErr(s){const e=$("#diagError");e.textContent=s;e.hidden=false}
 function next(){if(!saveCurrent(true))return;if(idx<active.length-1){idx++;renderQuestion();window.scrollTo({top:$("#diagnosisRun").offsetTop-70,behavior:"smooth"})}else showResult()}
+function confidenceLabel(v){return ({sure:"確信している",unsure:"迷いがある",guess:"勘・ほぼ分からない"}[v]||"未回答")}
+function choiceText(q,values){
+ if(!values||!values.length)return "—";
+ return values.map(v=>{const opt=(q.options||[]).find(o=>o[0]===v);return opt?v+". "+opt[1]:v}).join(" / ");
+}
+function answerCompare(x){
+ const mine=choiceText(x.q,x.a.selected),correct=choiceText(x.q,x.q.correct),conf=confidenceLabel(x.a.confidence);
+ return '<div class="answer-compare">'
+   +'<div class="answer-box mine"><span>あなたの回答</span><strong>'+esc(mine)+'</strong></div>'
+   +'<div class="answer-box confidence-box"><span>そのときの確信度</span><strong>'+esc(conf)+'</strong></div>'
+   +'<div class="answer-box correct"><span>正答</span><strong>'+esc(correct)+'</strong></div>'
+   +'</div>';
+}
 function learningLink(q){
  const securityDomains=["暗号","公開鍵暗号","電子署名","完全性・ハッシュ","TLS・証明書","ID・アクセス管理","セキュリティ","認証・サービス評価"];
  if(q.set===2)return '<a href="network.html">ネットワーク基礎体力で学ぶ →</a>';
@@ -55,9 +68,9 @@ function showResult(){
  const groups=[...new Set(scored.map(q=>q.set))].map(n=>({n,name:scored.find(q=>q.set===n).set_name,rows:rows.filter(x=>x.q.set===n)}));
  $("#resultSets").innerHTML='<div class="result-set-grid">'+groups.map(g=>{const c={SOLID:0,FUZZY:0,GAP:0,MISCONCEPTION:0};g.rows.forEach(x=>c[x.status]++);return '<article><span>SET '+g.n+'</span><h3>'+esc(g.name)+'</h3><p>SOLID '+c.SOLID+' ／ FUZZY '+c.FUZZY+' ／ GAP '+c.GAP+' ／ MISCONCEPTION '+c.MISCONCEPTION+'</p></article>'}).join("")+'</div>';
  const review=rows.filter(x=>x.status!=="SOLID");
- let html='<h3 class="review-title">確認したい問題</h3>';
- if(!review.length)html+='<p>自動採点対象はすべてSOLIDでした。別の場面へ転移できるか、総合診断や学習ページで確認してみてください。</p>';
- else html+='<div class="review-list">'+review.map(x=>'<details class="review-item '+x.status.toLowerCase()+'"><summary><b>'+x.status+'</b><span>Q'+x.q.number+' '+esc(x.q.title)+'</span></summary><div><p><strong>正答：</strong>'+x.q.correct.join("・")+'</p><p>'+esc(x.q.key_explanation)+'</p><p class="school-link">'+esc(x.q.school_connection)+'</p>'+learningLink(x.q)+'</div></details>').join("")+'</div>';
+ let html='<div class="answer-review-head"><div><h3 class="review-title">あなたの回答と結果</h3><p>何を選び、どのくらい確信していたかを、正答と並べて確認できます。</p></div><span>'+rows.length+'問</span></div>';
+ html+='<div class="review-list all-answers">'+rows.map(x=>'<details class="review-item '+x.status.toLowerCase()+'" '+(x.status==="MISCONCEPTION"?'open':'')+'><summary><b>'+x.status+'</b><span>Q'+x.q.number+' '+esc(x.q.title)+'</span><em>'+esc(confidenceLabel(x.a.confidence))+'</em></summary><div>'+answerCompare(x)+'<p class="result-meaning"><strong>判定：</strong>'+esc(({SOLID:"正解 × 確信。定着している可能性が高い状態です。",FUZZY:"正解ですが、迷い・勘がありました。曖昧な理解を確認します。",GAP:"不正解で、迷い・勘がありました。まだ形成されていない知識を確認します。",MISCONCEPTION:"不正解でしたが確信がありました。誤概念の可能性を優先して確認します。"}[x.status]))+'</p><p>'+esc(x.q.key_explanation)+'</p><p class="school-link">'+esc(x.q.school_connection)+'</p>'+learningLink(x.q)+'</div></details>').join("")+'</div>';
+ if(review.length)html+='<p class="review-priority"><b>見直しの優先：</b> MISCONCEPTION → FUZZY / GAP の順に確認すると、自信を持っていた誤解と曖昧な知識を見つけやすくなります。</p>';
  const q48=active.find(q=>q.id==="A48");
  if(q48&&answers.A48){html+='<div class="rubric-box"><p class="eyebrow">Q48 SELF REVIEW</p><h3>総合記述の自己確認</h3><p>Q48は自動採点しません。自分の記述と観点例を照らし合わせてください。</p><pre>'+esc(q48.rubric)+'</pre></div>'}
  $("#resultReview").innerHTML=html;window.scrollTo({top:$("#diagnosisResult").offsetTop-70,behavior:"smooth"});
