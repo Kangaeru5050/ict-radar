@@ -1,0 +1,23 @@
+name: Validate Site Data
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'data/**.json'
+      - 'diagnosis.js'
+      - 'scripts/validate_site_data.py'
+      - '.github/workflows/validate-data.yml'
+  pull_request:
+    paths:
+      - 'data/**.json'
+      - 'diagnosis.js'
+      - 'scripts/validate_site_data.py'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate JSON and diagnosis structure
+        run: python scripts/validate_site_data.py
