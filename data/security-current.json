@@ -1,0 +1,61 @@
+{
+  "version": "1.0",
+  "last_reviewed": "2026-09-20",
+  "review_policy": "FOUNDATIONとCURRENTを分離。CURRENTは一次情報を確認し、確定事項と検討中を区別する。",
+  "items": [
+    {
+      "id": "sec-current-01",
+      "label": "学校ICT",
+      "state": "現行＋改訂予定",
+      "title": "教育情報セキュリティポリシーは「現行」と「改訂中」を分ける",
+      "body": "文部科学省サイトで公表されている現行版は令和7年3月版。令和8年度末までの改訂が予定され、総務省令との整合、BYOD、生成AI活用時のセキュリティ等が論点として検討されています。検討中の内容を現行ルールとして扱わないことが重要です。",
+      "source_name": "文部科学省",
+      "source_url": "https://www.mext.go.jp/a_menu/shotou/zyouhou/detail/1397369.htm"
+    },
+    {
+      "id": "sec-current-02",
+      "label": "脅威",
+      "state": "2026",
+      "title": "IPA「情報セキュリティ10大脅威 2026」",
+      "body": "組織向けではランサム攻撃が1位。2026年は「AIの利用をめぐるサイバーリスク」が初選出で3位となりました。順位暗記ではなく、自組織の環境に照らして脅威と対策を考える資料として使います。",
+      "source_name": "IPA",
+      "source_url": "https://www.ipa.go.jp/security/10threats/10threats2026.html"
+    },
+    {
+      "id": "sec-current-03",
+      "label": "犯罪・被害",
+      "state": "2026-09",
+      "title": "警察庁はサイバー空間の脅威情勢を継続公表",
+      "body": "警察庁は2026年9月10日に「令和8年上半期におけるサイバー空間をめぐる脅威の情勢等について」を公表しました。犯罪手口や被害情勢は固定教材だけでなく、最新の公的資料で追います。",
+      "source_name": "警察庁",
+      "source_url": "https://www.npa.go.jp/news/release/index.html"
+    },
+    {
+      "id": "sec-current-04",
+      "label": "国の戦略",
+      "state": "2026",
+      "title": "国家レベルのサイバー政策も更新される",
+      "body": "サイバーセキュリティ戦略本部は2026年7月31日に「サイバーセキュリティ2026」などを決定しています。学校に直接適用される個別ルールとは分けつつ、国全体の政策・脅威認識を確認する発生源として追います。",
+      "source_name": "国家サイバー統括室",
+      "source_url": "https://www.cyber.go.jp/council/cs/index.html"
+    }
+  ],
+  "watch_sources": [
+    {
+      "name": "文部科学省 教育情報セキュリティポリシー",
+      "url": "https://www.mext.go.jp/a_menu/shotou/zyouhou/detail/1397369.htm"
+    },
+    {
+      "name": "IPA 情報セキュリティ10大脅威",
+      "url": "https://www.ipa.go.jp/security/10threats/index.html"
+    },
+    {
+      "name": "警察庁 サイバー関連報道",
+      "url": "https://www.npa.go.jp/news/release/index.html"
+    },
+    {
+      "name": "国家サイバー統括室 新着情報",
+      "url": "https://www.cyber.go.jp/news/list"
+    }
+  ]
+}
