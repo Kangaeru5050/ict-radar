@@ -38,9 +38,16 @@ async function loadDailyQuiz(){
 }
 loadDailyQuiz();
 
-const scenes={wifi:["Wi-Fiにつながらない","端末だけか、教室全体か、校内全体かを分けます。電波、接続、IP、DNS、認証へと順に確認し、変更権限がない設定は勝手に触らず担当へつなぎます。"],app:["新しいアプリを使いたい","見るだけか、アカウント登録するか、ダウンロードするか、データをアップロードするかを分けます。規約、年齢、入力情報、権限、所属組織のルールを確認します。"],ai:["生成AIを授業で使いたい","技術的に使えることと、学校で使ってよいことを分けます。サービスの規約・年齢条件、入力する情報、著作権、学校や設置者のルールを確認します。"],account:["新年度になった","進級・卒業・異動で、アカウント、所属、権限、名簿、共有設定、端末の紐付けが変わります。『去年のまま』を残さないことが基本です。"],photo:["子どもの写真を扱いたい","何の目的で、誰が見られる場所に、どのサービスを使って出すのかを分けます。個人情報、公開範囲、権利、同意や校内ルールを確認します。"],unknown:["何から勉強すればいい？","まず、ネットワーク／セキュリティ／アカウント／個人情報／著作権／教育政策の6領域を薄く一周します。その後、今日のクイズで『曖昧だったところ』から深掘りします。"]};
+const scenes={
+ wifi:{title:"Wi-Fiにつながらない",text:"まず『誰に・どこで・何が・いつから』を確認します。電波、接続、IP設定、DNS、サービス、認証を一括りにせず、正常な端末と比較して原因範囲を絞ります。",link:"network.html",label:"ネットワークの基礎へ"},
+ app:{title:"新しいアプリを使いたい",text:"見るだけか、登録するか、ダウンロードするか、データを送るかを分けます。利用規約、年齢条件、要求権限、入力情報、学校の承認手続を確認します。",link:"account.html",label:"アカウント・クラウドの基礎へ"},
+ ai:{title:"生成AIを授業で使いたい",text:"『使える』と『使ってよい』を分けます。サービス条件、入力する個人情報・著作物、出力の確認、学校や設置者のルールを順に見ます。",link:"policy.html",label:"教育ICT・一次情報の基礎へ"},
+ account:{title:"新年度になった",text:"進級・卒業・転出入・異動で、アカウント、所属、権限、共有設定、端末の紐付けが変わります。作成から停止・削除までを一つのライフサイクルとして確認します。",link:"account.html",label:"アカウント・クラウドの基礎へ"},
+ photo:{title:"子どもの写真を扱いたい",text:"目的、公開範囲、利用サービス、写真に含まれる情報を分けます。個人情報・プライバシー・肖像に関する利益・著作権等を一つの問題として片付けません。",link:"privacy.html",label:"個人情報・教育データの基礎へ"},
+ unknown:{title:"ICT担当になった・基礎から学びたい",text:"ネットワーク、セキュリティ、アカウント・クラウド、個人情報・教育データ、著作権、教育ICT・一次情報の6領域を薄く一周します。その後、12問診断で曖昧なところを見つけます。",link:"#learn",label:"6つの基礎を見る"}
+};
 const answer=document.getElementById("sceneAnswer");
-document.querySelectorAll(".scene-card").forEach(b=>b.addEventListener("click",()=>{const [h,p]=scenes[b.dataset.scene];answer.innerHTML="<h3>"+h+"</h3><p>"+p+"</p>";answer.hidden=false;answer.scrollIntoView({behavior:"smooth",block:"nearest"})}));
+document.querySelectorAll(".scene-card").forEach(b=>b.addEventListener("click",()=>{const s=scenes[b.dataset.scene];answer.innerHTML="<h3>"+s.title+"</h3><p>"+s.text+"</p><a class=\"button\" href=\""+s.link+"\">"+s.label+" →</a>";answer.hidden=false;answer.scrollIntoView({behavior:"smooth",block:"nearest"})}));
 
 function esc(s){return String(s??"").replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[m]))}
 function formatRadarDate(value){
