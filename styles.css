@@ -61,3 +61,18 @@
 .communication-map-block h3{font-size:25px;margin:3px 0 7px}.communication-map-block>p:not(.eyebrow){font-size:13px;color:var(--muted);max-width:760px}
 @media(max-width:900px){.model-compare{grid-template-columns:1fr}.seven-grid{grid-template-columns:repeat(2,1fr)}.seven-grid article:last-child{grid-column:auto}.web-figure-head{display:block}.web-figure-head>p{margin-top:10px;max-width:none}}
 @media(max-width:600px){.web-figure{margin-left:-10px;margin-right:-10px;border-radius:16px}.seven-grid{grid-template-columns:1fr}.figure-note{grid-template-columns:1fr;gap:4px}.seven-summary{display:block}.seven-summary p{margin-top:6px}.zt-flow{grid-template-columns:1fr}.zt-flow i{transform:rotate(90deg)}.zt-flow div:nth-of-type(n),.zt-flow i:nth-of-type(n){grid-row:auto}}
+
+
+/* Illustrated network guides */
+.network-illustrations{display:grid;gap:22px;margin:30px 0 40px}
+.network-illustration{margin:0;background:#fff;border:1px solid var(--line);border-radius:22px;padding:clamp(12px,2vw,20px);box-shadow:0 8px 30px rgba(23,33,27,.035)}
+.illustration-label{display:flex;align-items:center;gap:10px;margin:0 2px 13px}
+.illustration-label span{font-size:10px;font-weight:900;letter-spacing:.08em;color:var(--green);background:var(--pale);border-radius:999px;padding:5px 8px}
+.illustration-label strong{font-size:14px}
+.illustration-link{display:block;border-radius:15px;overflow:hidden;background:#f7faf8;border:1px solid #e3ebe6;cursor:zoom-in}
+.illustration-link img{display:block;width:100%;height:auto}
+.illustration-link:focus{outline:3px solid #8fc5a6;outline-offset:3px}
+.network-illustration figcaption{font-size:11px;line-height:1.7;color:var(--muted);padding:10px 4px 0}
+.figure-reading{display:grid;grid-template-columns:130px 1fr;gap:16px;align-items:start;background:#fff7d9;border-radius:14px;padding:15px 18px}
+.figure-reading b{font-size:12px;color:#8a6200}.figure-reading p{font-size:12px;color:#5d5847;margin:0;line-height:1.8}
+@media(max-width:600px){.network-illustration{margin-left:-10px;margin-right:-10px;border-radius:16px;padding:9px}.illustration-label{align-items:flex-start;flex-direction:column;gap:5px}.figure-reading{grid-template-columns:1fr;gap:4px}.network-illustration figcaption{font-size:10px}}
