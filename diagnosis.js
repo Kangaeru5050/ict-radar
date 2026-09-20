@@ -23,7 +23,7 @@ function renderQuestion(){
    body+='<label class="diag-written"><span>あなたの考え</span><textarea id="writtenAnswer" rows="10" placeholder="5つの観点について、自分の言葉で整理してください。">'+esc(a.note)+'</textarea></label>';
  }else{
    body+='<div class="diag-options">'+q.options.map(([v,l])=>'<label><input type="'+(multi?"checkbox":"radio")+'" name="choice" value="'+v+'" '+(a.selected.includes(v)?"checked":"")+'><span><b>'+v+'.</b> '+esc(l)+'</span></label>').join("")+'</div>';
-   if(q.form.includes("短答"))body+='<label class="diag-written compact"><span>考え方メモ（任意・自動採点対象外）</span><textarea id="writtenAnswer" rows="3">'+esc(a.note)+'</textarea></label>';
+   body+='<label class="diag-written compact reflection-note"><span>迷ったこと・選んだ理由・知っていること（任意）</span><textarea id="writtenAnswer" rows="4" placeholder="例：BとCで迷った。以前は○○と習った気がする。学校では△△の場面で使っている。">'+esc(a.note)+'</textarea><small>ここは正誤判定には使いません。結果画面で、自分の考えと正答を並べて振り返れます。</small></label>';
  }
  body+='<fieldset class="confidence"><legend>この回答への確信度</legend><label><input type="radio" name="confidence" value="sure" '+(a.confidence==="sure"?"checked":"")+'>確信している</label><label><input type="radio" name="confidence" value="unsure" '+(a.confidence==="unsure"?"checked":"")+'>迷いがある</label><label><input type="radio" name="confidence" value="guess" '+(a.confidence==="guess"?"checked":"")+'>勘・ほぼ分からない</label></fieldset><p id="diagError" class="diag-error" hidden></p><div class="diag-nav">'+(idx?'<button id="prevQ" class="button" type="button">← 前へ</button>':'<span></span>')+'<button id="nextQ" class="button primary" type="button">'+(idx===active.length-1?"診断結果を見る":"次へ →")+'</button></div></article>';
  $("#diagnosisQuestion").innerHTML=body;
@@ -52,7 +52,8 @@ function answerCompare(x){
    +'<div class="answer-box mine"><span>あなたの回答</span><strong>'+esc(mine)+'</strong></div>'
    +'<div class="answer-box confidence-box"><span>そのときの確信度</span><strong>'+esc(conf)+'</strong></div>'
    +'<div class="answer-box correct"><span>正答</span><strong>'+esc(correct)+'</strong></div>'
-   +'</div>';
+   +'</div>'
+   +(x.a.note?'<div class="reflection-result"><span>あなたの説明・迷ったこと</span><p>'+esc(x.a.note).replace(/\n/g,"<br>")+'</p></div>':'<div class="reflection-result empty"><span>あなたの説明・迷ったこと</span><p>記述なし</p></div>');
 }
 function learningLink(q){
  const securityDomains=["暗号","公開鍵暗号","電子署名","完全性・ハッシュ","TLS・証明書","ID・アクセス管理","セキュリティ","認証・サービス評価"];
