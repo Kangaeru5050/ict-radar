@@ -41,6 +41,24 @@ if questions:
     if len(questions)!=48:
         errors.append(f"diagnosis: expected 48 questions, found {len(questions)}")
 
+
+# B-area free 12-question diagnosis
+bp=DATA/"diagnosis-b12.json"
+try:
+    b=json.loads(bp.read_text(encoding="utf-8"))
+    if not isinstance(b,list) or len(b)!=12:
+        errors.append(f"diagnosis-b12: expected 12 questions, found {len(b) if isinstance(b,list) else 'non-array'}")
+    else:
+        ids=[q.get("id") for q in b]
+        if len(ids)!=len(set(ids)): errors.append("diagnosis-b12: duplicate question IDs")
+        for q in b:
+            for field in ("id","title","prompt","options","correct","domain","cognition","knowledge_type","key_explanation"):
+                if field not in q or q[field] in ("",None): errors.append(f"diagnosis-b12: {q.get('id','?')} missing {field}")
+            option_ids={x[0] for x in q.get("options",[])}
+            if not set(q.get("correct",[])).issubset(option_ids): errors.append(f"diagnosis-b12: {q.get('id','?')} correct answer not in options")
+except Exception as e:
+    errors.append(f"diagnosis-b12: {e}")
+
 if errors:
     print("\nVALIDATION FAILED")
     for e in errors: print("-",e)
