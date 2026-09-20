@@ -111,43 +111,28 @@
       </article>
     </div>
 
-    <div class="beginner-story">
+    <figure class="network-illustration invisible-network-figure">
+      <div class="illustration-label"><span>図解 3</span><strong>見えない通信を、見えるようにしてみる</strong></div>
+      <a class="illustration-link" href="みえない通信をみてみよう.png" target="_blank" rel="noopener" aria-label="タブレットからクラウドまでの見えない通信を可視化した図解を大きく開く">
+        <img src="みえない通信をみてみよう.png" alt="学校のタブレットからWi-Fi、アクセスポイント、校内LAN、ルーターやファイアウォール、インターネットや閉域網を経てクラウドサービスへ届くまでを可視化し、Wi-Fi・Bluetooth・Wi-Fi Directの違いや障害時の見え方も示した図解" width="1536" height="1024" loading="lazy">
+      </a>
+      <figcaption>無線になってネットワークがなくなったのではありません。最初の「線」が目に見えなくなっただけです。図をクリックすると大きく表示できます。</figcaption>
+    </figure>
+
+    <div class="beginner-story compact-story">
       <div class="story-head">
-        <p class="eyebrow">PUT THEM TOGETHER</p>
-        <h4>登場人物は分かった。では、どうつながっている？</h4>
-        <p>たとえば、学校のタブレットでブラウザを開き、クラウド教材を使う場面を考えます。下は通信の厳密なパケット順序ではなく、<strong>「使える状態になるために、何が働いているか」</strong>を初心者向けに整理したものです。</p>
+        <p class="eyebrow">READ THE PICTURE</p>
+        <h4>この図で、まず3つだけ分かれば大丈夫</h4>
+        <p>細かな用語を全部覚える前に、「何と何がつながっているか」を頭の中に描けることを目標にします。</p>
       </div>
-
-      <div class="story-steps">
-        <article>
-          <span class="story-no">1</span><span class="story-icon" aria-hidden="true">📶</span>
-          <div><h5>まず、学校のWi-Fiにつながる</h5><p>端末は近くの<strong>AP</strong>を通して、校内ネットワークに参加します。</p><b>ここで止まると</b><small>Wi-Fi自体につながらない／特定の教室だけつながりにくい</small></div>
-        </article>
-        <article>
-          <span class="story-no">2</span><span class="story-icon" aria-hidden="true">🏷️</span>
-          <div><h5>通信に必要な「自分の情報」をもらう</h5><p><strong>DHCP</strong>などから、IPアドレス・ゲートウェイ・DNSといった通信設定を受け取ります。IPアドレスは、ネットワーク上で端末を区別するための番号です。</p><b>ここで止まると</b><small>Wi-Fiマークは出ても、その先へ正しく通信できないことがある</small></div>
-        </article>
-        <article>
-          <span class="story-no">3</span><span class="story-icon" aria-hidden="true">🔎</span>
-          <div><h5>行きたいサービスの「行き先」を調べる</h5><p>人が入力したWebサイト名を、<strong>DNS</strong>が通信先のIPアドレスに対応づけます。いわば「名前から行き先を調べる」役目です。</p><b>ここで止まると</b><small>通信できる経路があっても、名前でWebサイトを開けないことがある</small></div>
-        </article>
-        <article>
-          <span class="story-no">4</span><span class="story-icon" aria-hidden="true">🚪</span>
-          <div><h5>校内から、目的のネットワークへ進む</h5><p><strong>スイッチやLAN</strong>で校内を通り、必要に応じて<strong>ゲートウェイ／ルーター</strong>から外部や別ネットワークへ進みます。</p><b>ここで止まると</b><small>校内の一部だけ、または校外のサービスだけ使えないことがある</small></div>
-        </article>
-        <article>
-          <span class="story-no">5</span><span class="story-icon" aria-hidden="true">☁️</span>
-          <div><h5>クラウドサービスに届く</h5><p>ここまで来て、ようやく目的のWebサイトや学習アプリなどの<strong>サービス</strong>と通信できます。</p><b>ここで止まると</b><small>他のWebサイトは使えるのに、そのサービスだけ使えないことがある</small></div>
-        </article>
-        <article>
-          <span class="story-no">6</span><span class="story-icon" aria-hidden="true">🔐</span>
-          <div><h5>「あなたは誰？」「何をしてよい？」を確認する</h5><p><strong>認証</strong>で利用者を確認し、<strong>認可</strong>で利用できる機能やデータを決めます。IdP・SSO・MFAなども関係します。</p><b>ここで止まると</b><small>サイトは開くのにログインできない／ログインできても必要な機能が使えない</small></div>
-        </article>
+      <div class="picture-points">
+        <article><span>1</span><div><h5>無線は、通信全体の一部分</h5><p>タブレットからAPまでは電波でつながります。その先には、スイッチ、ルーター／FW、校外の回線など、見えない先にも通信の経路が続いています。</p></div></article>
+        <article><span>2</span><div><h5>Wi-Fi ＝ インターネットではない</h5><p>Wi-Fiは端末をネットワークへつなぐ方法の一つです。Wi-Fiにつながっていても、その先の経路やDNS、クラウドサービスなどに問題があれば目的のサービスは使えません。</p></div></article>
+        <article><span>3</span><div><h5>症状は「どこまで届いたか」の手がかり</h5><p>「Wi-Fiが出ない」「Webは開く」「ログイン画面までは出る」など、できていることを確認すると、どこまで正常かを絞って考えられます。</p></div></article>
       </div>
-
       <div class="story-caution">
-        <b>ここが大事</b>
-        <p>「Wi-Fiにつながった」は、1段階目が通ったという情報にすぎません。クラウド教材を使うには、その後にも複数の仕組みが働きます。だから<strong>「ネットがつながらない」を一つの故障として扱わない</strong>ことが切り分けの出発点です。</p>
+        <b>覚え方</b>
+        <p><strong>名前 → 役割 → つながり → 止まったときの見え方</strong>の順で理解します。ここまで見えてから、IPアドレス・DHCP・DNSなどをもう少し正確に学びます。</p>
       </div>
     </div>
 
