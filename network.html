@@ -146,7 +146,7 @@
         <article><span>症状 A</span><b>Wi-Fiマークが出ない</b><p>まず端末とAPの間を疑う。電波、接続先、端末側の設定などを確認する。</p></article>
         <article><span>症状 B</span><b>Wi-Fiマークは出るがWebが開かない</b><p>APより先へ進めているかを見る。IP設定、LAN、外への経路、DNSなどはまだ未確認。</p></article>
         <article><span>症状 C</span><b>他のWebは開くが、1つのサービスだけ開かない</b><p>インターネット全体より、サービス側・フィルタリング・経路など対象を絞って考えられる。</p></article>
-        <article><span>症状 D</span><b>ログイン画面までは開くが入れない</b><p>通信そのものより、アカウント、認証、MFA、権限などを確認する段階に近い。</p></article>
+        <article><span>症状 D</span><b>ログイン画面までは開くが入れない</b><p>アカウントやMFAを確認する。ログイン後に機能を使えない場合は権限も確認する。認証先への通信障害もあり、回線が全面的に正常とは断定しない。</p></article>
       </div>
       <div class="checkpoint-line" aria-label="障害切り分けで確認する範囲">
         <span>端末</span><i>→</i><span>Wi-Fi / AP</span><i>→</i><span>IP設定</span><i>→</i><span>校内LAN</span><i>→</i><span>外への経路</span><i>→</i><span>DNS</span><i>→</i><span>サービス</span><i>→</i><span>認証・権限</span>
@@ -173,29 +173,33 @@
       <div class="give-arrow" aria-hidden="true">→</div>
       <div class="setting-card">
         <div><span>①</span><b>IPアドレス</b><small>このネットワークで<br>自分を区別する番号</small></div>
-        <div><span>②</span><b>サブネット</b><small>どこまでを<br>「同じネットワーク」と見るか</small></div>
+        <div><span>②</span><b>サブネットマスク</b><small>どこまでを<br>「同じネットワーク」と見るか</small></div>
         <div><span>③</span><b>デフォルトゲートウェイ</b><small>外のネットワークへ行くとき<br>まず渡す相手</small></div>
-        <div><span>④</span><b>DNS</b><small>名前から<br>通信先を調べる相手</small></div>
+        <div><span>④</span><b>DNSサーバー</b><small>名前から<br>通信先を調べる相手</small></div>
       </div>
     </div>
-    <p class="kit-note">※実際の環境では設定方法や構成が異なります。ここでは、学校でよく使われるDHCPによる自動設定を入口に仕組みを整理しています。</p>
+    <p class="kit-note">ここではIPv4とDHCPによる自動設定を例にします。IPv6や手動設定など、別の方法もあります。以下の番号は説明用です。実際の端末に入力する設定値ではありません。</p>
   </div>
 
   <div class="foundation-story">
     <article>
       <div class="foundation-visual"><span>①</span><strong>192.168.10.25</strong><small>例：IPアドレス</small></div>
-      <div><p class="eyebrow">WHO AM I?</p><h3>IPアドレス ―「この通信は、どの端末から？」</h3>
-        <p>ネットワークでは、データの送り元や送り先を区別する必要があります。そのために使うのがIPアドレスです。</p>
-        <div class="misconception"><b>ここを誤解しない</b><span>IPアドレスは端末に一生固定された「名前」ではありません。接続するネットワークや設定によって変わることがあります。</span></div>
+      <div><p class="eyebrow">WHO AM I?</p><h3>IPアドレス ―「どこから、どこへ送る？」</h3>
+        <p>同じ教室にタブレットが30台あっても、データを届ける相手を区別しなければなりません。IPアドレスは、通信で使う「住所にあたる番号」です。送る側にも、受け取る側にもあります。</p>
+        <div class="tiny-example"><span>送る側：タブレット</span><b>192.168.10.25</b><span>受け取る側：プリンター</span><b>192.168.10.50</b></div>
+        <p>例えば印刷するときは、プリンターのIPアドレスを宛先にしてデータを送ります。プリンターからの返事は、タブレット側へ戻ります。</p>
+        <div class="misconception"><b>ここを誤解しない</b><span>IPアドレスは人の名前や端末の製造番号ではありません。接続先や設定で変わることがあり、1台が複数持つ場合もあります。ここで使う192.168.…という番号は、別々の学校や家庭でも使われます。</span></div>
         <p class="when-broken"><b>うまく設定できないと：</b>Wi-Fiには接続していても、そのネットワークで正しく通信できないことがあります。</p>
       </div>
     </article>
 
     <article>
-      <div class="foundation-visual"><span>②</span><strong>同じ？ 外？</strong><small>サブネット</small></div>
-      <div><p class="eyebrow">LOCAL OR OUTSIDE?</p><h3>サブネット ―「相手は同じネットワークの中？」</h3>
-        <p>IPアドレスだけでは、「相手が自分と同じネットワークにいるのか、外にいるのか」を判断できません。その範囲を判断するための情報がサブネットです。</p>
-        <div class="tiny-example"><span>同じ範囲の相手</span><b>→ 校内LANの中で届ける</b><span>外の相手</span><b>→ ゲートウェイへ渡す</b></div>
+      <div class="foundation-visual"><span>②</span><strong>同じ？ 外？</strong><small>サブネットマスク</small></div>
+      <div><p class="eyebrow">LOCAL OR OUTSIDE?</p><h3>サブネットマスク ―「どこまでが同じネットワーク？」</h3>
+        <p>分けられたネットワークのまとまりを「サブネット」といいます。IPv4では、自分のIPアドレスと「サブネットマスク」を組み合わせて、相手が同じまとまりにいるかを判断します。</p>
+        <p>例えば、自分が <strong>192.168.10.25</strong>、マスクが <strong>255.255.255.0（/24）</strong> なら、<strong>192.168.10.50</strong> は同じまとまり、<strong>192.168.20.50</strong> は別のまとまりです。このマスクの場合は、先頭の3つの数字で範囲が決まります。</p>
+        <div class="tiny-example"><span>同じサブネットの相手</span><b>→ 相手へ直接届ける</b><span>別のサブネットの相手</span><b>→ ルーターへ渡す</b></div>
+        <p>同じ学校・同じ教室でも、教員用と児童生徒用が別のサブネットの場合があります。「直接」はルーターを経由しないという意味で、APやスイッチは通ります。実際に通信できるかは、接続構成やアクセス制御にもよります。</p>
         <p class="when-broken"><b>設定が合わないと：</b>本来届くはずの相手を「外」と判断するなど、正しい経路を選べなくなることがあります。</p>
       </div>
     </article>
@@ -203,7 +207,7 @@
     <article>
       <div class="foundation-visual"><span>③</span><strong>🚪 → 🌐</strong><small>デフォルトゲートウェイ</small></div>
       <div><p class="eyebrow">HOW DO I GET OUT?</p><h3>デフォルトゲートウェイ ―「外へ行くなら、まずここへ」</h3>
-        <p>目的の相手が自分と同じネットワークにいないとき、端末は外へ向かう通信をゲートウェイへ渡します。学校ではルーターやFWなどが経路上に関係します。</p>
+        <p>別のネットワークへ送るとき、端末は経路の設定を見ます。宛先に合う、より具体的な経路がない場合の渡し先が「デフォルトゲートウェイ」です。例えば、この端末の設定では192.168.10.1がその渡し先になります。</p>
         <div class="misconception"><b>イメージ</b><span>学校から遠くの目的地へ荷物を送りたいとき、まず校外へ出る「出口」に渡す感覚です。</span></div>
         <p class="when-broken"><b>ここへ渡せないと：</b>校内の一部とは通信できても、インターネットや別ネットワークへ進めないことがあります。</p>
       </div>
@@ -221,9 +225,25 @@
 
   <div class="dhcp-summary">
     <div aria-hidden="true">🏷️</div>
-    <div><p class="eyebrow">NOW DHCP MAKES SENSE</p><h3>だから、DHCPが必要になる</h3><p>端末がネットワークに参加するたびに、利用者がIPアドレス・サブネット・ゲートウェイ・DNSを手入力するのは現実的ではありません。DHCPは、こうした通信に必要な設定を自動的に端末へ渡します。</p></div>
-    <div class="dhcp-failure"><b>DHCPで問題が起きると</b><span>「Wi-Fiにはつながった。でも通信に必要な設定を受け取れていない」という状態が起こり得ます。</span></div>
+    <div><p class="eyebrow">NOW DHCP MAKES SENSE</p><h3>DHCPは、この設定をまとめて渡す係</h3><p>30台分の設定を一つずつ入力して管理する負担を減らすために、DHCPを使います。DHCPサーバーが、IPアドレス・サブネットマスク・ゲートウェイ・DNSサーバーなどの設定を端末へ渡します。Webを見るたびにデータがDHCPサーバーを通るわけではありません。</p></div>
+    <div class="dhcp-failure"><b>DHCPで問題が起きると</b><span>新しくつなぐ端末が設定を受け取れないことがあります。一方、取得済みの設定が有効な間は通信を続けられる端末もあり、「全員が同時に止まる」とは限りません。</span></div>
   </div>
+
+
+  <div class="network-example">
+    <div class="example-question"><span>現場で確かめる</span><strong>隣の端末は使えるのに、<br>この端末だけWebが開かない。</strong></div>
+    <div class="example-thinking">
+      <p><b>1 / 接続先を比べる</b>Wi-Fiの名前（SSID）が同じか、同じサービスで同じ症状になるかを確認します。</p>
+      <p><b>2 / 設定を比べる</b>確認する権限の範囲で、IPアドレス・サブネットマスク・ゲートウェイ・DNSサーバーを見ます。IPアドレスは端末ごとに異なるのが通常です。隣の端末の番号をそのままコピーしてはいけません。</p>
+      <p><b>3 / 分かったことを渡す</b>「この端末だけ」「接続先」「表示された設定」「発生時刻」を担当者へ伝えます。症状だけでDHCPサーバーの故障と決めつけず、届くまでの経路や設定も確認してもらいます。</p>
+    </div>
+  </div>
+  <details class="beginner-story">
+    <summary><strong>もう一歩：169.254.…というIPアドレスが出たら？</strong></summary>
+    <p>IPv4の自動設定で、DHCPから設定を得られないときなどに、端末が169.254.…という「リンクローカルアドレス」を自分で付ける場合があります。これは通常、同じリンク内で使うもので、ルーターを越える通信には使いません。</p>
+    <p>つまり「IPアドレスが表示されている＝DHCPで設定を取得できた」ではありません。ただし、この表示だけで原因を確定することもできません。IPv6など別の通信が使える場合もあります。</p>
+    <p>仕組みの出典：<a href="https://www.rfc-editor.org/rfc/rfc2131">DHCP（RFC 2131）</a>、<a href="https://www.rfc-editor.org/rfc/rfc2132">配布する設定（RFC 2132）</a>、<a href="https://www.rfc-editor.org/rfc/rfc3927">IPv4リンクローカル（RFC 3927）</a></p>
+  </details>
 
   <div class="foundation-more">
     <p class="eyebrow">NEXT CONCEPTS</p><h3>ここまで見えたら、次の概念もつながる</h3>
