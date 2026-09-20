@@ -127,3 +127,14 @@
 .symptom-grid p{font-size:10px;line-height:1.7;color:var(--muted);margin:6px 0 0}
 .checkpoint-caption{font-size:10px!important;color:var(--muted);margin:10px 0 0!important}
 @media(max-width:760px){.story-steps,.symptom-grid{grid-template-columns:1fr}.story-caution{grid-template-columns:1fr;gap:4px}}
+
+
+/* Invisible network illustration bridge */
+.invisible-network-figure{margin-top:34px}
+.compact-story{margin-top:16px}
+.picture-points{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin-top:22px}
+.picture-points article{display:grid;grid-template-columns:34px 1fr;gap:10px;align-items:start;background:#f8fbf9;border:1px solid var(--line);border-radius:15px;padding:16px}
+.picture-points article>span{display:grid;place-items:center;width:30px;height:30px;border-radius:50%;background:var(--green);color:#fff;font-size:12px;font-weight:900}
+.picture-points h5{font-size:14px;line-height:1.5;margin:2px 0 6px}
+.picture-points p{font-size:11px;line-height:1.75;color:var(--muted);margin:0}
+@media(max-width:760px){.picture-points{grid-template-columns:1fr}}
