@@ -1,7 +1,42 @@
 {
-  "generated_at": "2026-09-19T20:40:24.806569+00:00",
+  "generated_at": "2026-09-20T04:54:11.582197+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "items": [
+    {
+      "title": "愛知県蟹江町、全小中学校で日本語学習ICT教材「すらら にほんご」を導入。外国ルーツの子供を支援",
+      "url": "https://www.kknews.co.jp/news/20260920o04",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-09-20T01:00:57+00:00",
+      "keywords": [
+        "ICT"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "長崎県立大生がニーズウェルで生成AIインターン データ分析やコード生成を体験",
+      "url": "https://www.kknews.co.jp/news/20260920o01",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-09-20T01:00:56+00:00",
+      "keywords": [
+        "生成AI",
+        "AI",
+        "データ"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "東京都、AIを学べるコンテンツの提供を開始　初心者向けテキスト「便利に使おう編」「安全に使おう編」公開",
+      "url": "https://www.kknews.co.jp/news/20260920o02",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-09-20T01:00:55+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
     {
       "title": "学びのユニバーサルデザインとAIで拓く子供主役の学び　10/10に渋谷でシンポジウムを開催〜みんなのコード",
       "url": "https://www.kknews.co.jp/news/20260919o01",
@@ -67,19 +102,6 @@
       "published": "2026-09-18T00:43:38+00:00",
       "keywords": [
         "CBT"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "文部科学省、MEXCBTシステム改善に関する情報提供依頼（RFI）を9/28まで実施中　2027年度の全面実施に向けた検討",
-      "url": "https://www.kknews.co.jp/news/20260917o01",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-09-16T22:00:54+00:00",
-      "keywords": [
-        "文部科学省",
-        "CBT",
-        "MEXCBT"
       ],
       "status": "auto"
     }
