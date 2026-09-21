@@ -9,7 +9,7 @@
 <body>
 <header class="site-header">
   <a class="brand" href="index.html"><span class="brand-mark">◉</span><span>ICT RADAR</span></a>
-  <nav aria-label="ネットワーク学習メニュー"><a href="#map">地図</a><a href="#foundation">基礎</a><a href="#levels">4段階</a><a href="#diagnose">切り分け</a><a href="#current">最新情報</a><a href="diagnosis.html">12問診断</a></nav>
+  <nav aria-label="ネットワーク学習メニュー"><a href="#map">地図</a><a href="#foundation">基礎</a><a href="#levels">4段階</a><a href="#diagnose">切り分け</a><a href="peripherals.html">外部機器</a><a href="#current">最新情報</a><a href="diagnosis.html">12問診断</a></nav>
 </header>
 <main>
 <section class="topic-hero">
@@ -111,13 +111,22 @@
       </article>
     </div>
 
-    <figure class="network-illustration invisible-network-figure">
-      <div class="illustration-label"><span>図解 3</span><strong>見えない通信を、見えるようにしてみる</strong></div>
-      <a class="illustration-link" href="みえない通信をみてみよう.png" target="_blank" rel="noopener" aria-label="タブレットからクラウドまでの見えない通信を可視化した図解を大きく開く">
-        <img src="みえない通信をみてみよう.png" alt="学校のタブレットからWi-Fi、アクセスポイント、校内LAN、ルーターやファイアウォール、インターネットや閉域網を経てクラウドサービスへ届くまでを可視化し、Wi-Fi・Bluetooth・Wi-Fi Directの違いや障害時の見え方も示した図解" width="1536" height="1024" loading="lazy">
-      </a>
-      <figcaption>無線になってネットワークがなくなったのではありません。最初の「線」が目に見えなくなっただけです。図をクリックすると大きく表示できます。</figcaption>
-    </figure>
+    <div class="internet-path-figure">
+      <div class="illustration-label"><span>通信の地図</span><strong>見えない通信を、見えるようにしてみる</strong></div>
+      <div class="internet-path" aria-label="タブレットからクラウドサービスまでの通信経路">
+        <div><span aria-hidden="true">📱</span><b>端末</b><small>通信の出発点</small></div><i>···</i>
+        <div><span aria-hidden="true">📶</span><b>Wi‑Fi / AP</b><small>無線の入口</small></div><i>→</i>
+        <div><span aria-hidden="true">🔀</span><b>校内LAN</b><small>スイッチ・配線</small></div><i>→</i>
+        <div><span aria-hidden="true">🚪</span><b>ルーター / FW</b><small>外への出口</small></div><i>→</i>
+        <div><span aria-hidden="true">🌐</span><b>回線</b><small>インターネット・閉域網</small></div><i>→</i>
+        <div><span aria-hidden="true">☁️</span><b>クラウド</b><small>使いたいサービス</small></div>
+      </div>
+      <div class="internet-path-note">
+        <b>ここではインターネットまでの道に集中</b>
+        <p>Wi‑Fiは、端末からAPまでの最初の区間です。Bluetooth、専用USBレシーバー、Wi‑Fi Directなどでつながるマウス・イヤホン・プリンタ・提示装置は、別の地図で整理します。</p>
+        <a href="peripherals.html">無線でつながる外部機器を見る →</a>
+      </div>
+    </div>
 
     <div class="beginner-story compact-story">
       <div class="story-head">
