@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="ICT RADAR 無線でつながる外部機器の基礎">
+<title>無線でつながる外部機器 | ICT RADAR</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="site-header">
+  <a class="brand" href="index.html"><span class="brand-mark">◉</span><span>ICT RADAR</span></a>
+  <nav aria-label="外部機器の学習メニュー"><a href="#routes">つながり方</a><a href="#devices">機器別</a><a href="#diagnose">切り分け</a><a href="network.html">ネットワーク</a><a href="diagnosis.html">12問診断</a></nav>
+</header>
+<main>
+<section class="topic-hero peripheral-hero">
+  <p class="eyebrow">ICT BASIC FITNESS / WIRELESS PERIPHERALS</p>
+  <p class="topic-back"><a href="index.html#learn">← 基礎から学ぶ</a></p>
+  <h1>無線でつながる<br>外部機器</h1>
+  <p class="lead">マウス、キーボード、イヤホン、スピーカー、プリンタ、プロジェクター、電子黒板。同じ「無線」でも、端末と直接つながるもの、校内LANを通るもの、クラウドを使うものがあります。</p>
+  <div class="topic-principle"><strong>最初の原則</strong><span>「無線でつながる」だけでは、接続方法は分からない。</span></div>
+</section>
+
+<section id="routes" class="section">
+  <div class="section-head"><div><p class="eyebrow">01 / CONNECTION MAP</p><h2>まず、「どこを通るか」で分ける</h2></div><span class="status">見えない配線図</span></div>
+  <p class="section-intro">機器の名前だけで接続方法を決めつけず、端末から相手までの経路を確認します。インターネットが必要かどうかも、ここで分かれます。</p>
+
+  <div class="peripheral-routes">
+    <article class="route-direct">
+      <div class="route-top"><span>1</span><div><p>DIRECT</p><h3>端末と機器が直接つながる</h3></div></div>
+      <div class="route-picture"><b>端末</b><i>↔</i><b>外部機器</b></div>
+      <p>Bluetooth、専用USBレシーバー、Wi‑Fi Directなど。マウスやイヤホンの基本的な通信では、通常、校内LANやインターネットを通りません。</p>
+      <small>最初に見る：電源／充電／ペアリング／USBレシーバー／接続先</small>
+    </article>
+    <article class="route-lan">
+      <div class="route-top"><span>2</span><div><p>LOCAL NETWORK</p><h3>校内LANを通ってつながる</h3></div></div>
+      <div class="route-picture"><b>端末</b><i>→</i><b>AP・LAN</b><i>→</i><b>外部機器</b></div>
+      <p>ネットワークプリンタや一部の提示装置・受信機など。端末と機器のIP設定、接続先、ネットワーク分離、探索通信の扱いが関係します。</p>
+      <small>最初に見る：同じ接続先／IP設定／他端末から使えるか／校内ルール</small>
+    </article>
+    <article class="route-cloud">
+      <div class="route-top"><span>3</span><div><p>CLOUD / SERVICE</p><h3>インターネットやサービスを介する</h3></div></div>
+      <div class="route-picture"><b>端末</b><i>→</i><b>クラウド</b><i>→</i><b>機器・管理</b></div>
+      <p>専用アプリ、アカウント、クラウド管理を利用する機器もあります。機器との接続に加えて、サービス障害、認証、通信制御も確認対象になります。</p>
+      <small>最初に見る：アプリ／アカウント／サービス状態／外部通信の許可</small>
+    </article>
+  </div>
+
+  <div class="wireless-not-same">
+    <b>ここを混同しない</b>
+    <div><span>Bluetooth ≠ Wi‑Fi</span><span>Wi‑Fi ≠ インターネット</span><span>「無線」≠ すべて同じ仕組み</span></div>
+    <p>たとえば「プロジェクターに無線で映す」と言っても、Wi‑Fi Directで直接つなぐ構成、校内LAN上の受信機を使う構成、専用アプリやクラウドを使う構成があります。</p>
+  </div>
+</section>
+
+<section id="methods" class="section">
+  <div class="section-head"><div><p class="eyebrow">02 / CONNECTION METHODS</p><h2>学校で出会う5つの接続方法</h2></div></div>
+  <div class="method-grid">
+    <article><span>BLUETOOTH</span><h3>Bluetooth</h3><p>端末と近くの機器をペアリングして直接つなぎます。マウス、キーボード、イヤホン、スピーカーなどでよく使われます。</p><b>ネットワーク障害とは分けて考える</b></article>
+    <article><span>USB RECEIVER</span><h3>専用USBレシーバー</h3><p>小さな受信機をUSB端子に挿して、マウスやキーボードと無線通信します。見た目はBluetoothに似ていますが、別の方式です。</p><b>レシーバーの有無と組合せを確認</b></article>
+    <article><span>WI‑FI DIRECT</span><h3>Wi‑Fi Direct</h3><p>APを介さず、端末とプリンタや提示装置などが直接つながります。接続中に学校のWi‑Fiから外れる構成もあります。</p><b>「直接接続」と「校内LAN接続」を区別</b></article>
+    <article><span>SCHOOL LAN</span><h3>校内LAN経由</h3><p>端末と機器がそれぞれ校内ネットワークへ参加し、IP通信でつながります。プリンタや無線提示受信機などで使われます。</p><b>SSIDだけでなく、通信可能な範囲を見る</b></article>
+    <article><span>CAST / APP</span><h3>キャスト・専用アプリ</h3><p>AirPlay、Google Cast、Miracastなどは、製品や構成によって通信経路が異なります。名称だけで経路を決めつけません。</p><b>方式・受信機・必要なネットワークを確認</b></article>
+  </div>
+</section>
+
+<section id="devices" class="section">
+  <div class="section-head"><div><p class="eyebrow">03 / DEVICES AT SCHOOL</p><h2>機器から、あり得る接続方法を読む</h2></div><span class="status">一つとは限らない</span></div>
+  <div class="device-table-wrap">
+    <table class="device-table">
+      <thead><tr><th>外部機器</th><th>主な接続方法</th><th>校内LAN・インターネット</th><th>最初の確認</th></tr></thead>
+      <tbody>
+        <tr><th>マウス・キーボード</th><td>Bluetooth／専用USBレシーバー</td><td>基本操作には通常不要</td><td>電源、電池、ペアリング、レシーバー、接続先</td></tr>
+        <tr><th>イヤホン・スピーカー</th><td>Bluetooth／専用送受信機</td><td>音声転送自体には通常不要</td><td>充電、ペアリング、音量、ミュート、音声出力先</td></tr>
+        <tr><th>プロジェクター・電子黒板</th><td>Wi‑Fi Direct／校内LAN／無線受信機／専用アプリ</td><td>構成によって必要</td><td>接続方式、入力切替、受信機、同じネットワーク、アプリ</td></tr>
+        <tr><th>プリンタ・複合機</th><td>校内LAN／Wi‑Fi Direct／専用アプリ・クラウド</td><td>方式によって必要</td><td>接続先、IP、印刷先、キュー、用紙・エラー表示</td></tr>
+        <tr><th>カメラ・書画カメラ</th><td>専用無線／Wi‑Fi／USB受信機</td><td>構成によって必要</td><td>受信機、アプリ、映像入力、カメラ権限、充電</td></tr>
+      </tbody>
+    </table>
+  </div>
+  <p class="table-note">同じ製品分類でも接続方式は機種・設定・自治体の構成で異なります。製品名と型番、現在の接続方法を確認してから切り分けます。</p>
+</section>
+
+<section id="diagnose" class="section">
+  <div class="section-head"><div><p class="eyebrow">04 / DIAGNOSE</p><h2>「無線機器が使えない」を6つに分ける</h2></div><span class="status">学校ICTの一次切り分け</span></div>
+  <div class="peripheral-checks">
+    <article><span>1</span><h3>電源は入っている？</h3><p>充電、電池、電源ランプ、スリープ、物理スイッチを確認します。</p></article>
+    <article><span>2</span><h3>何方式でつなぐ？</h3><p>Bluetooth、USBレシーバー、Wi‑Fi Direct、校内LAN、専用アプリを特定します。</p></article>
+    <article><span>3</span><h3>どこまで正常？</h3><p>その端末だけか、同型機すべてか、別の端末や別の教室では使えるかを比べます。</p></article>
+    <article><span>4</span><h3>相手を選べている？</h3><p>ペアリング先、プリンタ名、提示先、音声出力先、プロジェクターの入力を確認します。</p></article>
+    <article><span>5</span><h3>LANを通る？</h3><p>通る場合は、接続先、IP設定、ネットワーク分離、探索や通信の許可を担当者へ確認します。</p></article>
+    <article><span>6</span><h3>変更してよい？</h3><p>初期化、再ペアリング、機器のネットワーク設定変更は、影響と権限を確認してから行います。</p></article>
+  </div>
+
+  <div class="peripheral-cases">
+    <article><span>CASE 1</span><h3>イヤホンは接続済みなのに音が出ない</h3><p>Bluetooth全体の故障と決めず、音量・ミュート・再生アプリ・音声出力先を確認します。</p></article>
+    <article><span>CASE 2</span><h3>提示装置が一覧に出てこない</h3><p>直接接続か校内LAN経由かを確認し、受信機、入力切替、同じ通信範囲、探索通信の扱いを分けて考えます。</p></article>
+    <article><span>CASE 3</span><h3>プリンタが見つからない</h3><p>Wi‑Fi Directかネットワークプリンタかを確認します。別端末から印刷できるか、登録済みの印刷先が正しいかも比べます。</p></article>
+    <article><span>CASE 4</span><h3>直接接続したらWebが開かなくなった</h3><p>機器のWi‑Fi Directへ接続したことで、学校のWi‑Fiから外れた可能性を確認します。原因を断定せず接続状態を記録します。</p></article>
+  </div>
+
+  <div class="authority-box">
+    <p class="eyebrow">BEFORE RESET</p>
+    <h3>「一度初期化してみる」は、軽い確認ではありません。</h3>
+    <p>ペアリング情報、校内ネットワーク設定、管理設定が消える場合があります。型番、症状、接続方式、正常な機器との違い、確認済み事項を残し、契約・権限の範囲を確認します。</p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="section-head"><div><p class="eyebrow">05 / HANDOFF</p><h2>担当者へ渡す情報</h2></div></div>
+  <div class="handoff-strip">
+    <span>機器名・型番</span><span>端末・OS</span><span>接続方式</span><span>発生場所・時刻</span><span>影響台数</span><span>表示・ランプ</span><span>確認済み事項</span><span>再現条件</span>
+  </div>
+  <div class="distinction"><b>伝え方の例</b><p>「電子黒板に映りません」だけでなく、「3年1組・10時20分、Chromebook 1台から校内LAN経由の受信機が一覧に表示されない。他の2台でも同じ。受信機は起動し、HDMI入力は選択済み」のように、事実をそろえて渡します。</p><a class="button" href="network.html">インターネットまでの通信を学ぶ →</a></div>
+</section>
+</main>
+<footer><strong>ICT RADAR</strong><p>ICT基礎体力トレーニング / 無線でつながる外部機器</p><p class="small">接続方法は機種・構成・所属組織のルールで異なります。設定変更や初期化の前に、権限と影響範囲を確認してください。</p></footer>
+</body>
+</html>
