@@ -248,10 +248,115 @@
   <div class="foundation-more">
     <p class="eyebrow">NEXT CONCEPTS</p><h3>ここまで見えたら、次の概念もつながる</h3>
     <div class="concept-grid compact-concepts">
-      <article><span>05</span><h3>アクセスポイント</h3><p>無線端末をLANへつなぐ入口。Wi-Fiの電波が届くことと、その先の通信が正常なことは別です。</p><b>問い：無線区間だけの問題？</b></article>
+      <article><span>05</span><h3>アクセスポイント</h3><p>無線端末をLANへつなぐ入口。機種名ではなく、カタログの数字を教室の使い方へ置き換えて読みます。</p><b>問い：このAPは、この授業を何台で支えられる？</b><a class="concept-more" href="#access-point">カタログの読み方へ ↓</a></article>
       <article><span>06</span><h3>ルーター / スイッチ</h3><p>スイッチは主にLAN内をつなぎ、ルーターは異なるネットワーク間の経路をつなぎます。</p><b>問い：どの区間まで通信できている？</b></article>
       <article><span>07</span><h3>帯域と遅延</h3><p>一度に運べる量と、応答にかかる時間は別です。同じ「遅い」でも原因の見方が変わります。</p><b>問い：足りないのは容量？ 応答性？</b></article>
       <article><span>08</span><h3>HTTPS</h3><p>Web通信を保護する仕組み。ただし、通信先の内容の正しさや、入力してよい情報まで保証するものではありません。</p><b>問い：通信の保護と情報の妥当性を混同していない？</b></article>
+    </div>
+  </div>
+
+  <div id="access-point" class="ap-guide">
+    <div class="ap-guide-head">
+      <div>
+        <p class="eyebrow">05 / ACCESS POINT</p>
+        <h3>アクセスポイントを、<br>「授業で何台使えるか」まで読む</h3>
+      </div>
+      <p>学校によって機種やメーカーが違っても、見る順番は同じです。カタログの最大値をそのまま採用せず、教室の端末数・同時利用・コンテンツ・周囲の電波まで重ねて判断します。</p>
+    </div>
+
+    <div class="ap-three-numbers">
+      <article>
+        <span>1 / CONNECT</span>
+        <h4>何台を接続状態にできる？</h4>
+        <p>「最大接続台数」「最大クライアント数」は、APが接続情報を保持できる上限の目安です。全台が快適に通信できる台数とは限りません。</p>
+      </article>
+      <article>
+        <span>2 / COMMUNICATE</span>
+        <h4>何台が同時に通信できる？</h4>
+        <p>端末は同じ電波の時間を分け合います。OFDMAやMU-MIMOで効率化できても、各端末がカタログの最大速度で同時に通信できるわけではありません。</p>
+      </article>
+      <article>
+        <span>3 / TEACH</span>
+        <h4>その授業を快適に進められる？</h4>
+        <p>文字中心の教材、画像の多いWeb、動画、双方向会議では必要条件が違います。最後は実際の端末と授業内容で確かめます。</p>
+      </article>
+    </div>
+
+    <div class="ap-warning">
+      <b>最初に区別する</b>
+      <p><strong>最大接続台数 ≠ 快適に同時利用できる台数。</strong>「最大通信速度」も、特定の条件で得られる規格上・製品上の値であり、1台の実測速度や教室全体で使える速度をそのまま示す数字ではありません。</p>
+    </div>
+
+    <div class="ap-catalog">
+      <div class="ap-subhead">
+        <p class="eyebrow">STEP 1 / READ THE CATALOG</p>
+        <h4>カタログでは、この6項目を拾う</h4>
+        <p>見つからない項目は、仕様書・設計ガイド・管理画面の資料も確認します。</p>
+      </div>
+      <div class="ap-spec-grid">
+        <article><b>01</b><h5>周波数帯と無線数</h5><p>2.4GHz・5GHz・6GHzのどれに対応し、同時に使える無線（ラジオ）がいくつあるか。端末側の対応帯域も確認します。</p></article>
+        <article><b>02</b><h5>Wi-Fi規格とストリーム数</h5><p>Wi-Fi 5 / 6 / 6E / 7、空間ストリーム数、アンテナ構成を確認。最大速度は、対応端末・帯域幅・電波状態など条件付きです。</p></article>
+        <article><b>03</b><h5>最大クライアント数</h5><p>AP全体なのか、1無線あたりなのかを確認。これは主に「接続状態を保持できる上限」で、推奨同時利用台数が別に示される場合があります。</p></article>
+        <article><b>04</b><h5>有線ポートの速度</h5><p>1GbE・2.5GbEなど、APからスイッチへ出る口を確認。無線側が速くても、有線側や上位回線が細ければそこで頭打ちになります。</p></article>
+        <article><b>05</b><h5>PoEの条件</h5><p>必要なPoE規格と消費電力を確認。給電が不足すると、一部の無線や機能が制限される機種もあるため、スイッチ側の1ポートと全体の給電容量を見ます。</p></article>
+        <article><b>06</b><h5>機能を使える条件</h5><p>コントローラー、クラウド管理、ライセンス、推奨ソフトウェア版を確認。カタログ掲載機能が現在の構成で有効とは限りません。</p></article>
+      </div>
+    </div>
+
+    <div class="ap-convert">
+      <div class="ap-subhead">
+        <p class="eyebrow">STEP 2 / TURN SPECS INTO A CLASS</p>
+        <h4>次に、数字を「1時間の授業」に置き換える</h4>
+      </div>
+      <div class="ap-workflow">
+        <article>
+          <span>授業の条件</span>
+          <h5>端末は何台？</h5>
+          <p>児童生徒40台＋教員1台なら41台。予備端末や個人端末も接続するなら加えます。隣接教室のAPや端末も同じ電波を使う可能性があります。</p>
+        </article>
+        <i aria-hidden="true">→</i>
+        <article>
+          <span>同時利用</span>
+          <h5>何台が、同じ瞬間に動く？</h5>
+          <p>ログイン、教材配布、動画再生、答案送信など、全員の操作が重なる場面を拾います。普段の平均ではなく、授業中のピークで考えます。</p>
+        </article>
+        <i aria-hidden="true">→</i>
+        <article>
+          <span>通信の重さ</span>
+          <h5>1台あたり何をする？</h5>
+          <p>サービス提供元の帯域要件があれば確認し、なければ実端末で測ります。端末数 × 1台あたりの必要量を出発点に、余裕を持たせます。</p>
+        </article>
+      </div>
+
+      <div class="ap-formula">
+        <div><span>教室で必要な通信量の目安</span><strong>同時に動く端末数 × 1台あたりの必要量</strong></div>
+        <p>これは出発点です。Wi-Fiでは電波の待ち時間、再送、管理用通信、端末の違いが加わります。APだけでなく、有線ポート、スイッチ、校外回線、サービス側の制限も確認します。</p>
+      </div>
+
+      <div class="content-weight">
+        <article><span>LIGHT</span><h5>文字・小テスト</h5><p>通信は小さく断続的。人数より、ログインや一斉送信の瞬間に注目します。</p></article>
+        <article><span>MEDIUM</span><h5>画像・PDF・クラウド教材</h5><p>ページを開く瞬間に通信が集中。ファイル容量と一斉配布の方法を見ます。</p></article>
+        <article><span>HEAVY</span><h5>全員で動画</h5><p>継続して下り通信を使います。画質、自動調整、配信方式を確認します。</p></article>
+        <article><span>TWO-WAY</span><h5>双方向の映像・音声</h5><p>下りだけでなく上り、遅延、揺らぎ、パケット損失も授業の体感に影響します。</p></article>
+      </div>
+    </div>
+
+    <div class="ap-verify">
+      <div class="ap-subhead">
+        <p class="eyebrow">STEP 3 / VERIFY IN THE CLASSROOM</p>
+        <h4>最後は、実際の教室で答え合わせをする</h4>
+      </div>
+      <div class="ap-checks">
+        <article><b>1</b><p><strong>本番と同じ端末・台数・SSID</strong>で、実際に使う教材を開く。</p></article>
+        <article><b>2</b><p>空いている時間だけでなく、<strong>隣の教室も使う時間帯</strong>に確かめる。</p></article>
+        <article><b>3</b><p>速度テストだけでなく、<strong>ログイン完了・教材表示・動画開始までの時間</strong>を見る。</p></article>
+        <article><b>4</b><p>確認できる権限があれば、<strong>接続台数・チャネル利用率・再送・電波強度</strong>を管理画面で記録する。</p></article>
+        <article><b>5</b><p>一度の成功で決めず、場所と時間を変えて再現性を確認し、<strong>設定を変える前に結果を担当者へ渡す</strong>。</p></article>
+      </div>
+      <div class="ap-conclusion">
+        <span>カタログ</span><i>→</i><span>教室条件</span><i>→</i><span>実測</span>
+        <strong>この3つがそろって、初めて「授業で何台使えるか」を説明できます。</strong>
+      </div>
     </div>
   </div>
 </section>
