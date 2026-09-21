@@ -2,26 +2,138 @@
 <html lang="ja">
 <head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<meta name="description" content="ICT RADAR 無線でつながる外部機器の基礎">
-<title>無線でつながる外部機器 | ICT RADAR</title>
+<meta name="description" content="ICT RADAR 学校で使う外部機器の基礎">
+<title>学校で使う外部機器 | ICT RADAR</title>
 <link rel="stylesheet" href="styles.css">
 </head>
 <body>
 <header class="site-header">
   <a class="brand" href="index.html"><span class="brand-mark">◉</span><span>ICT RADAR</span></a>
-  <nav aria-label="外部機器の学習メニュー"><a href="#routes">つながり方</a><a href="#devices">機器別</a><a href="#cables">ケーブル</a><a href="#sound">音・遅延</a><a href="#diagnose">切り分け</a><a href="network.html">ネットワーク</a><a href="diagnosis.html">12問診断</a></nav>
+  <nav aria-label="外部機器の学習メニュー"><a href="#classroom">教室マップ</a><a href="#routes">つながり方</a><a href="#devices">機器別</a><a href="#cables">ケーブル</a><a href="#sound">音・遅延</a><a href="#diagnose">切り分け</a><a href="network.html">ネットワーク</a><a href="diagnosis.html">12問診断</a></nav>
 </header>
 <main>
 <section class="topic-hero peripheral-hero">
-  <p class="eyebrow">ICT BASIC FITNESS / WIRELESS PERIPHERALS</p>
+  <p class="eyebrow">ICT BASIC FITNESS / SCHOOL PERIPHERALS</p>
   <p class="topic-back"><a href="index.html#learn">← 基礎から学ぶ</a></p>
-  <h1>無線でつながる<br>外部機器</h1>
-  <p class="lead">マウス、キーボード、イヤホン、スピーカー、プリンタ、プロジェクター、電子黒板。同じ「無線」でも経路は異なり、確実に使うため有線を選ぶ場面もあります。信号・端子・ケーブル・接続方向まで、一本の地図として理解します。</p>
-  <div class="topic-principle"><strong>最初の原則</strong><span>「無線でつながる」だけでは、接続方法は分からない。</span></div>
+  <h1>学校で使う<br>外部機器</h1>
+  <p class="lead">電子黒板、プロジェクター、書画カメラ、マイク、プリンタ、マウス、ヘッドセット。学校には、映像・音声・入力・記録・印刷を支える多様な外部機器があります。無線と有線を分けず、役割・信号・接続経路から理解します。</p>
+  <div class="topic-principle"><strong>最初の原則</strong><span>機器の名前だけでなく、「何をする機器か」「何を運ぶ接続か」を見る。</span></div>
+</section>
+
+
+<section id="classroom" class="section classroom-section">
+  <div class="section-head"><div><p class="eyebrow">01 / CLASSROOM MAP</p><h2>教室を見渡して、機器を見つける</h2></div><span class="status">代表例</span></div>
+  <p class="section-intro">すべてが同じ教室にあるわけではありません。まず場所と役割から機器を見つけ、次に接続方法を確認します。名称が分からないときも、「何を映す・聞く・入力する機器か」なら説明できます。</p>
+
+  <figure class="classroom-map">
+    <div class="classroom-image">
+      <img src="classroom-devices.svg" alt="電子黒板、プロジェクター、書画カメラ、カメラ、音響機器、プリンタ、充電保管庫、端末、3Dプリンタが置かれた教室">
+      <span class="map-pin pin-1">1</span><span class="map-pin pin-2">2</span><span class="map-pin pin-3">3</span>
+      <span class="map-pin pin-4">4</span><span class="map-pin pin-5">5</span><span class="map-pin pin-6">6</span>
+      <span class="map-pin pin-7">7</span><span class="map-pin pin-8">8</span><span class="map-pin pin-9">9</span>
+      <span class="map-pin pin-10">10</span><span class="map-pin pin-11">11</span><span class="map-pin pin-12">12</span>
+    </div>
+    <figcaption>実際の配置や機種は学校・教室によって異なります。番号は、このページで整理する代表的な機器です。</figcaption>
+  </figure>
+
+  <div class="map-legend" aria-label="教室イラスト内の機器">
+    <span><b>1</b>電子黒板・大型ディスプレイ</span>
+    <span><b>2</b>プロジェクター・スクリーン</span>
+    <span><b>3</b>スピーカー</span>
+    <span><b>4</b>Web・PTZカメラ</span>
+    <span><b>5</b>教員用端末</span>
+    <span><b>6</b>書画カメラ</span>
+    <span><b>7</b>マイク・スピーカーフォン</span>
+    <span><b>8</b>プリンタ・複合機</span>
+    <span><b>9</b>充電保管庫</span>
+    <span><b>10</b>3Dプリンタ</span>
+    <span><b>11</b>児童生徒用端末・入力機器</span>
+    <span><b>12</b>ハブ・変換器・受信機</span>
+  </div>
+
+  <div class="device-stage-key">
+    <span class="stage-common">よくある</span>
+    <span class="stage-varies">学校・教室による</span>
+    <span class="stage-new">新しい導入・専門教室</span>
+  </div>
+
+  <div class="device-inventory">
+    <article>
+      <div class="inventory-icon" aria-hidden="true">▣</div>
+      <h3>見せる・映す</h3>
+      <p>画像、動画、端末画面、実物を教室全体へ提示します。</p>
+      <ul>
+        <li><span class="stage-common">よくある</span>電子黒板／大型ディスプレイ</li>
+        <li><span class="stage-common">よくある</span>プロジェクター／スクリーン</li>
+        <li><span class="stage-common">よくある</span>書画カメラ・実物投影機</li>
+        <li><span class="stage-varies">学校による</span>外部モニター／無線提示受信機</li>
+      </ul>
+    </article>
+    <article>
+      <div class="inventory-icon" aria-hidden="true">♪</div>
+      <h3>聞く・話す</h3>
+      <p>授業の音、発表、オンライン交流の声を入出力します。</p>
+      <ul>
+        <li><span class="stage-common">よくある</span>スピーカー／アンプ</li>
+        <li><span class="stage-common">よくある</span>有線・無線マイク</li>
+        <li><span class="stage-common">よくある</span>イヤホン／ヘッドセット</li>
+        <li><span class="stage-varies">学校による</span>スピーカーフォン／ミキサー</li>
+      </ul>
+    </article>
+    <article>
+      <div class="inventory-icon" aria-hidden="true">⌨</div>
+      <h3>操作する・入力する</h3>
+      <p>文字、指示、手書き、特別な入力方法を端末へ伝えます。</p>
+      <ul>
+        <li><span class="stage-common">よくある</span>マウス／キーボード／タッチペン</li>
+        <li><span class="stage-varies">学校による</span>ペンタブレット／テンキー</li>
+        <li><span class="stage-varies">学校による</span>ゲームコントローラー</li>
+        <li><span class="stage-new">新しい・専門</span>スイッチ／視線入力／代替入力装置</li>
+      </ul>
+    </article>
+    <article>
+      <div class="inventory-icon" aria-hidden="true">●</div>
+      <h3>撮る・記録する・配信する</h3>
+      <p>教室の映像や音、実験・観察結果を取得して共有します。</p>
+      <ul>
+        <li><span class="stage-common">よくある</span>Webカメラ／外付けマイク</li>
+        <li><span class="stage-varies">学校による</span>デジタルカメラ／ビデオカメラ</li>
+        <li><span class="stage-varies">学校による</span>キャプチャ機器／デジタル顕微鏡</li>
+        <li><span class="stage-new">新しい・専門</span>PTZ・AI追尾／360度カメラ</li>
+      </ul>
+    </article>
+    <article>
+      <div class="inventory-icon" aria-hidden="true">▤</div>
+      <h3>印刷する・つくる</h3>
+      <p>紙、ラベル、立体物など、デジタルデータを実物にします。</p>
+      <ul>
+        <li><span class="stage-common">よくある</span>プリンタ／複合機</li>
+        <li><span class="stage-varies">学校による</span>スキャナ／ラベルプリンタ</li>
+        <li><span class="stage-new">新しい・専門</span>3Dプリンタ</li>
+        <li><span class="stage-new">新しい・専門</span>カッティングマシン／レーザー加工機</li>
+      </ul>
+    </article>
+    <article>
+      <div class="inventory-icon" aria-hidden="true">↔</div>
+      <h3>つなぐ・支える</h3>
+      <p>信号、データ、電力を中継し、授業前の準備を支えます。</p>
+      <ul>
+        <li><span class="stage-common">よくある</span>HDMI・USB・音声ケーブル</li>
+        <li><span class="stage-common">よくある</span>USBハブ／変換アダプター</li>
+        <li><span class="stage-varies">学校による</span>ドック／カードリーダー／外部記憶</li>
+        <li><span class="stage-common">よくある</span>充電器／電源タップ／充電保管庫</li>
+      </ul>
+    </article>
+  </div>
+
+  <div class="classroom-reading-rule">
+    <b>支援員の見方</b>
+    <p>「これは何という製品ですか」より先に、①何をする機器か、②どの端末とつながるか、③映像・音声・データ・電力の何を運ぶか、④有線か無線か、を確認します。</p>
+  </div>
 </section>
 
 <section id="routes" class="section">
-  <div class="section-head"><div><p class="eyebrow">01 / CONNECTION MAP</p><h2>まず、「どこを通るか」で分ける</h2></div><span class="status">見えない配線図</span></div>
+  <div class="section-head"><div><p class="eyebrow">02 / CONNECTION MAP</p><h2>まず、「どこを通るか」で分ける</h2></div><span class="status">見えない配線図</span></div>
   <p class="section-intro">機器の名前だけで接続方法を決めつけず、端末から相手までの経路を確認します。インターネットが必要かどうかも、ここで分かれます。</p>
 
   <div class="peripheral-routes">
@@ -53,7 +165,7 @@
 </section>
 
 <section id="methods" class="section">
-  <div class="section-head"><div><p class="eyebrow">02 / CONNECTION METHODS</p><h2>学校で出会う5つの接続方法</h2></div></div>
+  <div class="section-head"><div><p class="eyebrow">03 / CONNECTION METHODS</p><h2>学校で出会う5つの接続方法</h2></div></div>
   <div class="method-grid">
     <article><span>BLUETOOTH</span><h3>Bluetooth</h3><p>端末と近くの機器をペアリングして直接つなぎます。マウス、キーボード、イヤホン、スピーカーなどでよく使われます。</p><b>ネットワーク障害とは分けて考える</b></article>
     <article><span>USB RECEIVER</span><h3>専用USBレシーバー</h3><p>小さな受信機をUSB端子に挿して、マウスやキーボードと無線通信します。見た目はBluetoothに似ていますが、別の方式です。</p><b>レシーバーの有無と組合せを確認</b></article>
@@ -64,7 +176,7 @@
 </section>
 
 <section id="devices" class="section">
-  <div class="section-head"><div><p class="eyebrow">03 / DEVICES AT SCHOOL</p><h2>機器から、あり得る接続方法を読む</h2></div><span class="status">一つとは限らない</span></div>
+  <div class="section-head"><div><p class="eyebrow">04 / DEVICES AT SCHOOL</p><h2>機器から、あり得る接続方法を読む</h2></div><span class="status">一つとは限らない</span></div>
   <div class="device-table-wrap">
     <table class="device-table">
       <thead><tr><th>外部機器</th><th>主な接続方法</th><th>校内LAN・インターネット</th><th>最初の確認</th></tr></thead>
@@ -81,7 +193,7 @@
 </section>
 
 <section id="cables" class="section">
-  <div class="section-head"><div><p class="eyebrow">04 / SIGNAL &amp; CABLE</p><h2>ケーブルは、「何を運ぶか」で選ぶ</h2></div><span class="status">形が合うだけでは足りない</span></div>
+  <div class="section-head"><div><p class="eyebrow">05 / SIGNAL &amp; CABLE</p><h2>ケーブルは、「何を運ぶか」で選ぶ</h2></div><span class="status">形が合うだけでは足りない</span></div>
   <p class="section-intro">端子が挿さっても、必要な信号を運べなければ使えません。まず、出したいものが映像・音声・データ・電力のどれかを確認します。</p>
 
   <div class="signal-map">
@@ -138,7 +250,7 @@
 </section>
 
 <section id="sound" class="section">
-  <div class="section-head"><div><p class="eyebrow">05 / SOUND &amp; LATENCY</p><h2>音が遅れる、回る、出ない理由</h2></div><span class="status">接続後の現象を分ける</span></div>
+  <div class="section-head"><div><p class="eyebrow">06 / SOUND &amp; LATENCY</p><h2>音が遅れる、回る、出ない理由</h2></div><span class="status">接続後の現象を分ける</span></div>
 
   <div class="sound-concepts">
     <article class="feedback-card">
@@ -174,7 +286,7 @@
 </section>
 
 <section id="diagnose" class="section">
-  <div class="section-head"><div><p class="eyebrow">06 / DIAGNOSE</p><h2>「無線機器が使えない」を6つに分ける</h2></div><span class="status">学校ICTの一次切り分け</span></div>
+  <div class="section-head"><div><p class="eyebrow">07 / DIAGNOSE</p><h2>「外部機器が使えない」を6つに分ける</h2></div><span class="status">学校ICTの一次切り分け</span></div>
   <div class="peripheral-checks">
     <article><span>1</span><h3>電源は入っている？</h3><p>充電、電池、電源ランプ、スリープ、物理スイッチを確認します。</p></article>
     <article><span>2</span><h3>何方式でつなぐ？</h3><p>Bluetooth、USBレシーバー、Wi‑Fi Direct、校内LAN、専用アプリを特定します。</p></article>
@@ -199,13 +311,13 @@
 </section>
 
 <section class="section">
-  <div class="section-head"><div><p class="eyebrow">07 / HANDOFF</p><h2>担当者へ渡す情報</h2></div></div>
+  <div class="section-head"><div><p class="eyebrow">08 / HANDOFF</p><h2>担当者へ渡す情報</h2></div></div>
   <div class="handoff-strip">
     <span>機器名・型番</span><span>端末・OS</span><span>接続方式</span><span>発生場所・時刻</span><span>影響台数</span><span>表示・ランプ</span><span>確認済み事項</span><span>再現条件</span>
   </div>
   <div class="distinction"><b>伝え方の例</b><p>「電子黒板に映りません」だけでなく、「3年1組・10時20分、Chromebook 1台から校内LAN経由の受信機が一覧に表示されない。他の2台でも同じ。受信機は起動し、HDMI入力は選択済み」のように、事実をそろえて渡します。</p><a class="button" href="network.html">インターネットまでの通信を学ぶ →</a></div>
 </section>
 </main>
-<footer><strong>ICT RADAR</strong><p>ICT基礎体力トレーニング / 無線でつながる外部機器</p><p class="small">接続方法は機種・構成・所属組織のルールで異なります。設定変更や初期化の前に、権限と影響範囲を確認してください。</p></footer>
+<footer><strong>ICT RADAR</strong><p>ICT基礎体力トレーニング / 学校で使う外部機器</p><p class="small">接続方法は機種・構成・所属組織のルールで異なります。設定変更や初期化の前に、権限と影響範囲を確認してください。</p></footer>
 </body>
 </html>
