@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kangaeru5050.github.io/ict-radar/sitemap.xml
