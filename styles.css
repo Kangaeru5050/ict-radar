@@ -349,3 +349,30 @@
   .device-inventory li{display:block}
   .device-inventory li span{margin-right:7px}
 }
+
+
+/* Site map */
+.sitemap-hero{padding-bottom:54px}
+.sitemap-featured{display:grid;grid-template-columns:repeat(2,1fr);gap:16px}
+.sitemap-featured>a{display:block;padding:28px;border:1px solid var(--line);border-radius:20px;background:white;color:var(--ink);text-decoration:none;transition:transform .15s ease,border-color .15s ease}
+.sitemap-featured>a:hover,.sitemap-featured>a:focus,.sitemap-links>a:hover,.sitemap-links>a:focus,.sitemap-learning>a:hover,.sitemap-learning>a:focus{border-color:var(--green);transform:translateY(-2px)}
+.sitemap-featured span{font-size:11px;font-weight:900;letter-spacing:.12em;color:var(--green)}
+.sitemap-featured h3{margin:8px 0;font-size:24px}
+.sitemap-featured p{margin:0 0 18px;color:var(--muted);font-size:14px}
+.sitemap-featured b{color:var(--green);font-size:13px}
+.sitemap-links,.sitemap-learning{display:grid;grid-template-columns:repeat(2,1fr);gap:10px}
+.sitemap-links>a,.sitemap-learning>a{display:flex;gap:16px;align-items:flex-start;padding:20px;border:1px solid var(--line);border-radius:16px;background:white;color:var(--ink);text-decoration:none;transition:transform .15s ease,border-color .15s ease}
+.sitemap-links>a>span{flex:0 0 auto;padding:4px 8px;border-radius:999px;background:var(--pale);color:var(--green);font-size:10px;font-weight:900}
+.sitemap-links h3,.sitemap-learning h3{margin:0 0 4px;font-size:18px}
+.sitemap-links p,.sitemap-learning p{margin:0;color:var(--muted);font-size:13px}
+.sitemap-learning>a>span{display:grid;place-items:center;flex:0 0 34px;height:34px;border-radius:10px;background:var(--ink);color:white;font-size:11px;font-weight:900}
+.sitemap-source{display:flex;align-items:center;justify-content:space-between;gap:30px;padding:28px;border:1px solid var(--line);border-radius:20px;background:white}
+.sitemap-source h3{margin:0 0 6px;font-size:22px}
+.sitemap-source p{margin:0;color:var(--muted);max-width:650px}
+.footer-links{display:flex;gap:16px;flex-wrap:wrap;margin:14px 0}
+.footer-links a{color:var(--green);font-size:13px;font-weight:800;text-decoration:none}
+@media(max-width:760px){
+  .sitemap-featured,.sitemap-links,.sitemap-learning{grid-template-columns:1fr}
+  .sitemap-source{display:block}
+  .sitemap-source .button{margin-top:18px}
+}
