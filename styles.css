@@ -245,3 +245,39 @@
 .ap-conclusion span{font-size:11px;font-weight:900;background:#fff;border-radius:999px;padding:6px 10px}.ap-conclusion i{font-style:normal;color:var(--green);font-weight:900}.ap-conclusion strong{width:100%;font-size:12px;margin-top:3px}
 @media(max-width:900px){.ap-spec-grid{grid-template-columns:repeat(2,1fr)}.content-weight{grid-template-columns:repeat(2,1fr)}}
 @media(max-width:700px){.ap-guide{margin-left:-10px;margin-right:-10px;padding:20px 14px;border-radius:18px}.ap-guide-head{grid-template-columns:1fr;gap:12px}.ap-three-numbers,.ap-spec-grid,.content-weight,.ap-checks{grid-template-columns:1fr}.ap-warning{grid-template-columns:1fr;gap:4px}.ap-workflow{grid-template-columns:1fr}.ap-workflow i{transform:rotate(90deg);text-align:center}.ap-formula{grid-template-columns:1fr;gap:8px}}
+
+
+/* Network-only path map */
+.internet-path-figure{margin:34px 0 0;background:#fff;border:1px solid var(--line);border-radius:22px;padding:clamp(16px,3vw,26px);box-shadow:0 8px 30px rgba(23,33,27,.035)}
+.internet-path{display:flex;align-items:stretch;gap:7px;overflow-x:auto;padding:9px 0 17px}
+.internet-path>div{display:flex;flex-direction:column;align-items:center;justify-content:center;min-width:116px;min-height:112px;padding:13px 10px;text-align:center;background:#f7faf8;border:1px solid var(--line);border-radius:14px}
+.internet-path>div>span{font-size:25px}.internet-path b,.internet-path small{display:block}.internet-path b{font-size:12px;margin-top:5px}.internet-path small{font-size:9px;color:var(--muted);margin-top:3px}
+.internet-path>i{align-self:center;color:var(--green);font-style:normal;font-weight:900}
+.internet-path-note{display:grid;grid-template-columns:180px 1fr;gap:6px 16px;padding:14px 16px;background:var(--pale);border-radius:13px}
+.internet-path-note b{font-size:11px;color:var(--green)}.internet-path-note p{font-size:11px;line-height:1.75;color:var(--muted);margin:0}.internet-path-note a{grid-column:2;color:var(--green);font-size:11px;font-weight:900;text-decoration:none}
+
+/* Wireless peripherals guide */
+.peripheral-hero{max-width:940px}
+.peripheral-routes{display:grid;grid-template-columns:repeat(3,1fr);gap:11px;margin:28px 0 14px}
+.peripheral-routes>article{background:#fff;border:1px solid var(--line);border-radius:18px;padding:20px;min-width:0}
+.route-top{display:flex;gap:11px;align-items:flex-start}.route-top>span{display:grid;place-items:center;flex:none;width:31px;height:31px;border-radius:50%;background:var(--green);color:#fff;font-size:11px;font-weight:900}
+.route-top p{font-size:9px;font-weight:900;letter-spacing:.08em;color:var(--green);margin:0}.route-top h3{font-size:17px;line-height:1.45;margin:2px 0 0}
+.route-picture{display:flex;align-items:center;justify-content:center;gap:6px;min-height:78px;margin:16px 0;padding:11px;background:#f7faf8;border-radius:13px;overflow-x:auto}
+.route-picture b{white-space:nowrap;background:#fff;border:1px solid var(--line);border-radius:999px;padding:6px 8px;font-size:10px}.route-picture i{font-style:normal;color:var(--green);font-weight:900}
+.peripheral-routes>article>p{font-size:11px;line-height:1.75;color:var(--muted)}.peripheral-routes>article>small{display:block;padding-top:10px;border-top:1px solid var(--line);font-size:9px;line-height:1.6;color:var(--green);font-weight:800}
+.wireless-not-same{margin-top:12px;padding:19px;background:#fff7d9;border-radius:15px}.wireless-not-same>b{font-size:11px;color:#8a6200}.wireless-not-same>div{display:flex;gap:7px;flex-wrap:wrap;margin:9px 0}
+.wireless-not-same span{background:#fff;border-radius:999px;padding:6px 9px;font-size:10px;font-weight:900}.wireless-not-same p{font-size:11px;line-height:1.75;color:#5d5847;margin:0}
+.method-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:11px}
+.method-grid article{display:flex;flex-direction:column;background:#fff;border:1px solid var(--line);border-radius:16px;padding:19px}.method-grid article>span{font-size:9px;font-weight:900;letter-spacing:.08em;color:var(--green)}
+.method-grid h3{font-size:18px;margin:5px 0}.method-grid p{font-size:11px;line-height:1.75;color:var(--muted);margin:0 0 14px}.method-grid b{display:block;margin-top:auto;padding-top:10px;border-top:1px solid var(--line);font-size:10px}
+.device-table-wrap{overflow-x:auto;background:#fff;border:1px solid var(--line);border-radius:17px}
+.device-table{width:100%;min-width:760px;border-collapse:collapse}.device-table th,.device-table td{padding:14px 15px;border-bottom:1px solid var(--line);text-align:left;vertical-align:top;font-size:11px;line-height:1.65}
+.device-table thead th{background:var(--pale);color:var(--green);font-size:10px}.device-table tbody th{font-size:12px}.device-table tbody tr:last-child th,.device-table tbody tr:last-child td{border-bottom:0}
+.table-note{font-size:10px;color:var(--muted);margin:10px 3px 0}
+.peripheral-checks{display:grid;grid-template-columns:repeat(3,1fr);gap:9px}.peripheral-checks article{background:#fff;border:1px solid var(--line);border-radius:15px;padding:17px}
+.peripheral-checks span{display:grid;place-items:center;width:27px;height:27px;border-radius:50%;background:var(--green);color:#fff;font-size:10px;font-weight:900}.peripheral-checks h3{font-size:15px;margin:9px 0 4px}.peripheral-checks p{font-size:10px;line-height:1.7;color:var(--muted);margin:0}
+.peripheral-cases{display:grid;grid-template-columns:repeat(2,1fr);gap:9px;margin:24px 0}.peripheral-cases article{background:#eef5fa;border:1px solid #d8e6f0;border-radius:15px;padding:18px}
+.peripheral-cases span{font-size:9px;font-weight:900;color:#397fb8}.peripheral-cases h3{font-size:15px;line-height:1.5;margin:6px 0}.peripheral-cases p{font-size:10px;line-height:1.75;color:var(--muted);margin:0}
+.handoff-strip{display:flex;gap:7px;flex-wrap:wrap;padding:18px;background:var(--pale);border-radius:15px}.handoff-strip span{background:#fff;border:1px solid var(--line);border-radius:999px;padding:7px 10px;font-size:10px;font-weight:800}
+@media(max-width:900px){.peripheral-routes,.method-grid,.peripheral-checks{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:650px){.internet-path-note{grid-template-columns:1fr}.internet-path-note a{grid-column:auto}.peripheral-routes,.method-grid,.peripheral-checks,.peripheral-cases{grid-template-columns:1fr}.device-table-wrap{margin-right:-24px;border-radius:14px 0 0 14px}}
