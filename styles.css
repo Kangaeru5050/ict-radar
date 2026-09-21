@@ -305,3 +305,47 @@
 .symptom-cable-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:8px;margin-top:12px}.symptom-cable-grid article{background:#fff;border:1px solid var(--line);border-radius:14px;padding:15px}.symptom-cable-grid span{display:block;font-size:12px;font-weight:900}.symptom-cable-grid p{font-size:10px;line-height:1.7;color:var(--muted);margin:5px 0 0}
 @media(max-width:900px){.signal-map{grid-template-columns:repeat(2,1fr)}.cable-guides>article{grid-template-columns:130px 1fr}.cable-caution{grid-column:1/-1}.wired-choice{grid-template-columns:1fr}}
 @media(max-width:650px){.signal-map,.symptom-cable-grid{grid-template-columns:1fr}.cable-guides>article,.sound-concepts>article{grid-template-columns:1fr}.sound-icon{min-height:95px}.wired-compare{grid-template-columns:1fr}.cable-sources{align-items:flex-start;flex-direction:column}}
+
+
+/* Classroom peripheral map */
+.classroom-section{padding-top:76px}
+.classroom-map{margin:28px 0 18px}
+.classroom-image{position:relative;overflow:hidden;border:1px solid var(--line);border-radius:24px;background:#eaf2ed;box-shadow:0 18px 48px rgba(23,33,27,.08)}
+.classroom-image img{display:block;width:100%;height:auto}
+.classroom-map figcaption{margin-top:10px;color:var(--muted);font-size:12px}
+.map-pin{position:absolute;display:grid;place-items:center;width:34px;height:34px;border:3px solid white;border-radius:50%;background:var(--green);color:white;font-size:13px;font-weight:900;box-shadow:0 4px 14px rgba(23,33,27,.28);transform:translate(-50%,-50%)}
+.pin-1{left:30%;top:34%}.pin-2{left:54%;top:9%}.pin-3{left:69%;top:17%}.pin-4{left:25%;top:16%}
+.pin-5{left:34%;top:52%}.pin-6{left:45%;top:48%}.pin-7{left:42%;top:55%}.pin-8{left:73%;top:45%}
+.pin-9{left:86%;top:52%}.pin-10{left:94%;top:40%}.pin-11{left:65%;top:75%}.pin-12{left:20%;top:50%}
+.map-legend{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;margin:0 0 28px}
+.map-legend span{display:flex;align-items:center;gap:9px;padding:10px 12px;border:1px solid var(--line);border-radius:12px;background:white;font-size:12px;font-weight:700}
+.map-legend b{display:grid;place-items:center;flex:0 0 24px;height:24px;border-radius:50%;background:var(--green);color:white;font-size:11px}
+.device-stage-key{display:flex;gap:8px;flex-wrap:wrap;margin:14px 0 16px}
+.device-stage-key span,.device-inventory li span{display:inline-block;border-radius:999px;padding:3px 8px;font-size:10px;font-weight:900;line-height:1.5;white-space:nowrap}
+.stage-common{background:#e7f3eb;color:#276749}.stage-varies{background:#e8f0f8;color:#315e84}.stage-new{background:#fff0cf;color:#805c08}
+.device-inventory{display:grid;grid-template-columns:repeat(2,1fr);gap:14px}
+.device-inventory article{position:relative;padding:24px 24px 20px 68px;border:1px solid var(--line);border-radius:18px;background:white}
+.inventory-icon{position:absolute;left:22px;top:23px;display:grid;place-items:center;width:32px;height:32px;border-radius:10px;background:var(--ink);color:white;font-size:16px;font-weight:900}
+.device-inventory h3{margin:0 0 5px;font-size:20px}
+.device-inventory p{margin:0 0 14px;color:var(--muted);font-size:13px}
+.device-inventory ul{list-style:none;margin:0;padding:0;display:grid;gap:7px}
+.device-inventory li{display:flex;align-items:flex-start;gap:8px;font-size:13px;line-height:1.55}
+.device-inventory li span{flex:0 0 auto;margin-top:1px}
+.classroom-reading-rule{display:grid;grid-template-columns:130px 1fr;gap:18px;margin-top:18px;padding:20px 22px;border-radius:16px;background:var(--ink);color:white}
+.classroom-reading-rule b{color:#a9d5ba}.classroom-reading-rule p{margin:0}
+@media(max-width:760px){
+  .classroom-section{padding-top:54px}
+  .classroom-image{border-radius:16px;overflow-x:auto}
+  .classroom-image img{width:760px;max-width:none}
+  .classroom-image .map-pin{display:none}
+  .map-legend{grid-template-columns:1fr 1fr}
+  .device-inventory{grid-template-columns:1fr}
+  .device-inventory article{padding:20px 18px 18px 60px}
+  .inventory-icon{left:18px;top:20px}
+  .classroom-reading-rule{grid-template-columns:1fr;gap:6px}
+}
+@media(max-width:430px){
+  .map-legend{grid-template-columns:1fr}
+  .device-inventory li{display:block}
+  .device-inventory li span{margin-right:7px}
+}
