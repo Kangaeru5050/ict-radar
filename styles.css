@@ -281,3 +281,27 @@
 .handoff-strip{display:flex;gap:7px;flex-wrap:wrap;padding:18px;background:var(--pale);border-radius:15px}.handoff-strip span{background:#fff;border:1px solid var(--line);border-radius:999px;padding:7px 10px;font-size:10px;font-weight:800}
 @media(max-width:900px){.peripheral-routes,.method-grid,.peripheral-checks{grid-template-columns:repeat(2,1fr)}}
 @media(max-width:650px){.internet-path-note{grid-template-columns:1fr}.internet-path-note a{grid-column:auto}.peripheral-routes,.method-grid,.peripheral-checks,.peripheral-cases{grid-template-columns:1fr}.device-table-wrap{margin-right:-24px;border-radius:14px 0 0 14px}}
+
+
+/* AV cables, sound and latency */
+.signal-map{display:grid;grid-template-columns:repeat(4,1fr);gap:9px;margin:25px 0}
+.signal-map article{background:#fff;border:1px solid var(--line);border-radius:16px;padding:17px}.signal-map article>span{font-size:9px;font-weight:900;letter-spacing:.08em;color:var(--green)}
+.signal-map article>div{font-size:25px;margin:8px 0}.signal-map h3{font-size:15px;line-height:1.45;margin:0 0 5px}.signal-map p{font-size:10px;line-height:1.75;color:var(--muted);margin:0}
+.cable-guides{display:grid;gap:11px}.cable-guides>article{display:grid;grid-template-columns:170px 1fr minmax(210px,.65fr);gap:18px;align-items:start;background:#fff;border:1px solid var(--line);border-radius:17px;padding:20px}
+.cable-name>span{display:inline-block;padding:5px 8px;border-radius:999px;background:var(--pale);color:var(--green);font-size:9px;font-weight:900}.cable-name h3{font-size:19px;line-height:1.4;margin:7px 0}
+.cable-guides ul{margin:0;padding-left:19px}.cable-guides li{font-size:11px;line-height:1.75;color:var(--muted);margin:0 0 5px}
+.cable-caution{font-size:10px;line-height:1.75;color:#5d5847;background:#fff7d9;border-radius:12px;padding:12px;margin:0}.cable-caution b{color:#8a6200}
+.connector-rule{margin-top:14px;padding:17px 19px;background:var(--ink);color:#fff;border-radius:15px}.connector-rule>b{display:block;font-size:11px;color:#a9d5ba;margin-bottom:9px}.connector-rule>div{display:flex;gap:7px;flex-wrap:wrap}
+.connector-rule span{background:#294034;border-radius:999px;padding:7px 10px;font-size:10px;font-weight:800}
+.cable-sources{display:flex;align-items:center;gap:9px;flex-wrap:wrap;margin-top:13px;padding:14px 17px;background:#f7faf8;border-radius:13px}
+.cable-sources b{font-size:10px;color:var(--green);margin-right:4px}.cable-sources a{font-size:9px;color:var(--muted);font-weight:750;text-decoration:none;border-bottom:1px solid var(--line)}
+.sound-concepts{display:grid;gap:11px}.sound-concepts>article{display:grid;grid-template-columns:180px 1fr;gap:20px;align-items:center;background:#fff;border:1px solid var(--line);border-radius:18px;padding:21px}
+.sound-icon{display:grid;place-items:center;min-height:130px;background:#eef5fa;border-radius:14px;font-size:27px;text-align:center}.feedback-card .sound-icon{background:#fff3dc}
+.sound-concepts h3{font-size:20px;line-height:1.45;margin:3px 0 6px}.sound-concepts article>div:last-child>p:not(.eyebrow){font-size:11px;line-height:1.8;color:var(--muted)}
+.action-chips{display:flex;gap:6px;flex-wrap:wrap;margin-top:10px}.action-chips span{padding:5px 8px;border-radius:999px;background:var(--pale);font-size:9px;font-weight:800;color:var(--green)}
+.latency-path{display:flex;align-items:center;gap:5px;overflow-x:auto;margin-top:11px;padding:10px;background:#f7faf8;border-radius:10px}.latency-path span{white-space:nowrap;background:#fff;border:1px solid var(--line);border-radius:999px;padding:5px 7px;font-size:9px;font-weight:800}.latency-path i{font-style:normal;color:var(--green);font-weight:900}
+.wired-choice{display:grid;grid-template-columns:.9fr 1.1fr;gap:18px;align-items:center;margin-top:22px;padding:22px;background:var(--pale);border-radius:17px}.wired-choice h3{font-size:21px;line-height:1.45;margin:3px 0 7px}.wired-choice>div:first-child>p:last-child{font-size:11px;line-height:1.8;color:var(--muted);margin:0}
+.wired-compare{display:grid;grid-template-columns:1fr 1fr;gap:8px}.wired-compare article{background:#fff;border-radius:13px;padding:14px}.wired-compare span,.wired-compare b{display:block}.wired-compare span{font-size:9px;color:var(--green);font-weight:900;margin-bottom:7px}.wired-compare b{font-size:10px;line-height:1.65}
+.symptom-cable-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:8px;margin-top:12px}.symptom-cable-grid article{background:#fff;border:1px solid var(--line);border-radius:14px;padding:15px}.symptom-cable-grid span{display:block;font-size:12px;font-weight:900}.symptom-cable-grid p{font-size:10px;line-height:1.7;color:var(--muted);margin:5px 0 0}
+@media(max-width:900px){.signal-map{grid-template-columns:repeat(2,1fr)}.cable-guides>article{grid-template-columns:130px 1fr}.cable-caution{grid-column:1/-1}.wired-choice{grid-template-columns:1fr}}
+@media(max-width:650px){.signal-map,.symptom-cable-grid{grid-template-columns:1fr}.cable-guides>article,.sound-concepts>article{grid-template-columns:1fr}.sound-icon{min-height:95px}.wired-compare{grid-template-columns:1fr}.cable-sources{align-items:flex-start;flex-direction:column}}
