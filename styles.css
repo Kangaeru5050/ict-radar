@@ -208,3 +208,40 @@
   .featured h3{font-size:clamp(29px,9vw,40px)}
   .today-note{align-items:flex-start;flex-direction:column;gap:3px}
 }
+
+
+/* Access point field guide */
+.concept-more{display:inline-block;margin-top:10px;color:var(--green);font-size:11px;font-weight:900;text-decoration:none}
+.ap-guide{scroll-margin-top:86px;margin-top:38px;padding:clamp(22px,4vw,38px);background:#fff;border:1px solid var(--line);border-radius:24px;box-shadow:0 12px 36px rgba(23,33,27,.05)}
+.ap-guide-head{display:grid;grid-template-columns:1.1fr .9fr;gap:34px;align-items:end}
+.ap-guide-head h3{font-size:clamp(25px,3.5vw,38px);line-height:1.35;margin:3px 0 0}
+.ap-guide-head>p{font-size:13px;line-height:1.9;color:var(--muted);margin:0}
+.ap-three-numbers{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin:28px 0 12px}
+.ap-three-numbers article{border:1px solid var(--line);border-radius:16px;padding:18px;background:#f8fbf9}
+.ap-three-numbers span,.content-weight span{font-size:9px;font-weight:900;letter-spacing:.08em;color:var(--green)}
+.ap-three-numbers h4{font-size:16px;line-height:1.5;margin:6px 0}
+.ap-three-numbers p{font-size:11px;line-height:1.75;color:var(--muted);margin:0}
+.ap-warning{display:grid;grid-template-columns:130px 1fr;gap:16px;padding:16px 18px;background:#fff7d9;border-radius:14px}
+.ap-warning b{font-size:11px;color:#8a6200}.ap-warning p{font-size:12px;line-height:1.8;color:#5d5847;margin:0}
+.ap-catalog,.ap-convert,.ap-verify{margin-top:34px;padding-top:30px;border-top:1px dashed #bdc9c1}
+.ap-subhead h4{font-size:22px;line-height:1.45;margin:3px 0}.ap-subhead>p:last-child{font-size:11px;color:var(--muted);margin:5px 0 0}
+.ap-spec-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:9px;margin-top:18px}
+.ap-spec-grid article{position:relative;border:1px solid var(--line);border-radius:15px;padding:17px}
+.ap-spec-grid article>b{display:grid;place-items:center;width:25px;height:25px;border-radius:50%;background:var(--pale);color:var(--green);font-size:9px}
+.ap-spec-grid h5,.ap-workflow h5,.content-weight h5{font-size:14px;line-height:1.5;margin:8px 0 5px}
+.ap-spec-grid p,.ap-workflow p,.content-weight p{font-size:10px;line-height:1.75;color:var(--muted);margin:0}
+.ap-workflow{display:grid;grid-template-columns:1fr auto 1fr auto 1fr;gap:9px;align-items:stretch;margin-top:18px}
+.ap-workflow article{background:#eef5fa;border:1px solid #d8e6f0;border-radius:15px;padding:17px}
+.ap-workflow article>span{font-size:9px;font-weight:900;color:#397fb8}.ap-workflow i{align-self:center;color:#397fb8;font-style:normal;font-weight:900}
+.ap-formula{display:grid;grid-template-columns:1fr 1fr;gap:18px;align-items:center;margin-top:12px;padding:17px 19px;background:var(--ink);color:#fff;border-radius:15px}
+.ap-formula span,.ap-formula strong{display:block}.ap-formula span{font-size:9px;color:#a9d5ba;font-weight:900}.ap-formula strong{font-size:15px;line-height:1.6;margin-top:4px}.ap-formula p{font-size:10px;line-height:1.75;color:#c9d4cd;margin:0}
+.content-weight{display:grid;grid-template-columns:repeat(4,1fr);gap:8px;margin-top:12px}
+.content-weight article{border:1px solid var(--line);border-radius:14px;padding:15px;background:#fbfdfc}
+.ap-checks{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-top:18px}
+.ap-checks article{display:grid;grid-template-columns:28px 1fr;gap:10px;align-items:start;padding:14px;background:#f8fbf9;border-radius:13px}
+.ap-checks article>b{display:grid;place-items:center;width:26px;height:26px;border-radius:50%;background:var(--green);color:#fff;font-size:10px}
+.ap-checks p{font-size:11px;line-height:1.75;color:var(--muted);margin:2px 0 0}.ap-checks strong{color:var(--ink)}
+.ap-conclusion{display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin-top:12px;padding:16px 18px;background:var(--pale);border-radius:14px}
+.ap-conclusion span{font-size:11px;font-weight:900;background:#fff;border-radius:999px;padding:6px 10px}.ap-conclusion i{font-style:normal;color:var(--green);font-weight:900}.ap-conclusion strong{width:100%;font-size:12px;margin-top:3px}
+@media(max-width:900px){.ap-spec-grid{grid-template-columns:repeat(2,1fr)}.content-weight{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:700px){.ap-guide{margin-left:-10px;margin-right:-10px;padding:20px 14px;border-radius:18px}.ap-guide-head{grid-template-columns:1fr;gap:12px}.ap-three-numbers,.ap-spec-grid,.content-weight,.ap-checks{grid-template-columns:1fr}.ap-warning{grid-template-columns:1fr;gap:4px}.ap-workflow{grid-template-columns:1fr}.ap-workflow i{transform:rotate(90deg);text-align:center}.ap-formula{grid-template-columns:1fr;gap:8px}}
