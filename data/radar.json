@@ -1,11 +1,44 @@
 {
-  "generated_at": "2026-09-21T21:58:35.691658+00:00",
+  "generated_at": "2026-09-22T04:56:12.723694+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "AI進化時代の英語教育探求 mpiが指導者・保護者向けフォーラムを10/24、11/7、12/12に開催",
+      "url": "https://www.kknews.co.jp/news/20260922o03",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-09-22T01:00:09+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "「TDXラジオ」Teacher’s ［Shift］File.285  関東学院六浦中・高　犬塚 孝一 先生（前編）",
+      "url": "https://ict-enews.net/movie/22tdxradio-3/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-09-21T23:00:06+00:00",
+      "keywords": [
+        "DX"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "「TDXラジオ」Teacher’s ［Shift］File.285  関東学院六浦中・高　犬塚 孝一 先生（前編）を公開",
+      "url": "https://ict-enews.net/2026/09/21tdxradio-8/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-09-21T10:00:59+00:00",
+      "keywords": [
+        "DX"
+      ],
+      "status": "auto"
+    },
     {
       "title": "＜9月30日締切＞2026年度後期 iPad40台×ロイロノート・スクール 無料貸出し 申し込み受付中",
       "url": "https://www.kknews.co.jp/news/20260921o02",
@@ -50,17 +83,6 @@
         "生成AI",
         "AI",
         "データ"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "東京都、AIを学べるコンテンツの提供を開始　初心者向けテキスト「便利に使おう編」「安全に使おう編」公開",
-      "url": "https://www.kknews.co.jp/news/20260920o02",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-09-20T01:00:55+00:00",
-      "keywords": [
-        "AI"
       ],
       "status": "auto"
     },
@@ -131,17 +153,6 @@
       "published": "2026-09-18T00:44:56+00:00",
       "keywords": [
         "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "CBTS、大雨で中止された国家試験を3日後にCBT試験へ切り替え",
-      "url": "https://ict-enews.net/2026/09/18cbts/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-09-18T00:43:38+00:00",
-      "keywords": [
-        "CBT"
       ],
       "status": "auto"
     },
