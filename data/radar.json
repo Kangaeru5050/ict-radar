@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T16:58:16.351417+00:00",
+  "generated_at": "2026-09-23T21:30:21.806257+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
@@ -251,19 +251,6 @@
       "published": "2026-09-15T05:00:00+00:00",
       "keywords": [
         "セキュリティ"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "文科省、MEXCBT運用改善へ情報提供依頼…9/28まで",
-      "url": "https://reseed.resemom.jp/article/2026/09/15/14133.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-09-15T04:45:03+00:00",
-      "keywords": [
-        "文科省",
-        "CBT",
-        "MEXCBT"
       ],
       "status": "auto"
     },
