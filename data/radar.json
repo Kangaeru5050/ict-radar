@@ -1,11 +1,22 @@
 {
-  "generated_at": "2026-09-23T04:45:07.890698+00:00",
+  "generated_at": "2026-09-23T11:36:36.279320+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "【シルバーウィーク2026】連載まとめ読み「AI時代の教育」",
+      "url": "https://reseed.resemom.jp/article/2026/09/23/14172.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-09-23T06:15:03+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
     {
       "title": "10台の端末をまとめて保管・運搬できるプラダン製ケース発売〜サンワサプライ",
       "url": "https://www.kknews.co.jp/news/20260923o02",
