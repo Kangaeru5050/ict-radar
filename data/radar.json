@@ -1,11 +1,22 @@
 {
-  "generated_at": "2026-09-23T21:30:21.806257+00:00",
+  "generated_at": "2026-09-24T04:51:58.193343+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
-    "successful_sources": 4,
-    "failed_sources": 0
+    "successful_sources": 2,
+    "failed_sources": 2
   },
   "items": [
+    {
+      "title": "AIの関わり方で探究は変わる？ 慶大研究室とマイパレが実証",
+      "url": "https://edu.watch.impress.co.jp/docs/news/2142646.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-09-23T23:00:00+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
     {
       "title": "【シルバーウィーク2026】連載まとめ読み「AI時代の教育」",
       "url": "https://reseed.resemom.jp/article/2026/09/23/14172.html",
@@ -229,17 +240,6 @@
       "published": "2026-09-15T23:30:00+00:00",
       "keywords": [
         "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "文科省、高校教育改革の先導校60校・機関を追加採択…5県で初採択",
-      "url": "https://reseed.resemom.jp/article/2026/09/15/14135.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-09-15T07:15:03+00:00",
-      "keywords": [
-        "文科省"
       ],
       "status": "auto"
     },
