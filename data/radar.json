@@ -1,11 +1,23 @@
 {
-  "generated_at": "2026-09-24T17:11:04.679715+00:00",
+  "generated_at": "2026-09-24T21:30:59.636006+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "マウスコンピューターと信州大が挑む校務DX、小・中・特別支援学校の先生が語る「校務PC」に必要なものとは？[Sponsored]",
+      "url": "https://edu.watch.impress.co.jp/docs/topic/special/2138155.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-09-24T21:30:00+00:00",
+      "keywords": [
+        "校務",
+        "DX"
+      ],
+      "status": "auto"
+    },
     {
       "title": "ロイロノート、AI機能を開発へ…実証校募集も開始",
       "url": "https://reseed.resemom.jp/article/2026/09/24/14183.html",
