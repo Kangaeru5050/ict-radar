@@ -1,11 +1,134 @@
 {
-  "generated_at": "2026-09-24T04:51:58.193343+00:00",
+  "generated_at": "2026-09-24T11:45:54.901318+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
-    "successful_sources": 2,
-    "failed_sources": 2
+    "successful_sources": 4,
+    "failed_sources": 0
   },
   "items": [
+    {
+      "title": "ロイロノート、AI機能を開発へ…実証校募集も開始",
+      "url": "https://reseed.resemom.jp/article/2026/09/24/14183.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-09-24T08:15:03+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "デジタル教科書が拓く学びの可能性、水曜サロン10/7",
+      "url": "https://reseed.resemom.jp/article/2026/09/24/14182.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-09-24T07:15:03+00:00",
+      "keywords": [
+        "デジタル教科書"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "【大学受験2027】北九州市立大など、学部等の設置届出…文科省",
+      "url": "https://reseed.resemom.jp/article/2026/09/24/14181.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-09-24T06:45:03+00:00",
+      "keywords": [
+        "文科省"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "文科省、教科書調査官4教科で各1人公募…10/26締切",
+      "url": "https://reseed.resemom.jp/article/2026/09/24/14180.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-09-24T06:15:03+00:00",
+      "keywords": [
+        "文科省"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "●絵も文もAIが作ったペラペラ漫画● 【ちゃのまのAIプロト】 第7話 プロト、初めての「嘘」",
+      "url": "https://ict-enews.net/movie/24chanomaai/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-09-24T01:00:10+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "旺文社、英検特化の「ライティングAI採点」システムで英作文1.55点、英文要約2.27点アップ",
+      "url": "https://ict-enews.net/2026/09/24obunsha-7/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-09-24T00:54:45+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "LoiLo、次期学習指導要領を見据え「ロイロノート・スクール」のAI機能の開発方針発表",
+      "url": "https://ict-enews.net/2026/09/24loilo-10/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-09-24T00:54:04+00:00",
+      "keywords": [
+        "AI",
+        "学習指導要領"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "関西学院大学、「AI活用人材育成プログラム」が第4回「オープンバッジ大賞」の大賞受賞",
+      "url": "https://ict-enews.net/2026/09/24kwansei/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-09-24T00:53:37+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "セールス・トータルサポーターズ、横浜市立羽沢小学校の個別支援学級でプログラミング特別授業を実施",
+      "url": "https://ict-enews.net/2026/09/24st-supporters/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-09-24T00:52:59+00:00",
+      "keywords": [
+        "プログラミング"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "小中学生向けプログラミングスクール「CodeCampKIDS」、「AI活用コース」提供開始",
+      "url": "https://ict-enews.net/2026/09/24codecamp/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-09-24T00:52:43+00:00",
+      "keywords": [
+        "AI",
+        "プログラミング"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "ネットアドバンス、学校司書・教員向け「AI時代の『デジタル×図書館』活用術」開催",
+      "url": "https://ict-enews.net/2026/09/24japanknowledge/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-09-24T00:51:31+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
     {
       "title": "AIの関わり方で探究は変わる？ 慶大研究室とマイパレが実証",
       "url": "https://edu.watch.impress.co.jp/docs/news/2142646.html",
@@ -14,6 +137,28 @@
       "published": "2026-09-23T23:00:00+00:00",
       "keywords": [
         "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "AIの「関わり方」が探究学習に与える効果を検証へ 慶大安宅研究室とマイパレ、実証実験の協力校・生徒を募集",
+      "url": "https://www.kknews.co.jp/news/20260924o04",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-09-23T22:00:25+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "文科省後援「ELEC英語教育賞」応募受付中　学校・個人単位の優良実践を表彰〜英語教育協議会",
+      "url": "https://www.kknews.co.jp/news/20260924o02",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-09-23T22:00:00+00:00",
+      "keywords": [
+        "文科省"
       ],
       "status": "auto"
     },
@@ -52,50 +197,6 @@
       "status": "auto"
     },
     {
-      "title": "AI進化時代の英語教育探求 mpiが指導者・保護者向けフォーラムを10/24、11/7、12/12に開催",
-      "url": "https://www.kknews.co.jp/news/20260922o03",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-09-22T01:00:09+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "「TDXラジオ」Teacher’s ［Shift］File.285  関東学院六浦中・高　犬塚 孝一 先生（前編）",
-      "url": "https://ict-enews.net/movie/22tdxradio-3/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-09-21T23:00:06+00:00",
-      "keywords": [
-        "DX"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "「TDXラジオ」Teacher’s ［Shift］File.285  関東学院六浦中・高　犬塚 孝一 先生（前編）を公開",
-      "url": "https://ict-enews.net/2026/09/21tdxradio-8/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-09-21T10:00:59+00:00",
-      "keywords": [
-        "DX"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "＜9月30日締切＞2026年度後期 iPad40台×ロイロノート・スクール 無料貸出し 申し込み受付中",
-      "url": "https://www.kknews.co.jp/news/20260921o02",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-09-21T01:00:38+00:00",
-      "keywords": [
-        "iPad"
-      ],
-      "status": "auto"
-    },
-    {
       "title": "西大和学園高校でGemini研修を実施、アンドドットがDXハイスクール校を支援",
       "url": "https://edu.watch.impress.co.jp/docs/news/event/2142074.html",
       "source": "こどもとIT",
@@ -116,52 +217,6 @@
         "AI",
         "DX",
         "データ"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "岡山理科大学、Google Gemini公式noteが同学「スポーツ×生成AI」の取り組みを前後編で紹介",
-      "url": "https://ict-enews.net/2026/09/18ous/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-09-18T00:47:03+00:00",
-      "keywords": [
-        "生成AI",
-        "AI",
-        "Google"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "八ヶ岳農業大学校、「AI副校長」のサポートで学生・職員が育てた高原野菜を直売所で販売中",
-      "url": "https://ict-enews.net/2026/09/18yatsunou/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-09-18T00:46:54+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "立命館大学、文科省「大学・高専機能強化支援事業（成長分野転換基金）」に採択",
-      "url": "https://ict-enews.net/2026/09/18ritsumei-4/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-09-18T00:45:48+00:00",
-      "keywords": [
-        "文科省"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "エクシード、AI時代の学びを届けるための体験教材3種を試作　モニター教室募集",
-      "url": "https://ict-enews.net/2026/09/18tfe-2/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-09-18T00:44:56+00:00",
-      "keywords": [
-        "AI"
       ],
       "status": "auto"
     },
@@ -200,66 +255,11 @@
       "status": "auto"
     },
     {
-      "title": "文科省、選考採用＜冬＞公表…10局等で職務経験者を募集",
-      "url": "https://reseed.resemom.jp/article/2026/09/16/14142.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-09-16T04:15:02+00:00",
-      "keywords": [
-        "文科省"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "「日本ICT教育アワード」地方自治体の事例募集、10/30まで",
-      "url": "https://reseed.resemom.jp/article/2026/09/16/14141.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-09-16T03:45:02+00:00",
-      "keywords": [
-        "ICT"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "文科省、国立教育政策研究所の学力調査専門職を募集…10/6まで",
-      "url": "https://reseed.resemom.jp/article/2026/09/16/14140.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-09-16T02:45:03+00:00",
-      "keywords": [
-        "文科省"
-      ],
-      "status": "auto"
-    },
-    {
       "title": "問題を撮るとAIがヒントを提示、中高生向け「Knock」がEDIX大阪に出展",
       "url": "https://edu.watch.impress.co.jp/docs/news/2141207.html",
       "source": "こどもとIT",
       "source_id": "kodomo-it",
       "published": "2026-09-15T23:30:00+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "インヴェンティットがEDIX大阪に出展、学校のセキュリティを「防ぐ・統制・記録」で支援",
-      "url": "https://edu.watch.impress.co.jp/docs/news/2141007.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-09-15T05:00:00+00:00",
-      "keywords": [
-        "セキュリティ"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "AIで「子供に合う教材」を形に、特別支援教員向け無料講座を仙台・東京・宮崎で開催",
-      "url": "https://edu.watch.impress.co.jp/docs/news/event/2140940.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-09-15T03:03:00+00:00",
       "keywords": [
         "AI"
       ],
