@@ -1,11 +1,137 @@
 {
-  "generated_at": "2026-09-24T21:30:59.636006+00:00",
+  "generated_at": "2026-09-25T04:57:32.129210+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "【高校受験2027】東京都立高の入試報告書…出願書類の電子データ化は運用に向け検討",
+      "url": "https://reseed.resemom.jp/article/2026/09/25/14193.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-09-25T04:15:03+00:00",
+      "keywords": [
+        "データ"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "生成AI利用者の4割が「誤情報」に不満、ファクトチェックを行う人ほど高い傾向",
+      "url": "https://edu.watch.impress.co.jp/docs/news/2143079.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-09-25T03:03:00+00:00",
+      "keywords": [
+        "生成AI",
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "武庫川女子大学、共学化に向けAI警備システムの実証実験を開始",
+      "url": "https://ict-enews.net/2026/09/25mukogawa-u/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-09-24T23:55:40+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "岡山大学、学生が岡山県立倉敷南高校でデータサイエンス講座を実施",
+      "url": "https://ict-enews.net/2026/09/25okayama-u-4/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-09-24T23:55:08+00:00",
+      "keywords": [
+        "データ"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "岡山理科大学、県警主催のインターネットセキュリティ教室で学生が講師ボランティア",
+      "url": "https://ict-enews.net/2026/09/25ous/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-09-24T23:54:46+00:00",
+      "keywords": [
+        "セキュリティ"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "Google for Education「生成AIとAI エージェントが拓く高等教育機関の未来」10月開催",
+      "url": "https://ict-enews.net/2026/09/25google-for-education-5/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-09-24T23:53:22+00:00",
+      "keywords": [
+        "生成AI",
+        "AI",
+        "Google"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "建築AI経営研究会、建築実務のAI活用動画12本を追加　設計・営業の実演事例を拡充",
+      "url": "https://ict-enews.net/2026/09/25lifefund-recruit/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-09-24T23:51:47+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "ハイレゾ、IOWN APNで学術情報ネットワーク「SINET6」とAIデータセンターを接続",
+      "url": "https://ict-enews.net/2026/09/25highreso/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-09-24T23:51:37+00:00",
+      "keywords": [
+        "AI",
+        "ネットワーク",
+        "データ"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "進研ゼミ 中高生向「AIチューター」、第2回「Global EdTech Prize」ファイナリスト選出",
+      "url": "https://ict-enews.net/2026/09/25benesse-13/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-09-24T23:51:27+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "子供の「伝えたい」を引き出す、Geminiの4コマ漫画活用術【【連載】EducAItion Times】",
+      "url": "https://edu.watch.impress.co.jp/docs/serial/educaition-times/2141805.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-09-24T23:30:00+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "NITS、「教育行政リーダー・ダイアログ」教育委員会版（第1回）を10/2にオンラインで開催",
+      "url": "https://www.kknews.co.jp/news/20260925o03",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-09-24T22:00:56+00:00",
+      "keywords": [
+        "教育委員会"
+      ],
+      "status": "auto"
+    },
     {
       "title": "マウスコンピューターと信州大が挑む校務DX、小・中・特別支援学校の先生が語る「校務PC」に必要なものとは？[Sponsored]",
       "url": "https://edu.watch.impress.co.jp/docs/topic/special/2138155.html",
@@ -63,85 +189,6 @@
       "status": "auto"
     },
     {
-      "title": "●絵も文もAIが作ったペラペラ漫画● 【ちゃのまのAIプロト】 第7話 プロト、初めての「嘘」",
-      "url": "https://ict-enews.net/movie/24chanomaai/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-09-24T01:00:10+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "旺文社、英検特化の「ライティングAI採点」システムで英作文1.55点、英文要約2.27点アップ",
-      "url": "https://ict-enews.net/2026/09/24obunsha-7/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-09-24T00:54:45+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "LoiLo、次期学習指導要領を見据え「ロイロノート・スクール」のAI機能の開発方針発表",
-      "url": "https://ict-enews.net/2026/09/24loilo-10/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-09-24T00:54:04+00:00",
-      "keywords": [
-        "AI",
-        "学習指導要領"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "関西学院大学、「AI活用人材育成プログラム」が第4回「オープンバッジ大賞」の大賞受賞",
-      "url": "https://ict-enews.net/2026/09/24kwansei/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-09-24T00:53:37+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "セールス・トータルサポーターズ、横浜市立羽沢小学校の個別支援学級でプログラミング特別授業を実施",
-      "url": "https://ict-enews.net/2026/09/24st-supporters/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-09-24T00:52:59+00:00",
-      "keywords": [
-        "プログラミング"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "小中学生向けプログラミングスクール「CodeCampKIDS」、「AI活用コース」提供開始",
-      "url": "https://ict-enews.net/2026/09/24codecamp/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-09-24T00:52:43+00:00",
-      "keywords": [
-        "AI",
-        "プログラミング"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "ネットアドバンス、学校司書・教員向け「AI時代の『デジタル×図書館』活用術」開催",
-      "url": "https://ict-enews.net/2026/09/24japanknowledge/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-09-24T00:51:31+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
       "title": "AIの関わり方で探究は変わる？ 慶大研究室とマイパレが実証",
       "url": "https://edu.watch.impress.co.jp/docs/news/2142646.html",
       "source": "こどもとIT",
@@ -181,29 +228,6 @@
       "source_id": "reseed",
       "published": "2026-09-23T06:15:03+00:00",
       "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "10台の端末をまとめて保管・運搬できるプラダン製ケース発売〜サンワサプライ",
-      "url": "https://www.kknews.co.jp/news/20260923o02",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-09-23T01:00:30+00:00",
-      "keywords": [
-        "端末"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "成立学園×CoBloom、中学生を対象に生成AIと取り組む特別探究プログラムを実施 「相棒」として社会課題の動画制作に挑戦",
-      "url": "https://www.kknews.co.jp/news/20260923o04",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-09-23T01:00:25+00:00",
-      "keywords": [
-        "生成AI",
         "AI"
       ],
       "status": "auto"
@@ -251,28 +275,6 @@
       "published": "2026-09-17T08:00:00+00:00",
       "keywords": [
         "生成AI",
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "Wi-Fi 7でNEXT GIGAを支援、フルノシステムズがEDIX大阪で実機展示",
-      "url": "https://edu.watch.impress.co.jp/docs/news/2141480.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-09-16T21:30:00+00:00",
-      "keywords": [
-        "GIGA"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "問題を撮るとAIがヒントを提示、中高生向け「Knock」がEDIX大阪に出展",
-      "url": "https://edu.watch.impress.co.jp/docs/news/2141207.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-09-15T23:30:00+00:00",
-      "keywords": [
         "AI"
       ],
       "status": "auto"
