@@ -1,11 +1,56 @@
 {
-  "generated_at": "2026-09-25T04:57:32.129210+00:00",
+  "generated_at": "2026-09-25T11:50:47.206436+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "小中高・大学のAI活用を比較、教員の毎日利用率は大学が小中高を上回る",
+      "url": "https://reseed.resemom.jp/article/2026/09/25/14199.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-09-25T09:45:03+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "サイバー大と数検協会が連携協定、数学力でDX人材育成",
+      "url": "https://reseed.resemom.jp/article/2026/09/25/14198.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-09-25T09:15:03+00:00",
+      "keywords": [
+        "DX"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "3人1組の4チームが激突、小学生プログラミング大会の決勝戦を9月27日に開催",
+      "url": "https://edu.watch.impress.co.jp/docs/news/2143085.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-09-25T08:00:00+00:00",
+      "keywords": [
+        "プログラミング"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "Google、AI時代の大学運営を考えるイベント9/29渋谷",
+      "url": "https://reseed.resemom.jp/article/2026/09/25/14194.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-09-25T06:15:03+00:00",
+      "keywords": [
+        "AI",
+        "Google"
+      ],
+      "status": "auto"
+    },
     {
       "title": "【高校受験2027】東京都立高の入試報告書…出願書類の電子データ化は運用に向け検討",
       "url": "https://reseed.resemom.jp/article/2026/09/25/14193.html",
@@ -228,53 +273,6 @@
       "source_id": "reseed",
       "published": "2026-09-23T06:15:03+00:00",
       "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "西大和学園高校でGemini研修を実施、アンドドットがDXハイスクール校を支援",
-      "url": "https://edu.watch.impress.co.jp/docs/news/event/2142074.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-09-18T03:03:00+00:00",
-      "keywords": [
-        "DX"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "【10/13 Zoom】大学DXセミナー：東北大学「データとAIで進化する大学」",
-      "url": "https://reseed.resemom.jp/article/2026/09/18/14154.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-09-18T01:15:03+00:00",
-      "keywords": [
-        "AI",
-        "DX",
-        "データ"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "「AIとの対話だけで終わらせない」、デザインプロンプトで考える力を育てる相模原市立中野中学校の学び",
-      "url": "https://edu.watch.impress.co.jp/docs/report/2135740.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-09-17T21:30:00+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "保護者の66％が生成AIを利用、自由研究で子供にすすめたのは9％　いこーよファミリーラボ調べ",
-      "url": "https://edu.watch.impress.co.jp/docs/news/2141528.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-09-17T08:00:00+00:00",
-      "keywords": [
-        "生成AI",
         "AI"
       ],
       "status": "auto"
