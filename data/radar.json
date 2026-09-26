@@ -1,11 +1,22 @@
 {
-  "generated_at": "2026-09-25T21:35:03.810603+00:00",
+  "generated_at": "2026-09-26T04:58:03.954098+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "総務省、地域課題のDX・AX推進に向け計画策定の伴走支援を行う自治体等の二次公募を10/2まで実施中",
+      "url": "https://www.kknews.co.jp/news/20260926o03",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-09-26T01:00:53+00:00",
+      "keywords": [
+        "DX"
+      ],
+      "status": "auto"
+    },
     {
       "title": "小中高・大学のAI活用を比較、教員の毎日利用率は大学が小中高を上回る",
       "url": "https://reseed.resemom.jp/article/2026/09/25/14199.html",
@@ -252,17 +263,6 @@
       "published": "2026-09-23T22:00:25+00:00",
       "keywords": [
         "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "文科省後援「ELEC英語教育賞」応募受付中　学校・個人単位の優良実践を表彰〜英語教育協議会",
-      "url": "https://www.kknews.co.jp/news/20260924o02",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-09-23T22:00:00+00:00",
-      "keywords": [
-        "文科省"
       ],
       "status": "auto"
     },
