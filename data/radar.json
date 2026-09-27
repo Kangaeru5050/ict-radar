@@ -1,11 +1,45 @@
 {
-  "generated_at": "2026-09-26T21:10:35.159656+00:00",
+  "generated_at": "2026-09-27T05:18:46.566318+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "熊本高専、県内の教員対象にプログラミング研修を実施",
+      "url": "https://www.kknews.co.jp/news/20260927o01",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-09-27T01:00:37+00:00",
+      "keywords": [
+        "プログラミング"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "ロイロノート、次期学習指導要領に向けたAI機能開発方針を発表 実証校募集も",
+      "url": "https://www.kknews.co.jp/news/20260927o02",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-09-27T01:00:35+00:00",
+      "keywords": [
+        "AI",
+        "学習指導要領"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "東京工科大、CEATEC 2026で開学40周年シンポジウム「AI養老先生と未来を語る」を開催",
+      "url": "https://www.kknews.co.jp/news/20260927o03",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-09-27T01:00:19+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
     {
       "title": "総務省、地域課題のDX・AX推進に向け計画策定の伴走支援を行う自治体等の二次公募を10/2まで実施中",
       "url": "https://www.kknews.co.jp/news/20260926o03",
@@ -241,39 +275,6 @@
       "published": "2026-09-24T06:15:03+00:00",
       "keywords": [
         "文科省"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "AIの関わり方で探究は変わる？ 慶大研究室とマイパレが実証",
-      "url": "https://edu.watch.impress.co.jp/docs/news/2142646.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-09-23T23:00:00+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "AIの「関わり方」が探究学習に与える効果を検証へ 慶大安宅研究室とマイパレ、実証実験の協力校・生徒を募集",
-      "url": "https://www.kknews.co.jp/news/20260924o04",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-09-23T22:00:25+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "【シルバーウィーク2026】連載まとめ読み「AI時代の教育」",
-      "url": "https://reseed.resemom.jp/article/2026/09/23/14172.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-09-23T06:15:03+00:00",
-      "keywords": [
-        "AI"
       ],
       "status": "auto"
     }
