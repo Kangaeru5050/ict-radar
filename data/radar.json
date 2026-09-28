@@ -1,11 +1,104 @@
 {
-  "generated_at": "2026-09-28T13:54:40.212025+00:00",
+  "generated_at": "2026-09-28T23:16:33.104272+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "「TDXラジオ」Teacher’s ［Shift］File.286  関東学院六浦中・高　犬塚 孝一 先生（後編）",
+      "url": "https://ict-enews.net/movie/29tdxradio-3/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-09-28T23:00:14+00:00",
+      "keywords": [
+        "DX"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "「教員のなり手」を確保～実証研究に30億円　職員室フリーアドレス化など～文科省　概算要求",
+      "url": "https://www.kknews.co.jp/post_ict/260928_2c",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-09-28T22:00:50+00:00",
+      "keywords": [
+        "文科省"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "みんがく×笹埜健斗研究室、スクールAIを基盤とした「学校知の継承」に関する共同研究を開始",
+      "url": "https://www.kknews.co.jp/news/20260929o02",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-09-28T22:00:40+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "AIコーディングエージェント「Codex」で未来を創造～OpenAI「大学生向け 夏の Codex 開発祭 2026」",
+      "url": "https://www.kknews.co.jp/news/0928n01codex",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-09-28T22:00:26+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "生成AIパイロット校の相模原市立中野中、10/23に第1回公開授業研究会を実施",
+      "url": "https://www.kknews.co.jp/news/20260929o04",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-09-28T22:00:18+00:00",
+      "keywords": [
+        "生成AI",
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "Googleが高等教育DXフォーラム「生成AIとAIエージェントが拓く高等教育機関の未来」を10/30に開催",
+      "url": "https://www.kknews.co.jp/news/20260929o03",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-09-28T22:00:11+00:00",
+      "keywords": [
+        "生成AI",
+        "AI",
+        "DX",
+        "Google"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "小中学校のネットワーク環境の高度化に向けて～仮想基盤の安定に予備機などを導入～滋賀県米原市",
+      "url": "https://www.kknews.co.jp/post_nyusatsu/260928_maibarasi",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-09-28T21:59:58+00:00",
+      "keywords": [
+        "ネットワーク"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "「デザインプロンプト」で考える力を育てる生成AIパイロット校、相模原市立中野中の授業【こどもとIT ポッドキャスト】",
+      "url": "https://edu.watch.impress.co.jp/docs/common/2143842.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-09-28T21:30:00+00:00",
+      "keywords": [
+        "生成AI",
+        "AI"
+      ],
+      "status": "auto"
+    },
     {
       "title": "「TDXラジオ」Teacher’s ［Shift］File.286  関東学院六浦中・高　犬塚 孝一 先生（後編）を公開",
       "url": "https://ict-enews.net/2026/09/28tdxradio-9/",
@@ -165,29 +258,6 @@
       "status": "auto"
     },
     {
-      "title": "AI時代の主体的な学びへの転換「第6回　思考を広げ深める伴走者！生成AIとの対話～埼玉県久喜市立久喜小学校の取組から～」中村学園大学教育学部　山本朋弘教授",
-      "url": "https://www.kknews.co.jp/post_ict/260928_1b",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-09-27T22:00:45+00:00",
-      "keywords": [
-        "生成AI",
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "先端教育機構「教育構想サミット2026　次期学習指導要領と2040年の未来社会」を10/22にハイブリッドで開催",
-      "url": "https://www.kknews.co.jp/news/20260928o02",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-09-27T22:00:40+00:00",
-      "keywords": [
-        "学習指導要領"
-      ],
-      "status": "auto"
-    },
-    {
       "title": "小中高・大学のAI活用を比較、教員の毎日利用率は大学が小中高を上回る",
       "url": "https://reseed.resemom.jp/article/2026/09/25/14199.html",
       "source": "ReseEd",
@@ -205,75 +275,6 @@
       "source_id": "reseed",
       "published": "2026-09-25T09:15:03+00:00",
       "keywords": [
-        "DX"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "3人1組の4チームが激突、小学生プログラミング大会の決勝戦を9月27日に開催",
-      "url": "https://edu.watch.impress.co.jp/docs/news/2143085.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-09-25T08:00:00+00:00",
-      "keywords": [
-        "プログラミング"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "Google、AI時代の大学運営を考えるイベント9/29渋谷",
-      "url": "https://reseed.resemom.jp/article/2026/09/25/14194.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-09-25T06:15:03+00:00",
-      "keywords": [
-        "AI",
-        "Google"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "【高校受験2027】東京都立高の入試報告書…出願書類の電子データ化は運用に向け検討",
-      "url": "https://reseed.resemom.jp/article/2026/09/25/14193.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-09-25T04:15:03+00:00",
-      "keywords": [
-        "データ"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "生成AI利用者の4割が「誤情報」に不満、ファクトチェックを行う人ほど高い傾向",
-      "url": "https://edu.watch.impress.co.jp/docs/news/2143079.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-09-25T03:03:00+00:00",
-      "keywords": [
-        "生成AI",
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "子供の「伝えたい」を引き出す、Geminiの4コマ漫画活用術【【連載】EducAItion Times】",
-      "url": "https://edu.watch.impress.co.jp/docs/serial/educaition-times/2141805.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-09-24T23:30:00+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "マウスコンピューターと信州大が挑む校務DX、小・中・特別支援学校の先生が語る「校務PC」に必要なものとは？[Sponsored]",
-      "url": "https://edu.watch.impress.co.jp/docs/topic/special/2138155.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-09-24T21:30:00+00:00",
-      "keywords": [
-        "校務",
         "DX"
       ],
       "status": "auto"
