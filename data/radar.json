@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T21:20:45.956050+00:00",
+  "generated_at": "2026-09-28T05:23:49.017582+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
@@ -7,47 +7,161 @@
   },
   "items": [
     {
-      "title": "熊本高専、県内の教員対象にプログラミング研修を実施",
-      "url": "https://www.kknews.co.jp/news/20260927o01",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-09-27T01:00:37+00:00",
+      "title": "生成AI指針改定など議論「デジタル学習基盤委員会」傍聴締切9/29",
+      "url": "https://reseed.resemom.jp/article/2026/09/28/14206.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-09-28T03:15:03+00:00",
+      "keywords": [
+        "生成AI",
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "【読者プレゼント】書籍『スラスラ読める Pythonふりがなプログラミング 改訂3版』を抽選で5名様にプレゼント　――応募締切は2026年10月9日（金）まで",
+      "url": "https://edu.watch.impress.co.jp/docs/present/2142154.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-09-28T03:03:00+00:00",
       "keywords": [
         "プログラミング"
       ],
       "status": "auto"
     },
     {
-      "title": "ロイロノート、次期学習指導要領に向けたAI機能開発方針を発表 実証校募集も",
-      "url": "https://www.kknews.co.jp/news/20260927o02",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-09-27T01:00:35+00:00",
+      "title": "Google「生成AIと高等教育機関の未来」10/30",
+      "url": "https://reseed.resemom.jp/article/2026/09/28/14203.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-09-28T00:15:02+00:00",
       "keywords": [
+        "生成AI",
         "AI",
-        "学習指導要領"
+        "Google"
       ],
       "status": "auto"
     },
     {
-      "title": "東京工科大、CEATEC 2026で開学40周年シンポジウム「AI養老先生と未来を語る」を開催",
-      "url": "https://www.kknews.co.jp/news/20260927o03",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-09-27T01:00:19+00:00",
+      "title": "AI台頭により強まる企業の即戦力志向、「焦りを感じる」28卒は76.2%に=「NALYSYS」調べ=",
+      "url": "https://ict-enews.net/2026/09/28leverages-4/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-09-28T00:14:21+00:00",
       "keywords": [
         "AI"
       ],
       "status": "auto"
     },
     {
-      "title": "総務省、地域課題のDX・AX推進に向け計画策定の伴走支援を行う自治体等の二次公募を10/2まで実施中",
-      "url": "https://www.kknews.co.jp/news/20260926o03",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-09-26T01:00:53+00:00",
+      "title": "日本大学、歯科衛生士育成のためのAIアバターを開発",
+      "url": "https://ict-enews.net/2026/09/28nihon-u/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-09-28T00:14:05+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "北海道科学大学×ニッコー、AI とロボティクスの研究・教育・社会実装を進める共同研究拠点を開所",
+      "url": "https://ict-enews.net/2026/09/28hus/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-09-28T00:13:28+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "金沢工業大学、学生主体のAI教育実践がスタンフォード大学発行の『AI Tinkery Playbook』に掲載",
+      "url": "https://ict-enews.net/2026/09/28kanazawa-it-7/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-09-28T00:13:12+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "金沢工業大学、リカレント教育プログラム「2026年度 DXリスキル教育プログラム」受講者募集",
+      "url": "https://ict-enews.net/2026/09/28kanazawa-it-6/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-09-28T00:13:00+00:00",
       "keywords": [
         "DX"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "PC・ICT教室「バレッドキッズ」、「Excel関数でドット絵を作ろう！」を開催",
+      "url": "https://ict-enews.net/2026/09/28global-cast/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-09-28T00:12:22+00:00",
+      "keywords": [
+        "ICT"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "「教育構想サミット2026　次期学習指導要領と2040年の未来社会」10月22日開催",
+      "url": "https://ict-enews.net/2026/09/28sentankyo-4/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-09-28T00:12:05+00:00",
+      "keywords": [
+        "学習指導要領"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "AI英会話コーチング「スマイルゼミ ENGLISH」、「振り返りポッドキャスト」と「チャンク・リスニング」を搭載",
+      "url": "https://ict-enews.net/2026/09/28justsystems-3/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-09-28T00:10:51+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "相模原市立中野中、生成AIパイロット校の公開授業研究会を10月23日に開催",
+      "url": "https://edu.watch.impress.co.jp/docs/news/event/2143145.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-09-27T23:00:00+00:00",
+      "keywords": [
+        "生成AI",
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "AI時代の主体的な学びへの転換「第6回　思考を広げ深める伴走者！生成AIとの対話～埼玉県久喜市立久喜小学校の取組から～」中村学園大学教育学部　山本朋弘教授",
+      "url": "https://www.kknews.co.jp/post_ict/260928_1b",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-09-27T22:00:45+00:00",
+      "keywords": [
+        "生成AI",
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "先端教育機構「教育構想サミット2026　次期学習指導要領と2040年の未来社会」を10/22にハイブリッドで開催",
+      "url": "https://www.kknews.co.jp/news/20260928o02",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-09-27T22:00:40+00:00",
+      "keywords": [
+        "学習指導要領"
       ],
       "status": "auto"
     },
@@ -120,87 +234,6 @@
       "status": "auto"
     },
     {
-      "title": "武庫川女子大学、共学化に向けAI警備システムの実証実験を開始",
-      "url": "https://ict-enews.net/2026/09/25mukogawa-u/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-09-24T23:55:40+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "岡山大学、学生が岡山県立倉敷南高校でデータサイエンス講座を実施",
-      "url": "https://ict-enews.net/2026/09/25okayama-u-4/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-09-24T23:55:08+00:00",
-      "keywords": [
-        "データ"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "岡山理科大学、県警主催のインターネットセキュリティ教室で学生が講師ボランティア",
-      "url": "https://ict-enews.net/2026/09/25ous/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-09-24T23:54:46+00:00",
-      "keywords": [
-        "セキュリティ"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "Google for Education「生成AIとAI エージェントが拓く高等教育機関の未来」10月開催",
-      "url": "https://ict-enews.net/2026/09/25google-for-education-5/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-09-24T23:53:22+00:00",
-      "keywords": [
-        "生成AI",
-        "AI",
-        "Google"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "建築AI経営研究会、建築実務のAI活用動画12本を追加　設計・営業の実演事例を拡充",
-      "url": "https://ict-enews.net/2026/09/25lifefund-recruit/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-09-24T23:51:47+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "ハイレゾ、IOWN APNで学術情報ネットワーク「SINET6」とAIデータセンターを接続",
-      "url": "https://ict-enews.net/2026/09/25highreso/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-09-24T23:51:37+00:00",
-      "keywords": [
-        "AI",
-        "ネットワーク",
-        "データ"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "進研ゼミ 中高生向「AIチューター」、第2回「Global EdTech Prize」ファイナリスト選出",
-      "url": "https://ict-enews.net/2026/09/25benesse-13/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-09-24T23:51:27+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
       "title": "子供の「伝えたい」を引き出す、Geminiの4コマ漫画活用術【【連載】EducAItion Times】",
       "url": "https://edu.watch.impress.co.jp/docs/serial/educaition-times/2141805.html",
       "source": "こどもとIT",
@@ -208,17 +241,6 @@
       "published": "2026-09-24T23:30:00+00:00",
       "keywords": [
         "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "NITS、「教育行政リーダー・ダイアログ」教育委員会版（第1回）を10/2にオンラインで開催",
-      "url": "https://www.kknews.co.jp/news/20260925o03",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-09-24T22:00:56+00:00",
-      "keywords": [
-        "教育委員会"
       ],
       "status": "auto"
     },
@@ -253,28 +275,6 @@
       "published": "2026-09-24T07:15:03+00:00",
       "keywords": [
         "デジタル教科書"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "【大学受験2027】北九州市立大など、学部等の設置届出…文科省",
-      "url": "https://reseed.resemom.jp/article/2026/09/24/14181.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-09-24T06:45:03+00:00",
-      "keywords": [
-        "文科省"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "文科省、教科書調査官4教科で各1人公募…10/26締切",
-      "url": "https://reseed.resemom.jp/article/2026/09/24/14180.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-09-24T06:15:03+00:00",
-      "keywords": [
-        "文科省"
       ],
       "status": "auto"
     }
