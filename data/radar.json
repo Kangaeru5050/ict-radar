@@ -1,11 +1,33 @@
 {
-  "generated_at": "2026-09-28T05:23:49.017582+00:00",
+  "generated_at": "2026-09-28T13:54:40.212025+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "「TDXラジオ」Teacher’s ［Shift］File.286  関東学院六浦中・高　犬塚 孝一 先生（後編）を公開",
+      "url": "https://ict-enews.net/2026/09/28tdxradio-9/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-09-28T10:00:01+00:00",
+      "keywords": [
+        "DX"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "発達障害の不登校率13.26％、全児童生徒の約3.6倍…文科省調査",
+      "url": "https://reseed.resemom.jp/article/2026/09/28/14208.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-09-28T07:45:03+00:00",
+      "keywords": [
+        "文科省"
+      ],
+      "status": "auto"
+    },
     {
       "title": "生成AI指針改定など議論「デジタル学習基盤委員会」傍聴締切9/29",
       "url": "https://reseed.resemom.jp/article/2026/09/28/14206.html",
@@ -253,28 +275,6 @@
       "keywords": [
         "校務",
         "DX"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "ロイロノート、AI機能を開発へ…実証校募集も開始",
-      "url": "https://reseed.resemom.jp/article/2026/09/24/14183.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-09-24T08:15:03+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "デジタル教科書が拓く学びの可能性、水曜サロン10/7",
-      "url": "https://reseed.resemom.jp/article/2026/09/24/14182.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-09-24T07:15:03+00:00",
-      "keywords": [
-        "デジタル教科書"
       ],
       "status": "auto"
     }
