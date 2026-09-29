@@ -1,11 +1,68 @@
 {
-  "generated_at": "2026-09-29T12:52:41.847770+00:00",
+  "generated_at": "2026-09-29T22:15:01.563884+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "文部科学省、「木材を活用した学校施設づくり講習会」を11/6に千葉・昭和学院で開催",
+      "url": "https://www.kknews.co.jp/news/20260930o02",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-09-29T22:00:56+00:00",
+      "keywords": [
+        "文部科学省"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "「情報科」はAI時代の基盤科目～第19回全国高等学校情報教育研究会全国大会",
+      "url": "https://www.kknews.co.jp/post_ict/260928_6a",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-09-29T22:00:28+00:00",
+      "keywords": [
+        "AI",
+        "情報教育"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "プログラミングに関する授業に講師を派遣～Pythonの基本操作などを学ぶ～奈良県",
+      "url": "https://www.kknews.co.jp/post_nyusatsu/260928_naraken",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-09-29T21:59:59+00:00",
+      "keywords": [
+        "プログラミング"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "次世代校務支援システムを共同調達～技術的助言をはじめ導入支援を実施～宮崎県",
+      "url": "https://www.kknews.co.jp/post_nyusatsu/260928_miyazakiken",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-09-29T21:59:37+00:00",
+      "keywords": [
+        "校務"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "MacBook Neoという選択肢、端末選びとAI活用をどう判断するか[Sponsored]",
+      "url": "https://edu.watch.impress.co.jp/docs/topic/special/2139978.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-09-29T21:30:00+00:00",
+      "keywords": [
+        "AI",
+        "端末"
+      ],
+      "status": "auto"
+    },
     {
       "title": "AIの仕組みとリスクを小中学生向けに解説、『AIの世界へようこそ』が科学教育出版賞",
       "url": "https://edu.watch.impress.co.jp/docs/knowledge/kodomoit-booklab/2144136.html",
@@ -174,76 +231,6 @@
       "status": "auto"
     },
     {
-      "title": "「教員のなり手」を確保～実証研究に30億円　職員室フリーアドレス化など～文科省　概算要求",
-      "url": "https://www.kknews.co.jp/post_ict/260928_2c",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-09-28T22:00:50+00:00",
-      "keywords": [
-        "文科省"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "みんがく×笹埜健斗研究室、スクールAIを基盤とした「学校知の継承」に関する共同研究を開始",
-      "url": "https://www.kknews.co.jp/news/20260929o02",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-09-28T22:00:40+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "AIコーディングエージェント「Codex」で未来を創造～OpenAI「大学生向け 夏の Codex 開発祭 2026」",
-      "url": "https://www.kknews.co.jp/news/0928n01codex",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-09-28T22:00:26+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "生成AIパイロット校の相模原市立中野中、10/23に第1回公開授業研究会を実施",
-      "url": "https://www.kknews.co.jp/news/20260929o04",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-09-28T22:00:18+00:00",
-      "keywords": [
-        "生成AI",
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "Googleが高等教育DXフォーラム「生成AIとAIエージェントが拓く高等教育機関の未来」を10/30に開催",
-      "url": "https://www.kknews.co.jp/news/20260929o03",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-09-28T22:00:11+00:00",
-      "keywords": [
-        "生成AI",
-        "AI",
-        "DX",
-        "Google"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "小中学校のネットワーク環境の高度化に向けて～仮想基盤の安定に予備機などを導入～滋賀県米原市",
-      "url": "https://www.kknews.co.jp/post_nyusatsu/260928_maibarasi",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-09-28T21:59:58+00:00",
-      "keywords": [
-        "ネットワーク"
-      ],
-      "status": "auto"
-    },
-    {
       "title": "「デザインプロンプト」で考える力を育てる生成AIパイロット校、相模原市立中野中の授業【こどもとIT ポッドキャスト】",
       "url": "https://edu.watch.impress.co.jp/docs/common/2143842.html",
       "source": "こどもとIT",
@@ -275,6 +262,17 @@
       "keywords": [
         "生成AI",
         "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "【読者プレゼント】書籍『スラスラ読める Pythonふりがなプログラミング 改訂3版』を抽選で5名様にプレゼント　――応募締切は2026年10月9日（金）まで",
+      "url": "https://edu.watch.impress.co.jp/docs/present/2142154.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-09-28T03:03:00+00:00",
+      "keywords": [
+        "プログラミング"
       ],
       "status": "auto"
     }
