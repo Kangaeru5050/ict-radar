@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T23:16:33.104272+00:00",
+  "generated_at": "2026-09-29T05:43:58.260187+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
@@ -7,13 +7,158 @@
   },
   "items": [
     {
-      "title": "「TDXラジオ」Teacher’s ［Shift］File.286  関東学院六浦中・高　犬塚 孝一 先生（後編）",
-      "url": "https://ict-enews.net/movie/29tdxradio-3/",
+      "title": "さいたま市がAI型教材「キュビナ」を導入、約10万人が利用",
+      "url": "https://edu.watch.impress.co.jp/docs/news/2144058.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-09-29T04:30:00+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "AI・STEM教材を無償提供…みんなのコードが参加校5校募集",
+      "url": "https://reseed.resemom.jp/article/2026/09/29/14216.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-09-29T04:15:03+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "文科省、元職員対象に課長補佐級・係長級を募集…11/1まで",
+      "url": "https://reseed.resemom.jp/article/2026/09/29/14215.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-09-29T03:45:02+00:00",
+      "keywords": [
+        "文科省"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "小中学生の保護者55％が「子供はAIに頼りすぎ」と回答、最大の不安は思考力低下",
+      "url": "https://edu.watch.impress.co.jp/docs/news/2143939.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-09-29T03:03:00+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "文科省、教育情報化専門職を募集…日給1.5-2.3万円",
+      "url": "https://reseed.resemom.jp/article/2026/09/29/14213.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-09-29T01:45:03+00:00",
+      "keywords": [
+        "文科省"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "「話そうと思えた時点で、もう限界を超えていた」　変化を捉えるAIで、声を上げられない生徒に気づく  高校生が開発した日記ツール「Blesc」",
+      "url": "https://ict-enews.net/2026/09/29blesc/",
       "source": "ICT教育ニュース",
       "source_id": "ict-enews",
-      "published": "2026-09-28T23:00:14+00:00",
+      "published": "2026-09-29T00:55:35+00:00",
       "keywords": [
-        "DX"
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "アタム、「子どものAI使用における親の不安に関する意識調査」実施",
+      "url": "https://ict-enews.net/2026/09/29atam-academy-4/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-09-29T00:53:55+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "和歌山市教委とSky、校務スマート化支援アプリ「SKYMENU Mobile」実証研究を開始",
+      "url": "https://ict-enews.net/2026/09/29skygroup/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-09-29T00:53:40+00:00",
+      "keywords": [
+        "校務"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "グッドワークス、江戸川区立篠崎中学校の「チャレンジクラス」でIT・AI教育プログラムをスタート",
+      "url": "https://ict-enews.net/2026/09/29good-works/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-09-29T00:52:59+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "SELF、生成AIチャットボット「SELFBOT」の早稲田大学活用事例インタビュー公開",
+      "url": "https://ict-enews.net/2026/09/29self/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-09-29T00:52:46+00:00",
+      "keywords": [
+        "生成AI",
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "岡山大学、教育データサイエンスセミナー「男女別の高校が生徒のジェンダー規範に与える影響」10月2日開催",
+      "url": "https://ict-enews.net/2026/09/29okayama-u/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-09-29T00:51:28+00:00",
+      "keywords": [
+        "データ"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "カンリー、保育・介護業界向けセミナー「保育・介護施設はAIで探される時代へ！」10月開催",
+      "url": "https://ict-enews.net/2026/09/29can-ly/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-09-29T00:50:58+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "東京学芸大学、公開セミナー「生成AIを活用した授業実践研究」12月5日開催",
+      "url": "https://ict-enews.net/2026/09/29u-gakugei/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-09-29T00:50:42+00:00",
+      "keywords": [
+        "生成AI",
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "オープントーン、人が要件定義と品質を担う「AIネイティブ開発体制」を企業向けに提供開始",
+      "url": "https://ict-enews.net/2026/09/29opentone/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-09-29T00:49:12+00:00",
+      "keywords": [
+        "AI"
       ],
       "status": "auto"
     },
@@ -100,17 +245,6 @@
       "status": "auto"
     },
     {
-      "title": "「TDXラジオ」Teacher’s ［Shift］File.286  関東学院六浦中・高　犬塚 孝一 先生（後編）を公開",
-      "url": "https://ict-enews.net/2026/09/28tdxradio-9/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-09-28T10:00:01+00:00",
-      "keywords": [
-        "DX"
-      ],
-      "status": "auto"
-    },
-    {
       "title": "発達障害の不登校率13.26％、全児童生徒の約3.6倍…文科省調査",
       "url": "https://reseed.resemom.jp/article/2026/09/28/14208.html",
       "source": "ReseEd",
@@ -141,141 +275,6 @@
       "published": "2026-09-28T03:03:00+00:00",
       "keywords": [
         "プログラミング"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "Google「生成AIと高等教育機関の未来」10/30",
-      "url": "https://reseed.resemom.jp/article/2026/09/28/14203.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-09-28T00:15:02+00:00",
-      "keywords": [
-        "生成AI",
-        "AI",
-        "Google"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "AI台頭により強まる企業の即戦力志向、「焦りを感じる」28卒は76.2%に=「NALYSYS」調べ=",
-      "url": "https://ict-enews.net/2026/09/28leverages-4/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-09-28T00:14:21+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "日本大学、歯科衛生士育成のためのAIアバターを開発",
-      "url": "https://ict-enews.net/2026/09/28nihon-u/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-09-28T00:14:05+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "北海道科学大学×ニッコー、AI とロボティクスの研究・教育・社会実装を進める共同研究拠点を開所",
-      "url": "https://ict-enews.net/2026/09/28hus/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-09-28T00:13:28+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "金沢工業大学、学生主体のAI教育実践がスタンフォード大学発行の『AI Tinkery Playbook』に掲載",
-      "url": "https://ict-enews.net/2026/09/28kanazawa-it-7/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-09-28T00:13:12+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "金沢工業大学、リカレント教育プログラム「2026年度 DXリスキル教育プログラム」受講者募集",
-      "url": "https://ict-enews.net/2026/09/28kanazawa-it-6/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-09-28T00:13:00+00:00",
-      "keywords": [
-        "DX"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "PC・ICT教室「バレッドキッズ」、「Excel関数でドット絵を作ろう！」を開催",
-      "url": "https://ict-enews.net/2026/09/28global-cast/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-09-28T00:12:22+00:00",
-      "keywords": [
-        "ICT"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "「教育構想サミット2026　次期学習指導要領と2040年の未来社会」10月22日開催",
-      "url": "https://ict-enews.net/2026/09/28sentankyo-4/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-09-28T00:12:05+00:00",
-      "keywords": [
-        "学習指導要領"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "AI英会話コーチング「スマイルゼミ ENGLISH」、「振り返りポッドキャスト」と「チャンク・リスニング」を搭載",
-      "url": "https://ict-enews.net/2026/09/28justsystems-3/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-09-28T00:10:51+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "相模原市立中野中、生成AIパイロット校の公開授業研究会を10月23日に開催",
-      "url": "https://edu.watch.impress.co.jp/docs/news/event/2143145.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-09-27T23:00:00+00:00",
-      "keywords": [
-        "生成AI",
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "小中高・大学のAI活用を比較、教員の毎日利用率は大学が小中高を上回る",
-      "url": "https://reseed.resemom.jp/article/2026/09/25/14199.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-09-25T09:45:03+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "サイバー大と数検協会が連携協定、数学力でDX人材育成",
-      "url": "https://reseed.resemom.jp/article/2026/09/25/14198.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-09-25T09:15:03+00:00",
-      "keywords": [
-        "DX"
       ],
       "status": "auto"
     }
