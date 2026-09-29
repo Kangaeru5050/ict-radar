@@ -1,11 +1,22 @@
 {
-  "generated_at": "2026-09-29T05:43:58.260187+00:00",
+  "generated_at": "2026-09-29T12:52:41.847770+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "AIの仕組みとリスクを小中学生向けに解説、『AIの世界へようこそ』が科学教育出版賞",
+      "url": "https://edu.watch.impress.co.jp/docs/knowledge/kodomoit-booklab/2144136.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-09-29T08:00:00+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
     {
       "title": "さいたま市がAI型教材「キュビナ」を導入、約10万人が利用",
       "url": "https://edu.watch.impress.co.jp/docs/news/2144058.html",
@@ -264,17 +275,6 @@
       "keywords": [
         "生成AI",
         "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "【読者プレゼント】書籍『スラスラ読める Pythonふりがなプログラミング 改訂3版』を抽選で5名様にプレゼント　――応募締切は2026年10月9日（金）まで",
-      "url": "https://edu.watch.impress.co.jp/docs/present/2142154.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-09-28T03:03:00+00:00",
-      "keywords": [
-        "プログラミング"
       ],
       "status": "auto"
     }
