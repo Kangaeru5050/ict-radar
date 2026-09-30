@@ -1,11 +1,80 @@
 {
-  "generated_at": "2026-09-29T22:15:01.563884+00:00",
+  "generated_at": "2026-09-30T05:32:36.483761+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "AI研究31件採択、ノーベル賞にも期待…文科相9/29会見",
+      "url": "https://reseed.resemom.jp/article/2026/09/30/14224.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-09-30T02:45:02+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "AIペットロボット「Moflin」と未来を考え、Scratchでデジタルペット制作　東京都が女子小中学生を募集",
+      "url": "https://edu.watch.impress.co.jp/docs/news/2144134.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-09-30T01:00:00+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "WHITE、神奈川工業高校でVibe CodingによるAI開発を体験する特別授業実施",
+      "url": "https://ict-enews.net/2026/09/30white/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-09-29T23:25:17+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "Google for Education、「高等教育 DX フォーラム：生成 AI と AI エージェントが拓く高等教育機関の未来」10月開催",
+      "url": "https://ict-enews.net/2026/09/30google/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-09-29T23:23:29+00:00",
+      "keywords": [
+        "AI",
+        "DX",
+        "Google"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "国際工科専門職大学、Googleの最新技術が集結する「DevFest Kansai 2026」開催",
+      "url": "https://ict-enews.net/2026/09/30nkz/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-09-29T23:22:30+00:00",
+      "keywords": [
+        "AI",
+        "Google"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "コドモン、保育・教育ICTサービス「コドモン」保育所・学童をまたぐ自治体活用が拡大",
+      "url": "https://ict-enews.net/2026/09/30codmon-14/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-09-29T23:18:34+00:00",
+      "keywords": [
+        "ICT"
+      ],
+      "status": "auto"
+    },
     {
       "title": "文部科学省、「木材を活用した学校施設づくり講習会」を11/6に千葉・昭和学院で開催",
       "url": "https://www.kknews.co.jp/news/20260930o02",
@@ -130,107 +199,6 @@
       "status": "auto"
     },
     {
-      "title": "「話そうと思えた時点で、もう限界を超えていた」　変化を捉えるAIで、声を上げられない生徒に気づく  高校生が開発した日記ツール「Blesc」",
-      "url": "https://ict-enews.net/2026/09/29blesc/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-09-29T00:55:35+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "アタム、「子どものAI使用における親の不安に関する意識調査」実施",
-      "url": "https://ict-enews.net/2026/09/29atam-academy-4/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-09-29T00:53:55+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "和歌山市教委とSky、校務スマート化支援アプリ「SKYMENU Mobile」実証研究を開始",
-      "url": "https://ict-enews.net/2026/09/29skygroup/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-09-29T00:53:40+00:00",
-      "keywords": [
-        "校務"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "グッドワークス、江戸川区立篠崎中学校の「チャレンジクラス」でIT・AI教育プログラムをスタート",
-      "url": "https://ict-enews.net/2026/09/29good-works/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-09-29T00:52:59+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "SELF、生成AIチャットボット「SELFBOT」の早稲田大学活用事例インタビュー公開",
-      "url": "https://ict-enews.net/2026/09/29self/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-09-29T00:52:46+00:00",
-      "keywords": [
-        "生成AI",
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "岡山大学、教育データサイエンスセミナー「男女別の高校が生徒のジェンダー規範に与える影響」10月2日開催",
-      "url": "https://ict-enews.net/2026/09/29okayama-u/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-09-29T00:51:28+00:00",
-      "keywords": [
-        "データ"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "カンリー、保育・介護業界向けセミナー「保育・介護施設はAIで探される時代へ！」10月開催",
-      "url": "https://ict-enews.net/2026/09/29can-ly/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-09-29T00:50:58+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "東京学芸大学、公開セミナー「生成AIを活用した授業実践研究」12月5日開催",
-      "url": "https://ict-enews.net/2026/09/29u-gakugei/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-09-29T00:50:42+00:00",
-      "keywords": [
-        "生成AI",
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "オープントーン、人が要件定義と品質を担う「AIネイティブ開発体制」を企業向けに提供開始",
-      "url": "https://ict-enews.net/2026/09/29opentone/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-09-29T00:49:12+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
       "title": "「デザインプロンプト」で考える力を育てる生成AIパイロット校、相模原市立中野中の授業【こどもとIT ポッドキャスト】",
       "url": "https://edu.watch.impress.co.jp/docs/common/2143842.html",
       "source": "こどもとIT",
@@ -273,6 +241,42 @@
       "published": "2026-09-28T03:03:00+00:00",
       "keywords": [
         "プログラミング"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "Google「生成AIと高等教育機関の未来」10/30",
+      "url": "https://reseed.resemom.jp/article/2026/09/28/14203.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-09-28T00:15:02+00:00",
+      "keywords": [
+        "生成AI",
+        "AI",
+        "Google"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "相模原市立中野中、生成AIパイロット校の公開授業研究会を10月23日に開催",
+      "url": "https://edu.watch.impress.co.jp/docs/news/event/2143145.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-09-27T23:00:00+00:00",
+      "keywords": [
+        "生成AI",
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "小中高・大学のAI活用を比較、教員の毎日利用率は大学が小中高を上回る",
+      "url": "https://reseed.resemom.jp/article/2026/09/25/14199.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-09-25T09:45:03+00:00",
+      "keywords": [
+        "AI"
       ],
       "status": "auto"
     }
