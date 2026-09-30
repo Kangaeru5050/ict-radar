@@ -1,11 +1,23 @@
 {
-  "generated_at": "2026-09-30T05:32:36.483761+00:00",
+  "generated_at": "2026-09-30T12:34:30.517360+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "生成AIの授業実践研究を紹介…東京学芸大の公開セミナー12/5",
+      "url": "https://reseed.resemom.jp/article/2026/09/30/14233.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-09-30T07:45:03+00:00",
+      "keywords": [
+        "生成AI",
+        "AI"
+      ],
+      "status": "auto"
+    },
     {
       "title": "AI研究31件採択、ノーベル賞にも期待…文科相9/29会見",
       "url": "https://reseed.resemom.jp/article/2026/09/30/14224.html",
@@ -265,17 +277,6 @@
       "published": "2026-09-27T23:00:00+00:00",
       "keywords": [
         "生成AI",
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "小中高・大学のAI活用を比較、教員の毎日利用率は大学が小中高を上回る",
-      "url": "https://reseed.resemom.jp/article/2026/09/25/14199.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-09-25T09:45:03+00:00",
-      "keywords": [
         "AI"
       ],
       "status": "auto"
