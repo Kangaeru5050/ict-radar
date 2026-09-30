@@ -1,11 +1,33 @@
 {
-  "generated_at": "2026-09-30T12:34:30.517360+00:00",
+  "generated_at": "2026-09-30T22:16:05.692635+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "小中高と大学のAI活用の現在地を比較　教員の9割は有用性評価もガイドライン整備に開き〜デジタル・ナレッジ調査から",
+      "url": "https://www.kknews.co.jp/news/20261001o03",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-09-30T22:00:38+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "京都市×スペースマーケット、学校施設DXの試行研究を市立校2校で開始 スマートロックで教員の負担軽減へ",
+      "url": "https://www.kknews.co.jp/news/20261001o01",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-09-30T22:00:22+00:00",
+      "keywords": [
+        "DX"
+      ],
+      "status": "auto"
+    },
     {
       "title": "生成AIの授業実践研究を紹介…東京学芸大の公開セミナー12/5",
       "url": "https://reseed.resemom.jp/article/2026/09/30/14233.html",
@@ -84,51 +106,6 @@
       "published": "2026-09-29T23:18:34+00:00",
       "keywords": [
         "ICT"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "文部科学省、「木材を活用した学校施設づくり講習会」を11/6に千葉・昭和学院で開催",
-      "url": "https://www.kknews.co.jp/news/20260930o02",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-09-29T22:00:56+00:00",
-      "keywords": [
-        "文部科学省"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "「情報科」はAI時代の基盤科目～第19回全国高等学校情報教育研究会全国大会",
-      "url": "https://www.kknews.co.jp/post_ict/260928_6a",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-09-29T22:00:28+00:00",
-      "keywords": [
-        "AI",
-        "情報教育"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "プログラミングに関する授業に講師を派遣～Pythonの基本操作などを学ぶ～奈良県",
-      "url": "https://www.kknews.co.jp/post_nyusatsu/260928_naraken",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-09-29T21:59:59+00:00",
-      "keywords": [
-        "プログラミング"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "次世代校務支援システムを共同調達～技術的助言をはじめ導入支援を実施～宮崎県",
-      "url": "https://www.kknews.co.jp/post_nyusatsu/260928_miyazakiken",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-09-29T21:59:37+00:00",
-      "keywords": [
-        "校務"
       ],
       "status": "auto"
     },
@@ -275,6 +252,29 @@
       "source": "こどもとIT",
       "source_id": "kodomo-it",
       "published": "2026-09-27T23:00:00+00:00",
+      "keywords": [
+        "生成AI",
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "3人1組の4チームが激突、小学生プログラミング大会の決勝戦を9月27日に開催",
+      "url": "https://edu.watch.impress.co.jp/docs/news/2143085.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-09-25T08:00:00+00:00",
+      "keywords": [
+        "プログラミング"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "生成AI利用者の4割が「誤情報」に不満、ファクトチェックを行う人ほど高い傾向",
+      "url": "https://edu.watch.impress.co.jp/docs/news/2143079.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-09-25T03:03:00+00:00",
       "keywords": [
         "生成AI",
         "AI"
