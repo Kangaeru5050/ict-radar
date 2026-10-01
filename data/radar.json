@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T05:53:37.579193+00:00",
+  "generated_at": "2026-10-01T13:14:39.438398+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
@@ -188,17 +188,6 @@
       "status": "auto"
     },
     {
-      "title": "文科省、教育情報化専門職を募集…日給1.5-2.3万円",
-      "url": "https://reseed.resemom.jp/article/2026/09/29/14213.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-09-29T01:45:03+00:00",
-      "keywords": [
-        "文科省"
-      ],
-      "status": "auto"
-    },
-    {
       "title": "「デザインプロンプト」で考える力を育てる生成AIパイロット校、相模原市立中野中の授業【こどもとIT ポッドキャスト】",
       "url": "https://edu.watch.impress.co.jp/docs/common/2143842.html",
       "source": "こどもとIT",
@@ -241,18 +230,6 @@
       "published": "2026-09-25T08:00:00+00:00",
       "keywords": [
         "プログラミング"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "生成AI利用者の4割が「誤情報」に不満、ファクトチェックを行う人ほど高い傾向",
-      "url": "https://edu.watch.impress.co.jp/docs/news/2143079.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-09-25T03:03:00+00:00",
-      "keywords": [
-        "生成AI",
-        "AI"
       ],
       "status": "auto"
     }
