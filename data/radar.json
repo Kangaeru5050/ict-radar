@@ -1,11 +1,44 @@
 {
-  "generated_at": "2026-10-01T13:14:39.438398+00:00",
+  "generated_at": "2026-10-01T22:41:18.456059+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "和歌山市×Sky、校務用スマホ導入の実証研究を開始 教員の負担軽減と情報管理徹底へ",
+      "url": "https://www.kknews.co.jp/news/20261002o03",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-10-01T22:00:57+00:00",
+      "keywords": [
+        "校務"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "さいたま市、全校にAI型教材「キュビナ」を導入　L-Gateと名簿連携しシームレスなデジタル学習基盤を実現",
+      "url": "https://www.kknews.co.jp/news/20261002o04",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-10-01T22:00:00+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "MacBookもWindowsも選べる学校の事例、立命館守山の実践に学ぶ無料セミナー10月31日開催[Sponsored]",
+      "url": "https://edu.watch.impress.co.jp/docs/topic/special/2144281.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-10-01T21:30:00+00:00",
+      "keywords": [
+        "Windows"
+      ],
+      "status": "auto"
+    },
     {
       "title": "福岡工業大学✕博多工業高校、高大連携協定を締結…AIなどデジタル人材育成へ",
       "url": "https://reseed.resemom.jp/article/2026/10/01/14242.html",
@@ -72,17 +105,6 @@
       "published": "2026-09-30T22:00:38+00:00",
       "keywords": [
         "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "京都市×スペースマーケット、学校施設DXの試行研究を市立校2校で開始 スマートロックで教員の負担軽減へ",
-      "url": "https://www.kknews.co.jp/news/20261001o01",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-09-30T22:00:22+00:00",
-      "keywords": [
-        "DX"
       ],
       "status": "auto"
     },
@@ -219,17 +241,6 @@
       "keywords": [
         "生成AI",
         "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "3人1組の4チームが激突、小学生プログラミング大会の決勝戦を9月27日に開催",
-      "url": "https://edu.watch.impress.co.jp/docs/news/2143085.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-09-25T08:00:00+00:00",
-      "keywords": [
-        "プログラミング"
       ],
       "status": "auto"
     }
