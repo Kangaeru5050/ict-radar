@@ -1,11 +1,69 @@
 {
-  "generated_at": "2026-09-30T22:16:05.692635+00:00",
+  "generated_at": "2026-10-01T05:53:37.579193+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "福岡工業大学✕博多工業高校、高大連携協定を締結…AIなどデジタル人材育成へ",
+      "url": "https://reseed.resemom.jp/article/2026/10/01/14242.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-10-01T00:15:03+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "流通経済大学、2027年度入試 総合型選抜で生成AIを活用する「生成AI利用タイプ」新設",
+      "url": "https://ict-enews.net/2026/10/01rku/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-01T00:01:39+00:00",
+      "keywords": [
+        "生成AI",
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "小中学生向けAI&プログラミング教材のデジタネ、新機能「デジタネAI」リリース",
+      "url": "https://ict-enews.net/2026/10/01educationaldesign-2/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-01T00:00:28+00:00",
+      "keywords": [
+        "AI",
+        "プログラミング"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "BenQ JAPAN、MAYAと協業でオフィスDXを提案する電子黒板「WORXHUB BQ05シリーズ」発売",
+      "url": "https://ict-enews.net/2026/10/01benq-japan/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-09-30T23:56:47+00:00",
+      "keywords": [
+        "DX"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "カシオ計算機、ICT学習アプリ“ClassPad.net”にAIフィードバック機能を搭載",
+      "url": "https://ict-enews.net/2026/10/01casio-2/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-09-30T23:56:30+00:00",
+      "keywords": [
+        "ICT",
+        "AI"
+      ],
+      "status": "auto"
+    },
     {
       "title": "小中高と大学のAI活用の現在地を比較　教員の9割は有用性評価もガイドライン整備に開き〜デジタル・ナレッジ調査から",
       "url": "https://www.kknews.co.jp/news/20261001o03",
@@ -59,53 +117,6 @@
       "published": "2026-09-30T01:00:00+00:00",
       "keywords": [
         "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "WHITE、神奈川工業高校でVibe CodingによるAI開発を体験する特別授業実施",
-      "url": "https://ict-enews.net/2026/09/30white/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-09-29T23:25:17+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "Google for Education、「高等教育 DX フォーラム：生成 AI と AI エージェントが拓く高等教育機関の未来」10月開催",
-      "url": "https://ict-enews.net/2026/09/30google/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-09-29T23:23:29+00:00",
-      "keywords": [
-        "AI",
-        "DX",
-        "Google"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "国際工科専門職大学、Googleの最新技術が集結する「DevFest Kansai 2026」開催",
-      "url": "https://ict-enews.net/2026/09/30nkz/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-09-29T23:22:30+00:00",
-      "keywords": [
-        "AI",
-        "Google"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "コドモン、保育・教育ICTサービス「コドモン」保育所・学童をまたぐ自治体活用が拡大",
-      "url": "https://ict-enews.net/2026/09/30codmon-14/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-09-29T23:18:34+00:00",
-      "keywords": [
-        "ICT"
       ],
       "status": "auto"
     },
@@ -200,29 +211,6 @@
       "status": "auto"
     },
     {
-      "title": "発達障害の不登校率13.26％、全児童生徒の約3.6倍…文科省調査",
-      "url": "https://reseed.resemom.jp/article/2026/09/28/14208.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-09-28T07:45:03+00:00",
-      "keywords": [
-        "文科省"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "生成AI指針改定など議論「デジタル学習基盤委員会」傍聴締切9/29",
-      "url": "https://reseed.resemom.jp/article/2026/09/28/14206.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-09-28T03:15:03+00:00",
-      "keywords": [
-        "生成AI",
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
       "title": "【読者プレゼント】書籍『スラスラ読める Pythonふりがなプログラミング 改訂3版』を抽選で5名様にプレゼント　――応募締切は2026年10月9日（金）まで",
       "url": "https://edu.watch.impress.co.jp/docs/present/2142154.html",
       "source": "こどもとIT",
@@ -230,19 +218,6 @@
       "published": "2026-09-28T03:03:00+00:00",
       "keywords": [
         "プログラミング"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "Google「生成AIと高等教育機関の未来」10/30",
-      "url": "https://reseed.resemom.jp/article/2026/09/28/14203.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-09-28T00:15:02+00:00",
-      "keywords": [
-        "生成AI",
-        "AI",
-        "Google"
       ],
       "status": "auto"
     },
