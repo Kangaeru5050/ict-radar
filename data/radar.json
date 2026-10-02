@@ -1,11 +1,144 @@
 {
-  "generated_at": "2026-10-01T22:41:18.456059+00:00",
+  "generated_at": "2026-10-02T05:37:02.920516+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "非認知能力を「測れる指標」に、Ai GROWが高校の教育目標づくりを支援",
+      "url": "https://edu.watch.impress.co.jp/docs/news/2145180.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-10-02T04:45:00+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "高等教育改革、大学の機能強化と規模適正化…文科省が方向性",
+      "url": "https://reseed.resemom.jp/article/2026/10/02/14256.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-10-02T04:15:03+00:00",
+      "keywords": [
+        "文科省"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "●絵も文もAIが作ったペラペラ漫画● 【ちゃのまのAIプロト】 第8話 「ハルキのサッカー特訓」の巻",
+      "url": "https://ict-enews.net/movie/02chanomaai/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-02T01:00:15+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "母子モ、「子育てDX」の「伴走型相談支援サービス」と「質問票サービス」が広島県坂町で導入",
+      "url": "https://ict-enews.net/2026/10/02boshimo-9/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-02T00:54:12+00:00",
+      "keywords": [
+        "DX"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "Polimill、自治体向け生成AI「QommonsAI」の活用研修を兵庫県尼崎市で実施",
+      "url": "https://ict-enews.net/2026/10/02polimill-5/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-02T00:53:40+00:00",
+      "keywords": [
+        "生成AI",
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "Polimill、青森県六ケ所村で「QommonsAI」活用研修を実施",
+      "url": "https://ict-enews.net/2026/10/02polimill-4/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-02T00:53:26+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "大学パワーランキング、「プログラミングに強い大学ランキング【2026年最新版】」発表",
+      "url": "https://ict-enews.net/2026/10/02ppcn-2/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-02T00:53:11+00:00",
+      "keywords": [
+        "プログラミング"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "武蔵野大学、2027年春から通信教育部に「AI」と「仏教」の副専攻コースを開設",
+      "url": "https://ict-enews.net/2026/10/02musashino-u-5/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-02T00:52:51+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "CoderDojo、AI × 教育の国際サミット「Raspberry Fields」の参加報告書を一般公開",
+      "url": "https://ict-enews.net/2026/10/02coderdojo/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-02T00:52:14+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "河合塾、高校のICT活用事例を共有するオンラインセミナー 11月開催",
+      "url": "https://ict-enews.net/2026/10/02kawaijuku-8/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-02T00:51:22+00:00",
+      "keywords": [
+        "ICT"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "トレノケート、AWSクラウド移行の基礎を学ぶ「AWS Migration Essentials」国内初開催",
+      "url": "https://ict-enews.net/2026/10/02trainocate-2/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-02T00:50:40+00:00",
+      "keywords": [
+        "クラウド"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "大阪市がメタバースで不登校支援、monoAI technologyが学び・相談・交流の場を構築",
+      "url": "https://edu.watch.impress.co.jp/docs/news/2145040.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-10-02T00:00:00+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
     {
       "title": "和歌山市×Sky、校務用スマホ導入の実証研究を開始 教員の負担軽減と情報管理徹底へ",
       "url": "https://www.kknews.co.jp/news/20261002o03",
@@ -46,53 +179,6 @@
       "source_id": "reseed",
       "published": "2026-10-01T00:15:03+00:00",
       "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "流通経済大学、2027年度入試 総合型選抜で生成AIを活用する「生成AI利用タイプ」新設",
-      "url": "https://ict-enews.net/2026/10/01rku/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-01T00:01:39+00:00",
-      "keywords": [
-        "生成AI",
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "小中学生向けAI&プログラミング教材のデジタネ、新機能「デジタネAI」リリース",
-      "url": "https://ict-enews.net/2026/10/01educationaldesign-2/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-01T00:00:28+00:00",
-      "keywords": [
-        "AI",
-        "プログラミング"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "BenQ JAPAN、MAYAと協業でオフィスDXを提案する電子黒板「WORXHUB BQ05シリーズ」発売",
-      "url": "https://ict-enews.net/2026/10/01benq-japan/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-09-30T23:56:47+00:00",
-      "keywords": [
-        "DX"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "カシオ計算機、ICT学習アプリ“ClassPad.net”にAIフィードバック機能を搭載",
-      "url": "https://ict-enews.net/2026/10/01casio-2/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-09-30T23:56:30+00:00",
-      "keywords": [
-        "ICT",
         "AI"
       ],
       "status": "auto"
@@ -177,69 +263,12 @@
       "status": "auto"
     },
     {
-      "title": "AI・STEM教材を無償提供…みんなのコードが参加校5校募集",
-      "url": "https://reseed.resemom.jp/article/2026/09/29/14216.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-09-29T04:15:03+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "文科省、元職員対象に課長補佐級・係長級を募集…11/1まで",
-      "url": "https://reseed.resemom.jp/article/2026/09/29/14215.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-09-29T03:45:02+00:00",
-      "keywords": [
-        "文科省"
-      ],
-      "status": "auto"
-    },
-    {
       "title": "小中学生の保護者55％が「子供はAIに頼りすぎ」と回答、最大の不安は思考力低下",
       "url": "https://edu.watch.impress.co.jp/docs/news/2143939.html",
       "source": "こどもとIT",
       "source_id": "kodomo-it",
       "published": "2026-09-29T03:03:00+00:00",
       "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "「デザインプロンプト」で考える力を育てる生成AIパイロット校、相模原市立中野中の授業【こどもとIT ポッドキャスト】",
-      "url": "https://edu.watch.impress.co.jp/docs/common/2143842.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-09-28T21:30:00+00:00",
-      "keywords": [
-        "生成AI",
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "【読者プレゼント】書籍『スラスラ読める Pythonふりがなプログラミング 改訂3版』を抽選で5名様にプレゼント　――応募締切は2026年10月9日（金）まで",
-      "url": "https://edu.watch.impress.co.jp/docs/present/2142154.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-09-28T03:03:00+00:00",
-      "keywords": [
-        "プログラミング"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "相模原市立中野中、生成AIパイロット校の公開授業研究会を10月23日に開催",
-      "url": "https://edu.watch.impress.co.jp/docs/news/event/2143145.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-09-27T23:00:00+00:00",
-      "keywords": [
-        "生成AI",
         "AI"
       ],
       "status": "auto"
