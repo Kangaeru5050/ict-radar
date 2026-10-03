@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T22:14:10.807781+00:00",
+  "generated_at": "2026-10-03T05:18:37.198114+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
@@ -178,17 +178,6 @@
       "source": "ReseEd",
       "source_id": "reseed",
       "published": "2026-10-01T00:15:03+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "小中高と大学のAI活用の現在地を比較　教員の9割は有用性評価もガイドライン整備に開き〜デジタル・ナレッジ調査から",
-      "url": "https://www.kknews.co.jp/news/20261001o03",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-09-30T22:00:38+00:00",
       "keywords": [
         "AI"
       ],
