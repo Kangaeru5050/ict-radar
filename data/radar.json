@@ -1,11 +1,22 @@
 {
-  "generated_at": "2026-10-03T21:14:04.629798+00:00",
+  "generated_at": "2026-10-04T05:53:34.244848+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "河合塾、高校のICT教材活用事例を共有するオンラインセミナーを11/7に開催",
+      "url": "https://www.kknews.co.jp/news/20261004o01",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-10-04T01:00:17+00:00",
+      "keywords": [
+        "ICT"
+      ],
+      "status": "auto"
+    },
     {
       "title": "非認知能力を「測れる指標」に、Ai GROWが高校の教育目標づくりを支援",
       "url": "https://edu.watch.impress.co.jp/docs/news/2145180.html",
@@ -147,17 +158,6 @@
       "published": "2026-10-01T22:00:57+00:00",
       "keywords": [
         "校務"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "さいたま市、全校にAI型教材「キュビナ」を導入　L-Gateと名簿連携しシームレスなデジタル学習基盤を実現",
-      "url": "https://www.kknews.co.jp/news/20261002o04",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-10-01T22:00:00+00:00",
-      "keywords": [
-        "AI"
       ],
       "status": "auto"
     },
