@@ -1,11 +1,23 @@
 {
-  "generated_at": "2026-10-05T05:39:47.001334+00:00",
+  "generated_at": "2026-10-05T14:38:03.598790+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "子供の生成AI利用、家庭でどうルールを決める？ SHIFT AIがセミナー動画を無料公開",
+      "url": "https://edu.watch.impress.co.jp/docs/news/2145623.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-10-05T06:00:00+00:00",
+      "keywords": [
+        "生成AI",
+        "AI"
+      ],
+      "status": "auto"
+    },
     {
       "title": "河合塾、高校ICT教材「tokuMo」教科別活用事例セミナー11/7",
       "url": "https://reseed.resemom.jp/article/2026/10/05/14267.html",
@@ -219,18 +231,6 @@
       "status": "auto"
     },
     {
-      "title": "生成AIの授業実践研究を紹介…東京学芸大の公開セミナー12/5",
-      "url": "https://reseed.resemom.jp/article/2026/09/30/14233.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-09-30T07:45:03+00:00",
-      "keywords": [
-        "生成AI",
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
       "title": "AIペットロボット「Moflin」と未来を考え、Scratchでデジタルペット制作　東京都が女子小中学生を募集",
       "url": "https://edu.watch.impress.co.jp/docs/news/2144134.html",
       "source": "こどもとIT",
@@ -250,17 +250,6 @@
       "keywords": [
         "AI",
         "端末"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "AIの仕組みとリスクを小中学生向けに解説、『AIの世界へようこそ』が科学教育出版賞",
-      "url": "https://edu.watch.impress.co.jp/docs/knowledge/kodomoit-booklab/2144136.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-09-29T08:00:00+00:00",
-      "keywords": [
-        "AI"
       ],
       "status": "auto"
     }
