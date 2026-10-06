@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T00:03:19.447796+00:00",
+  "generated_at": "2026-10-06T06:20:32.642554+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
@@ -7,13 +7,103 @@
   },
   "items": [
     {
-      "title": "「TDXラジオ」Teacher’s ［Shift］File.287  岩倉高等学校 岸 勇弥 先生（前編）",
-      "url": "https://ict-enews.net/movie/06tdxradio-3/",
+      "title": "文科省「消費者教育フェスタ」岡山10/31",
+      "url": "https://reseed.resemom.jp/article/2026/10/06/14279.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-10-06T05:45:03+00:00",
+      "keywords": [
+        "文科省"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "中教審「次期学習指導要領」審議まとめ…3つの方向性を提示",
+      "url": "https://reseed.resemom.jp/article/2026/10/06/14277.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-10-06T04:45:03+00:00",
+      "keywords": [
+        "学習指導要領"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "ICT CONNECT 21、教育委員会限定「教育DX推進自治体表彰2026」の応募受付開始",
+      "url": "https://ict-enews.net/2026/10/06ict-connect-21/",
       "source": "ICT教育ニュース",
       "source_id": "ict-enews",
-      "published": "2026-10-05T23:00:14+00:00",
+      "published": "2026-10-06T01:37:39+00:00",
       "keywords": [
-        "DX"
+        "ICT",
+        "DX",
+        "教育委員会"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "JEESとプロメトリック、日本語教育能力検定試験をCBT方式に全面移行",
+      "url": "https://ict-enews.net/2026/10/j06prometric-jp/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-06T01:37:14+00:00",
+      "keywords": [
+        "CBT"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "近畿大学情報学部、2026-2029のプログラム期間でApple Distinguished School認定",
+      "url": "https://ict-enews.net/2026/10/06kindai-3/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-06T01:36:02+00:00",
+      "keywords": [
+        "Apple"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "Pendemy、「レゴ×マイクラ」プログラミングの体験内容を初公開",
+      "url": "https://ict-enews.net/2026/10/06pendemy/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-06T01:35:32+00:00",
+      "keywords": [
+        "プログラミング"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "やる気スイッチグループ、冬限定「プログラミング教育 HALLO ウィンタースクール 2026」開催",
+      "url": "https://ict-enews.net/2026/10/06yarukiswitch-2/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-06T01:35:21+00:00",
+      "keywords": [
+        "プログラミング"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "授業支援クラウド「スクールタクト」、オフライン交流会「つながる、ひろがるスクールタクト」11月開催",
+      "url": "https://ict-enews.net/2026/10/06codetakt-3/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-06T01:35:10+00:00",
+      "keywords": [
+        "クラウド"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "AIが個別支援計画の「たたき台」を作成、児発・放デイ向け「コノベル」",
+      "url": "https://edu.watch.impress.co.jp/docs/news/2145844.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-10-06T01:00:00+00:00",
+      "keywords": [
+        "AI"
       ],
       "status": "auto"
     },
@@ -25,17 +115,6 @@
       "published": "2026-10-05T22:00:11+00:00",
       "keywords": [
         "クラウド"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "「TDXラジオ」Teacher’s ［Shift］File.287  岩倉高等学校 岸 勇弥 先生（前編）を公開",
-      "url": "https://ict-enews.net/2026/10/05tdxradio-10/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-05T10:00:57+00:00",
-      "keywords": [
-        "DX"
       ],
       "status": "auto"
     },
@@ -81,85 +160,6 @@
       "published": "2026-10-05T01:15:03+00:00",
       "keywords": [
         "DX"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "遊びの中に学びを！ユーバーの幼児・低学年向けScratchプログラミングVol.6　 ＜場所を「かず」であらわす『やさしい座標』＞",
-      "url": "https://ict-enews.net/zoomin/05-yuber/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-05T00:57:17+00:00",
-      "keywords": [
-        "プログラミング"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "AI時代に伸ばしたいもの「AI活用力」を上回る1位は「専門知識」 =アクシスコンサルティング調べ=",
-      "url": "https://ict-enews.net/2026/10/05axc-g/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-05T00:55:42+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "Polimill、自治体向け生成AI「QommonsAI」の活用研修（初級編）を福岡県みやま市で実施",
-      "url": "https://ict-enews.net/2026/10/05polimill-2/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-05T00:53:57+00:00",
-      "keywords": [
-        "生成AI",
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "京都産業大学、学生一人ひとりに最適な“学びの伴走”を実現する24時間「修学支援AI」の開発開始",
-      "url": "https://ict-enews.net/2026/10/05kyoto-su/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-05T00:53:34+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "Google Cloud 、千葉大学 LMSのGoogle Cloud移行の事例紹介を公開",
-      "url": "https://ict-enews.net/2026/10/05google-cloud/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-05T00:53:22+00:00",
-      "keywords": [
-        "Google"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "AX、DXPO福岡’26に出展＆セミナー登壇 「AIプロ人材」の育て方を解説",
-      "url": "https://ict-enews.net/2026/10/05ax/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-05T00:52:17+00:00",
-      "keywords": [
-        "AI",
-        "DX"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "IGS、非認知能力の可視化・育成を支援する測定ツール「Ai GROW」の特設ページ公開",
-      "url": "https://ict-enews.net/2026/10/05igs-3/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-05T00:51:29+00:00",
-      "keywords": [
-        "AI"
       ],
       "status": "auto"
     },
@@ -247,17 +247,6 @@
       "source": "ReseEd",
       "source_id": "reseed",
       "published": "2026-10-01T00:15:03+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "AIペットロボット「Moflin」と未来を考え、Scratchでデジタルペット制作　東京都が女子小中学生を募集",
-      "url": "https://edu.watch.impress.co.jp/docs/news/2144134.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-09-30T01:00:00+00:00",
       "keywords": [
         "AI"
       ],
