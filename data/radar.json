@@ -1,11 +1,69 @@
 {
-  "generated_at": "2026-10-06T06:20:32.642554+00:00",
+  "generated_at": "2026-10-06T18:21:52.922404+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "インクルーシブ教育のICT活用事例を募集…魔法のプロジェクト",
+      "url": "https://reseed.resemom.jp/article/2026/10/06/14288.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-10-06T10:15:03+00:00",
+      "keywords": [
+        "ICT"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "【AI時代の教育】生成AIが「答え」を出す時代、なぜ探究が重要なのか",
+      "url": "https://reseed.resemom.jp/article/2026/10/06/14284.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-10-06T08:15:03+00:00",
+      "keywords": [
+        "生成AI",
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "スマホ・Web・AIの「なぜ？」を解説、『誰かに話したくなるITの不思議としくみ』",
+      "url": "https://edu.watch.impress.co.jp/docs/knowledge/kodomoit-booklab/2146000.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-10-06T08:00:00+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "生成AIの利点とリスク対応、深い学びへ…次期指導要領まとめ",
+      "url": "https://reseed.resemom.jp/article/2026/10/06/14281.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-10-06T06:45:02+00:00",
+      "keywords": [
+        "生成AI",
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "次期学習指導要領で小中高の情報教育を刷新…中教審まとめ",
+      "url": "https://reseed.resemom.jp/article/2026/10/06/14280.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-10-06T06:15:03+00:00",
+      "keywords": [
+        "学習指導要領",
+        "情報教育"
+      ],
+      "status": "auto"
+    },
     {
       "title": "文科省「消費者教育フェスタ」岡山10/31",
       "url": "https://reseed.resemom.jp/article/2026/10/06/14279.html",
@@ -216,39 +274,6 @@
       "published": "2026-10-02T04:15:03+00:00",
       "keywords": [
         "文科省"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "大阪市がメタバースで不登校支援、monoAI technologyが学び・相談・交流の場を構築",
-      "url": "https://edu.watch.impress.co.jp/docs/news/2145040.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-10-02T00:00:00+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "MacBookもWindowsも選べる学校の事例、立命館守山の実践に学ぶ無料セミナー10月31日開催[Sponsored]",
-      "url": "https://edu.watch.impress.co.jp/docs/topic/special/2144281.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-10-01T21:30:00+00:00",
-      "keywords": [
-        "Windows"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "福岡工業大学✕博多工業高校、高大連携協定を締結…AIなどデジタル人材育成へ",
-      "url": "https://reseed.resemom.jp/article/2026/10/01/14242.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-10-01T00:15:03+00:00",
-      "keywords": [
-        "AI"
       ],
       "status": "auto"
     }
