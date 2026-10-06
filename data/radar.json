@@ -1,11 +1,44 @@
 {
-  "generated_at": "2026-10-05T14:38:03.598790+00:00",
+  "generated_at": "2026-10-06T00:03:19.447796+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "「TDXラジオ」Teacher’s ［Shift］File.287  岩倉高等学校 岸 勇弥 先生（前編）",
+      "url": "https://ict-enews.net/movie/06tdxradio-3/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-05T23:00:14+00:00",
+      "keywords": [
+        "DX"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "下野市、全市立小・中・義務教育学校で授業支援クラウド導入　本格活用を開始",
+      "url": "https://www.kknews.co.jp/news/20261006o01",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-10-05T22:00:11+00:00",
+      "keywords": [
+        "クラウド"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "「TDXラジオ」Teacher’s ［Shift］File.287  岩倉高等学校 岸 勇弥 先生（前編）を公開",
+      "url": "https://ict-enews.net/2026/10/05tdxradio-10/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-05T10:00:57+00:00",
+      "keywords": [
+        "DX"
+      ],
+      "status": "auto"
+    },
     {
       "title": "子供の生成AI利用、家庭でどうルールを決める？ SHIFT AIがセミナー動画を無料公開",
       "url": "https://edu.watch.impress.co.jp/docs/news/2145623.html",
@@ -165,17 +198,6 @@
       "status": "auto"
     },
     {
-      "title": "河合塾、高校のICT教材活用事例を共有するオンラインセミナーを11/7に開催",
-      "url": "https://www.kknews.co.jp/news/20261004o01",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-10-04T01:00:17+00:00",
-      "keywords": [
-        "ICT"
-      ],
-      "status": "auto"
-    },
-    {
       "title": "非認知能力を「測れる指標」に、Ai GROWが高校の教育目標づくりを支援",
       "url": "https://edu.watch.impress.co.jp/docs/news/2145180.html",
       "source": "こどもとIT",
@@ -238,18 +260,6 @@
       "published": "2026-09-30T01:00:00+00:00",
       "keywords": [
         "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "MacBook Neoという選択肢、端末選びとAI活用をどう判断するか[Sponsored]",
-      "url": "https://edu.watch.impress.co.jp/docs/topic/special/2139978.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-09-29T21:30:00+00:00",
-      "keywords": [
-        "AI",
-        "端末"
       ],
       "status": "auto"
     }
