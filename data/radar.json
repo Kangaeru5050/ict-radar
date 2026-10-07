@@ -1,11 +1,55 @@
 {
-  "generated_at": "2026-10-07T13:23:16.483985+00:00",
+  "generated_at": "2026-10-07T23:05:17.500488+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "考える力を高める「AI活用ガイドライン」を先行公開【意志ある学び−未来教育 全国大会】2026/10/31オンライン開催",
+      "url": "https://www.kknews.co.jp/news/20260929o01-2",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-10-07T22:01:13+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "青楓館高等学院、和歌山県白浜町で課題解決を目指す「白浜AIブートキャンプ」12月に開催",
+      "url": "https://www.kknews.co.jp/news/20261008o03",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-10-07T22:00:45+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "「失敗」を学びに変えるアントレプレナーシップ教育を体験 文科省が11月に大阪でイベント",
+      "url": "https://www.kknews.co.jp/news/20261008o01",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-10-07T22:00:43+00:00",
+      "keywords": [
+        "文科省"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "「第3回教育データ利活用SIPシンポジウム＠オンライン」11/7開催〜京都大学学術情報メディアセンター緒方研究室",
+      "url": "https://www.kknews.co.jp/news/20261008o04",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-10-07T22:00:01+00:00",
+      "keywords": [
+        "データ"
+      ],
+      "status": "auto"
+    },
     {
       "title": "大人数講義でも学生を巻き込む、Slido活用のDX実践とは",
       "url": "https://reseed.resemom.jp/article/2026/10/07/14297.html",
@@ -228,51 +272,6 @@
       "published": "2026-10-06T01:00:00+00:00",
       "keywords": [
         "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "下野市、全市立小・中・義務教育学校で授業支援クラウド導入　本格活用を開始",
-      "url": "https://www.kknews.co.jp/news/20261006o01",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-10-05T22:00:11+00:00",
-      "keywords": [
-        "クラウド"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "子供の生成AI利用、家庭でどうルールを決める？ SHIFT AIがセミナー動画を無料公開",
-      "url": "https://edu.watch.impress.co.jp/docs/news/2145623.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-10-05T06:00:00+00:00",
-      "keywords": [
-        "生成AI",
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "河合塾、高校ICT教材「tokuMo」教科別活用事例セミナー11/7",
-      "url": "https://reseed.resemom.jp/article/2026/10/05/14267.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-10-05T04:45:03+00:00",
-      "keywords": [
-        "ICT"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "文科省、xAPI Japan Profileに関する意見募集…10/30まで",
-      "url": "https://reseed.resemom.jp/article/2026/10/05/14264.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-10-05T03:15:03+00:00",
-      "keywords": [
-        "文科省"
       ],
       "status": "auto"
     }
