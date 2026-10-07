@@ -1,11 +1,45 @@
 {
-  "generated_at": "2026-10-06T18:21:52.922404+00:00",
+  "generated_at": "2026-10-07T06:00:09.405199+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
-    "successful_sources": 4,
-    "failed_sources": 0
+    "successful_sources": 2,
+    "failed_sources": 2
   },
   "items": [
+    {
+      "title": "次期学習指導要領の審議まとめ、文科省が11/5までパブコメ募集",
+      "url": "https://reseed.resemom.jp/article/2026/10/07/14293.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-10-07T04:45:03+00:00",
+      "keywords": [
+        "文科省",
+        "学習指導要領"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "教員同士がICT授業実践を語り合う、「スクールタクト」交流会を11月に開催",
+      "url": "https://edu.watch.impress.co.jp/docs/news/2146235.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-10-07T01:45:00+00:00",
+      "keywords": [
+        "ICT"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "滋賀県草津市、AI型教材「キュビナ」を全市立小中学校に導入",
+      "url": "https://edu.watch.impress.co.jp/docs/news/2146185.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-10-06T22:30:00+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
     {
       "title": "インクルーシブ教育のICT活用事例を募集…魔法のプロジェクト",
       "url": "https://reseed.resemom.jp/article/2026/10/06/14288.html",
@@ -240,40 +274,6 @@
       "published": "2026-10-04T22:00:02+00:00",
       "keywords": [
         "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "生成AIを教育の「伴走者」へ、教員9人が活用アイデアを披露",
-      "url": "https://edu.watch.impress.co.jp/docs/report/2132462.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-10-04T21:30:00+00:00",
-      "keywords": [
-        "生成AI",
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "非認知能力を「測れる指標」に、Ai GROWが高校の教育目標づくりを支援",
-      "url": "https://edu.watch.impress.co.jp/docs/news/2145180.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-10-02T04:45:00+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "高等教育改革、大学の機能強化と規模適正化…文科省が方向性",
-      "url": "https://reseed.resemom.jp/article/2026/10/02/14256.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-10-02T04:15:03+00:00",
-      "keywords": [
-        "文科省"
       ],
       "status": "auto"
     }
