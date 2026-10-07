@@ -1,11 +1,33 @@
 {
-  "generated_at": "2026-10-07T06:00:09.405199+00:00",
+  "generated_at": "2026-10-07T13:23:16.483985+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
-    "successful_sources": 2,
-    "failed_sources": 2
+    "successful_sources": 4,
+    "failed_sources": 0
   },
   "items": [
+    {
+      "title": "大人数講義でも学生を巻き込む、Slido活用のDX実践とは",
+      "url": "https://reseed.resemom.jp/article/2026/10/07/14297.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-10-07T07:15:03+00:00",
+      "keywords": [
+        "DX"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "AIでクマを24時間監視、岩手・紫波町の小学校2校で実証",
+      "url": "https://edu.watch.impress.co.jp/docs/news/2146359.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-10-07T06:00:00+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
     {
       "title": "次期学習指導要領の審議まとめ、文科省が11/5までパブコメ募集",
       "url": "https://reseed.resemom.jp/article/2026/10/07/14293.html",
@@ -26,6 +48,84 @@
       "published": "2026-10-07T01:45:00+00:00",
       "keywords": [
         "ICT"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "NTTデータ×国立科学博物館、「きみが館長！動物の博物館を作ろう」開催",
+      "url": "https://ict-enews.net/2026/10/07nttdata-2/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-07T00:43:06+00:00",
+      "keywords": [
+        "データ"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "「QommonsAI」のPolimill、27日・28日開催「地方自治情報化推進フェア2026」出展",
+      "url": "https://ict-enews.net/2026/10/07polimill-3/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-07T00:42:33+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "Too、「DISわぁるど in 京都」に「Appleで実現する学び、Tooにおまかせ」テーマで出展",
+      "url": "https://ict-enews.net/2026/10/07too-2/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-07T00:42:24+00:00",
+      "keywords": [
+        "Apple"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "リケイマッチ、理系学生向けAI就活相談機能「AIリケねこ」をリリース",
+      "url": "https://ict-enews.net/2026/10/07cambiainc/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-07T00:42:11+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "中高生向けAI学習サービス「ガクレオ」、iOS・Androidアプリを提供開始",
+      "url": "https://ict-enews.net/2026/10/07gakuleo/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-07T00:41:52+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "メイツ、日本語教育での活用に向けICTサービス「aim@」が多言語対応を開始",
+      "url": "https://ict-enews.net/2026/10/07mates-edu-4/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-07T00:41:38+00:00",
+      "keywords": [
+        "ICT",
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "京進、教育と介護分野におけるAIを活用した対人サービス支援技術で特許出願",
+      "url": "https://ict-enews.net/2026/10/07kyoshin-3/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-07T00:41:25+00:00",
+      "keywords": [
+        "AI"
       ],
       "status": "auto"
     },
@@ -121,74 +221,6 @@
       "status": "auto"
     },
     {
-      "title": "ICT CONNECT 21、教育委員会限定「教育DX推進自治体表彰2026」の応募受付開始",
-      "url": "https://ict-enews.net/2026/10/06ict-connect-21/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-06T01:37:39+00:00",
-      "keywords": [
-        "ICT",
-        "DX",
-        "教育委員会"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "JEESとプロメトリック、日本語教育能力検定試験をCBT方式に全面移行",
-      "url": "https://ict-enews.net/2026/10/j06prometric-jp/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-06T01:37:14+00:00",
-      "keywords": [
-        "CBT"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "近畿大学情報学部、2026-2029のプログラム期間でApple Distinguished School認定",
-      "url": "https://ict-enews.net/2026/10/06kindai-3/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-06T01:36:02+00:00",
-      "keywords": [
-        "Apple"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "Pendemy、「レゴ×マイクラ」プログラミングの体験内容を初公開",
-      "url": "https://ict-enews.net/2026/10/06pendemy/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-06T01:35:32+00:00",
-      "keywords": [
-        "プログラミング"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "やる気スイッチグループ、冬限定「プログラミング教育 HALLO ウィンタースクール 2026」開催",
-      "url": "https://ict-enews.net/2026/10/06yarukiswitch-2/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-06T01:35:21+00:00",
-      "keywords": [
-        "プログラミング"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "授業支援クラウド「スクールタクト」、オフライン交流会「つながる、ひろがるスクールタクト」11月開催",
-      "url": "https://ict-enews.net/2026/10/06codetakt-3/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-06T01:35:10+00:00",
-      "keywords": [
-        "クラウド"
-      ],
-      "status": "auto"
-    },
-    {
       "title": "AIが個別支援計画の「たたき台」を作成、児発・放デイ向け「コノベル」",
       "url": "https://edu.watch.impress.co.jp/docs/news/2145844.html",
       "source": "こどもとIT",
@@ -241,39 +273,6 @@
       "published": "2026-10-05T03:15:03+00:00",
       "keywords": [
         "文科省"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "大学入試DXで業務効率化、UCAROと入試アウトソーシングで受験生と向きあう時間を創出",
-      "url": "https://reseed.resemom.jp/article/2026/10/05/14261.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-10-05T01:15:03+00:00",
-      "keywords": [
-        "DX"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "文部科学省、学校体育館の空調・断熱事例集を公開　熱中症対策と省エネを推進",
-      "url": "https://www.kknews.co.jp/news/20261005o01",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-10-04T22:00:36+00:00",
-      "keywords": [
-        "文部科学省"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "OpenAI、日本で学生主導AIコミュニティ「OpenAI Student Collective」を始動　全国10大学で17人の学生リーダー選出",
-      "url": "https://www.kknews.co.jp/news/20261005o02",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-10-04T22:00:02+00:00",
-      "keywords": [
-        "AI"
       ],
       "status": "auto"
     }
