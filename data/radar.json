@@ -1,11 +1,57 @@
 {
-  "generated_at": "2026-10-08T13:29:11.875446+00:00",
+  "generated_at": "2026-10-08T23:20:59.810076+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "子供のAI利用「禁止」は逆効果？ 家庭でのルール設計と活用法を解説するアーカイブ動画を無料公開〜SHIFT AI",
+      "url": "https://www.kknews.co.jp/news/20261009o03",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-10-08T22:00:54+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "生成AIの仕組みを体験学習、京都ノートルダム女子大が11/14に公開講座を開催",
+      "url": "https://www.kknews.co.jp/news/20261009o01",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-10-08T22:00:30+00:00",
+      "keywords": [
+        "生成AI",
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "次期学習指導要領の審議まとめ公表 文科省がパブコメ実施中〜11/5まで",
+      "url": "https://www.kknews.co.jp/news/20261009o04",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-10-08T22:00:18+00:00",
+      "keywords": [
+        "文科省",
+        "学習指導要領"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "押して、動かして、作ってみる！親子で楽しむ Maker Faire Tokyo 2026",
+      "url": "https://edu.watch.impress.co.jp/docs/report/2142077.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-10-08T21:30:00+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
     {
       "title": "地方医科4大学、研究推進ネットワーク連携協定…研究DXなど",
       "url": "https://reseed.resemom.jp/article/2026/10/08/14306.html",
@@ -230,51 +276,6 @@
       "published": "2026-10-07T22:00:43+00:00",
       "keywords": [
         "文科省"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "「第3回教育データ利活用SIPシンポジウム＠オンライン」11/7開催〜京都大学学術情報メディアセンター緒方研究室",
-      "url": "https://www.kknews.co.jp/news/20261008o04",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-10-07T22:00:01+00:00",
-      "keywords": [
-        "データ"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "大人数講義でも学生を巻き込む、Slido活用のDX実践とは",
-      "url": "https://reseed.resemom.jp/article/2026/10/07/14297.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-10-07T07:15:03+00:00",
-      "keywords": [
-        "DX"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "AIでクマを24時間監視、岩手・紫波町の小学校2校で実証",
-      "url": "https://edu.watch.impress.co.jp/docs/news/2146359.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-10-07T06:00:00+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "次期学習指導要領の審議まとめ、文科省が11/5までパブコメ募集",
-      "url": "https://reseed.resemom.jp/article/2026/10/07/14293.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-10-07T04:45:03+00:00",
-      "keywords": [
-        "文科省",
-        "学習指導要領"
       ],
       "status": "auto"
     }
