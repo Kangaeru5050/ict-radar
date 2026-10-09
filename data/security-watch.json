@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-10-08T01:51:07.020331+00:00",
+  "last_run": "2026-10-09T02:03:24.309468+00:00",
   "note": "一次情報の更新検知用。changed=true は内容確認が必要なことを示し、自動で解釈・公開内容を書き換えない。",
   "sources": [
     {
@@ -25,9 +25,9 @@
       "name": "警察庁 サイバー関連発表",
       "url": "https://www.npa.go.jp/news/release/index.html",
       "filter": "サイバー|不正アクセス|ランサム|フィッシング|マルウェア",
-      "hash": "f4fc415b7ee0d929e72891c24459e0e2f2c87bd091fb5f185aa165caa59285ce",
-      "changed": false,
-      "changed_at": null
+      "hash": "3bd5969dc80f9591ce130c26073d521238aa817b2119bd3a1f5cb701743e4203",
+      "changed": true,
+      "changed_at": "2026-10-09T02:03:24.309468+00:00"
     },
     {
       "id": "nco-news",
