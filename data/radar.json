@@ -1,11 +1,100 @@
 {
-  "generated_at": "2026-10-08T23:20:59.810076+00:00",
+  "generated_at": "2026-10-09T06:08:25.405324+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "学習指導は「AIより対面が効果的」と77.4％が回答、学習形式はハイブリッド型が過半数",
+      "url": "https://edu.watch.impress.co.jp/docs/news/2146940.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-10-09T06:00:00+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "京大、教育データ利活用SIPシンポ11/7オンライン",
+      "url": "https://reseed.resemom.jp/article/2026/10/09/14315.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-10-09T03:45:02+00:00",
+      "keywords": [
+        "データ"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "大学編入受験の生成AI利用率、2年で36%→97%に =大学編入総合研究所調べ=",
+      "url": "https://ict-enews.net/2026/10/09bear-bee/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-09T00:15:10+00:00",
+      "keywords": [
+        "生成AI",
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "NEXER Groupと集団指導塾「心水塾」、「AI学習と対面指導、これからの学び」調査結果",
+      "url": "https://ict-enews.net/2026/10/09nexer-group/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-09T00:14:50+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "グロービス経営大学院、日経ビジネスとAI活用の実態や組織課題を共同調査",
+      "url": "https://ict-enews.net/2026/10/09globis-2/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-09T00:14:30+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "学生団体による資金調達イベント「Giving Campaign 2026」16日から開幕",
+      "url": "https://ict-enews.net/2026/10/09alumnote/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-09T00:13:07+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "東京大学、“AI”をテーマに一般向け国際シンポジウム「東京フォーラム2026」11月開催",
+      "url": "https://ict-enews.net/2026/10/09u-tokyo-3/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-09T00:11:49+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "ネットラーニング、「教育現場の情報セキュリティ研修、何から始める？事例で学ぶ実践ノウハウ」29日開催",
+      "url": "https://ict-enews.net/2026/10/09netlearning-2/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-09T00:10:51+00:00",
+      "keywords": [
+        "セキュリティ"
+      ],
+      "status": "auto"
+    },
     {
       "title": "子供のAI利用「禁止」は逆効果？ 家庭でのルール設計と活用法を解説するアーカイブ動画を無料公開〜SHIFT AI",
       "url": "https://www.kknews.co.jp/news/20261009o03",
@@ -110,143 +199,6 @@
       "status": "auto"
     },
     {
-      "title": "●絵も文もAIが作ったペラペラ漫画● 【ちゃのまのAIプロト】 第9話 AIが選ぶ「なわない家」の主役",
-      "url": "https://ict-enews.net/zoomin/08chanomaai/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-08T01:45:55+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "コードタクト、教育データの相互運用性を支える3つの実装資産を公開",
-      "url": "https://ict-enews.net/2026/10/08codetakt-3/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-08T01:36:00+00:00",
-      "keywords": [
-        "データ"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "学習eポータル＋AI型教材「キュビナ」、滋賀県草津市で正式採用",
-      "url": "https://ict-enews.net/2026/10/08compass-4/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-08T01:35:00+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "大学パワーランキング、「大学サイトの生成AI対応調査」を発表",
-      "url": "https://ict-enews.net/2026/10/08ppcn-2/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-08T01:34:46+00:00",
-      "keywords": [
-        "生成AI",
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "産業能率大学 総合研究所、「生成AIと人材育成に関する人事実態調査」を発表",
-      "url": "https://ict-enews.net/2026/10/08sanno/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-08T01:34:27+00:00",
-      "keywords": [
-        "生成AI",
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "サイコム、鳳凰高校で特別授業「動画生成AIで、大切な人に感謝を伝えよう」実施",
-      "url": "https://ict-enews.net/2026/10/08sycom/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-08T01:33:54+00:00",
-      "keywords": [
-        "生成AI",
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "成蹊大学、講演会「AI革命‐近代社会における『第二の革命』」24日開催",
-      "url": "https://ict-enews.net/2026/10/08seikei-2/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-08T01:33:41+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "セキュリティ教育クラウド「セキュリオ」、「Japan IT Week【秋】2026」に出展",
-      "url": "https://ict-enews.net/2026/10/08lrm-3/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-08T01:33:22+00:00",
-      "keywords": [
-        "セキュリティ",
-        "クラウド"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "船橋市立七林中学校、情報活用能力の育成に関する公開研究会を11月12日 開催",
-      "url": "https://ict-enews.net/2026/10/08funabashi/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-08T01:32:57+00:00",
-      "keywords": [
-        "情報活用能力"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "セキュリティ教育クラウド「セキュリオ」、「NETWorld Wiz 2026」に出展",
-      "url": "https://ict-enews.net/2026/10/08lrm-2/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-08T01:32:35+00:00",
-      "keywords": [
-        "セキュリティ",
-        "クラウド"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "CKCネットワーク、家庭学習と「出席扱い制度」を考える無料オンラインセミナー 17日開催",
-      "url": "https://ict-enews.net/2026/10/08ckc-2/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-08T01:32:14+00:00",
-      "keywords": [
-        "ネットワーク"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "Uravation、「AI研修 稟議書テンプレート（研修発注版）」を無料公開",
-      "url": "https://ict-enews.net/2026/10/08uravation/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-08T01:31:43+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
       "title": "考える力を高める「AI活用ガイドライン」を先行公開【意志ある学び−未来教育 全国大会】2026/10/31オンライン開催",
       "url": "https://www.kknews.co.jp/news/20260929o01-2",
       "source": "教育家庭新聞 KKS Web",
@@ -276,6 +228,51 @@
       "published": "2026-10-07T22:00:43+00:00",
       "keywords": [
         "文科省"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "「第3回教育データ利活用SIPシンポジウム＠オンライン」11/7開催〜京都大学学術情報メディアセンター緒方研究室",
+      "url": "https://www.kknews.co.jp/news/20261008o04",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-10-07T22:00:01+00:00",
+      "keywords": [
+        "データ"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "大人数講義でも学生を巻き込む、Slido活用のDX実践とは",
+      "url": "https://reseed.resemom.jp/article/2026/10/07/14297.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-10-07T07:15:03+00:00",
+      "keywords": [
+        "DX"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "AIでクマを24時間監視、岩手・紫波町の小学校2校で実証",
+      "url": "https://edu.watch.impress.co.jp/docs/news/2146359.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-10-07T06:00:00+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "次期学習指導要領の審議まとめ、文科省が11/5までパブコメ募集",
+      "url": "https://reseed.resemom.jp/article/2026/10/07/14293.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-10-07T04:45:03+00:00",
+      "keywords": [
+        "文科省",
+        "学習指導要領"
       ],
       "status": "auto"
     }
