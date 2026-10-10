@@ -1,11 +1,46 @@
 {
-  "generated_at": "2026-10-09T22:38:17.457810+00:00",
+  "generated_at": "2026-10-10T05:52:44.201749+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "児童発達支援・放課後等デイサービス向けクラウドサービス「コノベル」、AIで個別支援計画の作成支援機能を大幅刷新",
+      "url": "https://www.kknews.co.jp/news/20261010o03",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-10-10T01:00:58+00:00",
+      "keywords": [
+        "AI",
+        "クラウド"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "勿来工業高校、現場さながらの建設DX体験授業を実施　建設業の担い手育成へ産学連携の取組",
+      "url": "https://www.kknews.co.jp/news/20261010o04",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-10-10T01:00:43+00:00",
+      "keywords": [
+        "DX"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "福岡工大×博多工業高、DX・AI人材の育成に向け高大連携協定を締結　大学での学びを生徒の未来へ",
+      "url": "https://www.kknews.co.jp/news/20261010o01",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-10-10T01:00:35+00:00",
+      "keywords": [
+        "AI",
+        "DX"
+      ],
+      "status": "auto"
+    },
     {
       "title": "学習指導は「AIより対面が効果的」と77.4％が回答、学習形式はハイブリッド型が過半数",
       "url": "https://edu.watch.impress.co.jp/docs/news/2146940.html",
@@ -206,39 +241,6 @@
       "published": "2026-10-07T22:01:13+00:00",
       "keywords": [
         "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "青楓館高等学院、和歌山県白浜町で課題解決を目指す「白浜AIブートキャンプ」12月に開催",
-      "url": "https://www.kknews.co.jp/news/20261008o03",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-10-07T22:00:45+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "「失敗」を学びに変えるアントレプレナーシップ教育を体験 文科省が11月に大阪でイベント",
-      "url": "https://www.kknews.co.jp/news/20261008o01",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-10-07T22:00:43+00:00",
-      "keywords": [
-        "文科省"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "「第3回教育データ利活用SIPシンポジウム＠オンライン」11/7開催〜京都大学学術情報メディアセンター緒方研究室",
-      "url": "https://www.kknews.co.jp/news/20261008o04",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-10-07T22:00:01+00:00",
-      "keywords": [
-        "データ"
       ],
       "status": "auto"
     },
