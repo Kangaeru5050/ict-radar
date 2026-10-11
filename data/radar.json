@@ -1,11 +1,46 @@
 {
-  "generated_at": "2026-10-10T21:43:53.255003+00:00",
+  "generated_at": "2026-10-11T05:46:18.339741+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "ICT CONNECT21、教育DXに取り組む市町村を表彰する「教育DX推進自治体表彰2026」応募受付を開始",
+      "url": "https://www.kknews.co.jp/news/20261011o04",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-10-11T01:00:49+00:00",
+      "keywords": [
+        "ICT",
+        "DX"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "コードタクト、教育データの相互運用性を支える3つの実装資産を公開　文科省教育データ標準に対応",
+      "url": "https://www.kknews.co.jp/news/20261011o02",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-10-11T01:00:35+00:00",
+      "keywords": [
+        "文科省",
+        "データ"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "オープンバッジ・ネットワーク、11/5にネットワーク設立7周年シンポジウムを開催　オープンバッジ活用事例が結集",
+      "url": "https://www.kknews.co.jp/news/20261011o03",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-10-11T01:00:26+00:00",
+      "keywords": [
+        "ネットワーク"
+      ],
+      "status": "auto"
+    },
     {
       "title": "児童発達支援・放課後等デイサービス向けクラウドサービス「コノベル」、AIで個別支援計画の作成支援機能を大幅刷新",
       "url": "https://www.kknews.co.jp/news/20261010o03",
@@ -142,30 +177,6 @@
       "status": "auto"
     },
     {
-      "title": "生成AIの仕組みを体験学習、京都ノートルダム女子大が11/14に公開講座を開催",
-      "url": "https://www.kknews.co.jp/news/20261009o01",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-10-08T22:00:30+00:00",
-      "keywords": [
-        "生成AI",
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "次期学習指導要領の審議まとめ公表 文科省がパブコメ実施中〜11/5まで",
-      "url": "https://www.kknews.co.jp/news/20261009o04",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-10-08T22:00:18+00:00",
-      "keywords": [
-        "文科省",
-        "学習指導要領"
-      ],
-      "status": "auto"
-    },
-    {
       "title": "押して、動かして、作ってみる！親子で楽しむ Maker Faire Tokyo 2026",
       "url": "https://edu.watch.impress.co.jp/docs/report/2142077.html",
       "source": "こどもとIT",
@@ -230,17 +241,6 @@
       "published": "2026-10-08T02:15:02+00:00",
       "keywords": [
         "文科省"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "考える力を高める「AI活用ガイドライン」を先行公開【意志ある学び−未来教育 全国大会】2026/10/31オンライン開催",
-      "url": "https://www.kknews.co.jp/news/20260929o01-2",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-10-07T22:01:13+00:00",
-      "keywords": [
-        "AI"
       ],
       "status": "auto"
     },
