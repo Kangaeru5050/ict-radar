@@ -1,11 +1,22 @@
 {
-  "generated_at": "2026-10-11T21:58:03.275636+00:00",
+  "generated_at": "2026-10-12T05:57:41.098042+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "文部科学省 2026年度「学校魅力化フォーラム」10/30にオンライン開催",
+      "url": "https://www.kknews.co.jp/news/20261012o01",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-10-12T01:00:10+00:00",
+      "keywords": [
+        "文部科学省"
+      ],
+      "status": "auto"
+    },
     {
       "title": "ICT CONNECT21、教育DXに取り組む市町村を表彰する「教育DX推進自治体表彰2026」応募受付を開始",
       "url": "https://www.kknews.co.jp/news/20261011o04",
@@ -50,29 +61,6 @@
       "keywords": [
         "AI",
         "クラウド"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "勿来工業高校、現場さながらの建設DX体験授業を実施　建設業の担い手育成へ産学連携の取組",
-      "url": "https://www.kknews.co.jp/news/20261010o04",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-10-10T01:00:43+00:00",
-      "keywords": [
-        "DX"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "福岡工大×博多工業高、DX・AI人材の育成に向け高大連携協定を締結　大学での学びを生徒の未来へ",
-      "url": "https://www.kknews.co.jp/news/20261010o01",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-10-10T01:00:35+00:00",
-      "keywords": [
-        "AI",
-        "DX"
       ],
       "status": "auto"
     },
@@ -162,17 +150,6 @@
       "published": "2026-10-09T00:10:51+00:00",
       "keywords": [
         "セキュリティ"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "子供のAI利用「禁止」は逆効果？ 家庭でのルール設計と活用法を解説するアーカイブ動画を無料公開〜SHIFT AI",
-      "url": "https://www.kknews.co.jp/news/20261009o03",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-10-08T22:00:54+00:00",
-      "keywords": [
-        "AI"
       ],
       "status": "auto"
     },
@@ -275,6 +252,28 @@
       "keywords": [
         "文科省",
         "学習指導要領"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "教員同士がICT授業実践を語り合う、「スクールタクト」交流会を11月に開催",
+      "url": "https://edu.watch.impress.co.jp/docs/news/2146235.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-10-07T01:45:00+00:00",
+      "keywords": [
+        "ICT"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "滋賀県草津市、AI型教材「キュビナ」を全市立小中学校に導入",
+      "url": "https://edu.watch.impress.co.jp/docs/news/2146185.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-10-06T22:30:00+00:00",
+      "keywords": [
+        "AI"
       ],
       "status": "auto"
     }
