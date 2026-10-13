@@ -1,11 +1,55 @@
 {
-  "generated_at": "2026-10-13T00:39:33.938999+00:00",
+  "generated_at": "2026-10-13T14:11:26.759534+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "【全国学力テスト】CBTサンプル問題を公表",
+      "url": "https://reseed.resemom.jp/article/2026/10/13/14334.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-10-13T08:15:03+00:00",
+      "keywords": [
+        "CBT"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "文科省、少子化に対応した学校づくり「学校魅力化フォーラム」10/30",
+      "url": "https://reseed.resemom.jp/article/2026/10/13/14331.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-10-13T05:45:03+00:00",
+      "keywords": [
+        "文科省"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "文科省主催「秋のアントレ祭！2026 in 関西」11/6-7",
+      "url": "https://reseed.resemom.jp/article/2026/10/13/14328.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-10-13T03:45:03+00:00",
+      "keywords": [
+        "文科省"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "【11/5 Zoom】大学DXセミナー：広島大学「DXハイスクールを契機とした高大連携の新たな形」",
+      "url": "https://reseed.resemom.jp/article/2026/10/13/14326.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-10-13T02:45:02+00:00",
+      "keywords": [
+        "DX"
+      ],
+      "status": "auto"
+    },
     {
       "title": "Z世代求職者の70.9％が生成AIを活用、最多は履歴書・エントリーシートの作成",
       "url": "https://edu.watch.impress.co.jp/docs/news/2147452.html",
@@ -232,50 +276,6 @@
       "keywords": [
         "校務",
         "Apple"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "文科省、高専の機能強化へ…半導体など成長17分野の人材育成推進",
-      "url": "https://reseed.resemom.jp/article/2026/10/08/14301.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-10-08T03:15:03+00:00",
-      "keywords": [
-        "文科省"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "文科省、次世代計算科学グランドリーチプログラム18課題を採択",
-      "url": "https://reseed.resemom.jp/article/2026/10/08/14300.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-10-08T02:15:02+00:00",
-      "keywords": [
-        "文科省"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "大人数講義でも学生を巻き込む、Slido活用のDX実践とは",
-      "url": "https://reseed.resemom.jp/article/2026/10/07/14297.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-10-07T07:15:03+00:00",
-      "keywords": [
-        "DX"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "AIでクマを24時間監視、岩手・紫波町の小学校2校で実証",
-      "url": "https://edu.watch.impress.co.jp/docs/news/2146359.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-10-07T06:00:00+00:00",
-      "keywords": [
-        "AI"
       ],
       "status": "auto"
     }
