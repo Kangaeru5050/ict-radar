@@ -1,11 +1,137 @@
 {
-  "generated_at": "2026-10-12T15:25:03.083890+00:00",
+  "generated_at": "2026-10-13T00:39:33.938999+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "Z世代求職者の70.9％が生成AIを活用、最多は履歴書・エントリーシートの作成",
+      "url": "https://edu.watch.impress.co.jp/docs/news/2147452.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-10-13T00:30:00+00:00",
+      "keywords": [
+        "生成AI",
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "Polimill、自治体向け生成AI「QommonsAI」の活用研修を岐阜県の職員対象に実施",
+      "url": "https://ict-enews.net/2026/10/13polimill-3/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-13T00:02:52+00:00",
+      "keywords": [
+        "生成AI",
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "マーキュリー、沖縄の専門学校2校で「推し活×生成AI」のキャリア教育セミナー開催",
+      "url": "https://ict-enews.net/2026/10/13mercury-group/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-13T00:00:57+00:00",
+      "keywords": [
+        "生成AI",
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "追手門学院大学、「AI時代にこそ必要な『国語』の学び」特設サイトで配信",
+      "url": "https://ict-enews.net/2026/10/13otemon-4/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-12T23:59:59+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "SHIFT AI、「専門家が解説する『家庭のAIルール10か条』」アーカイブ動画を公開",
+      "url": "https://ict-enews.net/2026/10/13shift-ai-2/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-12T23:58:23+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "セルバ、相次ぐ情報漏えいに「AI脆弱性診断サービス」",
+      "url": "https://ict-enews.net/2026/10/13selva-i/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-12T23:57:37+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "近畿大学情報学部がAppleの「Swift」を必修化 日本の大学で初　実践的なアプリ開発教育を展開",
+      "url": "https://www.kknews.co.jp/news/20261013o03",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-10-12T22:00:50+00:00",
+      "keywords": [
+        "Apple"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "カシオ、学習アプリ「ClassPad.net」にAIフィードバック機能を搭載　教員の評価・添削業務を支援",
+      "url": "https://www.kknews.co.jp/news/20261013o02",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-10-12T22:00:39+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "教員9人の生成AI活用、進路指導・面接練習・体育の振り返りまで【こどもとIT ポッドキャスト】",
+      "url": "https://edu.watch.impress.co.jp/docs/common/2147394.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-10-12T21:40:00+00:00",
+      "keywords": [
+        "生成AI",
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "Claude・ChatGPTで使える、自分専用のNotionデータベースのつくり方【【連載】EducAItion Times】",
+      "url": "https://edu.watch.impress.co.jp/docs/serial/educaition-times/2146836.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-10-12T21:30:00+00:00",
+      "keywords": [
+        "AI",
+        "データ"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "次期学習指導要領の審議まとめ、大学研究費獲得総額ランキング…教育業界ニュースまとめ読み",
+      "url": "https://reseed.resemom.jp/article/2026/10/13/14322.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-10-12T20:55:03+00:00",
+      "keywords": [
+        "学習指導要領"
+      ],
+      "status": "auto"
+    },
     {
       "title": "文部科学省 2026年度「学校魅力化フォーラム」10/30にオンライン開催",
       "url": "https://www.kknews.co.jp/news/20261012o01",
@@ -42,29 +168,6 @@
       "status": "auto"
     },
     {
-      "title": "オープンバッジ・ネットワーク、11/5にネットワーク設立7周年シンポジウムを開催　オープンバッジ活用事例が結集",
-      "url": "https://www.kknews.co.jp/news/20261011o03",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-10-11T01:00:26+00:00",
-      "keywords": [
-        "ネットワーク"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "児童発達支援・放課後等デイサービス向けクラウドサービス「コノベル」、AIで個別支援計画の作成支援機能を大幅刷新",
-      "url": "https://www.kknews.co.jp/news/20261010o03",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-10-10T01:00:58+00:00",
-      "keywords": [
-        "AI",
-        "クラウド"
-      ],
-      "status": "auto"
-    },
-    {
       "title": "学習指導は「AIより対面が効果的」と77.4％が回答、学習形式はハイブリッド型が過半数",
       "url": "https://edu.watch.impress.co.jp/docs/news/2146940.html",
       "source": "こどもとIT",
@@ -83,73 +186,6 @@
       "published": "2026-10-09T03:45:02+00:00",
       "keywords": [
         "データ"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "大学編入受験の生成AI利用率、2年で36%→97%に =大学編入総合研究所調べ=",
-      "url": "https://ict-enews.net/2026/10/09bear-bee/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-09T00:15:10+00:00",
-      "keywords": [
-        "生成AI",
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "NEXER Groupと集団指導塾「心水塾」、「AI学習と対面指導、これからの学び」調査結果",
-      "url": "https://ict-enews.net/2026/10/09nexer-group/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-09T00:14:50+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "グロービス経営大学院、日経ビジネスとAI活用の実態や組織課題を共同調査",
-      "url": "https://ict-enews.net/2026/10/09globis-2/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-09T00:14:30+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "学生団体による資金調達イベント「Giving Campaign 2026」16日から開幕",
-      "url": "https://ict-enews.net/2026/10/09alumnote/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-09T00:13:07+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "東京大学、“AI”をテーマに一般向け国際シンポジウム「東京フォーラム2026」11月開催",
-      "url": "https://ict-enews.net/2026/10/09u-tokyo-3/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-09T00:11:49+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "ネットラーニング、「教育現場の情報セキュリティ研修、何から始める？事例で学ぶ実践ノウハウ」29日開催",
-      "url": "https://ict-enews.net/2026/10/09netlearning-2/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-09T00:10:51+00:00",
-      "keywords": [
-        "セキュリティ"
       ],
       "status": "auto"
     },
@@ -238,40 +274,6 @@
       "source": "こどもとIT",
       "source_id": "kodomo-it",
       "published": "2026-10-07T06:00:00+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "次期学習指導要領の審議まとめ、文科省が11/5までパブコメ募集",
-      "url": "https://reseed.resemom.jp/article/2026/10/07/14293.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-10-07T04:45:03+00:00",
-      "keywords": [
-        "文科省",
-        "学習指導要領"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "教員同士がICT授業実践を語り合う、「スクールタクト」交流会を11月に開催",
-      "url": "https://edu.watch.impress.co.jp/docs/news/2146235.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-10-07T01:45:00+00:00",
-      "keywords": [
-        "ICT"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "滋賀県草津市、AI型教材「キュビナ」を全市立小中学校に導入",
-      "url": "https://edu.watch.impress.co.jp/docs/news/2146185.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-10-06T22:30:00+00:00",
       "keywords": [
         "AI"
       ],
