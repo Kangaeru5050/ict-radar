@@ -1,11 +1,22 @@
 {
-  "generated_at": "2026-10-13T14:11:26.759534+00:00",
+  "generated_at": "2026-10-13T22:44:50.060913+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "＜10/16締切＞「第2回 学校現場のAI活用実践コンテスト」実践事例募集中〜教育AI活用協会",
+      "url": "https://www.kknews.co.jp/news/20261014o04",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-10-13T22:00:15+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
     {
       "title": "【全国学力テスト】CBTサンプル問題を公表",
       "url": "https://reseed.resemom.jp/article/2026/10/13/14334.html",
@@ -177,41 +188,6 @@
       "status": "auto"
     },
     {
-      "title": "文部科学省 2026年度「学校魅力化フォーラム」10/30にオンライン開催",
-      "url": "https://www.kknews.co.jp/news/20261012o01",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-10-12T01:00:10+00:00",
-      "keywords": [
-        "文部科学省"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "ICT CONNECT21、教育DXに取り組む市町村を表彰する「教育DX推進自治体表彰2026」応募受付を開始",
-      "url": "https://www.kknews.co.jp/news/20261011o04",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-10-11T01:00:49+00:00",
-      "keywords": [
-        "ICT",
-        "DX"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "コードタクト、教育データの相互運用性を支える3つの実装資産を公開　文科省教育データ標準に対応",
-      "url": "https://www.kknews.co.jp/news/20261011o02",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-10-11T01:00:35+00:00",
-      "keywords": [
-        "文科省",
-        "データ"
-      ],
-      "status": "auto"
-    },
-    {
       "title": "学習指導は「AIより対面が効果的」と77.4％が回答、学習形式はハイブリッド型が過半数",
       "url": "https://edu.watch.impress.co.jp/docs/news/2146940.html",
       "source": "こどもとIT",
@@ -276,6 +252,28 @@
       "keywords": [
         "校務",
         "Apple"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "文科省、高専の機能強化へ…半導体など成長17分野の人材育成推進",
+      "url": "https://reseed.resemom.jp/article/2026/10/08/14301.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-10-08T03:15:03+00:00",
+      "keywords": [
+        "文科省"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "文科省、次世代計算科学グランドリーチプログラム18課題を採択",
+      "url": "https://reseed.resemom.jp/article/2026/10/08/14300.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-10-08T02:15:02+00:00",
+      "keywords": [
+        "文科省"
       ],
       "status": "auto"
     }
