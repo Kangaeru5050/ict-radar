@@ -1,11 +1,57 @@
 {
-  "generated_at": "2026-10-14T04:53:29.732797+00:00",
+  "generated_at": "2026-10-14T11:51:44.603045+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "文科省、学校保健・学校安全表彰に158人・33校・1団体…11月表彰式",
+      "url": "https://reseed.resemom.jp/article/2026/10/14/14348.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-10-14T07:15:03+00:00",
+      "keywords": [
+        "文科省"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "次期学習指導要領とICT活用、細田眞由美氏ら講演…仙台11/6",
+      "url": "https://reseed.resemom.jp/article/2026/10/14/14346.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-10-14T06:15:03+00:00",
+      "keywords": [
+        "ICT",
+        "学習指導要領"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "全国初、純国産LLMで小中学校の校務AI実証…茨木市×NTT西日本",
+      "url": "https://reseed.resemom.jp/article/2026/10/14/14345.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-10-14T05:45:03+00:00",
+      "keywords": [
+        "AI",
+        "校務"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "同志社国際への私学助成減額や学習指導要領…文科相10/13会見",
+      "url": "https://reseed.resemom.jp/article/2026/10/14/14344.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-10-14T05:15:03+00:00",
+      "keywords": [
+        "学習指導要領"
+      ],
+      "status": "auto"
+    },
     {
       "title": "学校のAI活用コンテスト10/16まで募集…11/14結果発表",
       "url": "https://reseed.resemom.jp/article/2026/10/14/14343.html",
@@ -229,51 +275,6 @@
       "keywords": [
         "生成AI",
         "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "Claude・ChatGPTで使える、自分専用のNotionデータベースのつくり方【【連載】EducAItion Times】",
-      "url": "https://edu.watch.impress.co.jp/docs/serial/educaition-times/2146836.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-10-12T21:30:00+00:00",
-      "keywords": [
-        "AI",
-        "データ"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "次期学習指導要領の審議まとめ、大学研究費獲得総額ランキング…教育業界ニュースまとめ読み",
-      "url": "https://reseed.resemom.jp/article/2026/10/13/14322.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-10-12T20:55:03+00:00",
-      "keywords": [
-        "学習指導要領"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "学習指導は「AIより対面が効果的」と77.4％が回答、学習形式はハイブリッド型が過半数",
-      "url": "https://edu.watch.impress.co.jp/docs/news/2146940.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-10-09T06:00:00+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "京大、教育データ利活用SIPシンポ11/7オンライン",
-      "url": "https://reseed.resemom.jp/article/2026/10/09/14315.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-10-09T03:45:02+00:00",
-      "keywords": [
-        "データ"
       ],
       "status": "auto"
     }
