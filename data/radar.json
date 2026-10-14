@@ -1,11 +1,136 @@
 {
-  "generated_at": "2026-10-13T22:44:50.060913+00:00",
+  "generated_at": "2026-10-14T04:53:29.732797+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "学校のAI活用コンテスト10/16まで募集…11/14結果発表",
+      "url": "https://reseed.resemom.jp/article/2026/10/14/14343.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-10-14T04:46:38+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "デジタルハリウッド大学、生成AI「Claude」を全学導入",
+      "url": "https://edu.watch.impress.co.jp/docs/news/2148002.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-10-14T04:40:00+00:00",
+      "keywords": [
+        "生成AI",
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "デジタル教科書の動画は1本3分まで、文科省が検定改善案",
+      "url": "https://reseed.resemom.jp/article/2026/10/14/14341.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-10-14T02:45:03+00:00",
+      "keywords": [
+        "文科省",
+        "デジタル教科書"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "スタディプラス、学校の自習室運営に初参入　修徳中高で学習データを活用",
+      "url": "https://edu.watch.impress.co.jp/docs/news/2147610.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-10-14T01:00:00+00:00",
+      "keywords": [
+        "データ"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "AI利用者が不安なのは「仕事を奪われること」ではなかった=アクシスコンサルティング調べ=",
+      "url": "https://ict-enews.net/2026/10/14axc-g/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-14T00:24:21+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "奄美市、デジタル庁の「源内」を基盤とする生成AIサービス「AMAMI GENAI」を庁内に構築",
+      "url": "https://ict-enews.net/2026/10/14kawaguchi-2/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-14T00:24:07+00:00",
+      "keywords": [
+        "生成AI",
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "ドローン×プログラミング教室「D-TYPE.」、コナミスポーツクラブ 明石に11月開校",
+      "url": "https://ict-enews.net/2026/10/14hdl-edu/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-14T00:22:57+00:00",
+      "keywords": [
+        "プログラミング"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "STEAM教育＆プログラミングスクール「STEMON」、文章題専門算数「よみとき」11月新規開校",
+      "url": "https://ict-enews.net/2026/10/14viling/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-14T00:22:41+00:00",
+      "keywords": [
+        "プログラミング"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "第2回「学校現場のAI活用実践コンテスト2026」　OLイベント11月14日開催",
+      "url": "https://ict-enews.net/2026/10/14ai-ueo-2/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-14T00:22:06+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "AceDo、3時間のAI研修を1社1円で提供開始 経営者・管理職向け先着5社を募集",
+      "url": "https://ict-enews.net/2026/10/14acedo/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-14T00:20:24+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "茨木市とNTT西日本、純国産LLM「tsuzumi 2」で小中学校の校務AIを実証",
+      "url": "https://edu.watch.impress.co.jp/docs/news/2147757.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-10-13T23:00:00+00:00",
+      "keywords": [
+        "AI",
+        "校務"
+      ],
+      "status": "auto"
+    },
     {
       "title": "＜10/16締切＞「第2回 学校現場のAI活用実践コンテスト」実践事例募集中〜教育AI活用協会",
       "url": "https://www.kknews.co.jp/news/20261014o04",
@@ -69,63 +194,6 @@
       "published": "2026-10-13T00:30:00+00:00",
       "keywords": [
         "生成AI",
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "Polimill、自治体向け生成AI「QommonsAI」の活用研修を岐阜県の職員対象に実施",
-      "url": "https://ict-enews.net/2026/10/13polimill-3/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-13T00:02:52+00:00",
-      "keywords": [
-        "生成AI",
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "マーキュリー、沖縄の専門学校2校で「推し活×生成AI」のキャリア教育セミナー開催",
-      "url": "https://ict-enews.net/2026/10/13mercury-group/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-13T00:00:57+00:00",
-      "keywords": [
-        "生成AI",
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "追手門学院大学、「AI時代にこそ必要な『国語』の学び」特設サイトで配信",
-      "url": "https://ict-enews.net/2026/10/13otemon-4/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-12T23:59:59+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "SHIFT AI、「専門家が解説する『家庭のAIルール10か条』」アーカイブ動画を公開",
-      "url": "https://ict-enews.net/2026/10/13shift-ai-2/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-12T23:58:23+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "セルバ、相次ぐ情報漏えいに「AI脆弱性診断サービス」",
-      "url": "https://ict-enews.net/2026/10/13selva-i/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-12T23:57:37+00:00",
-      "keywords": [
         "AI"
       ],
       "status": "auto"
@@ -206,74 +274,6 @@
       "published": "2026-10-09T03:45:02+00:00",
       "keywords": [
         "データ"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "押して、動かして、作ってみる！親子で楽しむ Maker Faire Tokyo 2026",
-      "url": "https://edu.watch.impress.co.jp/docs/report/2142077.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-10-08T21:30:00+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "地方医科4大学、研究推進ネットワーク連携協定…研究DXなど",
-      "url": "https://reseed.resemom.jp/article/2026/10/08/14306.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-10-08T09:15:03+00:00",
-      "keywords": [
-        "DX",
-        "ネットワーク"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "東京都、総合教育会議「AI時代の未来と教育の在り方」10/15…傍聴者募集",
-      "url": "https://reseed.resemom.jp/article/2026/10/08/14304.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-10-08T08:15:03+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "Apple、校務用Mac導入ガイドで3つの導入シナリオを紹介",
-      "url": "https://edu.watch.impress.co.jp/docs/news/2146691.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-10-08T06:00:00+00:00",
-      "keywords": [
-        "校務",
-        "Apple"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "文科省、高専の機能強化へ…半導体など成長17分野の人材育成推進",
-      "url": "https://reseed.resemom.jp/article/2026/10/08/14301.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-10-08T03:15:03+00:00",
-      "keywords": [
-        "文科省"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "文科省、次世代計算科学グランドリーチプログラム18課題を採択",
-      "url": "https://reseed.resemom.jp/article/2026/10/08/14300.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-10-08T02:15:02+00:00",
-      "keywords": [
-        "文科省"
       ],
       "status": "auto"
     }
