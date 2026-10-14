@@ -1,11 +1,22 @@
 {
-  "generated_at": "2026-10-14T17:10:07.652354+00:00",
+  "generated_at": "2026-10-14T21:40:52.905440+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "高槻市、全市立小中学校にAI型教材「キュビナ」を導入　約24,100人が利用",
+      "url": "https://edu.watch.impress.co.jp/docs/news/2148100.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-10-14T21:30:00+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
     {
       "title": "文科省、学校保健・学校安全表彰に158人・33校・1団体…11月表彰式",
       "url": "https://reseed.resemom.jp/article/2026/10/14/14348.html",
@@ -262,18 +273,6 @@
       "source_id": "kknews",
       "published": "2026-10-12T22:00:39+00:00",
       "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "教員9人の生成AI活用、進路指導・面接練習・体育の振り返りまで【こどもとIT ポッドキャスト】",
-      "url": "https://edu.watch.impress.co.jp/docs/common/2147394.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-10-12T21:40:00+00:00",
-      "keywords": [
-        "生成AI",
         "AI"
       ],
       "status": "auto"
