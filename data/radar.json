@@ -1,11 +1,44 @@
 {
-  "generated_at": "2026-10-15T04:38:28.029496+00:00",
+  "generated_at": "2026-10-15T11:28:37.445715+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "AI時代の英語教育を考えるセミナー10/25…ピアソン・ジャパン",
+      "url": "https://reseed.resemom.jp/article/2026/10/15/14361.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-10-15T10:15:03+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "琉球大と数検協会、数理・DS・AI教育で連携協定",
+      "url": "https://reseed.resemom.jp/article/2026/10/15/14357.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-10-15T08:15:03+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "教育の新たな未来を拓く…情報教育対応教員研修全国セミナー、仙台12/24",
+      "url": "https://reseed.resemom.jp/article/2026/10/15/14354.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-10-15T04:45:02+00:00",
+      "keywords": [
+        "情報教育"
+      ],
+      "status": "auto"
+    },
     {
       "title": "茨木市、全国初 純国産LLM活用による小中学校向け校務AI実証を開始",
       "url": "https://ict-enews.net/2026/10/15ibaraki-2/",
@@ -242,40 +275,6 @@
       "published": "2026-10-13T05:45:03+00:00",
       "keywords": [
         "文科省"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "文科省主催「秋のアントレ祭！2026 in 関西」11/6-7",
-      "url": "https://reseed.resemom.jp/article/2026/10/13/14328.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-10-13T03:45:03+00:00",
-      "keywords": [
-        "文科省"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "【11/5 Zoom】大学DXセミナー：広島大学「DXハイスクールを契機とした高大連携の新たな形」",
-      "url": "https://reseed.resemom.jp/article/2026/10/13/14326.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-10-13T02:45:02+00:00",
-      "keywords": [
-        "DX"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "Z世代求職者の70.9％が生成AIを活用、最多は履歴書・エントリーシートの作成",
-      "url": "https://edu.watch.impress.co.jp/docs/news/2147452.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-10-13T00:30:00+00:00",
-      "keywords": [
-        "生成AI",
-        "AI"
       ],
       "status": "auto"
     }
