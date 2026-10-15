@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-10-10T01:42:33.167902+00:00",
+  "last_run": "2026-10-15T00:28:24.143307+00:00",
   "note": "一次情報の更新検知用。changed=true は内容確認が必要なことを示し、自動で解釈・公開内容を書き換えない。",
   "sources": [
     {
@@ -16,9 +16,9 @@
       "name": "IPA 情報セキュリティ10大脅威",
       "url": "https://www.ipa.go.jp/security/10threats/index.html",
       "filter": "",
-      "hash": "ba1d70935fc80b7821dae11ddecac46ccdf376e4098e623cb56ca7036386e7de",
+      "hash": "d2eb9aab79285d8e8039c5b217880e45014e91603914862e6c6b27433d89b32c",
       "changed": true,
-      "changed_at": "2026-10-10T01:42:33.167902+00:00"
+      "changed_at": "2026-10-15T00:28:24.143307+00:00"
     },
     {
       "id": "npa-cyber",
