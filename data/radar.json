@@ -1,11 +1,102 @@
 {
-  "generated_at": "2026-10-14T21:40:52.905440+00:00",
+  "generated_at": "2026-10-15T04:38:28.029496+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "茨木市、全国初 純国産LLM活用による小中学校向け校務AI実証を開始",
+      "url": "https://ict-enews.net/2026/10/15ibaraki-2/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-15T02:06:29+00:00",
+      "keywords": [
+        "AI",
+        "校務"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "「第3回教育データ利活用SIPシンポジウム＠オンライン」11月7日開催",
+      "url": "https://ict-enews.net/2026/10/15uchida-2/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-15T02:03:03+00:00",
+      "keywords": [
+        "データ"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "アテイン、「生成AI時代、大学のLMSはどう変わるのか」11月5日開催",
+      "url": "https://ict-enews.net/2026/10/15-attainj/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-15T02:02:34+00:00",
+      "keywords": [
+        "生成AI",
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "AI応対評価「Dr.Tel」と教育クラウド「shouin for コンタクトセンター」がAPI連携開始",
+      "url": "https://ict-enews.net/2026/10/15brisys/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-15T02:01:47+00:00",
+      "keywords": [
+        "AI",
+        "クラウド"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "インターネット・アカデミー、「社内AI利用ガイドライン」を作成する「AIガバナンス研修」提供開始",
+      "url": "https://ict-enews.net/2026/10/15internetacademy/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-15T02:01:06+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "横浜市大などが位置情報とAIの未来探るシンポジウムを12/11に開催",
+      "url": "https://www.kknews.co.jp/news/20261015o04",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-10-14T22:00:59+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "河合塾、中高生向けオンライン学習プログラムを開催　全10講座 講師に理研研究者やAI専門家ら",
+      "url": "https://www.kknews.co.jp/news/20261015o03",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-10-14T22:00:46+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "DriveChecker、教育機関向け「ClassroomChecker」12月提供開始へ　Google Classroomの安全な運用を支援",
+      "url": "https://www.kknews.co.jp/news/20261015o01",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-10-14T22:00:01+00:00",
+      "keywords": [
+        "Google"
+      ],
+      "status": "auto"
+    },
     {
       "title": "高槻市、全市立小中学校にAI型教材「キュビナ」を導入　約24,100人が利用",
       "url": "https://edu.watch.impress.co.jp/docs/news/2148100.html",
@@ -110,73 +201,6 @@
       "status": "auto"
     },
     {
-      "title": "AI利用者が不安なのは「仕事を奪われること」ではなかった=アクシスコンサルティング調べ=",
-      "url": "https://ict-enews.net/2026/10/14axc-g/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-14T00:24:21+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "奄美市、デジタル庁の「源内」を基盤とする生成AIサービス「AMAMI GENAI」を庁内に構築",
-      "url": "https://ict-enews.net/2026/10/14kawaguchi-2/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-14T00:24:07+00:00",
-      "keywords": [
-        "生成AI",
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "ドローン×プログラミング教室「D-TYPE.」、コナミスポーツクラブ 明石に11月開校",
-      "url": "https://ict-enews.net/2026/10/14hdl-edu/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-14T00:22:57+00:00",
-      "keywords": [
-        "プログラミング"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "STEAM教育＆プログラミングスクール「STEMON」、文章題専門算数「よみとき」11月新規開校",
-      "url": "https://ict-enews.net/2026/10/14viling/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-14T00:22:41+00:00",
-      "keywords": [
-        "プログラミング"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "第2回「学校現場のAI活用実践コンテスト2026」　OLイベント11月14日開催",
-      "url": "https://ict-enews.net/2026/10/14ai-ueo-2/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-14T00:22:06+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "AceDo、3時間のAI研修を1社1円で提供開始 経営者・管理職向け先着5社を募集",
-      "url": "https://ict-enews.net/2026/10/14acedo/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-14T00:20:24+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
       "title": "茨木市とNTT西日本、純国産LLM「tsuzumi 2」で小中学校の校務AIを実証",
       "url": "https://edu.watch.impress.co.jp/docs/news/2147757.html",
       "source": "こどもとIT",
@@ -251,28 +275,6 @@
       "published": "2026-10-13T00:30:00+00:00",
       "keywords": [
         "生成AI",
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "近畿大学情報学部がAppleの「Swift」を必修化 日本の大学で初　実践的なアプリ開発教育を展開",
-      "url": "https://www.kknews.co.jp/news/20261013o03",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-10-12T22:00:50+00:00",
-      "keywords": [
-        "Apple"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "カシオ、学習アプリ「ClassPad.net」にAIフィードバック機能を搭載　教員の評価・添削業務を支援",
-      "url": "https://www.kknews.co.jp/news/20261013o02",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-10-12T22:00:39+00:00",
-      "keywords": [
         "AI"
       ],
       "status": "auto"
