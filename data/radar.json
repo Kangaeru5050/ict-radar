@@ -1,11 +1,44 @@
 {
-  "generated_at": "2026-10-16T04:31:55.886499+00:00",
+  "generated_at": "2026-10-16T11:24:19.248904+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "目標・内容の構造化と深い学びとは？『1冊整理　学習指導要領　改訂への見取り図』より（1）",
+      "url": "https://reseed.resemom.jp/article/2026/10/16/14371.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-10-16T09:15:02+00:00",
+      "keywords": [
+        "学習指導要領"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "共通テスト対策「情報I」デジタル模試、高校生向け無料開催",
+      "url": "https://reseed.resemom.jp/article/2026/10/16/14370.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-10-16T07:45:02+00:00",
+      "keywords": [
+        "情報I"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "小中学生の「友だちの悩み」、相談相手の2位は「AI」",
+      "url": "https://edu.watch.impress.co.jp/docs/news/2148587.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-10-16T06:00:00+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
     {
       "title": "AIを使った作文、何を評価する？　ケンブリッジ大が8つの原則を公開",
       "url": "https://reseed.resemom.jp/article/2026/10/16/14367.html",
@@ -239,40 +272,6 @@
       "published": "2026-10-14T22:00:01+00:00",
       "keywords": [
         "Google"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "高槻市、全市立小中学校にAI型教材「キュビナ」を導入　約24,100人が利用",
-      "url": "https://edu.watch.impress.co.jp/docs/news/2148100.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-10-14T21:30:00+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "文科省、学校保健・学校安全表彰に158人・33校・1団体…11月表彰式",
-      "url": "https://reseed.resemom.jp/article/2026/10/14/14348.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-10-14T07:15:03+00:00",
-      "keywords": [
-        "文科省"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "次期学習指導要領とICT活用、細田眞由美氏ら講演…仙台11/6",
-      "url": "https://reseed.resemom.jp/article/2026/10/14/14346.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-10-14T06:15:03+00:00",
-      "keywords": [
-        "ICT",
-        "学習指導要領"
       ],
       "status": "auto"
     }
