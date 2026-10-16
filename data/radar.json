@@ -1,11 +1,181 @@
 {
-  "generated_at": "2026-10-15T21:22:36.002870+00:00",
+  "generated_at": "2026-10-16T04:31:55.886499+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "AIを使った作文、何を評価する？　ケンブリッジ大が8つの原則を公開",
+      "url": "https://reseed.resemom.jp/article/2026/10/16/14367.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-10-16T04:15:03+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "大学の生成AI対応に遅れ、llms.txt設置1.5％…国立大はゼロ",
+      "url": "https://reseed.resemom.jp/article/2026/10/16/14365.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-10-16T03:15:08+00:00",
+      "keywords": [
+        "生成AI",
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "忘れそうな英単語をAIが再出題、旺文社が英単語アプリ「ターゲットの友」に新機能を追加",
+      "url": "https://edu.watch.impress.co.jp/docs/news/2148399.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-10-16T01:00:00+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "DHU、Anthropicの生成AIモデル「Claude」を国内大学初となる全学導入へ",
+      "url": "https://ict-enews.net/2026/10/16dhw-13/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-15T23:17:25+00:00",
+      "keywords": [
+        "生成AI",
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "東北大学とSolafune、AI搭載の人工衛星の開発と打上げを目指す",
+      "url": "https://ict-enews.net/2026/10/16solafune/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-15T23:16:44+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "通信制高校「第一学院高等学校」、WITHUS DAIICHICUP＜オンライン文化祭＞開催",
+      "url": "https://ict-enews.net/2026/10/16with-us/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-15T23:16:04+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "「ユメカタリ 学生生成AIコンテスト2026」、東京・名古屋両大会グランプリが決定",
+      "url": "https://ict-enews.net/2026/10/16shinto-tsushin/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-15T23:14:00+00:00",
+      "keywords": [
+        "生成AI",
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "DeNA、大学受験生向けの数学記述添削AIアプリ「SIRUS」提供開始",
+      "url": "https://ict-enews.net/2026/10/16dena/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-15T23:13:03+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "LINEヤフー、子育てのやるべきことをAIがサポートする「子育て」エージェント提供開始",
+      "url": "https://ict-enews.net/2026/10/16lycorp/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-15T23:12:31+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "英単語アプリ「ターゲットの友」、AIを活用した新機能「今日の5問MAX」が登場",
+      "url": "https://ict-enews.net/2026/10/16obunsha-12/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-15T23:11:54+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "「AI特殊詐欺体験システム」を大阪電通大生が開発、りそな銀行で体験会を実施",
+      "url": "https://edu.watch.impress.co.jp/docs/news/2148584.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-10-15T23:00:00+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "東大松尾研のAI講座、累計受講者数が27万人突破　AXエバンジェリスト講座や海外学生向け講座など幅広い層に学習機会を提供",
+      "url": "https://www.kknews.co.jp/news/20261016o01",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-10-15T22:00:59+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "茨木市×NTT西日本、純国産LLMを活用した小中学校向け校務AI実証を開始",
+      "url": "https://www.kknews.co.jp/news/20261016o04",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-10-15T22:00:03+00:00",
+      "keywords": [
+        "AI",
+        "校務"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "関西大学、AI・データ活用できる次世代人材の育成に向けサークレイスと実践授業を開講",
+      "url": "https://www.kknews.co.jp/news/20261016o02",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-10-15T22:00:02+00:00",
+      "keywords": [
+        "AI",
+        "データ"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "女子高専生がサイバーセキュリティ演習に挑戦、NECが実践型イベントを開催",
+      "url": "https://edu.watch.impress.co.jp/docs/news/2148578.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-10-15T21:30:00+00:00",
+      "keywords": [
+        "セキュリティ"
+      ],
+      "status": "auto"
+    },
     {
       "title": "AI時代の英語教育を考えるセミナー10/25…ピアソン・ジャパン",
       "url": "https://reseed.resemom.jp/article/2026/10/15/14361.html",
@@ -36,64 +206,6 @@
       "published": "2026-10-15T04:45:02+00:00",
       "keywords": [
         "情報教育"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "茨木市、全国初 純国産LLM活用による小中学校向け校務AI実証を開始",
-      "url": "https://ict-enews.net/2026/10/15ibaraki-2/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-15T02:06:29+00:00",
-      "keywords": [
-        "AI",
-        "校務"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "「第3回教育データ利活用SIPシンポジウム＠オンライン」11月7日開催",
-      "url": "https://ict-enews.net/2026/10/15uchida-2/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-15T02:03:03+00:00",
-      "keywords": [
-        "データ"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "アテイン、「生成AI時代、大学のLMSはどう変わるのか」11月5日開催",
-      "url": "https://ict-enews.net/2026/10/15-attainj/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-15T02:02:34+00:00",
-      "keywords": [
-        "生成AI",
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "AI応対評価「Dr.Tel」と教育クラウド「shouin for コンタクトセンター」がAPI連携開始",
-      "url": "https://ict-enews.net/2026/10/15brisys/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-15T02:01:47+00:00",
-      "keywords": [
-        "AI",
-        "クラウド"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "インターネット・アカデミー、「社内AI利用ガイドライン」を作成する「AIガバナンス研修」提供開始",
-      "url": "https://ict-enews.net/2026/10/15internetacademy/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-15T02:01:06+00:00",
-      "keywords": [
-        "AI"
       ],
       "status": "auto"
     },
@@ -161,120 +273,6 @@
       "keywords": [
         "ICT",
         "学習指導要領"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "全国初、純国産LLMで小中学校の校務AI実証…茨木市×NTT西日本",
-      "url": "https://reseed.resemom.jp/article/2026/10/14/14345.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-10-14T05:45:03+00:00",
-      "keywords": [
-        "AI",
-        "校務"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "同志社国際への私学助成減額や学習指導要領…文科相10/13会見",
-      "url": "https://reseed.resemom.jp/article/2026/10/14/14344.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-10-14T05:15:03+00:00",
-      "keywords": [
-        "学習指導要領"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "学校のAI活用コンテスト10/16まで募集…11/14結果発表",
-      "url": "https://reseed.resemom.jp/article/2026/10/14/14343.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-10-14T04:46:38+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "デジタルハリウッド大学、生成AI「Claude」を全学導入",
-      "url": "https://edu.watch.impress.co.jp/docs/news/2148002.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-10-14T04:40:00+00:00",
-      "keywords": [
-        "生成AI",
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "デジタル教科書の動画は1本3分まで、文科省が検定改善案",
-      "url": "https://reseed.resemom.jp/article/2026/10/14/14341.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-10-14T02:45:03+00:00",
-      "keywords": [
-        "文科省",
-        "デジタル教科書"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "スタディプラス、学校の自習室運営に初参入　修徳中高で学習データを活用",
-      "url": "https://edu.watch.impress.co.jp/docs/news/2147610.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-10-14T01:00:00+00:00",
-      "keywords": [
-        "データ"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "茨木市とNTT西日本、純国産LLM「tsuzumi 2」で小中学校の校務AIを実証",
-      "url": "https://edu.watch.impress.co.jp/docs/news/2147757.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-10-13T23:00:00+00:00",
-      "keywords": [
-        "AI",
-        "校務"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "＜10/16締切＞「第2回 学校現場のAI活用実践コンテスト」実践事例募集中〜教育AI活用協会",
-      "url": "https://www.kknews.co.jp/news/20261014o04",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-10-13T22:00:15+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "【全国学力テスト】CBTサンプル問題を公表",
-      "url": "https://reseed.resemom.jp/article/2026/10/13/14334.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-10-13T08:15:03+00:00",
-      "keywords": [
-        "CBT"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "文科省、少子化に対応した学校づくり「学校魅力化フォーラム」10/30",
-      "url": "https://reseed.resemom.jp/article/2026/10/13/14331.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-10-13T05:45:03+00:00",
-      "keywords": [
-        "文科省"
       ],
       "status": "auto"
     }
