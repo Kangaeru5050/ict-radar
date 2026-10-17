@@ -1,11 +1,33 @@
 {
-  "generated_at": "2026-10-16T21:08:10.756895+00:00",
+  "generated_at": "2026-10-17T04:25:40.068320+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "東大安田講堂で「Tokyo Forum 2026」開催。AIがもたらす人間・知・文明の変革を議論",
+      "url": "https://www.kknews.co.jp/news/20261017o04",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-10-17T01:00:16+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "第3回教育データ利活用SIPシンポジウムを11/7にオンラインで開催〜京都大学学術情報メディアセンター緒方研究室",
+      "url": "https://www.kknews.co.jp/news/20261017o02",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-10-17T01:00:02+00:00",
+      "keywords": [
+        "データ"
+      ],
+      "status": "auto"
+    },
     {
       "title": "目標・内容の構造化と深い学びとは？『1冊整理　学習指導要領　改訂への見取り図』より（1）",
       "url": "https://reseed.resemom.jp/article/2026/10/16/14371.html",
@@ -250,28 +272,6 @@
       "published": "2026-10-14T22:00:59+00:00",
       "keywords": [
         "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "河合塾、中高生向けオンライン学習プログラムを開催　全10講座 講師に理研研究者やAI専門家ら",
-      "url": "https://www.kknews.co.jp/news/20261015o03",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-10-14T22:00:46+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "DriveChecker、教育機関向け「ClassroomChecker」12月提供開始へ　Google Classroomの安全な運用を支援",
-      "url": "https://www.kknews.co.jp/news/20261015o01",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-10-14T22:00:01+00:00",
-      "keywords": [
-        "Google"
       ],
       "status": "auto"
     }
