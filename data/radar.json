@@ -1,11 +1,22 @@
 {
-  "generated_at": "2026-10-17T20:36:37.941119+00:00",
+  "generated_at": "2026-10-18T04:33:37.272740+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "大阪府高槻市、全市立小中学校59校でAI型教材「キュビナ」を導入開始",
+      "url": "https://www.kknews.co.jp/news/20261018o02",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-10-18T01:00:44+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
     {
       "title": "東大安田講堂で「Tokyo Forum 2026」開催。AIがもたらす人間・知・文明の変革を議論",
       "url": "https://www.kknews.co.jp/news/20261017o04",
@@ -197,30 +208,6 @@
       "status": "auto"
     },
     {
-      "title": "茨木市×NTT西日本、純国産LLMを活用した小中学校向け校務AI実証を開始",
-      "url": "https://www.kknews.co.jp/news/20261016o04",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-10-15T22:00:03+00:00",
-      "keywords": [
-        "AI",
-        "校務"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "関西大学、AI・データ活用できる次世代人材の育成に向けサークレイスと実践授業を開講",
-      "url": "https://www.kknews.co.jp/news/20261016o02",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-10-15T22:00:02+00:00",
-      "keywords": [
-        "AI",
-        "データ"
-      ],
-      "status": "auto"
-    },
-    {
       "title": "女子高専生がサイバーセキュリティ演習に挑戦、NECが実践型イベントを開催",
       "url": "https://edu.watch.impress.co.jp/docs/news/2148578.html",
       "source": "こどもとIT",
@@ -265,13 +252,24 @@
       "status": "auto"
     },
     {
-      "title": "横浜市大などが位置情報とAIの未来探るシンポジウムを12/11に開催",
-      "url": "https://www.kknews.co.jp/news/20261015o04",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-10-14T22:00:59+00:00",
+      "title": "高槻市、全市立小中学校にAI型教材「キュビナ」を導入　約24,100人が利用",
+      "url": "https://edu.watch.impress.co.jp/docs/news/2148100.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-10-14T21:30:00+00:00",
       "keywords": [
         "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "文科省、学校保健・学校安全表彰に158人・33校・1団体…11月表彰式",
+      "url": "https://reseed.resemom.jp/article/2026/10/14/14348.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-10-14T07:15:03+00:00",
+      "keywords": [
+        "文科省"
       ],
       "status": "auto"
     }
