@@ -1,11 +1,124 @@
 {
-  "generated_at": "2026-10-18T20:42:40.175158+00:00",
+  "generated_at": "2026-10-19T04:40:25.392291+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "AIに思考を委ねない授業とは、LoiLoが教員研修会のレポートを公開",
+      "url": "https://edu.watch.impress.co.jp/docs/news/event/2149121.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-10-19T03:03:00+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "AIで「縮小する職種」と「強化したい職種」は？ =ネオキャリア(キャリアトラス)調べ=",
+      "url": "https://ict-enews.net/2026/10/19neo-career/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-19T01:14:07+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "GMOメディア、AIを活用して作問した「情報Ⅰ」デジタル模試を無料開催",
+      "url": "https://ict-enews.net/2026/10/19gmo-6/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-19T01:13:52+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "LoiLo、「教育と生成AI 大研修会2026」取材レポートをロイロノート公式noteで公開",
+      "url": "https://ict-enews.net/2026/10/19loilo-6/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-19T01:13:39+00:00",
+      "keywords": [
+        "生成AI",
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "熊本県山江村立山田小学校とSky、校務スマート化支援アプリ「SKYMENU Mobile」実証研究開始",
+      "url": "https://ict-enews.net/2026/10/19skygroup-3/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-19T01:13:20+00:00",
+      "keywords": [
+        "校務"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "Nishika、最新AI法・ガイドラインの要点を盛り込みテンプレートつきのウェビナー開催",
+      "url": "https://ict-enews.net/2026/10/19nishika/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-19T01:10:00+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "京進グループHOPPA、「AI時代を生きる子どもに育てたい『学び続ける力』とは？」25日開催",
+      "url": "https://ict-enews.net/2026/10/19kyoshin/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-19T01:09:12+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "ノックデザイン、中小企業向けの生成AI研修で演習課題を職種ごとの3コース新設",
+      "url": "https://ict-enews.net/2026/10/19nock-design/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-19T01:08:59+00:00",
+      "keywords": [
+        "生成AI",
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "GMOメディア、AI活用の「情報Ⅰ」模試を無料開催　実教出版が監修",
+      "url": "https://edu.watch.impress.co.jp/docs/news/2149102.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-10-18T23:00:00+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "デジタル教科書の動画は1本3分まで、学力テストCBTサンプル問題公表…教育業界ニュースまとめ読み",
+      "url": "https://reseed.resemom.jp/article/2026/10/19/14374.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-10-18T20:55:03+00:00",
+      "keywords": [
+        "デジタル教科書",
+        "CBT"
+      ],
+      "status": "auto"
+    },
     {
       "title": "大阪府高槻市、全市立小中学校59校でAI型教材「キュビナ」を導入開始",
       "url": "https://www.kknews.co.jp/news/20261018o02",
@@ -14,28 +127,6 @@
       "published": "2026-10-18T01:00:44+00:00",
       "keywords": [
         "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "東大安田講堂で「Tokyo Forum 2026」開催。AIがもたらす人間・知・文明の変革を議論",
-      "url": "https://www.kknews.co.jp/news/20261017o04",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-10-17T01:00:16+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "第3回教育データ利活用SIPシンポジウムを11/7にオンラインで開催〜京都大学学術情報メディアセンター緒方研究室",
-      "url": "https://www.kknews.co.jp/news/20261017o02",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-10-17T01:00:02+00:00",
-      "keywords": [
-        "データ"
       ],
       "status": "auto"
     },
@@ -107,101 +198,11 @@
       "status": "auto"
     },
     {
-      "title": "DHU、Anthropicの生成AIモデル「Claude」を国内大学初となる全学導入へ",
-      "url": "https://ict-enews.net/2026/10/16dhw-13/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-15T23:17:25+00:00",
-      "keywords": [
-        "生成AI",
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "東北大学とSolafune、AI搭載の人工衛星の開発と打上げを目指す",
-      "url": "https://ict-enews.net/2026/10/16solafune/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-15T23:16:44+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "通信制高校「第一学院高等学校」、WITHUS DAIICHICUP＜オンライン文化祭＞開催",
-      "url": "https://ict-enews.net/2026/10/16with-us/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-15T23:16:04+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "「ユメカタリ 学生生成AIコンテスト2026」、東京・名古屋両大会グランプリが決定",
-      "url": "https://ict-enews.net/2026/10/16shinto-tsushin/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-15T23:14:00+00:00",
-      "keywords": [
-        "生成AI",
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "DeNA、大学受験生向けの数学記述添削AIアプリ「SIRUS」提供開始",
-      "url": "https://ict-enews.net/2026/10/16dena/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-15T23:13:03+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "LINEヤフー、子育てのやるべきことをAIがサポートする「子育て」エージェント提供開始",
-      "url": "https://ict-enews.net/2026/10/16lycorp/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-15T23:12:31+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "英単語アプリ「ターゲットの友」、AIを活用した新機能「今日の5問MAX」が登場",
-      "url": "https://ict-enews.net/2026/10/16obunsha-12/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-15T23:11:54+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
       "title": "「AI特殊詐欺体験システム」を大阪電通大生が開発、りそな銀行で体験会を実施",
       "url": "https://edu.watch.impress.co.jp/docs/news/2148584.html",
       "source": "こどもとIT",
       "source_id": "kodomo-it",
       "published": "2026-10-15T23:00:00+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "東大松尾研のAI講座、累計受講者数が27万人突破　AXエバンジェリスト講座や海外学生向け講座など幅広い層に学習機会を提供",
-      "url": "https://www.kknews.co.jp/news/20261016o01",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-10-15T22:00:59+00:00",
       "keywords": [
         "AI"
       ],
