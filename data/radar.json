@@ -1,11 +1,33 @@
 {
-  "generated_at": "2026-10-19T04:40:25.392291+00:00",
+  "generated_at": "2026-10-19T13:14:45.054119+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "学びに向かう力、人間性等とは？『1冊整理　学習指導要領　改訂への見取り図』より（2）",
+      "url": "https://reseed.resemom.jp/article/2026/10/19/14384.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-10-19T09:15:03+00:00",
+      "keywords": [
+        "学習指導要領"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "学生が6週間でAIプロダクトを開発、東京AIハッカソンの参加者を募集",
+      "url": "https://edu.watch.impress.co.jp/docs/news/2149189.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-10-19T06:00:00+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
     {
       "title": "AIに思考を委ねない授業とは、LoiLoが教員研修会のレポートを公開",
       "url": "https://edu.watch.impress.co.jp/docs/news/event/2149121.html",
@@ -249,28 +271,6 @@
       "published": "2026-10-15T04:45:02+00:00",
       "keywords": [
         "情報教育"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "高槻市、全市立小中学校にAI型教材「キュビナ」を導入　約24,100人が利用",
-      "url": "https://edu.watch.impress.co.jp/docs/news/2148100.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-10-14T21:30:00+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "文科省、学校保健・学校安全表彰に158人・33校・1団体…11月表彰式",
-      "url": "https://reseed.resemom.jp/article/2026/10/14/14348.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-10-14T07:15:03+00:00",
-      "keywords": [
-        "文科省"
       ],
       "status": "auto"
     }
