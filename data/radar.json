@@ -1,11 +1,180 @@
 {
-  "generated_at": "2026-10-19T22:22:14.299116+00:00",
+  "generated_at": "2026-10-20T04:50:38.088365+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
-    "successful_sources": 2,
-    "failed_sources": 2
+    "successful_sources": 4,
+    "failed_sources": 0
   },
   "items": [
+    {
+      "title": "プログラミングで光アート、女子中高生がパナソニックEWでSTEM体験",
+      "url": "https://edu.watch.impress.co.jp/docs/news/2149596.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-10-20T04:30:00+00:00",
+      "keywords": [
+        "プログラミング"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "デジタル教科書、低・中学年は紙重視…10/22指針素案審議",
+      "url": "https://reseed.resemom.jp/article/2026/10/20/14391.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-10-20T03:45:03+00:00",
+      "keywords": [
+        "デジタル教科書"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "文科省、デジタル教科書指針の検討会議10/22…傍聴募集",
+      "url": "https://reseed.resemom.jp/article/2026/10/20/14390.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-10-20T02:45:03+00:00",
+      "keywords": [
+        "文科省",
+        "デジタル教科書"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "デジタル教科書の動画上限、教科特性など勘案…文科相10/16会見",
+      "url": "https://reseed.resemom.jp/article/2026/10/20/14389.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-10-20T02:15:03+00:00",
+      "keywords": [
+        "デジタル教科書"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "愛知県教委とデジハリ大が教育連携、人材育成や学校DX推進",
+      "url": "https://reseed.resemom.jp/article/2026/10/20/14387.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-10-20T01:15:03+00:00",
+      "keywords": [
+        "DX"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "JAPET＆CEC、教員対象セミナー「次期学習指導要領を見据えた『探究的な学び』と『STEAM教育』の実現」11月24日東京で開催",
+      "url": "https://ict-enews.net/2026/10/20japet%ef%bc%86cec/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-20T00:59:45+00:00",
+      "keywords": [
+        "学習指導要領"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "大学受験での生成AI活用率、昨年の37%から65%へ =「Knock 教育AIラボ」調べ=",
+      "url": "https://ict-enews.net/2026/10/20hanji/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-20T00:58:37+00:00",
+      "keywords": [
+        "生成AI",
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "近畿大学、Google社員講師に全学生および教職員対象のAI講座を開催",
+      "url": "https://ict-enews.net/2026/10/20kindai-5/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-20T00:58:08+00:00",
+      "keywords": [
+        "AI",
+        "Google"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "つながりAI、明星学苑に「こまもろう認定・運用サポートパック」を導入",
+      "url": "https://ict-enews.net/2026/10/20tsunagari-ai/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-20T00:57:49+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "みんがく、学習塾向け無料ウェビナー「受験×AIの現在地」10月26日・11月9日開催",
+      "url": "https://ict-enews.net/2026/10/20mingaku-5/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-20T00:57:07+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "RUNTEQ、「AIで消える仕事、増える仕事。5年後のキャリアはどう変わる？」22日開催",
+      "url": "https://ict-enews.net/2026/10/20runteq/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-20T00:56:48+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "イーコミュニケーション、音声対話型AIを使った「ECOM AIレッスン」提供開始",
+      "url": "https://ict-enews.net/2026/10/20ecominc-2/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-20T00:55:22+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "bajji、法人向けAI実践研修「bajji AIファーストキャンプ」提供開始",
+      "url": "https://ict-enews.net/2026/10/20bajji/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-20T00:55:12+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "生成AI・探究・STEAMを教員研修に、愛知県教委とデジタルハリウッド大学が連携",
+      "url": "https://edu.watch.impress.co.jp/docs/news/2149458.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-10-19T23:30:00+00:00",
+      "keywords": [
+        "生成AI",
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "Shinonome、非認知能力の可視化システムを開発 生徒やクラスの特性をデータで把握",
+      "url": "https://www.kknews.co.jp/news/20261020o04",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-10-19T22:00:19+00:00",
+      "keywords": [
+        "データ"
+      ],
+      "status": "auto"
+    },
     {
       "title": "学びに向かう力、人間性等とは？『1冊整理　学習指導要領　改訂への見取り図』より（2）",
       "url": "https://reseed.resemom.jp/article/2026/10/19/14384.html",
@@ -40,85 +209,6 @@
       "status": "auto"
     },
     {
-      "title": "AIで「縮小する職種」と「強化したい職種」は？ =ネオキャリア(キャリアトラス)調べ=",
-      "url": "https://ict-enews.net/2026/10/19neo-career/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-19T01:14:07+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "GMOメディア、AIを活用して作問した「情報Ⅰ」デジタル模試を無料開催",
-      "url": "https://ict-enews.net/2026/10/19gmo-6/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-19T01:13:52+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "LoiLo、「教育と生成AI 大研修会2026」取材レポートをロイロノート公式noteで公開",
-      "url": "https://ict-enews.net/2026/10/19loilo-6/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-19T01:13:39+00:00",
-      "keywords": [
-        "生成AI",
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "熊本県山江村立山田小学校とSky、校務スマート化支援アプリ「SKYMENU Mobile」実証研究開始",
-      "url": "https://ict-enews.net/2026/10/19skygroup-3/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-19T01:13:20+00:00",
-      "keywords": [
-        "校務"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "Nishika、最新AI法・ガイドラインの要点を盛り込みテンプレートつきのウェビナー開催",
-      "url": "https://ict-enews.net/2026/10/19nishika/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-19T01:10:00+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "京進グループHOPPA、「AI時代を生きる子どもに育てたい『学び続ける力』とは？」25日開催",
-      "url": "https://ict-enews.net/2026/10/19kyoshin/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-19T01:09:12+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "ノックデザイン、中小企業向けの生成AI研修で演習課題を職種ごとの3コース新設",
-      "url": "https://ict-enews.net/2026/10/19nock-design/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-19T01:08:59+00:00",
-      "keywords": [
-        "生成AI",
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
       "title": "GMOメディア、AI活用の「情報Ⅰ」模試を無料開催　実教出版が監修",
       "url": "https://edu.watch.impress.co.jp/docs/news/2149102.html",
       "source": "こどもとIT",
@@ -138,17 +228,6 @@
       "keywords": [
         "デジタル教科書",
         "CBT"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "大阪府高槻市、全市立小中学校59校でAI型教材「キュビナ」を導入開始",
-      "url": "https://www.kknews.co.jp/news/20261018o02",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-10-18T01:00:44+00:00",
-      "keywords": [
-        "AI"
       ],
       "status": "auto"
     },
@@ -193,84 +272,6 @@
       "published": "2026-10-16T04:15:03+00:00",
       "keywords": [
         "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "大学の生成AI対応に遅れ、llms.txt設置1.5％…国立大はゼロ",
-      "url": "https://reseed.resemom.jp/article/2026/10/16/14365.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-10-16T03:15:08+00:00",
-      "keywords": [
-        "生成AI",
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "忘れそうな英単語をAIが再出題、旺文社が英単語アプリ「ターゲットの友」に新機能を追加",
-      "url": "https://edu.watch.impress.co.jp/docs/news/2148399.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-10-16T01:00:00+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "「AI特殊詐欺体験システム」を大阪電通大生が開発、りそな銀行で体験会を実施",
-      "url": "https://edu.watch.impress.co.jp/docs/news/2148584.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-10-15T23:00:00+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "女子高専生がサイバーセキュリティ演習に挑戦、NECが実践型イベントを開催",
-      "url": "https://edu.watch.impress.co.jp/docs/news/2148578.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-10-15T21:30:00+00:00",
-      "keywords": [
-        "セキュリティ"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "AI時代の英語教育を考えるセミナー10/25…ピアソン・ジャパン",
-      "url": "https://reseed.resemom.jp/article/2026/10/15/14361.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-10-15T10:15:03+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "琉球大と数検協会、数理・DS・AI教育で連携協定",
-      "url": "https://reseed.resemom.jp/article/2026/10/15/14357.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-10-15T08:15:03+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "教育の新たな未来を拓く…情報教育対応教員研修全国セミナー、仙台12/24",
-      "url": "https://reseed.resemom.jp/article/2026/10/15/14354.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-10-15T04:45:02+00:00",
-      "keywords": [
-        "情報教育"
       ],
       "status": "auto"
     }
