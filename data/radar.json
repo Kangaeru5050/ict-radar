@@ -1,11 +1,33 @@
 {
-  "generated_at": "2026-10-20T04:50:38.088365+00:00",
+  "generated_at": "2026-10-20T11:35:52.759141+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "柔軟な教育課程編成とは？『1冊整理　学習指導要領　改訂への見取り図』より（3）",
+      "url": "https://reseed.resemom.jp/article/2026/10/20/14396.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-10-20T09:15:03+00:00",
+      "keywords": [
+        "学習指導要領"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "AIが答えを出す時代、人は何を問う？ 宮田裕章氏の新著が発売",
+      "url": "https://edu.watch.impress.co.jp/docs/knowledge/kodomoit-booklab/2149672.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-10-20T08:00:00+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
     {
       "title": "プログラミングで光アート、女子中高生がパナソニックEWでSTEM体験",
       "url": "https://edu.watch.impress.co.jp/docs/news/2149596.html",
@@ -250,28 +272,6 @@
       "published": "2026-10-16T07:45:02+00:00",
       "keywords": [
         "情報I"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "小中学生の「友だちの悩み」、相談相手の2位は「AI」",
-      "url": "https://edu.watch.impress.co.jp/docs/news/2148587.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-10-16T06:00:00+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "AIを使った作文、何を評価する？　ケンブリッジ大が8つの原則を公開",
-      "url": "https://reseed.resemom.jp/article/2026/10/16/14367.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-10-16T04:15:03+00:00",
-      "keywords": [
-        "AI"
       ],
       "status": "auto"
     }
