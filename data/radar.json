@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-10-21T17:12:22.381375+00:00",
+  "generated_at": "2026-10-21T21:42:42.068064+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 3,
     "failed_sources": 1
   },
   "items": [
+    {
+      "title": "学びや思考をAIで深める！現場から生まれたGemini活用術【授業・学び編】",
+      "url": "https://edu.watch.impress.co.jp/docs/report/2143583.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-10-21T21:35:00+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "忙しい校務をAIで効率化！現場から生まれたGemini活用術【校務・学校DX編】",
+      "url": "https://edu.watch.impress.co.jp/docs/report/2143077.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-10-21T21:30:00+00:00",
+      "keywords": [
+        "AI",
+        "校務",
+        "DX"
+      ],
+      "status": "auto"
+    },
     {
       "title": "ICT教育ニュース、＜バナー広告＞お試し半額キャンペーン",
       "url": "https://ict-enews.net/2026/10/22icten/",
@@ -249,28 +273,6 @@
       "keywords": [
         "生成AI",
         "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "Shinonome、非認知能力の可視化システムを開発 生徒やクラスの特性をデータで把握",
-      "url": "https://www.kknews.co.jp/news/20261020o04",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-10-19T22:00:19+00:00",
-      "keywords": [
-        "データ"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "学びに向かう力、人間性等とは？『1冊整理　学習指導要領　改訂への見取り図』より（2）",
-      "url": "https://reseed.resemom.jp/article/2026/10/19/14384.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-10-19T09:15:03+00:00",
-      "keywords": [
-        "学習指導要領"
       ],
       "status": "auto"
     }
