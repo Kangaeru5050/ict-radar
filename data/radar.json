@@ -1,11 +1,156 @@
 {
-  "generated_at": "2026-10-20T21:37:09.999175+00:00",
+  "generated_at": "2026-10-21T04:46:30.923487+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "英語での議論・交渉は9割超が「AI代替不可」企業・個人で共通認識 =レアジョブ調べ=",
+      "url": "https://ict-enews.net/2026/10/21rarejob-4/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-21T01:09:20+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "金沢大学とCrowdChem、「産学データ連携モデル」の構築に向けた共同研究・検証開始",
+      "url": "https://ict-enews.net/2026/10/21crowdchem/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-21T01:07:43+00:00",
+      "keywords": [
+        "データ"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "VORN Challenge協議会、学生AIピッチコンテスト「VORN Challenge 2026」本戦出場12組決定",
+      "url": "https://ict-enews.net/2026/10/21vorn-challenge/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-21T01:06:26+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "コミクス、中小企業の経営者向けミニ教材「動かないAIには、4つの空欄がある」制作",
+      "url": "https://ict-enews.net/2026/10/21comix/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-21T01:06:00+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "AI英会話「スピーク」、AIにいつでも“電話”できる新機能 「スピーク電話」開始",
+      "url": "https://ict-enews.net/2026/10/21speak/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-21T01:05:47+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "Solvvy、スクール管理システム「マイクラス」が「デジタル化・AI導入補助金2026」に登録",
+      "url": "https://ict-enews.net/2026/10/21solvvy/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-21T01:05:22+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "一人ひとりの特性に合わせたICT療育とSTEAM教育、「コアヴィレッジ代々木」11月開校",
+      "url": "https://ict-enews.net/2026/10/21corevillage/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-21T01:05:12+00:00",
+      "keywords": [
+        "ICT"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "HEROZ、企業のAI活用定着を支える新サービス「HEROZ AI人材育成プログラム」開始",
+      "url": "https://ict-enews.net/2026/10/21heroz/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-21T01:05:02+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "CBTソリューションズ、「自社の資料から”正しい”試験問題をつくる 作問AI実演デモ～」録画配信",
+      "url": "https://ict-enews.net/2026/10/21cbt-s/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-21T01:04:53+00:00",
+      "keywords": [
+        "AI",
+        "CBT"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "こども性暴力防止法対応をAIが支援…明星学苑4校園に導入",
+      "url": "https://reseed.resemom.jp/article/2026/10/21/14398.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-10-21T00:15:02+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "愛知県、デジタルハリウッド大と連携し教職員の生成AI活用やSTEAM教育を強化",
+      "url": "https://www.kknews.co.jp/news/20261021o02",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-10-20T22:00:44+00:00",
+      "keywords": [
+        "生成AI",
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "VISH、園見学からWEB願書までを一元管理するクラウドサービス「Wakapass」を提供開始",
+      "url": "https://www.kknews.co.jp/news/20261021o01",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-10-20T22:00:23+00:00",
+      "keywords": [
+        "クラウド"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "サイバーセキュリティ、専門家のいない大学はどうするか――OCC、「Team Swimmy 大学経営研究会」第2回を10/24に開催",
+      "url": "https://www.kknews.co.jp/news/20261021o04",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-10-20T22:00:21+00:00",
+      "keywords": [
+        "セキュリティ"
+      ],
+      "status": "auto"
+    },
     {
       "title": "柔軟な教育課程編成とは？『1冊整理　学習指導要領　改訂への見取り図』より（3）",
       "url": "https://reseed.resemom.jp/article/2026/10/20/14396.html",
@@ -85,96 +230,6 @@
       "status": "auto"
     },
     {
-      "title": "JAPET＆CEC、教員対象セミナー「次期学習指導要領を見据えた『探究的な学び』と『STEAM教育』の実現」11月24日東京で開催",
-      "url": "https://ict-enews.net/2026/10/20japet%ef%bc%86cec/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-20T00:59:45+00:00",
-      "keywords": [
-        "学習指導要領"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "大学受験での生成AI活用率、昨年の37%から65%へ =「Knock 教育AIラボ」調べ=",
-      "url": "https://ict-enews.net/2026/10/20hanji/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-20T00:58:37+00:00",
-      "keywords": [
-        "生成AI",
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "近畿大学、Google社員講師に全学生および教職員対象のAI講座を開催",
-      "url": "https://ict-enews.net/2026/10/20kindai-5/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-20T00:58:08+00:00",
-      "keywords": [
-        "AI",
-        "Google"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "つながりAI、明星学苑に「こまもろう認定・運用サポートパック」を導入",
-      "url": "https://ict-enews.net/2026/10/20tsunagari-ai/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-20T00:57:49+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "みんがく、学習塾向け無料ウェビナー「受験×AIの現在地」10月26日・11月9日開催",
-      "url": "https://ict-enews.net/2026/10/20mingaku-5/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-20T00:57:07+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "RUNTEQ、「AIで消える仕事、増える仕事。5年後のキャリアはどう変わる？」22日開催",
-      "url": "https://ict-enews.net/2026/10/20runteq/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-20T00:56:48+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "イーコミュニケーション、音声対話型AIを使った「ECOM AIレッスン」提供開始",
-      "url": "https://ict-enews.net/2026/10/20ecominc-2/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-20T00:55:22+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "bajji、法人向けAI実践研修「bajji AIファーストキャンプ」提供開始",
-      "url": "https://ict-enews.net/2026/10/20bajji/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-20T00:55:12+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
       "title": "生成AI・探究・STEAMを教員研修に、愛知県教委とデジタルハリウッド大学が連携",
       "url": "https://edu.watch.impress.co.jp/docs/news/2149458.html",
       "source": "こどもとIT",
@@ -216,62 +271,6 @@
       "published": "2026-10-19T06:00:00+00:00",
       "keywords": [
         "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "AIに思考を委ねない授業とは、LoiLoが教員研修会のレポートを公開",
-      "url": "https://edu.watch.impress.co.jp/docs/news/event/2149121.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-10-19T03:03:00+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "GMOメディア、AI活用の「情報Ⅰ」模試を無料開催　実教出版が監修",
-      "url": "https://edu.watch.impress.co.jp/docs/news/2149102.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-10-18T23:00:00+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "デジタル教科書の動画は1本3分まで、学力テストCBTサンプル問題公表…教育業界ニュースまとめ読み",
-      "url": "https://reseed.resemom.jp/article/2026/10/19/14374.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-10-18T20:55:03+00:00",
-      "keywords": [
-        "デジタル教科書",
-        "CBT"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "目標・内容の構造化と深い学びとは？『1冊整理　学習指導要領　改訂への見取り図』より（1）",
-      "url": "https://reseed.resemom.jp/article/2026/10/16/14371.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-10-16T09:15:02+00:00",
-      "keywords": [
-        "学習指導要領"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "共通テスト対策「情報I」デジタル模試、高校生向け無料開催",
-      "url": "https://reseed.resemom.jp/article/2026/10/16/14370.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-10-16T07:45:02+00:00",
-      "keywords": [
-        "情報I"
       ],
       "status": "auto"
     }
