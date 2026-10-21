@@ -1,11 +1,23 @@
 {
-  "generated_at": "2026-10-21T04:46:30.923487+00:00",
+  "generated_at": "2026-10-21T11:48:37.834127+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "探究と情報活用能力とは？『1冊整理　学習指導要領　改訂への見取り図』より（4）",
+      "url": "https://reseed.resemom.jp/article/2026/10/21/14407.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-10-21T09:15:03+00:00",
+      "keywords": [
+        "学習指導要領",
+        "情報活用能力"
+      ],
+      "status": "auto"
+    },
     {
       "title": "英語での議論・交渉は9割超が「AI代替不可」企業・個人で共通認識 =レアジョブ調べ=",
       "url": "https://ict-enews.net/2026/10/21rarejob-4/",
@@ -260,17 +272,6 @@
       "published": "2026-10-19T09:15:03+00:00",
       "keywords": [
         "学習指導要領"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "学生が6週間でAIプロダクトを開発、東京AIハッカソンの参加者を募集",
-      "url": "https://edu.watch.impress.co.jp/docs/news/2149189.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-10-19T06:00:00+00:00",
-      "keywords": [
-        "AI"
       ],
       "status": "auto"
     }
