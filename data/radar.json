@@ -1,11 +1,22 @@
 {
-  "generated_at": "2026-10-22T17:10:25.636115+00:00",
+  "generated_at": "2026-10-22T21:35:32.391881+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "高校生がサイバー攻撃の監視拠点を見学、NTTセキュリティ・ジャパンが企業訪問学習を受け入れ",
+      "url": "https://edu.watch.impress.co.jp/docs/news/2150327.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-10-22T21:30:00+00:00",
+      "keywords": [
+        "セキュリティ"
+      ],
+      "status": "auto"
+    },
     {
       "title": "AI英語学習が「役立つ」は88.9％、対人では約9割が言葉に詰まる　イーオンが1,000人に調査",
       "url": "https://edu.watch.impress.co.jp/docs/news/2150160.html",
@@ -263,17 +274,6 @@
       "published": "2026-10-20T04:30:00+00:00",
       "keywords": [
         "プログラミング"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "デジタル教科書、低・中学年は紙重視…10/22指針素案審議",
-      "url": "https://reseed.resemom.jp/article/2026/10/20/14391.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-10-20T03:45:03+00:00",
-      "keywords": [
-        "デジタル教科書"
       ],
       "status": "auto"
     }
