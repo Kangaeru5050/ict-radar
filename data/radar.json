@@ -1,11 +1,44 @@
 {
-  "generated_at": "2026-10-23T04:48:51.608998+00:00",
+  "generated_at": "2026-10-23T11:38:56.790437+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "「新たな評価」文科省へ意見と提案…公立大学協会",
+      "url": "https://reseed.resemom.jp/article/2026/10/23/14423.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-10-23T09:15:03+00:00",
+      "keywords": [
+        "文科省"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "マイナビ出版、徳丸 浩氏監修の情報セキュリティ入門書を発売",
+      "url": "https://edu.watch.impress.co.jp/docs/knowledge/kodomoit-booklab/2150024.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-10-23T08:00:00+00:00",
+      "keywords": [
+        "セキュリティ"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "デジタル教科書、指針素案を公表…基本は紙と併用",
+      "url": "https://reseed.resemom.jp/article/2026/10/23/14418.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-10-23T06:30:03+00:00",
+      "keywords": [
+        "デジタル教科書"
+      ],
+      "status": "auto"
+    },
     {
       "title": "AIを使う授業、使わない授業　文教大卒業生が授業実践を報告",
       "url": "https://edu.watch.impress.co.jp/docs/news/event/2150561.html",
@@ -242,39 +275,6 @@
       "published": "2026-10-20T09:15:03+00:00",
       "keywords": [
         "学習指導要領"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "AIが答えを出す時代、人は何を問う？ 宮田裕章氏の新著が発売",
-      "url": "https://edu.watch.impress.co.jp/docs/knowledge/kodomoit-booklab/2149672.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-10-20T08:00:00+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "プログラミングで光アート、女子中高生がパナソニックEWでSTEM体験",
-      "url": "https://edu.watch.impress.co.jp/docs/news/2149596.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-10-20T04:30:00+00:00",
-      "keywords": [
-        "プログラミング"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "デジタル教科書、低・中学年は紙重視…10/22指針素案審議",
-      "url": "https://reseed.resemom.jp/article/2026/10/20/14391.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-10-20T03:45:03+00:00",
-      "keywords": [
-        "デジタル教科書"
       ],
       "status": "auto"
     }
