@@ -1,11 +1,23 @@
 {
-  "generated_at": "2026-10-23T21:24:22.519730+00:00",
+  "generated_at": "2026-10-24T04:36:09.079948+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "Adobe Expressの生成AI機能 教育現場での活用法を紹介するウェビナーを10/28に開催〜加賀ソルネット",
+      "url": "https://www.kknews.co.jp/news/20261024o01",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-10-24T01:00:44+00:00",
+      "keywords": [
+        "生成AI",
+        "AI"
+      ],
+      "status": "auto"
+    },
     {
       "title": "「新たな評価」文科省へ意見と提案…公立大学協会",
       "url": "https://reseed.resemom.jp/article/2026/10/23/14423.html",
@@ -206,17 +218,6 @@
       "published": "2026-10-21T23:00:00+00:00",
       "keywords": [
         "プログラミング"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "近畿大学高専、市民公開講座を10/31に開催　テーマは「ものを大切にする文化、AIを使った新しい取組み」",
-      "url": "https://www.kknews.co.jp/news/20261022o01",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-10-21T22:00:38+00:00",
-      "keywords": [
-        "AI"
       ],
       "status": "auto"
     },
