@@ -1,11 +1,22 @@
 {
-  "generated_at": "2026-10-24T20:49:23.358706+00:00",
+  "generated_at": "2026-10-25T04:40:50.454557+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "熊本高専、人吉球磨地域の小中学生向けにプログラミング体験講座を開催",
+      "url": "https://www.kknews.co.jp/news/20261025o02",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-10-25T01:00:07+00:00",
+      "keywords": [
+        "プログラミング"
+      ],
+      "status": "auto"
+    },
     {
       "title": "Adobe Expressの生成AI機能 教育現場での活用法を紹介するウェビナーを10/28に開催〜加賀ソルネット",
       "url": "https://www.kknews.co.jp/news/20261024o01",
@@ -265,17 +276,6 @@
       "published": "2026-10-21T00:15:02+00:00",
       "keywords": [
         "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "柔軟な教育課程編成とは？『1冊整理　学習指導要領　改訂への見取り図』より（3）",
-      "url": "https://reseed.resemom.jp/article/2026/10/20/14396.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-10-20T09:15:03+00:00",
-      "keywords": [
-        "学習指導要領"
       ],
       "status": "auto"
     }
