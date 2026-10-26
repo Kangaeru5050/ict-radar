@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T20:50:43.884252+00:00",
+  "generated_at": "2026-10-26T04:46:54.947496+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
@@ -7,25 +7,170 @@
   },
   "items": [
     {
-      "title": "熊本高専、人吉球磨地域の小中学生向けにプログラミング体験講座を開催",
-      "url": "https://www.kknews.co.jp/news/20261025o02",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-10-25T01:00:07+00:00",
+      "title": "熊本高専、小中学生を対象としたプログラミング講座を開催",
+      "url": "https://ict-enews.net/2026/10/26kumamoto-nct/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-26T01:03:54+00:00",
       "keywords": [
         "プログラミング"
       ],
       "status": "auto"
     },
     {
-      "title": "Adobe Expressの生成AI機能 教育現場での活用法を紹介するウェビナーを10/28に開催〜加賀ソルネット",
-      "url": "https://www.kknews.co.jp/news/20261024o01",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-10-24T01:00:44+00:00",
+      "title": "法政大学、生成AIの教育利用方針を全面改定",
+      "url": "https://ict-enews.net/2026/10/26hosei-3/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-26T01:01:41+00:00",
       "keywords": [
         "生成AI",
         "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "日本規格協会×大阪大学ELSIセンター、「AIリスク研究会（第2期）」を始動",
+      "url": "https://ict-enews.net/2026/10/26jsa-2/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-26T01:01:28+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "CLキッズ、ブロックとSTEAM教育をテーマにしたイベント「TOKAI STEAM BRICK FESTA 2027」開催",
+      "url": "https://ict-enews.net/2026/10/26clkids/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-26T01:00:56+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "ai&、月額固定費なしのAI動画生成サービス「ai& video」を提供開始",
+      "url": "https://ict-enews.net/2026/10/26aiand/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-26T00:59:06+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "ネイティブキャンプ、レッスンで話した英語をAIが添削「AIレビュー」リリース",
+      "url": "https://ict-enews.net/2026/10/26nativecamp-15/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-26T00:58:56+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "情報活用能力を育む環境とは、JAPET&CECが11月24日に無料セミナーを開催",
+      "url": "https://edu.watch.impress.co.jp/docs/news/2150941.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-10-25T23:00:00+00:00",
+      "keywords": [
+        "情報活用能力"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "第52回全日本教育工学研究協議会全国大会 教育DXで進化する探究の学び～高知・香美市大会実行委員長　上村安和氏(香美市教育委員会)に聞く",
+      "url": "https://www.kknews.co.jp/post_ict/261026_3b",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-10-25T22:00:57+00:00",
+      "keywords": [
+        "DX",
+        "教育委員会"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "法政大、生成AIの教育利用方針を全面改定 授業運用の3類型やAI検出ツールの扱いも明記",
+      "url": "https://www.kknews.co.jp/news/20261026o02",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-10-25T22:00:52+00:00",
+      "keywords": [
+        "生成AI",
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "第52回全日本教育工学研究協議会全国大会 教育DXで進化する探究の学び～JAET会長・高橋純教授に聞く",
+      "url": "https://www.kknews.co.jp/post_ict/261026_3a",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-10-25T22:00:44+00:00",
+      "keywords": [
+        "DX"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "小中高の優れた英語教育実践を表彰　文科省後援「ELEC英語教育賞」応募受付中〜英語教育協議会",
+      "url": "https://www.kknews.co.jp/news/20261026o01",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-10-25T22:00:17+00:00",
+      "keywords": [
+        "文科省"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "AI学校司書の試験的運用を開始～時空を越えた知の継承へ～　京都産業大学　大平睦美教授に聞く",
+      "url": "https://www.kknews.co.jp/post_library/261026_8c",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-10-25T22:00:14+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "文科省、高専の機能強化について素案　量的拡大・質的向上・国際通用性の確保を3本柱に",
+      "url": "https://www.kknews.co.jp/news/20261026o04",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-10-25T22:00:13+00:00",
+      "keywords": [
+        "文科省"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "幼稚園から認定こども園への移行をICTの乗り換えで後押し　北海道旭川市・旭川ふたば幼稚園の導入事例を公開〜VISH",
+      "url": "https://www.kknews.co.jp/news/20261026o03",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-10-25T22:00:11+00:00",
+      "keywords": [
+        "ICT"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "第52回全日本教育工学研究協議会全国大会 教育DXで進化する探究の学び～研究発表より",
+      "url": "https://www.kknews.co.jp/post_ict/261026_3c",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-10-25T22:00:06+00:00",
+      "keywords": [
+        "DX"
       ],
       "status": "auto"
     },
@@ -85,99 +230,6 @@
       "status": "auto"
     },
     {
-      "title": "生成AI・プログラミングの有料学習、ためらう理由の最多は「金額に見合う内容か判断できない」43.5％ =Ninja Code調べ=",
-      "url": "https://ict-enews.net/2026/10/23ninjacode/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-22T23:56:57+00:00",
-      "keywords": [
-        "生成AI",
-        "AI",
-        "プログラミング"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "SAS、東京理科大学とデータサイエンス人材育成に向けた合同シンポジウムを実施",
-      "url": "https://ict-enews.net/2026/10/23sas/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-22T23:55:59+00:00",
-      "keywords": [
-        "データ"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "ソーシャルウィル、プログラミング教室Ex-GramがAI活用講座とRoblox演習を追加",
-      "url": "https://ict-enews.net/2026/10/23socialwill/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-22T23:55:44+00:00",
-      "keywords": [
-        "AI",
-        "プログラミング"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "アテイン、Canvas LMSの生成AI機能「IgniteAI」解説ページを公開",
-      "url": "https://ict-enews.net/2026/10/23attainj-7/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-22T23:54:36+00:00",
-      "keywords": [
-        "生成AI",
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "MetaMoJi、教育AI「SHUUSAI（シュウサイ）」を発表 2027年3月より「MetaMoJi ClassRoom 3」へ標準搭載",
-      "url": "https://ict-enews.net/2026/10/23metamoji-5/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-22T23:54:19+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "manebi eラーニング、「PRO of the DX Award 2026」LMS部門で最優秀賞受賞",
-      "url": "https://ict-enews.net/2026/10/23manebi/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-22T23:53:17+00:00",
-      "keywords": [
-        "DX"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "SNAPLACE、スマホゲーム「まちづくり社会クエスト」App Store / Google Playで配信開始",
-      "url": "https://ict-enews.net/2026/10/23snaplace/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-22T23:52:44+00:00",
-      "keywords": [
-        "Google"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "ブレインパッド、データ／AI人材育成の「実践力強化プログラム」提供開始",
-      "url": "https://ict-enews.net/2026/10/23brainpad/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-22T23:52:06+00:00",
-      "keywords": [
-        "AI",
-        "データ"
-      ],
-      "status": "auto"
-    },
-    {
       "title": "一時保護中の子供の学びをICTで支援、船橋市児童相談所が「すらら」を導入",
       "url": "https://edu.watch.impress.co.jp/docs/news/2150550.html",
       "source": "こどもとIT",
@@ -216,64 +268,6 @@
       "source": "こどもとIT",
       "source_id": "kodomo-it",
       "published": "2026-10-22T01:00:00+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "ドローンでプログラミングを学ぶ「CoDrone EDU」、150校以上に導入",
-      "url": "https://edu.watch.impress.co.jp/docs/news/2150128.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-10-21T23:00:00+00:00",
-      "keywords": [
-        "プログラミング"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "学びや思考をAIで深める！現場から生まれたGemini活用術【授業・学び編】",
-      "url": "https://edu.watch.impress.co.jp/docs/report/2143583.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-10-21T21:35:00+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "忙しい校務をAIで効率化！現場から生まれたGemini活用術【校務・学校DX編】",
-      "url": "https://edu.watch.impress.co.jp/docs/report/2143077.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-10-21T21:30:00+00:00",
-      "keywords": [
-        "AI",
-        "校務",
-        "DX"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "探究と情報活用能力とは？『1冊整理　学習指導要領　改訂への見取り図』より（4）",
-      "url": "https://reseed.resemom.jp/article/2026/10/21/14407.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-10-21T09:15:03+00:00",
-      "keywords": [
-        "学習指導要領",
-        "情報活用能力"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "こども性暴力防止法対応をAIが支援…明星学苑4校園に導入",
-      "url": "https://reseed.resemom.jp/article/2026/10/21/14398.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-10-21T00:15:02+00:00",
       "keywords": [
         "AI"
       ],
