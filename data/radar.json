@@ -1,11 +1,58 @@
 {
-  "generated_at": "2026-10-26T13:02:00.839229+00:00",
+  "generated_at": "2026-10-26T22:39:45.196030+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "【連載】AI時代の主体的な学びへの転換「第7回　『誰と学ぶか』を自分で選ぶ－生活習慣づくりを支える生成AI～福岡市立草ヶ江小学校の取組から～」中村学園大学教育学部　山本朋弘教授",
+      "url": "https://www.kknews.co.jp/post_ict/261026_1b",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-10-26T22:00:55+00:00",
+      "keywords": [
+        "生成AI",
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "＜10/30締切＞小中学生向け生成AI体験型イベント「Gemini Camp 2026」参加者募集〜Google for Education",
+      "url": "https://www.kknews.co.jp/news/20261027o01",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-10-26T22:00:24+00:00",
+      "keywords": [
+        "生成AI",
+        "AI",
+        "Google"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "授業・校務の優秀賞11事例を詳報、Gemini活用事例コンテスト表彰式レポート【こどもとIT ポッドキャスト】",
+      "url": "https://edu.watch.impress.co.jp/docs/common/2151003.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-10-26T21:35:00+00:00",
+      "keywords": [
+        "校務"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "AI時代、子どもの「感性」をどう育む？ JUNOPARKで見えた、心が動く体験[Sponsored]",
+      "url": "https://edu.watch.impress.co.jp/docs/topic/special/2145482.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-10-26T21:30:00+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
     {
       "title": "1日10分のeラーニングで学力向上、教育DXシンポ11/21",
       "url": "https://reseed.resemom.jp/article/2026/10/26/14436.html",
@@ -96,96 +143,6 @@
       "status": "auto"
     },
     {
-      "title": "第52回全日本教育工学研究協議会全国大会 教育DXで進化する探究の学び～高知・香美市大会実行委員長　上村安和氏(香美市教育委員会)に聞く",
-      "url": "https://www.kknews.co.jp/post_ict/261026_3b",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-10-25T22:00:57+00:00",
-      "keywords": [
-        "DX",
-        "教育委員会"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "法政大、生成AIの教育利用方針を全面改定 授業運用の3類型やAI検出ツールの扱いも明記",
-      "url": "https://www.kknews.co.jp/news/20261026o02",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-10-25T22:00:52+00:00",
-      "keywords": [
-        "生成AI",
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "第52回全日本教育工学研究協議会全国大会 教育DXで進化する探究の学び～JAET会長・高橋純教授に聞く",
-      "url": "https://www.kknews.co.jp/post_ict/261026_3a",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-10-25T22:00:44+00:00",
-      "keywords": [
-        "DX"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "小中高の優れた英語教育実践を表彰　文科省後援「ELEC英語教育賞」応募受付中〜英語教育協議会",
-      "url": "https://www.kknews.co.jp/news/20261026o01",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-10-25T22:00:17+00:00",
-      "keywords": [
-        "文科省"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "AI学校司書の試験的運用を開始～時空を越えた知の継承へ～　京都産業大学　大平睦美教授に聞く",
-      "url": "https://www.kknews.co.jp/post_library/261026_8c",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-10-25T22:00:14+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "文科省、高専の機能強化について素案　量的拡大・質的向上・国際通用性の確保を3本柱に",
-      "url": "https://www.kknews.co.jp/news/20261026o04",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-10-25T22:00:13+00:00",
-      "keywords": [
-        "文科省"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "幼稚園から認定こども園への移行をICTの乗り換えで後押し　北海道旭川市・旭川ふたば幼稚園の導入事例を公開〜VISH",
-      "url": "https://www.kknews.co.jp/news/20261026o03",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-10-25T22:00:11+00:00",
-      "keywords": [
-        "ICT"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "第52回全日本教育工学研究協議会全国大会 教育DXで進化する探究の学び～研究発表より",
-      "url": "https://www.kknews.co.jp/post_ict/261026_3c",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-10-25T22:00:06+00:00",
-      "keywords": [
-        "DX"
-      ],
-      "status": "auto"
-    },
-    {
       "title": "「新たな評価」文科省へ意見と提案…公立大学協会",
       "url": "https://reseed.resemom.jp/article/2026/10/23/14423.html",
       "source": "ReseEd",
@@ -270,6 +227,52 @@
       "published": "2026-10-22T03:03:00+00:00",
       "keywords": [
         "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "高専生がAIで課題解決、「DCON2027」の一次審査結果発表",
+      "url": "https://edu.watch.impress.co.jp/docs/news/2150166.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-10-22T01:00:00+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "ドローンでプログラミングを学ぶ「CoDrone EDU」、150校以上に導入",
+      "url": "https://edu.watch.impress.co.jp/docs/news/2150128.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-10-21T23:00:00+00:00",
+      "keywords": [
+        "プログラミング"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "学びや思考をAIで深める！現場から生まれたGemini活用術【授業・学び編】",
+      "url": "https://edu.watch.impress.co.jp/docs/report/2143583.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-10-21T21:35:00+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "忙しい校務をAIで効率化！現場から生まれたGemini活用術【校務・学校DX編】",
+      "url": "https://edu.watch.impress.co.jp/docs/report/2143077.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-10-21T21:30:00+00:00",
+      "keywords": [
+        "AI",
+        "校務",
+        "DX"
       ],
       "status": "auto"
     }
