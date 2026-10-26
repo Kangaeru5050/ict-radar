@@ -1,11 +1,22 @@
 {
-  "generated_at": "2026-10-26T04:46:54.947496+00:00",
+  "generated_at": "2026-10-26T13:02:00.839229+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "1日10分のeラーニングで学力向上、教育DXシンポ11/21",
+      "url": "https://reseed.resemom.jp/article/2026/10/26/14436.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-10-26T09:45:03+00:00",
+      "keywords": [
+        "DX"
+      ],
+      "status": "auto"
+    },
     {
       "title": "熊本高専、小中学生を対象としたプログラミング講座を開催",
       "url": "https://ict-enews.net/2026/10/26kumamoto-nct/",
@@ -257,17 +268,6 @@
       "source": "こどもとIT",
       "source_id": "kodomo-it",
       "published": "2026-10-22T03:03:00+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "高専生がAIで課題解決、「DCON2027」の一次審査結果発表",
-      "url": "https://edu.watch.impress.co.jp/docs/news/2150166.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-10-22T01:00:00+00:00",
       "keywords": [
         "AI"
       ],
