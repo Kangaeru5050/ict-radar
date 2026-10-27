@@ -1,11 +1,47 @@
 {
-  "generated_at": "2026-10-27T05:04:22.131204+00:00",
+  "generated_at": "2026-10-27T12:11:22.333281+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "法政大の生成AI利用方針、授業での扱いなど実践的指針へ改定",
+      "url": "https://reseed.resemom.jp/article/2026/10/27/14443.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-10-27T06:45:03+00:00",
+      "keywords": [
+        "生成AI",
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "Google、小中学生向け生成AI体験イベントを12月12日に開催",
+      "url": "https://edu.watch.impress.co.jp/docs/news/2151374.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-10-27T06:00:00+00:00",
+      "keywords": [
+        "生成AI",
+        "AI",
+        "Google"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "特別支援教育の特総研、研究所公開11/21…ICTやパラ体験",
+      "url": "https://reseed.resemom.jp/article/2026/10/27/14441.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-10-27T05:15:02+00:00",
+      "keywords": [
+        "ICT"
+      ],
+      "status": "auto"
+    },
     {
       "title": "次期学習指導要領と学校づくり…京都教育大フォーラム12/19",
       "url": "https://reseed.resemom.jp/article/2026/10/27/14439.html",
@@ -239,39 +275,6 @@
       "published": "2026-10-22T23:45:00+00:00",
       "keywords": [
         "ICT"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "高校生がサイバー攻撃の監視拠点を見学、NTTセキュリティ・ジャパンが企業訪問学習を受け入れ",
-      "url": "https://edu.watch.impress.co.jp/docs/news/2150327.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-10-22T21:30:00+00:00",
-      "keywords": [
-        "セキュリティ"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "AI英語学習が「役立つ」は88.9％、対人では約9割が言葉に詰まる　イーオンが1,000人に調査",
-      "url": "https://edu.watch.impress.co.jp/docs/news/2150160.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-10-22T03:03:00+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "高専生がAIで課題解決、「DCON2027」の一次審査結果発表",
-      "url": "https://edu.watch.impress.co.jp/docs/news/2150166.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-10-22T01:00:00+00:00",
-      "keywords": [
-        "AI"
       ],
       "status": "auto"
     }
