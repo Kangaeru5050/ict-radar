@@ -1,11 +1,112 @@
 {
-  "generated_at": "2026-10-26T22:39:45.196030+00:00",
+  "generated_at": "2026-10-27T05:04:22.131204+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "次期学習指導要領と学校づくり…京都教育大フォーラム12/19",
+      "url": "https://reseed.resemom.jp/article/2026/10/27/14439.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-10-27T03:15:03+00:00",
+      "keywords": [
+        "学習指導要領"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "Microsoft、ショーケーススクール国内5校を認定",
+      "url": "https://reseed.resemom.jp/article/2026/10/27/14438.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-10-27T01:20:02+00:00",
+      "keywords": [
+        "Microsoft"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "カニ型ロボットやAI研究が受賞、学生アイデアファクトリーの最終審査を実施",
+      "url": "https://edu.watch.impress.co.jp/docs/news/2151352.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-10-27T01:00:00+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "小学生の約4割が週3日以上習い事に通い5人に1人が1日に複数の習い事を“ハシゴ”＝ miraii調べ＝",
+      "url": "https://ict-enews.net/2026/10/27miraii/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-27T00:23:53+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "Polimill、自治体向け生成AI「QommonsAI」の活用研修（初級編）を熊本市で実施",
+      "url": "https://ict-enews.net/2026/10/27polimill-2/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-27T00:23:10+00:00",
+      "keywords": [
+        "生成AI",
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "武蔵学園、「AI時代の文化と社会とデータサイエンス—『源氏物語』研究者が切り拓いた世界」11月開催",
+      "url": "https://ict-enews.net/2026/10/27musashigakuen/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-27T00:22:18+00:00",
+      "keywords": [
+        "AI",
+        "データ"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "オープンバッジ・ネットワーク、最新事例が集結する設立7周年記念シンポジウム11月1日開催",
+      "url": "https://ict-enews.net/2026/10/27openbadge/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-27T00:21:59+00:00",
+      "keywords": [
+        "ネットワーク"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "AI搭載「ONLINE FACE」でドローン操縦者向け資格講習のオンライン化を支援",
+      "url": "https://ict-enews.net/2026/10/27onlineface/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-27T00:21:20+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "「TDXラジオ」Teacher’s ［Shift］File.290  関西大学初等部 堀 力斗 先生（後編）",
+      "url": "https://ict-enews.net/movie/27tdxradio-3/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-26T23:00:48+00:00",
+      "keywords": [
+        "DX"
+      ],
+      "status": "auto"
+    },
     {
       "title": "【連載】AI時代の主体的な学びへの転換「第7回　『誰と学ぶか』を自分で選ぶ－生活習慣づくりを支える生成AI～福岡市立草ヶ江小学校の取組から～」中村学園大学教育学部　山本朋弘教授",
       "url": "https://www.kknews.co.jp/post_ict/261026_1b",
@@ -61,73 +162,6 @@
       "published": "2026-10-26T09:45:03+00:00",
       "keywords": [
         "DX"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "熊本高専、小中学生を対象としたプログラミング講座を開催",
-      "url": "https://ict-enews.net/2026/10/26kumamoto-nct/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-26T01:03:54+00:00",
-      "keywords": [
-        "プログラミング"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "法政大学、生成AIの教育利用方針を全面改定",
-      "url": "https://ict-enews.net/2026/10/26hosei-3/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-26T01:01:41+00:00",
-      "keywords": [
-        "生成AI",
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "日本規格協会×大阪大学ELSIセンター、「AIリスク研究会（第2期）」を始動",
-      "url": "https://ict-enews.net/2026/10/26jsa-2/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-26T01:01:28+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "CLキッズ、ブロックとSTEAM教育をテーマにしたイベント「TOKAI STEAM BRICK FESTA 2027」開催",
-      "url": "https://ict-enews.net/2026/10/26clkids/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-26T01:00:56+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "ai&、月額固定費なしのAI動画生成サービス「ai& video」を提供開始",
-      "url": "https://ict-enews.net/2026/10/26aiand/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-26T00:59:06+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "ネイティブキャンプ、レッスンで話した英語をAIが添削「AIレビュー」リリース",
-      "url": "https://ict-enews.net/2026/10/26nativecamp-15/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-26T00:58:56+00:00",
-      "keywords": [
-        "AI"
       ],
       "status": "auto"
     },
@@ -238,41 +272,6 @@
       "published": "2026-10-22T01:00:00+00:00",
       "keywords": [
         "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "ドローンでプログラミングを学ぶ「CoDrone EDU」、150校以上に導入",
-      "url": "https://edu.watch.impress.co.jp/docs/news/2150128.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-10-21T23:00:00+00:00",
-      "keywords": [
-        "プログラミング"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "学びや思考をAIで深める！現場から生まれたGemini活用術【授業・学び編】",
-      "url": "https://edu.watch.impress.co.jp/docs/report/2143583.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-10-21T21:35:00+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "忙しい校務をAIで効率化！現場から生まれたGemini活用術【校務・学校DX編】",
-      "url": "https://edu.watch.impress.co.jp/docs/report/2143077.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-10-21T21:30:00+00:00",
-      "keywords": [
-        "AI",
-        "校務",
-        "DX"
       ],
       "status": "auto"
     }
