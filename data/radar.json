@@ -1,11 +1,22 @@
 {
-  "generated_at": "2026-10-27T18:00:21.419758+00:00",
+  "generated_at": "2026-10-27T22:13:45.739297+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "渋谷区、公立中学校改革に本格着手～「特色校」導入で魅力向上～渋谷区教育委員会　柳田統括指導主事",
+      "url": "https://www.kknews.co.jp/post_ict/261026_4a",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-10-27T22:00:54+00:00",
+      "keywords": [
+        "教育委員会"
+      ],
+      "status": "auto"
+    },
     {
       "title": "法政大の生成AI利用方針、授業での扱いなど実践的指針へ改定",
       "url": "https://reseed.resemom.jp/article/2026/10/27/14443.html",
@@ -111,7 +122,7 @@
       "status": "auto"
     },
     {
-      "title": "オープンバッジ・ネットワーク、最新事例が集結する設立7周年記念シンポジウム11月1日開催",
+      "title": "オープンバッジ・ネットワーク、最新事例が集結する設立7周年記念シンポジウム11月5日開催",
       "url": "https://ict-enews.net/2026/10/27openbadge/",
       "source": "ICT教育ニュース",
       "source_id": "ict-enews",
@@ -140,31 +151,6 @@
       "published": "2026-10-26T23:00:48+00:00",
       "keywords": [
         "DX"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "【連載】AI時代の主体的な学びへの転換「第7回　『誰と学ぶか』を自分で選ぶ－生活習慣づくりを支える生成AI～福岡市立草ヶ江小学校の取組から～」中村学園大学教育学部　山本朋弘教授",
-      "url": "https://www.kknews.co.jp/post_ict/261026_1b",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-10-26T22:00:55+00:00",
-      "keywords": [
-        "生成AI",
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "＜10/30締切＞小中学生向け生成AI体験型イベント「Gemini Camp 2026」参加者募集〜Google for Education",
-      "url": "https://www.kknews.co.jp/news/20261027o01",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-10-26T22:00:24+00:00",
-      "keywords": [
-        "生成AI",
-        "AI",
-        "Google"
       ],
       "status": "auto"
     },
@@ -275,6 +261,17 @@
       "published": "2026-10-22T23:45:00+00:00",
       "keywords": [
         "ICT"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "高校生がサイバー攻撃の監視拠点を見学、NTTセキュリティ・ジャパンが企業訪問学習を受け入れ",
+      "url": "https://edu.watch.impress.co.jp/docs/news/2150327.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-10-22T21:30:00+00:00",
+      "keywords": [
+        "セキュリティ"
       ],
       "status": "auto"
     }
