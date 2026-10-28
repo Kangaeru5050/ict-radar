@@ -1,11 +1,22 @@
 {
-  "generated_at": "2026-10-28T05:41:40.713099+00:00",
+  "generated_at": "2026-10-28T12:53:51.699734+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "次期学習指導要領を考える「Edu NEXT」11月に3都市で開催",
+      "url": "https://reseed.resemom.jp/article/2026/10/28/14453.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-10-28T05:45:03+00:00",
+      "keywords": [
+        "学習指導要領"
+      ],
+      "status": "auto"
+    },
     {
       "title": "中高生がAI面接官やAI相談員を設計、デルがデジタルヒューマン構築プログラムを提供",
       "url": "https://edu.watch.impress.co.jp/docs/news/2151482.html",
@@ -264,17 +275,6 @@
       "published": "2026-10-23T09:15:03+00:00",
       "keywords": [
         "文科省"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "マイナビ出版、徳丸 浩氏監修の情報セキュリティ入門書を発売",
-      "url": "https://edu.watch.impress.co.jp/docs/knowledge/kodomoit-booklab/2150024.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-10-23T08:00:00+00:00",
-      "keywords": [
-        "セキュリティ"
       ],
       "status": "auto"
     }
