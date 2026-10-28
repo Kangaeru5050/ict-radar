@@ -1,11 +1,137 @@
 {
-  "generated_at": "2026-10-27T22:13:45.739297+00:00",
+  "generated_at": "2026-10-28T05:41:40.713099+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "中高生がAI面接官やAI相談員を設計、デルがデジタルヒューマン構築プログラムを提供",
+      "url": "https://edu.watch.impress.co.jp/docs/news/2151482.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-10-28T03:03:00+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "駿台、次期学習指導要領とAI活用を考える無料イベントを3都市で開催",
+      "url": "https://edu.watch.impress.co.jp/docs/news/2151730.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-10-28T01:30:00+00:00",
+      "keywords": [
+        "AI",
+        "学習指導要領"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "コドモン、北海道南富良野町の町立保育所が保育ICTサービス「CoDMON」導入",
+      "url": "https://ict-enews.net/2026/10/28codmon-17/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-28T00:59:08+00:00",
+      "keywords": [
+        "ICT"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "Polimill、自治体向け生成AI「QommonsAI」の活用研修（初級編・中級編）を呉市で実施",
+      "url": "https://ict-enews.net/2026/10/28polimill-7/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-28T00:58:29+00:00",
+      "keywords": [
+        "生成AI",
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "近畿大学、学生ポータルアプリのAI機能実証実験を開始",
+      "url": "https://ict-enews.net/2026/10/28kindai-8/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-28T00:58:13+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "Polimill、自治体向け生成AI「QommonsAI」の活用研修を長野県市町村自治振興組合対象に実施",
+      "url": "https://ict-enews.net/2026/10/28polimill-6/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-28T00:57:58+00:00",
+      "keywords": [
+        "生成AI",
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "ワンライフ、就労継続支援B型事業所「ONECODE」でプログラミングをeラーニングで学ぶ仕組みを導入",
+      "url": "https://ict-enews.net/2026/10/28onelife-inc/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-28T00:57:14+00:00",
+      "keywords": [
+        "プログラミング"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "大妻女子大学、「生成AI時代に女子大はどこへ？ ～ 女子の未来を拓くデータサイエンス～」12月開催",
+      "url": "https://ict-enews.net/2026/10/28otsuma/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-28T00:56:35+00:00",
+      "keywords": [
+        "生成AI",
+        "AI",
+        "データ"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "合格者編入塾、大学編入試験専門メディア「大学編入データベース」を公開",
+      "url": "https://ict-enews.net/2026/10/28hennyu-go-kaku/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-28T00:55:50+00:00",
+      "keywords": [
+        "データ"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "ドコモ、未就学児の生活習慣づくりを支援するAI対話技術を開発",
+      "url": "https://ict-enews.net/2026/10/28docomo-3/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-28T00:55:33+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "ルクミーの保育AI新サービス、特許取得の音声入力機能「すくすくログβ版」提供開始",
+      "url": "https://ict-enews.net/2026/10/28unifa-e-4/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-28T00:55:21+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
     {
       "title": "渋谷区、公立中学校改革に本格着手～「特色校」導入で魅力向上～渋谷区教育委員会　柳田統括指導主事",
       "url": "https://www.kknews.co.jp/post_ict/261026_4a",
@@ -87,74 +213,6 @@
       "status": "auto"
     },
     {
-      "title": "小学生の約4割が週3日以上習い事に通い5人に1人が1日に複数の習い事を“ハシゴ”＝ miraii調べ＝",
-      "url": "https://ict-enews.net/2026/10/27miraii/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-27T00:23:53+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "Polimill、自治体向け生成AI「QommonsAI」の活用研修（初級編）を熊本市で実施",
-      "url": "https://ict-enews.net/2026/10/27polimill-2/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-27T00:23:10+00:00",
-      "keywords": [
-        "生成AI",
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "武蔵学園、「AI時代の文化と社会とデータサイエンス—『源氏物語』研究者が切り拓いた世界」11月開催",
-      "url": "https://ict-enews.net/2026/10/27musashigakuen/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-27T00:22:18+00:00",
-      "keywords": [
-        "AI",
-        "データ"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "オープンバッジ・ネットワーク、最新事例が集結する設立7周年記念シンポジウム11月5日開催",
-      "url": "https://ict-enews.net/2026/10/27openbadge/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-27T00:21:59+00:00",
-      "keywords": [
-        "ネットワーク"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "AI搭載「ONLINE FACE」でドローン操縦者向け資格講習のオンライン化を支援",
-      "url": "https://ict-enews.net/2026/10/27onlineface/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-27T00:21:20+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "「TDXラジオ」Teacher’s ［Shift］File.290  関西大学初等部 堀 力斗 先生（後編）",
-      "url": "https://ict-enews.net/movie/27tdxradio-3/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-26T23:00:48+00:00",
-      "keywords": [
-        "DX"
-      ],
-      "status": "auto"
-    },
-    {
       "title": "授業・校務の優秀賞11事例を詳報、Gemini活用事例コンテスト表彰式レポート【こどもとIT ポッドキャスト】",
       "url": "https://edu.watch.impress.co.jp/docs/common/2151003.html",
       "source": "こどもとIT",
@@ -215,61 +273,6 @@
       "source": "こどもとIT",
       "source_id": "kodomo-it",
       "published": "2026-10-23T08:00:00+00:00",
-      "keywords": [
-        "セキュリティ"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "デジタル教科書、指針素案を公表…基本は紙と併用",
-      "url": "https://reseed.resemom.jp/article/2026/10/23/14418.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-10-23T06:30:03+00:00",
-      "keywords": [
-        "デジタル教科書"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "AIを使う授業、使わない授業　文教大卒業生が授業実践を報告",
-      "url": "https://edu.watch.impress.co.jp/docs/news/event/2150561.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-10-23T01:30:00+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "MetaMoJi、教育AI搭載学習ソフトを2027年3月提供",
-      "url": "https://reseed.resemom.jp/article/2026/10/23/14414.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-10-23T00:45:03+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "一時保護中の子供の学びをICTで支援、船橋市児童相談所が「すらら」を導入",
-      "url": "https://edu.watch.impress.co.jp/docs/news/2150550.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-10-22T23:45:00+00:00",
-      "keywords": [
-        "ICT"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "高校生がサイバー攻撃の監視拠点を見学、NTTセキュリティ・ジャパンが企業訪問学習を受け入れ",
-      "url": "https://edu.watch.impress.co.jp/docs/news/2150327.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-10-22T21:30:00+00:00",
       "keywords": [
         "セキュリティ"
       ],
