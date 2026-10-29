@@ -1,11 +1,77 @@
 {
-  "generated_at": "2026-10-28T22:34:50.016929+00:00",
+  "generated_at": "2026-10-29T05:47:44.359183+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "人工知能学会、次期指導要領へ情報教育の充実を提言",
+      "url": "https://reseed.resemom.jp/article/2026/10/29/14458.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-10-29T02:45:02+00:00",
+      "keywords": [
+        "情報教育"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "●絵も文もAIが作ったペラペラ漫画● 【ちゃのまのAIプロト】  第12話  「リオの秘密、AIだけが知っている。」の巻",
+      "url": "https://ict-enews.net/movie/29chanomaai/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-29T01:00:06+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "Helpfeel、「AIに置き換わる業務についての意識調査」を実施",
+      "url": "https://ict-enews.net/2026/10/29helpfeel/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-29T00:36:46+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "オンラインフリースクール「aini school 小・中等部」、個別説明会・入学申込で小1・小2が倍増",
+      "url": "https://ict-enews.net/2026/10/29ainischool/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-29T00:36:31+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "AI普及でITエンジニア採用競争が激化、6割以上の企業が採用難易度の上昇を実感 =レバテック調べ=",
+      "url": "https://ict-enews.net/2026/10/29levtec/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-29T00:35:54+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "障がい児童福祉×ICT「デイロボ」、11月19日・20日開催「保育博2026」に出展",
+      "url": "https://ict-enews.net/2026/10/29u5works/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-29T00:34:57+00:00",
+      "keywords": [
+        "ICT"
+      ],
+      "status": "auto"
+    },
     {
       "title": "次期学習指導要領を考える「Edu NEXT」11月に3都市で開催",
       "url": "https://reseed.resemom.jp/article/2026/10/28/14453.html",
@@ -37,109 +103,6 @@
       "keywords": [
         "AI",
         "学習指導要領"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "コドモン、北海道南富良野町の町立保育所が保育ICTサービス「CoDMON」導入",
-      "url": "https://ict-enews.net/2026/10/28codmon-17/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-28T00:59:08+00:00",
-      "keywords": [
-        "ICT"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "Polimill、自治体向け生成AI「QommonsAI」の活用研修（初級編・中級編）を呉市で実施",
-      "url": "https://ict-enews.net/2026/10/28polimill-7/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-28T00:58:29+00:00",
-      "keywords": [
-        "生成AI",
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "近畿大学、学生ポータルアプリのAI機能実証実験を開始",
-      "url": "https://ict-enews.net/2026/10/28kindai-8/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-28T00:58:13+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "Polimill、自治体向け生成AI「QommonsAI」の活用研修を長野県市町村自治振興組合対象に実施",
-      "url": "https://ict-enews.net/2026/10/28polimill-6/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-28T00:57:58+00:00",
-      "keywords": [
-        "生成AI",
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "ワンライフ、就労継続支援B型事業所「ONECODE」でプログラミングをeラーニングで学ぶ仕組みを導入",
-      "url": "https://ict-enews.net/2026/10/28onelife-inc/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-28T00:57:14+00:00",
-      "keywords": [
-        "プログラミング"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "大妻女子大学、「生成AI時代に女子大はどこへ？ ～ 女子の未来を拓くデータサイエンス～」12月開催",
-      "url": "https://ict-enews.net/2026/10/28otsuma/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-28T00:56:35+00:00",
-      "keywords": [
-        "生成AI",
-        "AI",
-        "データ"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "合格者編入塾、大学編入試験専門メディア「大学編入データベース」を公開",
-      "url": "https://ict-enews.net/2026/10/28hennyu-go-kaku/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-28T00:55:50+00:00",
-      "keywords": [
-        "データ"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "ドコモ、未就学児の生活習慣づくりを支援するAI対話技術を開発",
-      "url": "https://ict-enews.net/2026/10/28docomo-3/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-28T00:55:33+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "ルクミーの保育AI新サービス、特許取得の音声入力機能「すくすくログβ版」提供開始",
-      "url": "https://ict-enews.net/2026/10/28unifa-e-4/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-28T00:55:21+00:00",
-      "keywords": [
-        "AI"
       ],
       "status": "auto"
     },
@@ -275,6 +238,39 @@
       "published": "2026-10-23T09:15:03+00:00",
       "keywords": [
         "文科省"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "マイナビ出版、徳丸 浩氏監修の情報セキュリティ入門書を発売",
+      "url": "https://edu.watch.impress.co.jp/docs/knowledge/kodomoit-booklab/2150024.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-10-23T08:00:00+00:00",
+      "keywords": [
+        "セキュリティ"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "AIを使う授業、使わない授業　文教大卒業生が授業実践を報告",
+      "url": "https://edu.watch.impress.co.jp/docs/news/event/2150561.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-10-23T01:30:00+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "一時保護中の子供の学びをICTで支援、船橋市児童相談所が「すらら」を導入",
+      "url": "https://edu.watch.impress.co.jp/docs/news/2150550.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-10-22T23:45:00+00:00",
+      "keywords": [
+        "ICT"
       ],
       "status": "auto"
     }
