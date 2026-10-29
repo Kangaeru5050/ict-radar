@@ -1,11 +1,44 @@
 {
-  "generated_at": "2026-10-29T13:00:17.292490+00:00",
+  "generated_at": "2026-10-29T22:44:42.167149+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "中高生がAI提供者の視点でデジタルヒューマンを開発～中学生・高校生向け職業体験プログラム",
+      "url": "https://www.kknews.co.jp/news/20261030o02",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-10-29T22:00:23+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "相模原市教育委員会が教員志望者向け「公式note」を開設 自治体独自の試みで魅力発信",
+      "url": "https://www.kknews.co.jp/news/20261030o01",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-10-29T22:00:07+00:00",
+      "keywords": [
+        "教育委員会"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "子供の手描きがAIで大変身！ChatGPT Images 2.5を4歳児と試してみた【【連載】EducAItion Times】",
+      "url": "https://edu.watch.impress.co.jp/docs/serial/educaition-times/2150805.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-10-29T21:30:00+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
     {
       "title": "人工知能学会、次期指導要領へ情報教育の充実を提言",
       "url": "https://reseed.resemom.jp/article/2026/10/29/14458.html",
@@ -238,39 +271,6 @@
       "published": "2026-10-23T09:15:03+00:00",
       "keywords": [
         "文科省"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "マイナビ出版、徳丸 浩氏監修の情報セキュリティ入門書を発売",
-      "url": "https://edu.watch.impress.co.jp/docs/knowledge/kodomoit-booklab/2150024.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-10-23T08:00:00+00:00",
-      "keywords": [
-        "セキュリティ"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "AIを使う授業、使わない授業　文教大卒業生が授業実践を報告",
-      "url": "https://edu.watch.impress.co.jp/docs/news/event/2150561.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-10-23T01:30:00+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "一時保護中の子供の学びをICTで支援、船橋市児童相談所が「すらら」を導入",
-      "url": "https://edu.watch.impress.co.jp/docs/news/2150550.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-10-22T23:45:00+00:00",
-      "keywords": [
-        "ICT"
       ],
       "status": "auto"
     }
