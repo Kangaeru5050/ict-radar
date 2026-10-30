@@ -1,11 +1,112 @@
 {
-  "generated_at": "2026-10-29T22:44:42.167149+00:00",
+  "generated_at": "2026-10-30T05:48:28.050007+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "立命館中の1年生がAIでアプリ開発に挑戦、takeforestが探究プログラムを提供",
+      "url": "https://edu.watch.impress.co.jp/docs/news/2152531.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-10-30T04:45:00+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "MetaMoJi、教育AI「SHUUSAI（シュウサイ）」を発表 2027年3月より「MetaMoJi ClassRoom 3」へ標準搭載",
+      "url": "https://ict-enews.net/2026/10/23metamoji-5/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-30T00:30:19+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "C&R社、「IT基礎・AI活用Web/SNSマーケ（オンライン）科」の受講生募集",
+      "url": "https://ict-enews.net/2026/10/30cri-3/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-30T00:28:09+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "高校教師と東進ハイスクール講師による「AIと、これからの学び。」12月長崎で開催",
+      "url": "https://ict-enews.net/2026/10/30sasebo-english-teachers-society/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-30T00:27:34+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "ユニファ、保育・教育施設向けICTサービス「ルクミー」が保育博2026に出展",
+      "url": "https://ict-enews.net/2026/10/30unifa-e/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-30T00:26:45+00:00",
+      "keywords": [
+        "ICT"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "takeforest、中学1年生240人がAIで「身の回りの課題解決アプリ」開発に挑戦",
+      "url": "https://ict-enews.net/2026/10/30takeforest/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-30T00:26:18+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "アンドドット、札幌市職員460人が参加した生成AI研修に茨木代表が登壇",
+      "url": "https://ict-enews.net/2026/10/30and-dot/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-30T00:25:56+00:00",
+      "keywords": [
+        "生成AI",
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "ビズアップ総研、実践的な学びを拡充！e-JINZAI「AI・DX研修」リニューアル第2弾",
+      "url": "https://ict-enews.net/2026/10/30bmc-net-3/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-10-30T00:24:54+00:00",
+      "keywords": [
+        "AI",
+        "DX"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "小学生から大学院生まで、若きMakerたちの発想と技術が光る！ Maker Faire Tokyo 2026レポート",
+      "url": "https://edu.watch.impress.co.jp/docs/report/2151703.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-10-29T23:00:00+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
     {
       "title": "中高生がAI提供者の視点でデジタルヒューマンを開発～中学生・高校生向け職業体験プログラム",
       "url": "https://www.kknews.co.jp/news/20261030o02",
@@ -47,61 +148,6 @@
       "published": "2026-10-29T02:45:02+00:00",
       "keywords": [
         "情報教育"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "●絵も文もAIが作ったペラペラ漫画● 【ちゃのまのAIプロト】  第12話  「リオの秘密、AIだけが知っている。」の巻",
-      "url": "https://ict-enews.net/movie/29chanomaai/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-29T01:00:06+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "Helpfeel、「AIに置き換わる業務についての意識調査」を実施",
-      "url": "https://ict-enews.net/2026/10/29helpfeel/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-29T00:36:46+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "オンラインフリースクール「aini school 小・中等部」、個別説明会・入学申込で小1・小2が倍増",
-      "url": "https://ict-enews.net/2026/10/29ainischool/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-29T00:36:31+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "AI普及でITエンジニア採用競争が激化、6割以上の企業が採用難易度の上昇を実感 =レバテック調べ=",
-      "url": "https://ict-enews.net/2026/10/29levtec/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-29T00:35:54+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "障がい児童福祉×ICT「デイロボ」、11月19日・20日開催「保育博2026」に出展",
-      "url": "https://ict-enews.net/2026/10/29u5works/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-29T00:34:57+00:00",
-      "keywords": [
-        "ICT"
       ],
       "status": "auto"
     },
@@ -227,50 +273,6 @@
       "published": "2026-10-26T21:35:00+00:00",
       "keywords": [
         "校務"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "AI時代、子どもの「感性」をどう育む？ JUNOPARKで見えた、心が動く体験[Sponsored]",
-      "url": "https://edu.watch.impress.co.jp/docs/topic/special/2145482.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-10-26T21:30:00+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "1日10分のeラーニングで学力向上、教育DXシンポ11/21",
-      "url": "https://reseed.resemom.jp/article/2026/10/26/14436.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-10-26T09:45:03+00:00",
-      "keywords": [
-        "DX"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "情報活用能力を育む環境とは、JAPET&CECが11月24日に無料セミナーを開催",
-      "url": "https://edu.watch.impress.co.jp/docs/news/2150941.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-10-25T23:00:00+00:00",
-      "keywords": [
-        "情報活用能力"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "「新たな評価」文科省へ意見と提案…公立大学協会",
-      "url": "https://reseed.resemom.jp/article/2026/10/23/14423.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-10-23T09:15:03+00:00",
-      "keywords": [
-        "文科省"
       ],
       "status": "auto"
     }
