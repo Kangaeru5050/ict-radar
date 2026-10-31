@@ -1,11 +1,44 @@
 {
-  "generated_at": "2026-10-30T22:19:28.630620+00:00",
+  "generated_at": "2026-10-31T05:40:15.595323+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "＜次期学習指導要領を見据え、教育の未来をともに考える＞教育関係者向けイベント「Edu NEXT」を11月に3都市で開催〜駿台教育センター",
+      "url": "https://www.kknews.co.jp/news/20261031o03",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-10-31T01:00:48+00:00",
+      "keywords": [
+        "学習指導要領"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "＜書籍紹介＞川北輝著『その悩み、AIで大丈夫ですか？ ～AIに相談していい悩み・いけない悩み～』みらいパブリッシング",
+      "url": "https://www.kknews.co.jp/news/20261031o02",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-10-31T01:00:43+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "MetaMoJi、教育AI「SHUUSAI」発表 2027年3月に「MetaMoJi ClassRoom 3」へ標準搭載",
+      "url": "https://www.kknews.co.jp/news/20261031o01",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-10-31T01:00:03+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
     {
       "title": "立命館中の1年生がAIでアプリ開発に挑戦、takeforestが探究プログラムを提供",
       "url": "https://edu.watch.impress.co.jp/docs/news/2152531.html",
@@ -186,17 +219,6 @@
       "status": "auto"
     },
     {
-      "title": "渋谷区、公立中学校改革に本格着手～「特色校」導入で魅力向上～渋谷区教育委員会　柳田統括指導主事",
-      "url": "https://www.kknews.co.jp/post_ict/261026_4a",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-10-27T22:00:54+00:00",
-      "keywords": [
-        "教育委員会"
-      ],
-      "status": "auto"
-    },
-    {
       "title": "法政大の生成AI利用方針、授業での扱いなど実践的指針へ改定",
       "url": "https://reseed.resemom.jp/article/2026/10/27/14443.html",
       "source": "ReseEd",
@@ -251,28 +273,6 @@
       "published": "2026-10-27T01:20:02+00:00",
       "keywords": [
         "Microsoft"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "カニ型ロボットやAI研究が受賞、学生アイデアファクトリーの最終審査を実施",
-      "url": "https://edu.watch.impress.co.jp/docs/news/2151352.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-10-27T01:00:00+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "授業・校務の優秀賞11事例を詳報、Gemini活用事例コンテスト表彰式レポート【こどもとIT ポッドキャスト】",
-      "url": "https://edu.watch.impress.co.jp/docs/common/2151003.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-10-26T21:35:00+00:00",
-      "keywords": [
-        "校務"
       ],
       "status": "auto"
     }
