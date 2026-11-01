@@ -1,11 +1,33 @@
 {
-  "generated_at": "2026-11-01T13:23:48.044802+00:00",
+  "generated_at": "2026-11-01T22:00:57.995272+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "全国187大学の実態調査、研究費管理の課題浮き彫りに　調査レポート無料配布中〜自治体DX推進協議会",
+      "url": "https://www.kknews.co.jp/news/20261102o03",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-11-01T22:00:28+00:00",
+      "keywords": [
+        "DX"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "近大、学生ポータルアプリのAI機能実証実験を開始〜学生支援窓口の24時間オンライン化を推進",
+      "url": "https://www.kknews.co.jp/news/20261102o01",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-11-01T22:00:14+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
     {
       "title": "＜教育関係者対象＞AI時代の学びを支える大人の役割「探究ナビゲーター」体験ワークショップを11/7に開催〜教育AI活用協会",
       "url": "https://www.kknews.co.jp/news/20261101o03",
@@ -25,28 +47,6 @@
       "published": "2026-10-31T01:00:48+00:00",
       "keywords": [
         "学習指導要領"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "＜書籍紹介＞川北輝著『その悩み、AIで大丈夫ですか？ ～AIに相談していい悩み・いけない悩み～』みらいパブリッシング",
-      "url": "https://www.kknews.co.jp/news/20261031o02",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-10-31T01:00:43+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "MetaMoJi、教育AI「SHUUSAI」発表 2027年3月に「MetaMoJi ClassRoom 3」へ標準搭載",
-      "url": "https://www.kknews.co.jp/news/20261031o01",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-10-31T01:00:03+00:00",
-      "keywords": [
-        "AI"
       ],
       "status": "auto"
     },
