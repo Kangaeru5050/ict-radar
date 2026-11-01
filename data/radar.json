@@ -1,11 +1,22 @@
 {
-  "generated_at": "2026-10-31T21:33:33.026314+00:00",
+  "generated_at": "2026-11-01T06:03:50.211894+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "＜教育関係者対象＞AI時代の学びを支える大人の役割「探究ナビゲーター」体験ワークショップを11/7に開催〜教育AI活用協会",
+      "url": "https://www.kknews.co.jp/news/20261101o03",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-11-01T01:00:14+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
     {
       "title": "＜次期学習指導要領を見据え、教育の未来をともに考える＞教育関係者向けイベント「Edu NEXT」を11月に3都市で開催〜駿台教育センター",
       "url": "https://www.kknews.co.jp/news/20261031o03",
@@ -141,28 +152,6 @@
       "status": "auto"
     },
     {
-      "title": "中高生がAI提供者の視点でデジタルヒューマンを開発～中学生・高校生向け職業体験プログラム",
-      "url": "https://www.kknews.co.jp/news/20261030o02",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-10-29T22:00:23+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "相模原市教育委員会が教員志望者向け「公式note」を開設 自治体独自の試みで魅力発信",
-      "url": "https://www.kknews.co.jp/news/20261030o01",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-10-29T22:00:07+00:00",
-      "keywords": [
-        "教育委員会"
-      ],
-      "status": "auto"
-    },
-    {
       "title": "子供の手描きがAIで大変身！ChatGPT Images 2.5を4歳児と試してみた【【連載】EducAItion Times】",
       "url": "https://edu.watch.impress.co.jp/docs/serial/educaition-times/2150805.html",
       "source": "こどもとIT",
@@ -273,6 +262,17 @@
       "published": "2026-10-27T01:20:02+00:00",
       "keywords": [
         "Microsoft"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "カニ型ロボットやAI研究が受賞、学生アイデアファクトリーの最終審査を実施",
+      "url": "https://edu.watch.impress.co.jp/docs/news/2151352.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-10-27T01:00:00+00:00",
+      "keywords": [
+        "AI"
       ],
       "status": "auto"
     }
