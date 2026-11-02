@@ -1,11 +1,123 @@
 {
-  "generated_at": "2026-11-01T22:00:57.995272+00:00",
+  "generated_at": "2026-11-02T06:01:40.902167+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "AI時代の探究学習、大人の役割を学ぶワークショップ11/7",
+      "url": "https://reseed.resemom.jp/article/2026/11/02/14477.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-11-02T04:45:03+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "新教職課程の質確保やデジタル教科書の安全対策…文科相10/30会見",
+      "url": "https://reseed.resemom.jp/article/2026/11/02/14476.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-11-02T02:25:03+00:00",
+      "keywords": [
+        "デジタル教科書"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "子育て世代、子どもの個人情報漏えいが「とても不安」約7割 =コズレ調べ=",
+      "url": "https://ict-enews.net/2026/11/02cozre/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-02T01:26:31+00:00",
+      "keywords": [
+        "個人情報"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "AI時代の学び方、基礎知識は「生成AI」=SMBCビジネスセミナー「みんなの研修」調べ=",
+      "url": "https://ict-enews.net/2026/11/02smbc-consulting/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-02T01:25:53+00:00",
+      "keywords": [
+        "生成AI",
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "EDE、データ利活用に関する謎解きゲーム形式のワークショップ12月9日開催",
+      "url": "https://ict-enews.net/2026/11/02ede/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-02T01:23:48+00:00",
+      "keywords": [
+        "データ"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "Tokyo Forum 2026「変革をもたらすテクノロジーとしてのAI：人間・知・文明」開催",
+      "url": "https://ict-enews.net/2026/11/02tokyoforum/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-02T01:23:15+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "AI 英語学習アプリ「EiDrill」、AI 英会話・英作文の添削・TOEICL&R 対策を1つのアプリで提供",
+      "url": "https://ict-enews.net/2026/11/02eidrill/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-02T01:22:48+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "パーソル、保険・金融業界向けデータサイエンス人材育成支援の事例公開",
+      "url": "https://ict-enews.net/2026/11/02persol-innovation-2/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-02T01:22:37+00:00",
+      "keywords": [
+        "データ"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "ISC2、AIセキュリティ認定資格のパイロット試験概要を公開",
+      "url": "https://ict-enews.net/2026/11/02isc2/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-02T01:21:54+00:00",
+      "keywords": [
+        "AI",
+        "セキュリティ"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "ブリタニカ・ジャパン、ブリタニカの2つの百科事典データベースが27年春に大幅リニューアル",
+      "url": "https://ict-enews.net/2026/11/02britannica-2/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-02T01:21:44+00:00",
+      "keywords": [
+        "データ"
+      ],
+      "status": "auto"
+    },
     {
       "title": "全国187大学の実態調査、研究費管理の課題浮き彫りに　調査レポート無料配布中〜自治体DX推進協議会",
       "url": "https://www.kknews.co.jp/news/20261102o03",
@@ -58,85 +170,6 @@
       "published": "2026-10-30T04:45:00+00:00",
       "keywords": [
         "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "MetaMoJi、教育AI「SHUUSAI（シュウサイ）」を発表 2027年3月より「MetaMoJi ClassRoom 3」へ標準搭載",
-      "url": "https://ict-enews.net/2026/10/23metamoji-5/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-30T00:30:19+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "C&R社、「IT基礎・AI活用Web/SNSマーケ（オンライン）科」の受講生募集",
-      "url": "https://ict-enews.net/2026/10/30cri-3/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-30T00:28:09+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "高校教師と東進ハイスクール講師による「AIと、これからの学び。」12月長崎で開催",
-      "url": "https://ict-enews.net/2026/10/30sasebo-english-teachers-society/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-30T00:27:34+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "ユニファ、保育・教育施設向けICTサービス「ルクミー」が保育博2026に出展",
-      "url": "https://ict-enews.net/2026/10/30unifa-e/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-30T00:26:45+00:00",
-      "keywords": [
-        "ICT"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "takeforest、中学1年生240人がAIで「身の回りの課題解決アプリ」開発に挑戦",
-      "url": "https://ict-enews.net/2026/10/30takeforest/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-30T00:26:18+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "アンドドット、札幌市職員460人が参加した生成AI研修に茨木代表が登壇",
-      "url": "https://ict-enews.net/2026/10/30and-dot/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-30T00:25:56+00:00",
-      "keywords": [
-        "生成AI",
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "ビズアップ総研、実践的な学びを拡充！e-JINZAI「AI・DX研修」リニューアル第2弾",
-      "url": "https://ict-enews.net/2026/10/30bmc-net-3/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-10-30T00:24:54+00:00",
-      "keywords": [
-        "AI",
-        "DX"
       ],
       "status": "auto"
     },
@@ -240,39 +273,6 @@
       "published": "2026-10-27T05:15:02+00:00",
       "keywords": [
         "ICT"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "次期学習指導要領と学校づくり…京都教育大フォーラム12/19",
-      "url": "https://reseed.resemom.jp/article/2026/10/27/14439.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-10-27T03:15:03+00:00",
-      "keywords": [
-        "学習指導要領"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "Microsoft、ショーケーススクール国内5校を認定",
-      "url": "https://reseed.resemom.jp/article/2026/10/27/14438.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-10-27T01:20:02+00:00",
-      "keywords": [
-        "Microsoft"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "カニ型ロボットやAI研究が受賞、学生アイデアファクトリーの最終審査を実施",
-      "url": "https://edu.watch.impress.co.jp/docs/news/2151352.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-10-27T01:00:00+00:00",
-      "keywords": [
-        "AI"
       ],
       "status": "auto"
     }
