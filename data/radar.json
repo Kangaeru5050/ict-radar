@@ -1,11 +1,33 @@
 {
-  "generated_at": "2026-11-02T06:01:40.902167+00:00",
+  "generated_at": "2026-11-02T15:51:46.919418+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "ベネッセ「ミライシードAWARD」教育DX・授業の2部門で募集",
+      "url": "https://reseed.resemom.jp/article/2026/11/02/14485.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-11-02T10:45:03+00:00",
+      "keywords": [
+        "DX"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "文科省「日本語教育大会」12/11…登録日本語教員の養成・研修",
+      "url": "https://reseed.resemom.jp/article/2026/11/02/14482.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-11-02T07:15:03+00:00",
+      "keywords": [
+        "文科省"
+      ],
+      "status": "auto"
+    },
     {
       "title": "AI時代の探究学習、大人の役割を学ぶワークショップ11/7",
       "url": "https://reseed.resemom.jp/article/2026/11/02/14477.html",
@@ -241,18 +263,6 @@
       "status": "auto"
     },
     {
-      "title": "法政大の生成AI利用方針、授業での扱いなど実践的指針へ改定",
-      "url": "https://reseed.resemom.jp/article/2026/10/27/14443.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-10-27T06:45:03+00:00",
-      "keywords": [
-        "生成AI",
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
       "title": "Google、小中学生向け生成AI体験イベントを12月12日に開催",
       "url": "https://edu.watch.impress.co.jp/docs/news/2151374.html",
       "source": "こどもとIT",
@@ -262,17 +272,6 @@
         "生成AI",
         "AI",
         "Google"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "特別支援教育の特総研、研究所公開11/21…ICTやパラ体験",
-      "url": "https://reseed.resemom.jp/article/2026/10/27/14441.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-10-27T05:15:02+00:00",
-      "keywords": [
-        "ICT"
       ],
       "status": "auto"
     }
