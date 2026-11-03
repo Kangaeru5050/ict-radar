@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T00:57:59.146866+00:00",
+  "generated_at": "2026-11-03T14:13:07.646720+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
@@ -7,11 +7,55 @@
   },
   "items": [
     {
+      "title": "立命館中、1年生240人がAIで「身の回りの課題解決アプリ」の開発に挑戦",
+      "url": "https://www.kknews.co.jp/news/20261103o04",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-11-03T01:00:51+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "次期学習指導要領で塾の役割はどう変わる？　日本コスモトピアとFCEが11/17にオンラインセミナー開催",
+      "url": "https://www.kknews.co.jp/news/20261103o02",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-11-03T01:00:27+00:00",
+      "keywords": [
+        "学習指導要領"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "「TDXラジオ」Teacher’s ［Shift］File.291  関西大学初等部 堀 力斗 先生（後編）",
+      "url": "https://ict-enews.net/movie/03tdxradio-5/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-02T23:00:03+00:00",
+      "keywords": [
+        "DX"
+      ],
+      "status": "auto"
+    },
+    {
       "title": "ベネッセ「ミライシードAWARD」教育DX・授業の2部門で募集",
       "url": "https://reseed.resemom.jp/article/2026/11/02/14485.html",
       "source": "ReseEd",
       "source_id": "reseed",
       "published": "2026-11-02T10:45:03+00:00",
+      "keywords": [
+        "DX"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "「TDXラジオ」Teacher’s ［Shift］File.291  関西大学初等部 堀 力斗 先生（後編）を公開",
+      "url": "https://ict-enews.net/2026/11/02tdxradio-8/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-02T10:00:23+00:00",
       "keywords": [
         "DX"
       ],
@@ -118,29 +162,6 @@
       "status": "auto"
     },
     {
-      "title": "ISC2、AIセキュリティ認定資格のパイロット試験概要を公開",
-      "url": "https://ict-enews.net/2026/11/02isc2/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-02T01:21:54+00:00",
-      "keywords": [
-        "AI",
-        "セキュリティ"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "ブリタニカ・ジャパン、ブリタニカの2つの百科事典データベースが27年春に大幅リニューアル",
-      "url": "https://ict-enews.net/2026/11/02britannica-2/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-02T01:21:44+00:00",
-      "keywords": [
-        "データ"
-      ],
-      "status": "auto"
-    },
-    {
       "title": "全国187大学の実態調査、研究費管理の課題浮き彫りに　調査レポート無料配布中〜自治体DX推進協議会",
       "url": "https://www.kknews.co.jp/news/20261102o03",
       "source": "教育家庭新聞 KKS Web",
@@ -159,28 +180,6 @@
       "published": "2026-11-01T22:00:14+00:00",
       "keywords": [
         "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "＜教育関係者対象＞AI時代の学びを支える大人の役割「探究ナビゲーター」体験ワークショップを11/7に開催〜教育AI活用協会",
-      "url": "https://www.kknews.co.jp/news/20261101o03",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-11-01T01:00:14+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "＜次期学習指導要領を見据え、教育の未来をともに考える＞教育関係者向けイベント「Edu NEXT」を11月に3都市で開催〜駿台教育センター",
-      "url": "https://www.kknews.co.jp/news/20261031o03",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-10-31T01:00:48+00:00",
-      "keywords": [
-        "学習指導要領"
       ],
       "status": "auto"
     },
