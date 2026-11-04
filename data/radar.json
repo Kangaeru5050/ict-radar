@@ -1,11 +1,91 @@
 {
-  "generated_at": "2026-11-04T00:34:06.493139+00:00",
+  "generated_at": "2026-11-04T06:21:58.375488+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "文科省「諸外国の教育情報」公表…6か国の留学生データ追加",
+      "url": "https://reseed.resemom.jp/article/2026/11/04/14491.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-11-04T05:45:02+00:00",
+      "keywords": [
+        "文科省",
+        "データ"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "京都府京丹波町、町立全中学校にAI型教材「キュビナ」を導入",
+      "url": "https://edu.watch.impress.co.jp/docs/news/2153398.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-11-04T05:00:00+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "小中学生がClaudeとロボットで課題解決、フィジカルAIハッカソンを11月7日・8日に開催",
+      "url": "https://edu.watch.impress.co.jp/docs/news/2153304.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-11-04T03:03:00+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "英単語を「覚える」から「集める」へ ― 東京外大生が個人開発した無料ブラウザ英単語ゲーム「WordForge」とGIGA端末での活用",
+      "url": "https://ict-enews.net/2026/11/04wordforge/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-04T01:00:54+00:00",
+      "keywords": [
+        "GIGA",
+        "端末"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "コドモン、栃木県栃木市の保育所9施設が保育ICTサービス「CoDMON」導入",
+      "url": "https://ict-enews.net/2026/11/04codmon-18/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-04T00:38:24+00:00",
+      "keywords": [
+        "ICT"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "Polimill、自治体向け生成AI「QommonsAI」の活用研修（初級編）を笠岡市で実施",
+      "url": "https://ict-enews.net/2026/11/04polimill-2/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-04T00:37:34+00:00",
+      "keywords": [
+        "生成AI",
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "グロービス経営大学院、「AI時代の思考力」など8本の研究成果を収録した紀要第5巻公開",
+      "url": "https://ict-enews.net/2026/11/04globis-4/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-04T00:36:00+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
     {
       "title": "専門家が解説する市民講座「心の悩みをAIにどう相談するか？」12月27日開催",
       "url": "https://ict-enews.net/2026/11/04sara-ch/",
@@ -29,18 +109,6 @@
       "status": "auto"
     },
     {
-      "title": "「LearningOn」、生成AIの基礎から業務活用まで学べる「AIリテラシープラン」提供開始",
-      "url": "https://ict-enews.net/2026/11/04learningon%e3%80%8d/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-04T00:30:04+00:00",
-      "keywords": [
-        "生成AI",
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
       "title": "立命館中、1年生240人がAIで「身の回りの課題解決アプリ」の開発に挑戦",
       "url": "https://www.kknews.co.jp/news/20261103o04",
       "source": "教育家庭新聞 KKS Web",
@@ -52,33 +120,11 @@
       "status": "auto"
     },
     {
-      "title": "「TDXラジオ」Teacher’s ［Shift］File.291  関西大学初等部 堀 力斗 先生（後編）",
-      "url": "https://ict-enews.net/movie/03tdxradio-5/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-02T23:00:03+00:00",
-      "keywords": [
-        "DX"
-      ],
-      "status": "auto"
-    },
-    {
       "title": "ベネッセ「ミライシードAWARD」教育DX・授業の2部門で募集",
       "url": "https://reseed.resemom.jp/article/2026/11/02/14485.html",
       "source": "ReseEd",
       "source_id": "reseed",
       "published": "2026-11-02T10:45:03+00:00",
-      "keywords": [
-        "DX"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "「TDXラジオ」Teacher’s ［Shift］File.291  関西大学初等部 堀 力斗 先生（後編）を公開",
-      "url": "https://ict-enews.net/2026/11/02tdxradio-8/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-02T10:00:23+00:00",
       "keywords": [
         "DX"
       ],
@@ -114,29 +160,6 @@
       "published": "2026-11-02T02:25:03+00:00",
       "keywords": [
         "デジタル教科書"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "子育て世代、子どもの個人情報漏えいが「とても不安」約7割 =コズレ調べ=",
-      "url": "https://ict-enews.net/2026/11/02cozre/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-02T01:26:31+00:00",
-      "keywords": [
-        "個人情報"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "AI時代の学び方、基礎知識は「生成AI」=SMBCビジネスセミナー「みんなの研修」調べ=",
-      "url": "https://ict-enews.net/2026/11/02smbc-consulting/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-02T01:25:53+00:00",
-      "keywords": [
-        "生成AI",
-        "AI"
       ],
       "status": "auto"
     },
@@ -215,19 +238,6 @@
       "keywords": [
         "AI",
         "学習指導要領"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "Google、小中学生向け生成AI体験イベントを12月12日に開催",
-      "url": "https://edu.watch.impress.co.jp/docs/news/2151374.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-10-27T06:00:00+00:00",
-      "keywords": [
-        "生成AI",
-        "AI",
-        "Google"
       ],
       "status": "auto"
     }
