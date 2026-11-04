@@ -1,11 +1,45 @@
 {
-  "generated_at": "2026-11-03T14:13:07.646720+00:00",
+  "generated_at": "2026-11-04T00:34:06.493139+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "専門家が解説する市民講座「心の悩みをAIにどう相談するか？」12月27日開催",
+      "url": "https://ict-enews.net/2026/11/04sara-ch/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-04T00:30:54+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "スキャネット、入試向けマークシート採点・集計システム「らく点マークくんクラウド」提供開始",
+      "url": "https://ict-enews.net/2026/11/04scanet-3/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-04T00:30:25+00:00",
+      "keywords": [
+        "クラウド"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "「LearningOn」、生成AIの基礎から業務活用まで学べる「AIリテラシープラン」提供開始",
+      "url": "https://ict-enews.net/2026/11/04learningon%e3%80%8d/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-04T00:30:04+00:00",
+      "keywords": [
+        "生成AI",
+        "AI"
+      ],
+      "status": "auto"
+    },
     {
       "title": "立命館中、1年生240人がAIで「身の回りの課題解決アプリ」の開発に挑戦",
       "url": "https://www.kknews.co.jp/news/20261103o04",
@@ -14,17 +48,6 @@
       "published": "2026-11-03T01:00:51+00:00",
       "keywords": [
         "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "次期学習指導要領で塾の役割はどう変わる？　日本コスモトピアとFCEが11/17にオンラインセミナー開催",
-      "url": "https://www.kknews.co.jp/news/20261103o02",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-11-03T01:00:27+00:00",
-      "keywords": [
-        "学習指導要領"
       ],
       "status": "auto"
     },
@@ -113,72 +136,6 @@
       "published": "2026-11-02T01:25:53+00:00",
       "keywords": [
         "生成AI",
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "EDE、データ利活用に関する謎解きゲーム形式のワークショップ12月9日開催",
-      "url": "https://ict-enews.net/2026/11/02ede/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-02T01:23:48+00:00",
-      "keywords": [
-        "データ"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "Tokyo Forum 2026「変革をもたらすテクノロジーとしてのAI：人間・知・文明」開催",
-      "url": "https://ict-enews.net/2026/11/02tokyoforum/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-02T01:23:15+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "AI 英語学習アプリ「EiDrill」、AI 英会話・英作文の添削・TOEICL&R 対策を1つのアプリで提供",
-      "url": "https://ict-enews.net/2026/11/02eidrill/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-02T01:22:48+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "パーソル、保険・金融業界向けデータサイエンス人材育成支援の事例公開",
-      "url": "https://ict-enews.net/2026/11/02persol-innovation-2/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-02T01:22:37+00:00",
-      "keywords": [
-        "データ"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "全国187大学の実態調査、研究費管理の課題浮き彫りに　調査レポート無料配布中〜自治体DX推進協議会",
-      "url": "https://www.kknews.co.jp/news/20261102o03",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-11-01T22:00:28+00:00",
-      "keywords": [
-        "DX"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "近大、学生ポータルアプリのAI機能実証実験を開始〜学生支援窓口の24時間オンライン化を推進",
-      "url": "https://www.kknews.co.jp/news/20261102o01",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-11-01T22:00:14+00:00",
-      "keywords": [
         "AI"
       ],
       "status": "auto"
