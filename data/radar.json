@@ -1,11 +1,23 @@
 {
-  "generated_at": "2026-11-06T06:44:30.723014+00:00",
+  "generated_at": "2026-11-06T19:24:08.208230+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "ロイロTV拡大版「先生の生成AI活用術」全5回を無料配信",
+      "url": "https://reseed.resemom.jp/article/2026/11/06/14506.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-11-06T08:45:02+00:00",
+      "keywords": [
+        "生成AI",
+        "AI"
+      ],
+      "status": "auto"
+    },
     {
       "title": "「プログラミングを学ぶ」検索が1年でほぼ半減、ツール検索1位は？= TECH NOISY調べ=",
       "url": "https://ict-enews.net/2026/11/06try-link/",
