@@ -1,11 +1,129 @@
 {
-  "generated_at": "2026-11-05T19:56:46.006447+00:00",
+  "generated_at": "2026-11-06T06:44:30.723014+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "「プログラミングを学ぶ」検索が1年でほぼ半減、ツール検索1位は？= TECH NOISY調べ=",
+      "url": "https://ict-enews.net/2026/11/06try-link/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-06T01:17:43+00:00",
+      "keywords": [
+        "プログラミング"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "LINEヤフー みらいプロジェクト、活用型情報モラル教材「GIGAワークブック」のインパクト評価を実施",
+      "url": "https://ict-enews.net/2026/11/06lycorp-2/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-06T01:13:36+00:00",
+      "keywords": [
+        "GIGA"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "コドモン、福岡県宇美町の町立保育所2施設保育がICTサービス「CoDMON」導入",
+      "url": "https://ict-enews.net/2026/11/06codmon-22/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-06T01:12:23+00:00",
+      "keywords": [
+        "ICT"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "Polimill、自治体向け生成AI「QommonsAI」の活用研修を北海道東神楽町で実施",
+      "url": "https://ict-enews.net/2026/11/06polimill-7/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-06T01:12:12+00:00",
+      "keywords": [
+        "生成AI",
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "Polimill、自治体向け生成AI「QommonsAI」の活用研修（中級編）を広島県熊野町で実施",
+      "url": "https://ict-enews.net/2026/11/06polimill-6/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-06T01:12:00+00:00",
+      "keywords": [
+        "生成AI",
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "ロッテ、文科省「DXハイスクール」採択校でお菓子の実購買データ活用したデータサイエンス授業開催",
+      "url": "https://ict-enews.net/2026/11/06lotte/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-06T01:11:21+00:00",
+      "keywords": [
+        "DX",
+        "文科省",
+        "データ"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "LandBridge、小学生と祖父母向け「AIでつくる年賀状教室」横浜で21日無料開催",
+      "url": "https://ict-enews.net/2026/11/06landbridge/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-06T01:09:37+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "Google、児童生徒アカウント向けAI機能を原則オフに",
+      "url": "https://edu.watch.impress.co.jp/docs/news/2154179.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-11-06T00:00:00+00:00",
+      "keywords": [
+        "AI",
+        "アカウント",
+        "Google"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "文部科学省「諸外国の教育情報」2026年版を公表　国別ファイル化や留学生データ追加で利便性向上",
+      "url": "https://www.kknews.co.jp/news/20261106o04",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-11-05T22:00:37+00:00",
+      "keywords": [
+        "文部科学省",
+        "データ"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "購買履歴データを教材に、ロッテがDXハイスクール採択校で授業を実施",
+      "url": "https://edu.watch.impress.co.jp/docs/news/2154156.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-11-05T21:30:00+00:00",
+      "keywords": [
+        "DX",
+        "データ"
+      ],
+      "status": "auto"
+    },
     {
       "title": "教員の「やってみたい」を形に…AI人材育成プログラム始動",
       "url": "https://reseed.resemom.jp/article/2026/11/05/14498.html",
@@ -36,131 +154,6 @@
       "published": "2026-11-05T04:45:03+00:00",
       "keywords": [
         "情報教育"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "近畿大学、AI英語論文執筆支援ツール「Paperpal」を導入",
-      "url": "https://ict-enews.net/2026/11/05kindai-7/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-05T01:26:51+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "リテールAI協会、駒澤大学との産学連携授業「実践データサイエンス」実施",
-      "url": "https://ict-enews.net/2026/11/05retail-ai/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-05T01:26:32+00:00",
-      "keywords": [
-        "AI",
-        "データ"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "教育AI活用協会、全国の教員がつながる「AI人材育成プログラム」の提供を発表",
-      "url": "https://ict-enews.net/2026/11/05ai-ueo-4/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-05T01:26:19+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "「Javaプログラミング能力認定試験」「Pythonプログラミング能力認定試験」など公開試験申込受付を開始",
-      "url": "https://ict-enews.net/2026/11/05sikaku-4/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-05T01:25:52+00:00",
-      "keywords": [
-        "プログラミング"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "農情人、農家の現場課題に学生が生成AIで挑む「Metagri Student Challenge 2026」応募受付開始",
-      "url": "https://ict-enews.net/2026/11/05noujoujin/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-05T01:25:35+00:00",
-      "keywords": [
-        "生成AI",
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "LEG郡山、「生成AI時代の教育を考えるin郡山」12月19日開催",
-      "url": "https://ict-enews.net/2026/11/05leg/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-05T01:24:12+00:00",
-      "keywords": [
-        "生成AI",
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "コミクス、決める人・作るAI・見るAIを整理する全10ページ教材を制作",
-      "url": "https://ict-enews.net/2026/11/05comix/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-05T01:23:44+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "教育AI活用協会、「教育AIサミット ONLINE」14日に無料オンライン開催",
-      "url": "https://ict-enews.net/2026/11/05ai-ueo-3/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-05T01:23:32+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "DAIJOBU、議員秘書と政治を学ぶ学生向けにClaude Code勉強会を開催",
-      "url": "https://ict-enews.net/2026/11/05daijobu/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-05T01:23:22+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "ICTサービス「aim@」、動画付き教材の学習が18カ月で累計130万回を突破",
-      "url": "https://ict-enews.net/2026/11/05aim/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-05T01:23:13+00:00",
-      "keywords": [
-        "ICT",
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "ネイティブキャンプ、NC×AIの連続利用日数を確認できる「ホーム画面ウィジェット」リニューアル",
-      "url": "https://ict-enews.net/2026/11/05nativecamp-7/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-05T01:22:43+00:00",
-      "keywords": [
-        "AI"
       ],
       "status": "auto"
     },
@@ -261,17 +254,6 @@
       "published": "2026-11-02T02:25:03+00:00",
       "keywords": [
         "デジタル教科書"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "立命館中の1年生がAIでアプリ開発に挑戦、takeforestが探究プログラムを提供",
-      "url": "https://edu.watch.impress.co.jp/docs/news/2152531.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-10-30T04:45:00+00:00",
-      "keywords": [
-        "AI"
       ],
       "status": "auto"
     }
