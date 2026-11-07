@@ -1,11 +1,33 @@
 {
-  "generated_at": "2026-11-06T19:24:08.208230+00:00",
+  "generated_at": "2026-11-07T05:57:40.332461+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "近大、AI英語論文支援ツール「Paperpal」4000ライセンス導入、研究成果の国際発信力を強化へ",
+      "url": "https://www.kknews.co.jp/news/20261107o01",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-11-07T01:00:48+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "日本数学検定協会×サイバー大学、連携協定を締結　DX人材育成や地域課題解決をめざす",
+      "url": "https://www.kknews.co.jp/news/20261107o04",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-11-07T01:00:13+00:00",
+      "keywords": [
+        "DX"
+      ],
+      "status": "auto"
+    },
     {
       "title": "ロイロTV拡大版「先生の生成AI活用術」全5回を無料配信",
       "url": "https://reseed.resemom.jp/article/2026/11/06/14506.html",
@@ -166,17 +188,6 @@
       "published": "2026-11-05T04:45:03+00:00",
       "keywords": [
         "情報教育"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "鳴門教育大が12/5にオンライン大学院説明会　AI活用や不登校支援のウェビナーも実施",
-      "url": "https://www.kknews.co.jp/news/20261105o04",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-11-04T22:10:15+00:00",
-      "keywords": [
-        "AI"
       ],
       "status": "auto"
     },
