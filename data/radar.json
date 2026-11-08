@@ -1,11 +1,33 @@
 {
-  "generated_at": "2026-11-07T21:50:22.351203+00:00",
+  "generated_at": "2026-11-08T05:59:47.313895+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "＜AI・デジタル活用実態＞大学ポータル普及も「情報埋もれる」 学生の約4割が重要連絡見落とす〜JAST調査",
+      "url": "https://www.kknews.co.jp/news/20261108o02",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-11-08T01:00:23+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "LINEヤフー、活⽤型情報モラル教材「GIGA ワークブック」のインパクト評価を実施",
+      "url": "https://www.kknews.co.jp/news/20261108o04",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-11-08T01:00:20+00:00",
+      "keywords": [
+        "GIGA"
+      ],
+      "status": "auto"
+    },
     {
       "title": "近大、AI英語論文支援ツール「Paperpal」4000ライセンス導入、研究成果の国際発信力を強化へ",
       "url": "https://www.kknews.co.jp/news/20261107o01",
@@ -255,28 +277,6 @@
       "published": "2026-11-02T07:15:03+00:00",
       "keywords": [
         "文科省"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "AI時代の探究学習、大人の役割を学ぶワークショップ11/7",
-      "url": "https://reseed.resemom.jp/article/2026/11/02/14477.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-11-02T04:45:03+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "新教職課程の質確保やデジタル教科書の安全対策…文科相10/30会見",
-      "url": "https://reseed.resemom.jp/article/2026/11/02/14476.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-11-02T02:25:03+00:00",
-      "keywords": [
-        "デジタル教科書"
       ],
       "status": "auto"
     }
