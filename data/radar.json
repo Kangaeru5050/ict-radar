@@ -1,11 +1,125 @@
 {
-  "generated_at": "2026-11-08T22:04:32.328679+00:00",
+  "generated_at": "2026-11-09T06:27:26.074653+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "AIでクマ対策も、学生のアイデア競う「デジコン2026」　11月21日に盛岡で最終審査",
+      "url": "https://edu.watch.impress.co.jp/docs/news/2154736.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-11-09T03:03:00+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "子供の学びを支える教育データ活用…NIER公開シンポ12/21",
+      "url": "https://reseed.resemom.jp/article/2026/11/09/14511.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-11-09T01:50:03+00:00",
+      "keywords": [
+        "データ"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "遊びの中に学びを！ユーバーの幼児・低学年向けScratchプログラミングVol.7 ＜声と絵でつたえる『かんたんなお便り』＞",
+      "url": "https://ict-enews.net/zoomin/09yuber-3/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-09T00:41:42+00:00",
+      "keywords": [
+        "プログラミング"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "関西大学×ローランド、電子楽器×AI・データサイエンスで新たな音楽体験の未来へ",
+      "url": "https://ict-enews.net/2026/11/09kansai-u-3/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-08T23:48:29+00:00",
+      "keywords": [
+        "AI",
+        "データ"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "システムフレンド、NexTech Week【秋】に教育ロボット向けAI「ナカナオリ・エージェント」出展",
+      "url": "https://ict-enews.net/2026/11/09systemfriend/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-08T23:47:08+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "エムケイシステム、「社労士×AI実務セミナー 2026 in 九州」鹿児島・福岡で開催",
+      "url": "https://ict-enews.net/2026/11/09mks/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-08T23:46:52+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "「ロイロTV」拡大版、「どう使ってる？先生たちの生成AI活用術」全5回無料配信",
+      "url": "https://ict-enews.net/2026/11/09loilo-10/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-08T23:46:16+00:00",
+      "keywords": [
+        "生成AI",
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "学事出版、『具体的な実践例でよくわかるAI時代の「デジタル×図書館」活用術』発売",
+      "url": "https://ict-enews.net/2026/11/09gakuji/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-08T23:45:41+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "どう使ってる？ 先生たちの生成AI活用術「ロイロTV 拡大版」を11/17から全5回、オンラインで無料配信",
+      "url": "https://www.kknews.co.jp/news/20261109o02",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-11-08T22:00:55+00:00",
+      "keywords": [
+        "生成AI",
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "岩手県久慈市、学校ネットワークを一元管理 通信トラブル激減でICT活用が本格化",
+      "url": "https://www.kknews.co.jp/news/20261109o03",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-11-08T22:00:37+00:00",
+      "keywords": [
+        "ICT",
+        "ネットワーク"
+      ],
+      "status": "auto"
+    },
     {
       "title": "無料のOffice 365 A1が廃止へ、Microsoft 365 Education",
       "url": "https://edu.watch.impress.co.jp/docs/news/2154610.html",
@@ -51,17 +165,6 @@
       "status": "auto"
     },
     {
-      "title": "日本数学検定協会×サイバー大学、連携協定を締結　DX人材育成や地域課題解決をめざす",
-      "url": "https://www.kknews.co.jp/news/20261107o04",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-11-07T01:00:13+00:00",
-      "keywords": [
-        "DX"
-      ],
-      "status": "auto"
-    },
-    {
       "title": "ロイロTV拡大版「先生の生成AI活用術」全5回を無料配信",
       "url": "https://reseed.resemom.jp/article/2026/11/06/14506.html",
       "source": "ReseEd",
@@ -69,87 +172,6 @@
       "published": "2026-11-06T08:45:02+00:00",
       "keywords": [
         "生成AI",
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "「プログラミングを学ぶ」検索が1年でほぼ半減、ツール検索1位は？= TECH NOISY調べ=",
-      "url": "https://ict-enews.net/2026/11/06try-link/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-06T01:17:43+00:00",
-      "keywords": [
-        "プログラミング"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "LINEヤフー みらいプロジェクト、活用型情報モラル教材「GIGAワークブック」のインパクト評価を実施",
-      "url": "https://ict-enews.net/2026/11/06lycorp-2/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-06T01:13:36+00:00",
-      "keywords": [
-        "GIGA"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "コドモン、福岡県宇美町の町立保育所2施設保育がICTサービス「CoDMON」導入",
-      "url": "https://ict-enews.net/2026/11/06codmon-22/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-06T01:12:23+00:00",
-      "keywords": [
-        "ICT"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "Polimill、自治体向け生成AI「QommonsAI」の活用研修を北海道東神楽町で実施",
-      "url": "https://ict-enews.net/2026/11/06polimill-7/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-06T01:12:12+00:00",
-      "keywords": [
-        "生成AI",
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "Polimill、自治体向け生成AI「QommonsAI」の活用研修（中級編）を広島県熊野町で実施",
-      "url": "https://ict-enews.net/2026/11/06polimill-6/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-06T01:12:00+00:00",
-      "keywords": [
-        "生成AI",
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "ロッテ、文科省「DXハイスクール」採択校でお菓子の実購買データ活用したデータサイエンス授業開催",
-      "url": "https://ict-enews.net/2026/11/06lotte/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-06T01:11:21+00:00",
-      "keywords": [
-        "DX",
-        "文科省",
-        "データ"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "LandBridge、小学生と祖父母向け「AIでつくる年賀状教室」横浜で21日無料開催",
-      "url": "https://ict-enews.net/2026/11/06landbridge/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-06T01:09:37+00:00",
-      "keywords": [
         "AI"
       ],
       "status": "auto"
@@ -164,18 +186,6 @@
         "AI",
         "アカウント",
         "Google"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "文部科学省「諸外国の教育情報」2026年版を公表　国別ファイル化や留学生データ追加で利便性向上",
-      "url": "https://www.kknews.co.jp/news/20261106o04",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-11-05T22:00:37+00:00",
-      "keywords": [
-        "文部科学省",
-        "データ"
       ],
       "status": "auto"
     },
@@ -266,17 +276,6 @@
       "published": "2026-11-04T03:03:00+00:00",
       "keywords": [
         "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "ベネッセ「ミライシードAWARD」教育DX・授業の2部門で募集",
-      "url": "https://reseed.resemom.jp/article/2026/11/02/14485.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-11-02T10:45:03+00:00",
-      "keywords": [
-        "DX"
       ],
       "status": "auto"
     }
