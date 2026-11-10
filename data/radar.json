@@ -1,11 +1,34 @@
 {
-  "generated_at": "2026-11-10T07:17:15.964770+00:00",
+  "generated_at": "2026-11-10T19:43:42.052350+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "【AI時代の教育】読書感想文を生成AIで書いてはいけないのか",
+      "url": "https://reseed.resemom.jp/article/2026/11/10/14524.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-11-10T09:15:03+00:00",
+      "keywords": [
+        "生成AI",
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "「行動する力」は進学校ほど高いとは限らない、河合塾が高校生100万人のデータを分析",
+      "url": "https://edu.watch.impress.co.jp/docs/news/2155123.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-11-10T08:00:00+00:00",
+      "keywords": [
+        "データ"
+      ],
+      "status": "auto"
+    },
     {
       "title": "横須賀市が「よこすかAIフレンド AIちゃん」をこども性暴力防止法に対応する相談窓口に活用開始",
       "url": "https://ict-enews.net/2026/11/10tsunagari-ai/",
@@ -258,28 +281,6 @@
       "published": "2026-11-05T06:45:03+00:00",
       "keywords": [
         "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "情報漏えい約3.8億件…大学・学校でアカウント乗っ取り目立つ",
-      "url": "https://reseed.resemom.jp/article/2026/11/05/14497.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-11-05T06:15:02+00:00",
-      "keywords": [
-        "アカウント"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "情報教育対応教員研修セミナー、東京11/24…講演や実践発表",
-      "url": "https://reseed.resemom.jp/article/2026/11/05/14495.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-11-05T04:45:03+00:00",
-      "keywords": [
-        "情報教育"
       ],
       "status": "auto"
     }
