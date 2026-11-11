@@ -1,11 +1,22 @@
 {
-  "generated_at": "2026-11-11T06:18:41.641183+00:00",
+  "generated_at": "2026-11-11T19:35:12.326715+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "マイクロソフト、Microsoft 365 Educationの変更に関する説明会を開催",
+      "url": "https://edu.watch.impress.co.jp/docs/news/2155590.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-11-11T08:30:00+00:00",
+      "keywords": [
+        "Microsoft"
+      ],
+      "status": "auto"
+    },
     {
       "title": "学校向けタイピング学習「タイピング無双」が協力校を募集、Google Classroomで課題配信が可能",
       "url": "https://edu.watch.impress.co.jp/docs/news/2155518.html",
@@ -267,17 +278,6 @@
       "keywords": [
         "DX",
         "データ"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "教員の「やってみたい」を形に…AI人材育成プログラム始動",
-      "url": "https://reseed.resemom.jp/article/2026/11/05/14498.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-11-05T06:45:03+00:00",
-      "keywords": [
-        "AI"
       ],
       "status": "auto"
     }
