@@ -1,11 +1,134 @@
 {
-  "generated_at": "2026-11-10T19:43:42.052350+00:00",
+  "generated_at": "2026-11-11T06:18:41.641183+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "学校向けタイピング学習「タイピング無双」が協力校を募集、Google Classroomで課題配信が可能",
+      "url": "https://edu.watch.impress.co.jp/docs/news/2155518.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-11-11T06:00:00+00:00",
+      "keywords": [
+        "Google"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "東京都公立校、iPad共同調達へRFI開始…2自治体1,438台",
+      "url": "https://reseed.resemom.jp/article/2026/11/11/14527.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-11-11T02:15:03+00:00",
+      "keywords": [
+        "iPad"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "総務省、「“わかる・使える”統計解析プログラミング」の受講者の募集開始",
+      "url": "https://ict-enews.net/2026/11/11soumu/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-10T23:56:38+00:00",
+      "keywords": [
+        "プログラミング"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "令和PR、沖縄の専門学校2校で「推し活×生成AI」のキャリア教育セミナーを企画・登壇",
+      "url": "https://ict-enews.net/2026/11/11reiwapr/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-10T23:51:39+00:00",
+      "keywords": [
+        "生成AI",
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "ベネッセ、クラウド演習機能を実装した「Udemy Business Pro」提供開始",
+      "url": "https://ict-enews.net/2026/11/11benesse-15/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-10T23:51:19+00:00",
+      "keywords": [
+        "クラウド"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "ボイスチューブ、中・高英語授業向けAI英会話「SpeakMode」提供開始",
+      "url": "https://ict-enews.net/2026/11/11voicetube-2/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-10T23:51:00+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "OMS、教材を先生に変えるAIチューター「premo」教育事業者向け提供開始",
+      "url": "https://ict-enews.net/2026/11/11oms/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-10T23:50:24+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "TRY Link、企業向けAI研修の新コース「生成AI活用 業務別実践講座 2026年版」提供開始",
+      "url": "https://ict-enews.net/2026/11/11try-link/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-10T23:50:07+00:00",
+      "keywords": [
+        "生成AI",
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "デジタル・ナレッジ、「Knowledge ID MAP」で「AI特別部門賞（教材開発）」受賞",
+      "url": "https://ict-enews.net/2026/11/11digital-knowledge-19/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-10T23:49:12+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "気仙沼市の小中学生2,268人を分析、AI教材「キュビナ」の利用頻度と学力向上に相関",
+      "url": "https://edu.watch.impress.co.jp/docs/news/2155329.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-11-10T23:00:00+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "気候変動リスク産官学連携ネットワーク、11/27にレジリエンス強化をテーマとした公開シンポジウムを開催",
+      "url": "https://www.kknews.co.jp/news/20261111o04",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-11-10T22:00:06+00:00",
+      "keywords": [
+        "ネットワーク"
+      ],
+      "status": "auto"
+    },
     {
       "title": "【AI時代の教育】読書感想文を生成AIで書いてはいけないのか",
       "url": "https://reseed.resemom.jp/article/2026/11/10/14524.html",
@@ -26,120 +149,6 @@
       "published": "2026-11-10T08:00:00+00:00",
       "keywords": [
         "データ"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "横須賀市が「よこすかAIフレンド AIちゃん」をこども性暴力防止法に対応する相談窓口に活用開始",
-      "url": "https://ict-enews.net/2026/11/10tsunagari-ai/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-10T01:31:16+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "コドモン、北海道中標津町の保育所が保育ICTサービス「CoDMON」を導入",
-      "url": "https://ict-enews.net/2026/11/10codmon-14/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-10T01:31:02+00:00",
-      "keywords": [
-        "ICT"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "「企業の生成AI活用とガバナンス実態調査」を実施 =JAPAN AI調べ=",
-      "url": "https://ict-enews.net/2026/11/10japan-ai/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-10T01:30:27+00:00",
-      "keywords": [
-        "生成AI",
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "Polimill、自治体向け生成AI「QommonsAI」活用研修を大阪府四條畷市で実施",
-      "url": "https://ict-enews.net/2026/11/10polimill-3/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-10T01:30:14+00:00",
-      "keywords": [
-        "生成AI",
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "スクールエージェント、神戸大学と生成AI活用した探究学習支援システムの共同研究開始",
-      "url": "https://ict-enews.net/2026/11/10schoolagent/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-10T01:29:48+00:00",
-      "keywords": [
-        "生成AI",
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "近畿大学、「近大ICTイチゴ」をアフリカゾウにプレゼントするイベントを開催",
-      "url": "https://ict-enews.net/2026/11/10kindai-4/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-10T01:29:19+00:00",
-      "keywords": [
-        "ICT"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "ユニコーンポポ、宜野座村のICT研究の一環に宜野座村立宜野座小で出張授業",
-      "url": "https://ict-enews.net/2026/11/10unicorn-labo/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-10T01:28:57+00:00",
-      "keywords": [
-        "ICT"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "日本工学院専門学校、BytePlusの生成AIサービス「Lumina」を授業に導入",
-      "url": "https://ict-enews.net/2026/11/10neec-3/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-10T01:28:47+00:00",
-      "keywords": [
-        "生成AI",
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "dott、MDASHリテラシーレベル対象科目への「AI STUDIO」活用事例ウェビナー27日開催",
-      "url": "https://ict-enews.net/2026/11/10dott/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-10T01:27:44+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "VISH、「コノベル」でAIが支援記録の作成をサポートする「AI支援記録機能」リリース",
-      "url": "https://ict-enews.net/2026/11/10vish-3/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-10T01:26:53+00:00",
-      "keywords": [
-        "AI"
       ],
       "status": "auto"
     },
@@ -210,18 +219,6 @@
       "keywords": [
         "生成AI",
         "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "岩手県久慈市、学校ネットワークを一元管理 通信トラブル激減でICT活用が本格化",
-      "url": "https://www.kknews.co.jp/news/20261109o03",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-11-08T22:00:37+00:00",
-      "keywords": [
-        "ICT",
-        "ネットワーク"
       ],
       "status": "auto"
     },
