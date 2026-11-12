@@ -1,11 +1,150 @@
 {
-  "generated_at": "2026-11-11T19:35:12.326715+00:00",
+  "generated_at": "2026-11-12T07:09:49.404604+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "コミュニティ・スクール導入2万3,221校、69.5％に…文科省調査",
+      "url": "https://reseed.resemom.jp/article/2026/11/12/14543.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-11-12T06:15:03+00:00",
+      "keywords": [
+        "文科省"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "生成AI利用で親子の会話が減る？ 積水ハウスが4,500人に調査",
+      "url": "https://edu.watch.impress.co.jp/docs/news/2155736.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-11-12T03:03:00+00:00",
+      "keywords": [
+        "生成AI",
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "●絵も文もAIが作ったペラペラ漫画● 【ちゃのまのAIプロト】  第14話 「ハルキの恋文、校正します。」の巻",
+      "url": "https://ict-enews.net/zoomin/12chanomaai/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-12T01:12:34+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "Polimill、自治体向け生成AI「QommonsAI」の活用研修（中級編）愛媛県西条市で実施",
+      "url": "https://ict-enews.net/2026/11/12polimill-3/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-12T01:10:06+00:00",
+      "keywords": [
+        "生成AI",
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "日本数学検定協会、琉球大学数理・データサイエンス・AI教育推進室と教育協力に関する協定締結",
+      "url": "https://ict-enews.net/2026/11/12su-gaku-3/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-12T01:09:28+00:00",
+      "keywords": [
+        "AI",
+        "データ"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "近大附属豊岡高・中で「AI教育講演会」を全校生徒向けに初開催",
+      "url": "https://ict-enews.net/2026/11/12kindai-toyooka/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-12T01:09:16+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "チエル、コラボレーションシステムと 「大学ICT推進協議会（AXIES）2026年度 年次大会」に出展",
+      "url": "https://ict-enews.net/2026/11/12chieru-7/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-12T01:07:41+00:00",
+      "keywords": [
+        "ICT"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "AVILEN、「AIエージェント研修」が第23回日本e-Learning大賞「生成AI活用特別部門賞」受賞",
+      "url": "https://ict-enews.net/2026/11/12avilen-2/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-12T01:06:48+00:00",
+      "keywords": [
+        "生成AI",
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "神戸大とスクールエージェント、生成AI活用の探究学習を共同研究",
+      "url": "https://reseed.resemom.jp/article/2026/11/12/14536.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-11-12T00:15:03+00:00",
+      "keywords": [
+        "生成AI",
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "＜書籍紹介＞生成AI時代、探究学習の「情報収集」をどう指導する？『具体的な実践例でよくわかる AI時代の「デジタル×図書館」活用術』学事出版",
+      "url": "https://www.kknews.co.jp/news/20261112o02",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-11-11T22:00:44+00:00",
+      "keywords": [
+        "生成AI",
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "文部科学省「2026年度全国高校生フォーラム」を12月に開催へ",
+      "url": "https://www.kknews.co.jp/news/20261112o03",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-11-11T22:00:14+00:00",
+      "keywords": [
+        "文部科学省"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "学校のセキュリティ対策を解説、Googleが無料セミナーを11月27日に配信",
+      "url": "https://edu.watch.impress.co.jp/docs/news/2155690.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-11-11T21:30:00+00:00",
+      "keywords": [
+        "セキュリティ",
+        "Google"
+      ],
+      "status": "auto"
+    },
     {
       "title": "マイクロソフト、Microsoft 365 Educationの変更に関する説明会を開催",
       "url": "https://edu.watch.impress.co.jp/docs/news/2155590.html",
@@ -36,85 +175,6 @@
       "published": "2026-11-11T02:15:03+00:00",
       "keywords": [
         "iPad"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "総務省、「“わかる・使える”統計解析プログラミング」の受講者の募集開始",
-      "url": "https://ict-enews.net/2026/11/11soumu/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-10T23:56:38+00:00",
-      "keywords": [
-        "プログラミング"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "令和PR、沖縄の専門学校2校で「推し活×生成AI」のキャリア教育セミナーを企画・登壇",
-      "url": "https://ict-enews.net/2026/11/11reiwapr/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-10T23:51:39+00:00",
-      "keywords": [
-        "生成AI",
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "ベネッセ、クラウド演習機能を実装した「Udemy Business Pro」提供開始",
-      "url": "https://ict-enews.net/2026/11/11benesse-15/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-10T23:51:19+00:00",
-      "keywords": [
-        "クラウド"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "ボイスチューブ、中・高英語授業向けAI英会話「SpeakMode」提供開始",
-      "url": "https://ict-enews.net/2026/11/11voicetube-2/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-10T23:51:00+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "OMS、教材を先生に変えるAIチューター「premo」教育事業者向け提供開始",
-      "url": "https://ict-enews.net/2026/11/11oms/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-10T23:50:24+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "TRY Link、企業向けAI研修の新コース「生成AI活用 業務別実践講座 2026年版」提供開始",
-      "url": "https://ict-enews.net/2026/11/11try-link/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-10T23:50:07+00:00",
-      "keywords": [
-        "生成AI",
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "デジタル・ナレッジ、「Knowledge ID MAP」で「AI特別部門賞（教材開発）」受賞",
-      "url": "https://ict-enews.net/2026/11/11digital-knowledge-19/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-10T23:49:12+00:00",
-      "keywords": [
-        "AI"
       ],
       "status": "auto"
     },
@@ -217,66 +277,6 @@
       "source_id": "reseed",
       "published": "2026-11-09T01:50:03+00:00",
       "keywords": [
-        "データ"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "どう使ってる？ 先生たちの生成AI活用術「ロイロTV 拡大版」を11/17から全5回、オンラインで無料配信",
-      "url": "https://www.kknews.co.jp/news/20261109o02",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-11-08T22:00:55+00:00",
-      "keywords": [
-        "生成AI",
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "無料のOffice 365 A1が廃止へ、Microsoft 365 Education",
-      "url": "https://edu.watch.impress.co.jp/docs/news/2154610.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-11-08T21:50:00+00:00",
-      "keywords": [
-        "Microsoft"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "ロイロTV拡大版「先生の生成AI活用術」全5回を無料配信",
-      "url": "https://reseed.resemom.jp/article/2026/11/06/14506.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-11-06T08:45:02+00:00",
-      "keywords": [
-        "生成AI",
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "Google、児童生徒アカウント向けAI機能を原則オフに",
-      "url": "https://edu.watch.impress.co.jp/docs/news/2154179.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-11-06T00:00:00+00:00",
-      "keywords": [
-        "AI",
-        "アカウント",
-        "Google"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "購買履歴データを教材に、ロッテがDXハイスクール採択校で授業を実施",
-      "url": "https://edu.watch.impress.co.jp/docs/news/2154156.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-11-05T21:30:00+00:00",
-      "keywords": [
-        "DX",
         "データ"
       ],
       "status": "auto"
