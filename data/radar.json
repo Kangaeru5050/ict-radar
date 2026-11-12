@@ -1,11 +1,22 @@
 {
-  "generated_at": "2026-11-12T07:09:49.404604+00:00",
+  "generated_at": "2026-11-12T19:53:32.616711+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "琉球大と数検協会が連携協定締結、数理・AI教育を推進",
+      "url": "https://reseed.resemom.jp/article/2026/11/12/14549.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-11-12T09:45:03+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
     {
       "title": "コミュニティ・スクール導入2万3,221校、69.5％に…文科省調査",
       "url": "https://reseed.resemom.jp/article/2026/11/12/14543.html",
@@ -267,17 +278,6 @@
       "published": "2026-11-09T03:03:00+00:00",
       "keywords": [
         "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "子供の学びを支える教育データ活用…NIER公開シンポ12/21",
-      "url": "https://reseed.resemom.jp/article/2026/11/09/14511.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-11-09T01:50:03+00:00",
-      "keywords": [
-        "データ"
       ],
       "status": "auto"
     }
