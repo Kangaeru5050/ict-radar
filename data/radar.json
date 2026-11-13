@@ -1,11 +1,33 @@
 {
-  "generated_at": "2026-11-13T06:44:32.312875+00:00",
+  "generated_at": "2026-11-13T19:41:25.448456+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "大学入試センター、BYOD型CBTの試行結果を公表",
+      "url": "https://reseed.resemom.jp/article/2026/11/13/14558.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-11-13T08:45:03+00:00",
+      "keywords": [
+        "CBT"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "高尾の森が月面基地に、VR体験やプログラミングに取り組む1泊2日の宇宙キャンプを開催",
+      "url": "https://edu.watch.impress.co.jp/docs/news/2155932.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-11-13T08:00:00+00:00",
+      "keywords": [
+        "プログラミング"
+      ],
+      "status": "auto"
+    },
     {
       "title": "生成AIの偽情報、見抜く自信がある人が1年で約3割に減少",
       "url": "https://edu.watch.impress.co.jp/docs/news/2156242.html",
@@ -256,28 +278,6 @@
       "published": "2026-11-11T08:30:00+00:00",
       "keywords": [
         "Microsoft"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "学校向けタイピング学習「タイピング無双」が協力校を募集、Google Classroomで課題配信が可能",
-      "url": "https://edu.watch.impress.co.jp/docs/news/2155518.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-11-11T06:00:00+00:00",
-      "keywords": [
-        "Google"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "東京都公立校、iPad共同調達へRFI開始…2自治体1,438台",
-      "url": "https://reseed.resemom.jp/article/2026/11/11/14527.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-11-11T02:15:03+00:00",
-      "keywords": [
-        "iPad"
       ],
       "status": "auto"
     }
