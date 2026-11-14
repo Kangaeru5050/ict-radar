@@ -1,11 +1,47 @@
 {
-  "generated_at": "2026-11-13T19:41:25.448456+00:00",
+  "generated_at": "2026-11-14T06:21:57.861908+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "横須賀市、生成AI活用相談サービス「よこすかAIフレンド AIちゃん」をこども性暴力防止法に対応する相談窓口として活用へ",
+      "url": "https://www.kknews.co.jp/news/20261114o04",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-11-14T01:00:42+00:00",
+      "keywords": [
+        "生成AI",
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "近大附属豊岡高・中、全校生徒向けに「AI教育講演会」を開催 SNS時代の著作権と情報モラルを学ぶ",
+      "url": "https://www.kknews.co.jp/news/20261114o03",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-11-14T01:00:26+00:00",
+      "keywords": [
+        "AI",
+        "著作権"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "Google for Education 「Googleで実現する教育向けセキュリティセミナー〜今すぐできる基本とこれからの対策〜」を11/27にオンラインで開催",
+      "url": "https://www.kknews.co.jp/news/20261114o01",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-11-14T01:00:22+00:00",
+      "keywords": [
+        "セキュリティ",
+        "Google"
+      ],
+      "status": "auto"
+    },
     {
       "title": "大学入試センター、BYOD型CBTの試行結果を公表",
       "url": "https://reseed.resemom.jp/article/2026/11/13/14558.html",
@@ -244,40 +280,6 @@
       "keywords": [
         "生成AI",
         "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "文部科学省「2026年度全国高校生フォーラム」を12月に開催へ",
-      "url": "https://www.kknews.co.jp/news/20261112o03",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-11-11T22:00:14+00:00",
-      "keywords": [
-        "文部科学省"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "学校のセキュリティ対策を解説、Googleが無料セミナーを11月27日に配信",
-      "url": "https://edu.watch.impress.co.jp/docs/news/2155690.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-11-11T21:30:00+00:00",
-      "keywords": [
-        "セキュリティ",
-        "Google"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "マイクロソフト、Microsoft 365 Educationの変更に関する説明会を開催",
-      "url": "https://edu.watch.impress.co.jp/docs/news/2155590.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-11-11T08:30:00+00:00",
-      "keywords": [
-        "Microsoft"
       ],
       "status": "auto"
     }
