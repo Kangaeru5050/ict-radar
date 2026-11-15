@@ -1,11 +1,34 @@
 {
-  "generated_at": "2026-11-14T22:23:35.806708+00:00",
+  "generated_at": "2026-11-15T06:32:12.515652+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
-    "successful_sources": 4,
-    "failed_sources": 0
+    "successful_sources": 3,
+    "failed_sources": 1
   },
   "items": [
+    {
+      "title": "桜美林大・近畿大・NTTグループが4者共同で実証実験 AIカメラ等で学修行動や施設評価を検証",
+      "url": "https://www.kknews.co.jp/news/20261115o04",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-11-15T01:00:48+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "琉球大×日本数学検定協会、連携協定を締結　協定 数理・データサイエンス・AI教育の推進へ",
+      "url": "https://www.kknews.co.jp/news/20261115o01",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-11-15T01:00:31+00:00",
+      "keywords": [
+        "AI",
+        "データ"
+      ],
+      "status": "auto"
+    },
     {
       "title": "横須賀市、生成AI活用相談サービス「よこすかAIフレンド AIちゃん」をこども性暴力防止法に対応する相談窓口として活用へ",
       "url": "https://www.kknews.co.jp/news/20261114o04",
@@ -204,17 +227,6 @@
       "status": "auto"
     },
     {
-      "title": "チエル、クラウド型英語ニュース教材「ABLish」の最新版提供を開始 画面と操作性を改善",
-      "url": "https://www.kknews.co.jp/news/20261113o01",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-11-12T22:00:12+00:00",
-      "keywords": [
-        "クラウド"
-      ],
-      "status": "auto"
-    },
-    {
       "title": "行事のふりかえりを1枚の絵に！Geminiのグラレコ風で、対話が深まる【【連載】EducAItion Times】",
       "url": "https://edu.watch.impress.co.jp/docs/serial/educaition-times/2154955.html",
       "source": "こどもとIT",
@@ -265,18 +277,6 @@
       "source": "ReseEd",
       "source_id": "reseed",
       "published": "2026-11-12T00:15:03+00:00",
-      "keywords": [
-        "生成AI",
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "＜書籍紹介＞生成AI時代、探究学習の「情報収集」をどう指導する？『具体的な実践例でよくわかる AI時代の「デジタル×図書館」活用術』学事出版",
-      "url": "https://www.kknews.co.jp/news/20261112o02",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-11-11T22:00:44+00:00",
       "keywords": [
         "生成AI",
         "AI"
