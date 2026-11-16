@@ -1,11 +1,45 @@
 {
-  "generated_at": "2026-11-16T06:28:42.794637+00:00",
+  "generated_at": "2026-11-16T22:01:21.273654+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "スタディポケット、教育向け生成AIの新製品を12月1日に発表",
+      "url": "https://edu.watch.impress.co.jp/docs/news/event/2156877.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-11-16T22:00:00+00:00",
+      "keywords": [
+        "生成AI",
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "「TDXラジオ」Teacher’s ［Shift］File.293  森村学園中等部・高等部 髙田 昌輝 先生（前編）を公開",
+      "url": "https://ict-enews.net/2026/11/16tdxradio-10/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-16T10:00:42+00:00",
+      "keywords": [
+        "DX"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "ECC、賢明学院小でAI英会話アプリを活用した公開授業を11月27日に実施",
+      "url": "https://edu.watch.impress.co.jp/docs/news/event/2156758.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-11-16T08:00:00+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
     {
       "title": "大学の生成AI指針策定は69.8％、活用許可は6割超…文科省調査",
       "url": "https://reseed.resemom.jp/article/2026/11/16/14567.html",
@@ -242,39 +276,6 @@
       "keywords": [
         "生成AI",
         "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "行事のふりかえりを1枚の絵に！Geminiのグラレコ風で、対話が深まる【【連載】EducAItion Times】",
-      "url": "https://edu.watch.impress.co.jp/docs/serial/educaition-times/2154955.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-11-12T21:30:00+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "琉球大と数検協会が連携協定締結、数理・AI教育を推進",
-      "url": "https://reseed.resemom.jp/article/2026/11/12/14549.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-11-12T09:45:03+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "コミュニティ・スクール導入2万3,221校、69.5％に…文科省調査",
-      "url": "https://reseed.resemom.jp/article/2026/11/12/14543.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-11-12T06:15:03+00:00",
-      "keywords": [
-        "文科省"
       ],
       "status": "auto"
     }
