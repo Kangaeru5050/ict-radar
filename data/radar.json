@@ -1,11 +1,170 @@
 {
-  "generated_at": "2026-11-15T18:50:57.532291+00:00",
+  "generated_at": "2026-11-16T06:28:42.794637+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "大学の生成AI指針策定は69.8％、活用許可は6割超…文科省調査",
+      "url": "https://reseed.resemom.jp/article/2026/11/16/14567.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-11-16T06:15:03+00:00",
+      "keywords": [
+        "生成AI",
+        "AI",
+        "文科省"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "AIで動画学習と探究を支援、MIRAIEの2製品がアワード受賞",
+      "url": "https://edu.watch.impress.co.jp/docs/news/2156589.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-11-16T04:30:00+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "文科省、AI for Science支える次世代研究インフラWG初会合",
+      "url": "https://reseed.resemom.jp/article/2026/11/16/14565.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-11-16T03:15:06+00:00",
+      "keywords": [
+        "AI",
+        "文科省"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "文科省、認定日本語教育機関に78機関認定…累計174機関に",
+      "url": "https://reseed.resemom.jp/article/2026/11/16/14563.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-11-16T02:15:02+00:00",
+      "keywords": [
+        "文科省"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "覚えたい英語を、自分のカードにして声に出す ─ 8年間の英語学習から生まれたアプリ「SpeakGain」",
+      "url": "https://ict-enews.net/zoomin/16speakgain/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-15T23:55:08+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "没入型教育DXのゲシピ、兵庫県「ひょうごTECHイノベーションプロジェクト2026」に採択",
+      "url": "https://ict-enews.net/2026/11/16gecipe-3/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-15T23:52:54+00:00",
+      "keywords": [
+        "DX"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "共立女子学園、専任事務職員を対象に「Google AI Pro for Education」を導入",
+      "url": "https://ict-enews.net/2026/11/16kyoritsu-wu/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-15T23:52:40+00:00",
+      "keywords": [
+        "AI",
+        "Google"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "Polimill、「QommonsAI」活用研修を和歌山県御坊市で実施",
+      "url": "https://ict-enews.net/2026/11/16polimill-4/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-15T23:52:30+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "NTT西日本、フィジカルAIの発展・振興に向け京都大学と連携を強化",
+      "url": "https://ict-enews.net/2026/11/16ntt-west-3/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-15T23:52:07+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "みんなのコード、中高教員対象OL研修「生成AI活用・実践ワークショップ」12月25日開催",
+      "url": "https://ict-enews.net/2026/11/16code-6/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-15T23:50:49+00:00",
+      "keywords": [
+        "生成AI",
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "エデュテクノロジー、「評価の視点から考える英語教育でのAI活用～教師にできること・AIにできること～」25日開催",
+      "url": "https://ict-enews.net/2026/11/16edutechnology-2/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-15T23:50:38+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "AIで指導案や教材を作成、みんなのコードが中高教員向け無料研修を12月25日に開催",
+      "url": "https://edu.watch.impress.co.jp/docs/news/event/2156555.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-11-15T23:00:00+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "AI教材「キュビナ」、学習eポータル「tomoLinks」と連携へ 名簿管理やログインの手間を削減",
+      "url": "https://www.kknews.co.jp/news/20261116o01",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-11-15T22:00:14+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "パワポをAIで動画教材に、順天堂大学が「Sylavids」を導入",
+      "url": "https://edu.watch.impress.co.jp/docs/news/2156551.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-11-15T21:30:00+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
     {
       "title": "桜美林大・近畿大・NTTグループが4者共同で実証実験 AIカメラ等で学修行動や施設評価を検証",
       "url": "https://www.kknews.co.jp/news/20261115o04",
@@ -26,42 +185,6 @@
       "keywords": [
         "AI",
         "データ"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "横須賀市、生成AI活用相談サービス「よこすかAIフレンド AIちゃん」をこども性暴力防止法に対応する相談窓口として活用へ",
-      "url": "https://www.kknews.co.jp/news/20261114o04",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-11-14T01:00:42+00:00",
-      "keywords": [
-        "生成AI",
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "近大附属豊岡高・中、全校生徒向けに「AI教育講演会」を開催 SNS時代の著作権と情報モラルを学ぶ",
-      "url": "https://www.kknews.co.jp/news/20261114o03",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-11-14T01:00:26+00:00",
-      "keywords": [
-        "AI",
-        "著作権"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "Google for Education 「Googleで実現する教育向けセキュリティセミナー〜今すぐできる基本とこれからの対策〜」を11/27にオンラインで開催",
-      "url": "https://www.kknews.co.jp/news/20261114o01",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-11-14T01:00:22+00:00",
-      "keywords": [
-        "セキュリティ",
-        "Google"
       ],
       "status": "auto"
     },
@@ -111,110 +234,6 @@
       "status": "auto"
     },
     {
-      "title": "桜美林大学、近畿大学、NTTグループの4者共同でAIカメラ等による実証実験",
-      "url": "https://ict-enews.net/2026/11/13kindai-3/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-13T00:09:23+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "「中高生 Ruby プログラミングコンテスト 2026」の最終審査会進出者12組が決定",
-      "url": "https://ict-enews.net/2026/11/13ruby-procon/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-13T00:08:29+00:00",
-      "keywords": [
-        "プログラミング"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "TAC、AI・DX関連講座を網羅的に集約・案内する「AI・DX特設サイト」新設",
-      "url": "https://ict-enews.net/2026/11/13tac-11/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-13T00:08:12+00:00",
-      "keywords": [
-        "AI",
-        "DX"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "Google for Education、「Googleで実現する教育向けセキュリティセミナー」27日開催",
-      "url": "https://ict-enews.net/2026/11/13google-for-education-4/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-13T00:07:46+00:00",
-      "keywords": [
-        "セキュリティ",
-        "Google"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "学研ビジネスブレインズ、「生成AIを『安全に活用する』組織のつくり方」26日開催",
-      "url": "https://ict-enews.net/2026/11/13gakken-bb/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-13T00:07:15+00:00",
-      "keywords": [
-        "生成AI",
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "AI型教材「キュビナ」、コニカミノルタジャパンの学習eポータル「tomoLinks」と名簿連携",
-      "url": "https://ict-enews.net/2026/11/13compass-4/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-13T00:06:13+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "WIT、研修後に“使える手順書”が手元に残る学校職員向けAI研修の新プログラム",
-      "url": "https://ict-enews.net/2026/11/13wit/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-13T00:05:52+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "プロシーズ、生成AI利用時のリスクと判断学ぶ「AIコンプライアンス講座」提供開始",
-      "url": "https://ict-enews.net/2026/11/13pro-seeds-4/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-13T00:04:35+00:00",
-      "keywords": [
-        "生成AI",
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "paiza、100万会員突破記念生成AIへの指示力を試す新感覚ゲーム無料公開",
-      "url": "https://ict-enews.net/2026/11/13paiza-2/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-13T00:04:09+00:00",
-      "keywords": [
-        "生成AI",
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
       "title": "生成AI時代の授業と評価はどう変わる？ 講演と実践紹介レポートをLoiLoが公開",
       "url": "https://edu.watch.impress.co.jp/docs/news/event/2156072.html",
       "source": "こどもとIT",
@@ -256,30 +275,6 @@
       "published": "2026-11-12T06:15:03+00:00",
       "keywords": [
         "文科省"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "生成AI利用で親子の会話が減る？ 積水ハウスが4,500人に調査",
-      "url": "https://edu.watch.impress.co.jp/docs/news/2155736.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-11-12T03:03:00+00:00",
-      "keywords": [
-        "生成AI",
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "神戸大とスクールエージェント、生成AI活用の探究学習を共同研究",
-      "url": "https://reseed.resemom.jp/article/2026/11/12/14536.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-11-12T00:15:03+00:00",
-      "keywords": [
-        "生成AI",
-        "AI"
       ],
       "status": "auto"
     }
