@@ -1,11 +1,123 @@
 {
-  "generated_at": "2026-11-17T20:55:51.740689+00:00",
+  "generated_at": "2026-11-18T07:27:48.869289+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
-    "successful_sources": 3,
-    "failed_sources": 1
+    "successful_sources": 4,
+    "failed_sources": 0
   },
   "items": [
+    {
+      "title": "ロボットやドローン、フィジカルAIを体験　岡山で小中学生向け「高専フェス」開催",
+      "url": "https://edu.watch.impress.co.jp/docs/news/2157381.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-11-18T06:30:00+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "総合型・学校推薦型選抜AI「アオマル」が利用者数3,000人を突破、自己分析から面接まで伴走",
+      "url": "https://edu.watch.impress.co.jp/docs/news/2156756.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-11-18T05:00:00+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "VEXUM、近畿大学の学生がAIで「未来の大学」を描く授業を実施",
+      "url": "https://ict-enews.net/2026/11/18vexum/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-18T00:10:22+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "小学生対象のSAMURAIアントレクラブ、岐阜市教委と連携し岐阜市で始動",
+      "url": "https://ict-enews.net/2026/11/18samurai-foundation/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-18T00:10:06+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "WeaveX、静岡産業大学学内講座で「AI×就活」体験型ワークショップ12月実施",
+      "url": "https://ict-enews.net/2026/11/18weavex/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-18T00:09:42+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "MetAI、学校・教師・生徒・保護者をつなぐ学習アプリ「Manabi AI」の先行導入校を募集開始",
+      "url": "https://ict-enews.net/2026/11/18metai/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-18T00:07:19+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "TERACTOR、iPhone・iPad・Android 向け絵本アプリ『ぽちっと えほん』配信開始",
+      "url": "https://ict-enews.net/2026/11/18teractor/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-18T00:07:07+00:00",
+      "keywords": [
+        "iPad"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "ポップコーン、企業が安心して生成AIを使うための「AIセキュリティ対応支援」提供開始",
+      "url": "https://ict-enews.net/2026/11/18ppcn/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-18T00:06:54+00:00",
+      "keywords": [
+        "生成AI",
+        "AI",
+        "セキュリティ"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "『最新教育動向シリーズ　1冊整理　学習指導要領　改定への見取り図』教育の未来を研究する会／編",
+      "url": "https://www.kknews.co.jp/post_library/261026_8i",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-11-17T22:00:03+00:00",
+      "keywords": [
+        "学習指導要領"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "文部科学省「留学生就職促進教育プログラム認定制度」公募を開始",
+      "url": "https://www.kknews.co.jp/news/20261118o03",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-11-17T22:00:01+00:00",
+      "keywords": [
+        "文部科学省"
+      ],
+      "status": "auto"
+    },
     {
       "title": "NTT西日本と京大、フィジカルAI人材育成プログラム開発へ",
       "url": "https://reseed.resemom.jp/article/2026/11/17/14572.html",
@@ -23,109 +135,6 @@
       "source": "こどもとIT",
       "source_id": "kodomo-it",
       "published": "2026-11-17T03:03:00+00:00",
-      "keywords": [
-        "生成AI",
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "国立大学85校の公式サイトの82.4%で生成AIの利用指針を確認=Uravation調べ=",
-      "url": "https://ict-enews.net/2026/11/17uravation/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-17T01:04:50+00:00",
-      "keywords": [
-        "生成AI",
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "ノートPC10ブランドのAI回答を調査、「価格・コストパフォーマンス」20問ではLenovoが言及率98.2%",
-      "url": "https://ict-enews.net/2026/11/17plateer/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-17T01:03:23+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "ECC、AIを搭載した「ECC Study Assist」の公開授業27日実施",
-      "url": "https://ict-enews.net/2026/11/17ecc/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-17T01:02:58+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "TAC、名古屋校限定 簿記検定講座「簿記3・2級 講座説明会＆CBT試験会場見学会」21日開催",
-      "url": "https://ict-enews.net/2026/11/17tac-13/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-17T01:02:35+00:00",
-      "keywords": [
-        "CBT"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "大修館書店、教員向け「共通テスト情報Ⅰ『プログラミング』『データの活用』対策と指導のデザイン」開催",
-      "url": "https://ict-enews.net/2026/11/17taishukan/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-17T01:02:12+00:00",
-      "keywords": [
-        "プログラミング",
-        "データ"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "農情人、地域の農業課題と予算に合わせた「地域農業の生成AI研修」提供開始",
-      "url": "https://ict-enews.net/2026/11/17noujoujin/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-17T01:01:42+00:00",
-      "keywords": [
-        "生成AI",
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "ECMS、超小型セキュリティキー「GoTrust アイデムキー Type A ミニ」発売",
-      "url": "https://ict-enews.net/2026/11/17ecms/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-17T01:01:29+00:00",
-      "keywords": [
-        "セキュリティ"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "AIを学び異分野の仲間とつながるオンラインコミュニティ「SYNCHRONICITY AI LAB」第1期メンバー募集開始",
-      "url": "https://ict-enews.net/2026/11/17xinobi/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-17T01:01:16+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "「農業AI通信」、5つの生成AIを使い分けみかんの栽培や販売に活用する農家へのインタビュー記事を公開",
-      "url": "https://ict-enews.net/2026/11/17noujoujin-2/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-17T01:00:23+00:00",
       "keywords": [
         "生成AI",
         "AI"
@@ -249,17 +258,6 @@
       "status": "auto"
     },
     {
-      "title": "AI教材「キュビナ」、学習eポータル「tomoLinks」と連携へ 名簿管理やログインの手間を削減",
-      "url": "https://www.kknews.co.jp/news/20261116o01",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-11-15T22:00:14+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
       "title": "パワポをAIで動画教材に、順天堂大学が「Sylavids」を導入",
       "url": "https://edu.watch.impress.co.jp/docs/news/2156551.html",
       "source": "こどもとIT",
@@ -271,13 +269,13 @@
       "status": "auto"
     },
     {
-      "title": "桜美林大・近畿大・NTTグループが4者共同で実証実験 AIカメラ等で学修行動や施設評価を検証",
-      "url": "https://www.kknews.co.jp/news/20261115o04",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-11-15T01:00:48+00:00",
+      "title": "大学入試センター、BYOD型CBTの試行結果を公表",
+      "url": "https://reseed.resemom.jp/article/2026/11/13/14558.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-11-13T08:45:03+00:00",
       "keywords": [
-        "AI"
+        "CBT"
       ],
       "status": "auto"
     }
