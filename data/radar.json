@@ -1,11 +1,33 @@
 {
-  "generated_at": "2026-11-19T07:24:12.074961+00:00",
+  "generated_at": "2026-11-19T20:36:32.287887+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "横浜市とeboard、不登校支援で協定…ICT教材を無償提供",
+      "url": "https://reseed.resemom.jp/article/2026/11/19/14599.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-11-19T09:45:03+00:00",
+      "keywords": [
+        "ICT"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "通信制高校31万人、教育の質確保へ文科省が基本指針を検討",
+      "url": "https://reseed.resemom.jp/article/2026/11/19/14596.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-11-19T08:15:02+00:00",
+      "keywords": [
+        "文科省"
+      ],
+      "status": "auto"
+    },
     {
       "title": "【教員採用】長野県、セカンドキャリア・ICT技術者選考を新設",
       "url": "https://reseed.resemom.jp/article/2026/11/19/14594.html",
@@ -246,29 +268,6 @@
       "source": "教育家庭新聞 KKS Web",
       "source_id": "kknews",
       "published": "2026-11-16T22:00:58+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "スタディポケット、教育向け生成AIの新製品を12月1日に発表",
-      "url": "https://edu.watch.impress.co.jp/docs/news/event/2156877.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-11-16T22:00:00+00:00",
-      "keywords": [
-        "生成AI",
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "ECC、賢明学院小でAI英会話アプリを活用した公開授業を11月27日に実施",
-      "url": "https://edu.watch.impress.co.jp/docs/news/event/2156758.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-11-16T08:00:00+00:00",
       "keywords": [
         "AI"
       ],
