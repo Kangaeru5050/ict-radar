@@ -1,11 +1,235 @@
 {
-  "generated_at": "2026-11-19T20:36:32.287887+00:00",
+  "generated_at": "2026-11-20T07:14:16.839629+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "非認知能力の測定から行動支援へ、Ai GROWが中高生向け受検画面を刷新",
+      "url": "https://edu.watch.impress.co.jp/docs/news/2158247.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-11-20T07:00:00+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "授業づくり等でAI活用65％、最多はGemini…技術・家庭科調査",
+      "url": "https://reseed.resemom.jp/article/2026/11/20/14604.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-11-20T04:45:03+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "学校のサイバーセキュリティ対策、Google無料セミナー11/27",
+      "url": "https://reseed.resemom.jp/article/2026/11/20/14603.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-11-20T04:15:03+00:00",
+      "keywords": [
+        "セキュリティ",
+        "Google"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "スタディポケット、声で練習する「AI面接対策アプリ」を公開　学校向けWeb版も提供",
+      "url": "https://edu.watch.impress.co.jp/docs/news/2158056.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-11-20T03:03:00+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "「右の前足を上げて」でPythonが動く。声から始めるプログラミング教材「アラクネ」",
+      "url": "https://ict-enews.net/2026/11/arachne/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-20T01:00:29+00:00",
+      "keywords": [
+        "プログラミング"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "探究学習の「深まり」をAIで見える化、採点と支援の信頼性を検証へ",
+      "url": "https://edu.watch.impress.co.jp/docs/news/2158054.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-11-20T01:00:00+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "沖縄みらいAI＆IT専門学校、ハーツテクノロジー社とAI開発ゼミを全4回実施",
+      "url": "https://ict-enews.net/2026/11/20sanko-2/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-20T00:18:59+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "Polimill、自治体向け生成AI「QommonsAI」の活用研修を宮崎県新富町で実施",
+      "url": "https://ict-enews.net/2026/11/20polimill/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-20T00:18:02+00:00",
+      "keywords": [
+        "生成AI",
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "TechTrain、武蔵野大学と連携したAI活用プログラム「スッシトレイン2026」実施",
+      "url": "https://ict-enews.net/2026/11/20techtrain-3/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-20T00:17:05+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "RUNTEQ、超実践型プログラミングスクール「RUNTEQ」で解説動画の提供開始",
+      "url": "https://ict-enews.net/2026/11/20runteq-2/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-20T00:16:31+00:00",
+      "keywords": [
+        "プログラミング"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "JAAS、「AIとひらく科学者フェス（Science Festival 2027）」国際連合大学で27年2月開催",
+      "url": "https://ict-enews.net/2026/11/20jaas-science/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-20T00:14:58+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "インクルーシブ電子黒板「MIRAI TOUCH」、NIJIN監修で不登校・多様な学びに向けた製品企画に着手",
+      "url": "https://ict-enews.net/2026/11/20satsuki-2/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-20T00:14:33+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "mugendAI、総合型・学校推薦型選抜対策AIアプリ『アオマル』に志望校マッチング機能を追加",
+      "url": "https://ict-enews.net/2026/11/20mugendai/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-20T00:14:18+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "学校向けAI英語学習「VerbSpark」、「自由会話はまだ難しい」生徒のための「ロールプレイ」と「会話ヒント」機能提供",
+      "url": "https://ict-enews.net/2026/11/20sptr-6/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-20T00:13:55+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "学校向けAI英語学習「VerbSpark」、課題を作って配信できる「先生からの課題」機能を10種類に拡充",
+      "url": "https://ict-enews.net/2026/11/20sptr-5/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-20T00:12:59+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "「JAPAN AI HR」、候補者1人ひとりと対話し深掘りする「AI面接」を提供開始",
+      "url": "https://ict-enews.net/2026/11/20japan-ai/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-20T00:12:39+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "AIが伴走支援するeラーニング 「ミガクス」 、日本e-Learning大賞「AI特別部門賞(人材育成)」受賞",
+      "url": "https://ict-enews.net/2026/11/20episode-learning/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-20T00:11:36+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "中学生の計算力とプログラミング問題の正答率に関連、スプリックス教育財団調べ",
+      "url": "https://edu.watch.impress.co.jp/docs/news/2158035.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-11-19T23:00:00+00:00",
+      "keywords": [
+        "プログラミング"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "子供の生成AI利用が大幅増、17歳の86.4%に 東京都「とうきょう こども アンケート」2026年調査",
+      "url": "https://www.kknews.co.jp/news/20261120o01",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-11-19T22:00:54+00:00",
+      "keywords": [
+        "生成AI",
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "文部科学省、小中高生の「情報活用能力調査」の結果を公表　文字入力数は全校種で増加",
+      "url": "https://edu.watch.impress.co.jp/docs/news/2157877.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-11-19T21:30:00+00:00",
+      "keywords": [
+        "文部科学省",
+        "情報活用能力"
+      ],
+      "status": "auto"
+    },
     {
       "title": "横浜市とeboard、不登校支援で協定…ICT教材を無償提供",
       "url": "https://reseed.resemom.jp/article/2026/11/19/14599.html",
@@ -48,228 +272,6 @@
       "keywords": [
         "文科省",
         "情報活用能力"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "さつきとNIJINが業務提携、電子黒板「MIRAI TOUCH」の改善に着手",
-      "url": "https://edu.watch.impress.co.jp/docs/news/2157731.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-11-19T04:30:00+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "AIと大学生、子供は誰に本音を話すのか　「子どもの声フォーラム」を12月5日に開催",
-      "url": "https://edu.watch.impress.co.jp/docs/news/event/2157591.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-11-19T03:03:00+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "タイピング力は全校種で向上、ウイルス対応など課題も…文科省調査",
-      "url": "https://reseed.resemom.jp/article/2026/11/19/14589.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-11-19T02:45:02+00:00",
-      "keywords": [
-        "文科省"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "●絵も文もAIが作ったペラペラ漫画● 【ちゃのまのAIプロト】  第15話 「茶の間の電気が消えた夜」の巻",
-      "url": "https://ict-enews.net/zoomin/19chanomaai/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-19T01:22:26+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "日本の中学生、プログラミングの問題の正誤が計算力と関連=スプリックス教育財団調べ=",
-      "url": "https://ict-enews.net/2026/11/19sprix-foundation/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-19T01:21:13+00:00",
-      "keywords": [
-        "プログラミング"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "ベネ ッセ、中高生向けAI学習支援機能「AI質問」、日本e-Learning大賞「経済産業大臣賞」受賞",
-      "url": "https://ict-enews.net/2026/11/19benesse-21/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-19T01:18:01+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "AI活用の情報サイト「AI-Ready.jp」、仕事でそのまま使える「AI-Ready プロンプト集」2000本を無料提供開始",
-      "url": "https://ict-enews.net/2026/11/19florentyna/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-19T01:17:21+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "HOUSEIグループのアイード、学校向けAI英会話サービス「AIed English」を強化",
-      "url": "https://ict-enews.net/2026/11/19aied/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-19T01:16:47+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "ネクスキャット、デザイナー向けAI研修「AI Design Shift」を提供開始",
-      "url": "https://ict-enews.net/2026/11/19desinare/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-19T01:16:37+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "チエル、語学学習特設サイトを開設　AI翻訳時代に「言葉を学ぶ」価値を発信",
-      "url": "https://edu.watch.impress.co.jp/docs/news/2157427.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-11-19T01:00:00+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "横浜市、不登校の小中学生にICT教材「eboard」を無償提供",
-      "url": "https://edu.watch.impress.co.jp/docs/news/2157515.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-11-18T23:00:00+00:00",
-      "keywords": [
-        "ICT"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "国立大82%が生成AI指針を公開、課題の扱いは8割超が教員判断に委ねる AIエージェントへの言及はゼロ〜Uravation調査",
-      "url": "https://www.kknews.co.jp/news/20261119o03",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-11-18T22:00:49+00:00",
-      "keywords": [
-        "生成AI",
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "スタディポケット、2027年度向け教育特化AI新製品発表会を12/1にオンラインで開催",
-      "url": "https://www.kknews.co.jp/news/20261119o01",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-11-18T22:00:03+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "ロボットやドローン、フィジカルAIを体験　岡山で小中学生向け「高専フェス」開催",
-      "url": "https://edu.watch.impress.co.jp/docs/news/2157381.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-11-18T06:30:00+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "総合型・学校推薦型選抜AI「アオマル」が利用者数3,000人を突破、自己分析から面接まで伴走",
-      "url": "https://edu.watch.impress.co.jp/docs/news/2156756.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-11-18T05:00:00+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "『最新教育動向シリーズ　1冊整理　学習指導要領　改定への見取り図』教育の未来を研究する会／編",
-      "url": "https://www.kknews.co.jp/post_library/261026_8i",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-11-17T22:00:03+00:00",
-      "keywords": [
-        "学習指導要領"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "文部科学省「留学生就職促進教育プログラム認定制度」公募を開始",
-      "url": "https://www.kknews.co.jp/news/20261118o03",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-11-17T22:00:01+00:00",
-      "keywords": [
-        "文部科学省"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "NTT西日本と京大、フィジカルAI人材育成プログラム開発へ",
-      "url": "https://reseed.resemom.jp/article/2026/11/17/14572.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-11-17T04:45:02+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "子供の生成AI利用経験が大幅増、東京都の調査で判明",
-      "url": "https://edu.watch.impress.co.jp/docs/news/2156873.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-11-17T03:03:00+00:00",
-      "keywords": [
-        "生成AI",
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "NTT西日本と京大が連携強化、フィジカルAIの社会実装を担う人材育成プログラムを開発",
-      "url": "https://www.kknews.co.jp/news/20261117o02",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-11-16T22:00:58+00:00",
-      "keywords": [
-        "AI"
       ],
       "status": "auto"
     }
