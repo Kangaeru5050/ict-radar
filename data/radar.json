@@ -1,11 +1,45 @@
 {
-  "generated_at": "2026-11-20T07:14:16.839629+00:00",
+  "generated_at": "2026-11-20T20:18:44.987642+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "東北大学に学ぶDXの次の一手…AIで「業務特化型AX」を実装する挑戦",
+      "url": "https://reseed.resemom.jp/article/2026/11/20/14606.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-11-20T09:15:02+00:00",
+      "keywords": [
+        "AI",
+        "DX"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "三田国際科学学園高校、AvallyのAIエージェントでアプリ開発に挑戦",
+      "url": "https://edu.watch.impress.co.jp/docs/news/2158132.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-11-20T08:30:00+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "IPA「セキュリティ・キャンプ2027コネクト」12/2までエントリー受付",
+      "url": "https://reseed.resemom.jp/article/2026/11/20/14605.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-11-20T08:15:02+00:00",
+      "keywords": [
+        "セキュリティ"
+      ],
+      "status": "auto"
+    },
     {
       "title": "非認知能力の測定から行動支援へ、Ai GROWが中高生向け受検画面を刷新",
       "url": "https://edu.watch.impress.co.jp/docs/news/2158247.html",
@@ -238,40 +272,6 @@
       "published": "2026-11-19T09:45:03+00:00",
       "keywords": [
         "ICT"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "通信制高校31万人、教育の質確保へ文科省が基本指針を検討",
-      "url": "https://reseed.resemom.jp/article/2026/11/19/14596.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-11-19T08:15:02+00:00",
-      "keywords": [
-        "文科省"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "【教員採用】長野県、セカンドキャリア・ICT技術者選考を新設",
-      "url": "https://reseed.resemom.jp/article/2026/11/19/14594.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-11-19T07:15:02+00:00",
-      "keywords": [
-        "ICT"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "情報活用能力を育てる授業アイデア、文科省が教員向けに公表",
-      "url": "https://reseed.resemom.jp/article/2026/11/19/14593.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-11-19T06:45:03+00:00",
-      "keywords": [
-        "文科省",
-        "情報活用能力"
       ],
       "status": "auto"
     }
