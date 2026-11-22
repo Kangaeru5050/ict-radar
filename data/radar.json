@@ -1,11 +1,22 @@
 {
-  "generated_at": "2026-11-21T19:15:00.839935+00:00",
+  "generated_at": "2026-11-22T06:47:12.943495+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "ベネッセの「AI質問」が日本e-Learning大賞で経済産業大臣賞を受賞、ヒント提示で自学自習を支援",
+      "url": "https://www.kknews.co.jp/news/20261122o01",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-11-22T01:00:22+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
     {
       "title": "東北大学に学ぶDXの次の一手…AIで「業務特化型AX」を実装する挑戦",
       "url": "https://reseed.resemom.jp/article/2026/11/20/14606.html",
@@ -261,17 +272,6 @@
       "keywords": [
         "文部科学省",
         "情報活用能力"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "横浜市とeboard、不登校支援で協定…ICT教材を無償提供",
-      "url": "https://reseed.resemom.jp/article/2026/11/19/14599.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-11-19T09:45:03+00:00",
-      "keywords": [
-        "ICT"
       ],
       "status": "auto"
     }
