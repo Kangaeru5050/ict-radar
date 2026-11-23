@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T19:39:09.248252+00:00",
+  "generated_at": "2026-11-23T07:37:48.592758+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
@@ -7,11 +7,33 @@
   },
   "items": [
     {
-      "title": "ベネッセの「AI質問」が日本e-Learning大賞で経済産業大臣賞を受賞、ヒント提示で自学自習を支援",
-      "url": "https://www.kknews.co.jp/news/20261122o01",
+      "title": "【連載】AI時代の主体的な学びへの転換「第8回『問い返すAI』と『問いかけを考える子供』～武雄市立御船が丘小学校・東川登小学校～」中村学園大学教育学部　山本朋弘教授",
+      "url": "https://www.kknews.co.jp/post_ict/261123_1b",
       "source": "教育家庭新聞 KKS Web",
       "source_id": "kknews",
-      "published": "2026-11-22T01:00:22+00:00",
+      "published": "2026-11-23T01:00:49+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "三田国際科学学園高校、AIを活用して社会課題解決アプリを開発する探究プログラムを開始 Avallyが支援",
+      "url": "https://www.kknews.co.jp/news/20261123o04",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-11-23T01:00:48+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "スタディポケット、音声対話型の個人向け「AI面接対策」アプリをiOS・Android向けに公開",
+      "url": "https://www.kknews.co.jp/news/20261123o01",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-11-23T01:00:40+00:00",
       "keywords": [
         "AI"
       ],
@@ -248,30 +270,6 @@
       "published": "2026-11-19T23:00:00+00:00",
       "keywords": [
         "プログラミング"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "子供の生成AI利用が大幅増、17歳の86.4%に 東京都「とうきょう こども アンケート」2026年調査",
-      "url": "https://www.kknews.co.jp/news/20261120o01",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-11-19T22:00:54+00:00",
-      "keywords": [
-        "生成AI",
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "文部科学省、小中高生の「情報活用能力調査」の結果を公表　文字入力数は全校種で増加",
-      "url": "https://edu.watch.impress.co.jp/docs/news/2157877.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-11-19T21:30:00+00:00",
-      "keywords": [
-        "文部科学省",
-        "情報活用能力"
       ],
       "status": "auto"
     }
