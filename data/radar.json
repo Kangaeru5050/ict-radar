@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T07:37:48.592758+00:00",
+  "generated_at": "2026-11-23T23:53:04.454519+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
@@ -7,33 +7,66 @@
   },
   "items": [
     {
-      "title": "【連載】AI時代の主体的な学びへの転換「第8回『問い返すAI』と『問いかけを考える子供』～武雄市立御船が丘小学校・東川登小学校～」中村学園大学教育学部　山本朋弘教授",
-      "url": "https://www.kknews.co.jp/post_ict/261123_1b",
+      "title": "デジタル教科書、学習者用は半数以上が未使用 指導者用は小中で高普及率、現場は使い分け模索〜School Voice Project調査",
+      "url": "https://www.kknews.co.jp/news/20261124o04",
       "source": "教育家庭新聞 KKS Web",
       "source_id": "kknews",
-      "published": "2026-11-23T01:00:49+00:00",
+      "published": "2026-11-23T22:00:49+00:00",
+      "keywords": [
+        "デジタル教科書"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "IGS、非認知能力測定ツール「Ai GROW」の中高生向け受検画面を刷新へ",
+      "url": "https://www.kknews.co.jp/news/20261124o01",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-11-23T22:00:33+00:00",
       "keywords": [
         "AI"
       ],
       "status": "auto"
     },
     {
-      "title": "三田国際科学学園高校、AIを活用して社会課題解決アプリを開発する探究プログラムを開始 Avallyが支援",
-      "url": "https://www.kknews.co.jp/news/20261123o04",
+      "title": "学校向けAI英語「VerbSpark」、教委・学校向けに「学校別活用状況ダッシュボード」を提供",
+      "url": "https://www.kknews.co.jp/news/20261124o03",
       "source": "教育家庭新聞 KKS Web",
       "source_id": "kknews",
-      "published": "2026-11-23T01:00:48+00:00",
+      "published": "2026-11-23T22:00:27+00:00",
       "keywords": [
         "AI"
       ],
       "status": "auto"
     },
     {
-      "title": "スタディポケット、音声対話型の個人向け「AI面接対策」アプリをiOS・Android向けに公開",
-      "url": "https://www.kknews.co.jp/news/20261123o01",
+      "title": "教科書仲間もAIも学習資源～香美市立鏡野中学校（第52回日本教育工学研究協議会全国大会公開授業より）",
+      "url": "https://www.kknews.co.jp/post_ict/261123_2b",
       "source": "教育家庭新聞 KKS Web",
       "source_id": "kknews",
-      "published": "2026-11-23T01:00:40+00:00",
+      "published": "2026-11-23T22:00:11+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "宇土高校で理系進路支援セミナー　文系出身AIエンジニアがキャリア講演〜はばたけ！熊本サイエンスガールズ",
+      "url": "https://www.kknews.co.jp/news/20261124o02",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-11-23T22:00:04+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "子供たちの主体的な学びと教員を支援、MetaMoJiが教育AI「SHUUSAI」を発表",
+      "url": "https://edu.watch.impress.co.jp/docs/news/2157896.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-11-23T21:30:00+00:00",
       "keywords": [
         "AI"
       ],
@@ -237,39 +270,6 @@
       "published": "2026-11-20T00:12:59+00:00",
       "keywords": [
         "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "「JAPAN AI HR」、候補者1人ひとりと対話し深掘りする「AI面接」を提供開始",
-      "url": "https://ict-enews.net/2026/11/20japan-ai/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-20T00:12:39+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "AIが伴走支援するeラーニング 「ミガクス」 、日本e-Learning大賞「AI特別部門賞(人材育成)」受賞",
-      "url": "https://ict-enews.net/2026/11/20episode-learning/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-20T00:11:36+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "中学生の計算力とプログラミング問題の正答率に関連、スプリックス教育財団調べ",
-      "url": "https://edu.watch.impress.co.jp/docs/news/2158035.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-11-19T23:00:00+00:00",
-      "keywords": [
-        "プログラミング"
       ],
       "status": "auto"
     }
