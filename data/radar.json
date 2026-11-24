@@ -1,11 +1,92 @@
 {
-  "generated_at": "2026-11-24T09:53:17.842517+00:00",
+  "generated_at": "2026-11-24T22:25:56.421582+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "スタディポケット、教育現場向け「AI同時通訳」2027年4月に提供開始、GIGA端末のブラウザで利用可能",
+      "url": "https://www.kknews.co.jp/news/20261125o02",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-11-24T22:00:54+00:00",
+      "keywords": [
+        "GIGA",
+        "AI",
+        "端末"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "オープンバッジの役割が拡大　学習成果を社会で活かす仕組みへ～オープンバッジ・ネットワーク設立7周年記念",
+      "url": "https://www.kknews.co.jp/post_ict/261123_3b",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-11-24T22:00:45+00:00",
+      "keywords": [
+        "ネットワーク"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "近大生×川俣高生、生成AI活用し地域の未来を考える「2046年の川俣町」地域提案を発表",
+      "url": "https://www.kknews.co.jp/news/20261125o01",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-11-24T22:00:19+00:00",
+      "keywords": [
+        "生成AI",
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "『具体的な実践例でよくわかる　AI時代の ｢デジタル×図書館｣活用術　探究の質を高める情報収集メソッド』庭井史絵、登本洋子、稲垣忠、マース・アレクサンダー／著",
+      "url": "https://www.kknews.co.jp/post_library/261123_6d",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-11-24T22:00:14+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "＜エントリー締切12/2＞セキュリティ・キャンプ2027コネクト　全8クラスに拡充し千葉・船橋で3月開催",
+      "url": "https://www.kknews.co.jp/news/20261125o04",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-11-24T22:00:12+00:00",
+      "keywords": [
+        "セキュリティ"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "「デジタル教科書」ではなく「デジタルな形態を含む教科書」へ～堀田龍也・東京学芸大学副学長（教科書研究センター50周年記念式典より）",
+      "url": "https://www.kknews.co.jp/post_ict/261123_3a",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-11-24T22:00:12+00:00",
+      "keywords": [
+        "デジタル教科書"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "コニカミノルタ、教育データ利活用・教育ダッシュボードに関するオンデマンドセミナーを配信〜12/28まで＜情報教育対応教員研修全国セミナー＞",
+      "url": "https://www.kknews.co.jp/news/20261125o03",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-11-24T22:00:06+00:00",
+      "keywords": [
+        "情報教育",
+        "データ"
+      ],
+      "status": "auto"
+    },
     {
       "title": "非認知能力測定「Ai GROW」中高生向け受検画面を刷新",
       "url": "https://reseed.resemom.jp/article/2026/11/24/14619.html",
@@ -155,61 +236,6 @@
       "status": "auto"
     },
     {
-      "title": "デジタル教科書、学習者用は半数以上が未使用 指導者用は小中で高普及率、現場は使い分け模索〜School Voice Project調査",
-      "url": "https://www.kknews.co.jp/news/20261124o04",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-11-23T22:00:49+00:00",
-      "keywords": [
-        "デジタル教科書"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "IGS、非認知能力測定ツール「Ai GROW」の中高生向け受検画面を刷新へ",
-      "url": "https://www.kknews.co.jp/news/20261124o01",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-11-23T22:00:33+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "学校向けAI英語「VerbSpark」、教委・学校向けに「学校別活用状況ダッシュボード」を提供",
-      "url": "https://www.kknews.co.jp/news/20261124o03",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-11-23T22:00:27+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "教科書仲間もAIも学習資源～香美市立鏡野中学校（第52回日本教育工学研究協議会全国大会公開授業より）",
-      "url": "https://www.kknews.co.jp/post_ict/261123_2b",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-11-23T22:00:11+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "宇土高校で理系進路支援セミナー　文系出身AIエンジニアがキャリア講演〜はばたけ！熊本サイエンスガールズ",
-      "url": "https://www.kknews.co.jp/news/20261124o02",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-11-23T22:00:04+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
       "title": "子供たちの主体的な学びと教員を支援、MetaMoJiが教育AI「SHUUSAI」を発表",
       "url": "https://edu.watch.impress.co.jp/docs/news/2157896.html",
       "source": "こどもとIT",
@@ -251,28 +277,6 @@
       "published": "2026-11-20T08:15:02+00:00",
       "keywords": [
         "セキュリティ"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "非認知能力の測定から行動支援へ、Ai GROWが中高生向け受検画面を刷新",
-      "url": "https://edu.watch.impress.co.jp/docs/news/2158247.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-11-20T07:00:00+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "授業づくり等でAI活用65％、最多はGemini…技術・家庭科調査",
-      "url": "https://reseed.resemom.jp/article/2026/11/20/14604.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-11-20T04:45:03+00:00",
-      "keywords": [
-        "AI"
       ],
       "status": "auto"
     }
