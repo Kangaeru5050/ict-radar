@@ -1,11 +1,23 @@
 {
-  "generated_at": "2026-11-25T08:32:39.756275+00:00",
+  "generated_at": "2026-11-25T21:41:25.371755+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "AI社会の消費者教育を考える、文科省フェスタ1/18東京",
+      "url": "https://reseed.resemom.jp/article/2026/11/25/14630.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-11-25T08:45:03+00:00",
+      "keywords": [
+        "AI",
+        "文科省"
+      ],
+      "status": "auto"
+    },
     {
       "title": "子供のAI学習、親の9割が期待する一方で「AIへの依存」が不安　イー・ラーニング研究所調べ",
       "url": "https://edu.watch.impress.co.jp/docs/news/2158978.html",
@@ -268,17 +280,6 @@
       "published": "2026-11-24T08:00:00+00:00",
       "keywords": [
         "生成AI",
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "小学生の約9割が親の仕事を認知、約4割は説明できず　miraiiが親子108組を調査",
-      "url": "https://edu.watch.impress.co.jp/docs/news/2158537.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-11-24T06:00:00+00:00",
-      "keywords": [
         "AI"
       ],
       "status": "auto"
