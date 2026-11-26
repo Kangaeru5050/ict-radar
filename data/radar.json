@@ -1,11 +1,199 @@
 {
-  "generated_at": "2026-11-25T21:41:25.371755+00:00",
+  "generated_at": "2026-11-26T08:16:18.198207+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "ICT教育の実践と6年間の学びを紹介、『できる東京成徳大学中学・高等学校』を11月26日に発売",
+      "url": "https://edu.watch.impress.co.jp/docs/news/2159222.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-11-26T06:00:00+00:00",
+      "keywords": [
+        "ICT"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "文科省の教育課程企画特別部会12/7…答申案を議論、傍聴募集",
+      "url": "https://reseed.resemom.jp/article/2026/11/26/14632.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-11-26T03:15:03+00:00",
+      "keywords": [
+        "文科省"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "●絵も文もAIが作ったペラペラ漫画● 【ちゃのまのAIプロト】  第16話  「AIプロト対お掃除ロボットぽち」の巻",
+      "url": "https://ict-enews.net/zoomin/26chanomaai/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-26T01:35:52+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "子どもに勧めたい留学先は 1 位アメリカ、2 位オーストラリア=Mirai Bridge 調べ=",
+      "url": "https://ict-enews.net/2026/11/26gcryugaku-2/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-26T01:23:38+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "AIエージェントナビ、TOPIX100社対象「上場企業100社のAI活用実態調査 2026」",
+      "url": "https://ict-enews.net/2026/11/26marketing-planner/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-26T01:23:27+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "私大連、「学部教育におけるAI利活用に係るアンケート調査」及び「AIを活用した授業実践事例」公開",
+      "url": "https://ict-enews.net/2026/11/26shidairen/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-26T01:23:11+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "業務へのAI導入で不安なことランキング第1位は？=ビズヒッツ調べ=",
+      "url": "https://ict-enews.net/2026/11/26bizhits/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-26T01:22:54+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "若手・後任者が前任者・経験者と同等に判断できるまで6カ月以上かかった41.9%=taiziii調べ=",
+      "url": "https://ict-enews.net/2026/11/26taiziii/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-26T01:22:33+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "東洋大学、「生成AI利用ガイドライン」を公開",
+      "url": "https://ict-enews.net/2026/11/26toyo-2/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-26T01:22:02+00:00",
+      "keywords": [
+        "生成AI",
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "JBS、「2026年度全国選抜小学生プログラミング大会」に協賛",
+      "url": "https://ict-enews.net/2026/11/26jbs-2/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-26T01:21:52+00:00",
+      "keywords": [
+        "プログラミング"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "C&R社、「人の技術はどう受け継がれるのか？―AIとXRで変わる技能継承と人材育成―」12月開催",
+      "url": "https://ict-enews.net/2026/11/26cri-7/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-26T01:21:20+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "代々木高校、「建設DX」のプロを目指す新コース「伊勢志摩・就労eスポーツ」来春開校",
+      "url": "https://ict-enews.net/2026/11/26yoyogi/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-26T01:20:45+00:00",
+      "keywords": [
+        "DX"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "EduLab、AI時代の管理職英語コミュニケーションの“勝ち筋”セミナー12月9日開催",
+      "url": "https://ict-enews.net/2026/11/26edulab-2/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-26T01:20:12+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "ダイワボウ情報システム、2026 Microsoft Japan Partner of the Year Awards ＜Distributor Award＞受賞",
+      "url": "https://ict-enews.net/2026/11/26pc-daiwabo/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-26T01:19:39+00:00",
+      "keywords": [
+        "Microsoft"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "AI英会話を学校の宿題に、レシピー for Schoolが課題配信機能を搭載",
+      "url": "https://edu.watch.impress.co.jp/docs/news/2159289.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-11-25T23:00:00+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "次期学習指導要領の審議まとめ、パブコメ結果を公表 1万7757件の意見寄せられる",
+      "url": "https://www.kknews.co.jp/news/20261126o01",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-11-25T22:00:41+00:00",
+      "keywords": [
+        "学習指導要領"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "人工知能学会×N高グループ研究部、AI活用の研究奨学プログラム「PRISM」を共同実施",
+      "url": "https://www.kknews.co.jp/news/20261126o04",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-11-25T22:00:18+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
     {
       "title": "AI社会の消費者教育を考える、文科省フェスタ1/18東京",
       "url": "https://reseed.resemom.jp/article/2026/11/25/14630.html",
@@ -75,100 +263,6 @@
       "status": "auto"
     },
     {
-      "title": "派遣スタッフの生成AI活用の実態、求めているのは「Excelでのデータ集計の時短」など＝ヒューマンリソシア調べ＝",
-      "url": "https://ict-enews.net/2026/11/25resocia/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-25T01:13:46+00:00",
-      "keywords": [
-        "生成AI",
-        "AI",
-        "データ"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "人工知能学会とN高グループ研究部、AI活用探る「PRISM奨学プログラム」開始",
-      "url": "https://ict-enews.net/2026/11/25nnn-6/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-25T01:13:11+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "東京女子大学、文科省数理・データサイエンス・AI教育プログラム認定制度「応用基礎レベル」に認定",
-      "url": "https://ict-enews.net/2026/11/25twcu-2/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-25T01:12:03+00:00",
-      "keywords": [
-        "AI",
-        "文科省",
-        "データ"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "生成AI活用普及協会、「生成AIパスポート」2026年年間受験者数が13万名超を記録",
-      "url": "https://ict-enews.net/2026/11/25guga/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-25T01:11:52+00:00",
-      "keywords": [
-        "生成AI",
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "三田国際科学学園とAvally、高校生がAIで社会課題解決アプリを開発する探究プログラムを開始",
-      "url": "https://ict-enews.net/2026/11/25avally/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-25T01:11:42+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "福島民報社、AIセキュリティセミナー [初級編]「～そのメール、AIが書いています～」12月開催",
-      "url": "https://ict-enews.net/2026/11/25minpo/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-25T01:11:11+00:00",
-      "keywords": [
-        "AI",
-        "セキュリティ"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "i-plug、大学1・2年生向け自己探求型キャリア支援サービス「OfferBox mirai」リリース",
-      "url": "https://ict-enews.net/2026/11/25i-plug-3/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-25T01:09:54+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "ボイスチューブ、企業向けAI英会話「SpeakMode ビジネス版」提供開始",
-      "url": "https://ict-enews.net/2026/11/25voicetube/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-25T01:09:27+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
       "title": "若手教員の86％が学校のアナログ業務に驚き　校務DXの課題を1,014人に調査",
       "url": "https://edu.watch.impress.co.jp/docs/news/2158913.html",
       "source": "こどもとIT",
@@ -177,110 +271,6 @@
       "keywords": [
         "校務",
         "DX"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "スタディポケット、教育現場向け「AI同時通訳」2027年4月に提供開始、GIGA端末のブラウザで利用可能",
-      "url": "https://www.kknews.co.jp/news/20261125o02",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-11-24T22:00:54+00:00",
-      "keywords": [
-        "GIGA",
-        "AI",
-        "端末"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "オープンバッジの役割が拡大　学習成果を社会で活かす仕組みへ～オープンバッジ・ネットワーク設立7周年記念",
-      "url": "https://www.kknews.co.jp/post_ict/261123_3b",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-11-24T22:00:45+00:00",
-      "keywords": [
-        "ネットワーク"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "近大生×川俣高生、生成AI活用し地域の未来を考える「2046年の川俣町」地域提案を発表",
-      "url": "https://www.kknews.co.jp/news/20261125o01",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-11-24T22:00:19+00:00",
-      "keywords": [
-        "生成AI",
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "『具体的な実践例でよくわかる　AI時代の ｢デジタル×図書館｣活用術　探究の質を高める情報収集メソッド』庭井史絵、登本洋子、稲垣忠、マース・アレクサンダー／著",
-      "url": "https://www.kknews.co.jp/post_library/261123_6d",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-11-24T22:00:14+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "＜エントリー締切12/2＞セキュリティ・キャンプ2027コネクト　全8クラスに拡充し千葉・船橋で3月開催",
-      "url": "https://www.kknews.co.jp/news/20261125o04",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-11-24T22:00:12+00:00",
-      "keywords": [
-        "セキュリティ"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "「デジタル教科書」ではなく「デジタルな形態を含む教科書」へ～堀田龍也・東京学芸大学副学長（教科書研究センター創立50周年記念式典より）",
-      "url": "https://www.kknews.co.jp/post_ict/261123_3a",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-11-24T22:00:12+00:00",
-      "keywords": [
-        "デジタル教科書"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "コニカミノルタ、教育データ利活用・教育ダッシュボードに関するオンデマンドセミナーを配信〜12/28まで＜情報教育対応教員研修全国セミナー＞",
-      "url": "https://www.kknews.co.jp/news/20261125o03",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-11-24T22:00:06+00:00",
-      "keywords": [
-        "情報教育",
-        "データ"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "非認知能力測定「Ai GROW」中高生向け受検画面を刷新",
-      "url": "https://reseed.resemom.jp/article/2026/11/24/14619.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-11-24T09:45:02+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "生成AIと学校図書館をどう使う？ 探究学習の実践書が登場",
-      "url": "https://edu.watch.impress.co.jp/docs/knowledge/kodomoit-booklab/2158542.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-11-24T08:00:00+00:00",
-      "keywords": [
-        "生成AI",
-        "AI"
       ],
       "status": "auto"
     }
