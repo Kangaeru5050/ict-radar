@@ -1,11 +1,189 @@
 {
-  "generated_at": "2026-11-26T21:31:09.166048+00:00",
+  "generated_at": "2026-11-27T08:32:00.510581+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "武蔵野大学の「AI先輩」が進化、対話ログで学びを支援",
+      "url": "https://edu.watch.impress.co.jp/docs/news/2159820.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-11-27T08:00:00+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "校外活動の安全対策、約7割が点検実施…文科省調査",
+      "url": "https://reseed.resemom.jp/article/2026/11/27/14649.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-11-27T06:45:02+00:00",
+      "keywords": [
+        "文科省"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "いじめ・暴力行為が過去最多、不登校35万人超…文科省調査",
+      "url": "https://reseed.resemom.jp/article/2026/11/27/14648.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-11-27T06:25:02+00:00",
+      "keywords": [
+        "文科省"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "スタディポケットがAI議事録を提供、重要性分類の候補を教員に提示",
+      "url": "https://edu.watch.impress.co.jp/docs/news/2159785.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-11-27T06:00:00+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "不登校の児童生徒が約36万人で過去最多に、文部科学省調査",
+      "url": "https://edu.watch.impress.co.jp/docs/news/2159754.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-11-27T03:03:00+00:00",
+      "keywords": [
+        "文部科学省"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "私大7割でAI活用教育、私大連が調査結果と150事例公開",
+      "url": "https://reseed.resemom.jp/article/2026/11/27/14645.html",
+      "source": "ReseEd",
+      "source_id": "reseed",
+      "published": "2026-11-27T01:45:03+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "Polimill、自治体向け生成AI「QommonsAI」の活用研修を北海道比布町で実施",
+      "url": "https://ict-enews.net/2026/11/27polimill-4/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-27T01:05:21+00:00",
+      "keywords": [
+        "生成AI",
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "Polimill、山梨県市町村総合事務組合で生成AI「QommonsAI」の活用研修を実施",
+      "url": "https://ict-enews.net/2026/11/27polimill-3/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-27T01:04:38+00:00",
+      "keywords": [
+        "生成AI",
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "内田洋行と電気通信大学、CBTシステムの研究開発に向けた共同研究講座を開設",
+      "url": "https://ict-enews.net/2026/11/27uchida-5/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-27T01:04:26+00:00",
+      "keywords": [
+        "CBT"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "コエテコマネージャー byGMO、AIから教室・スクール運営システムを操作できるMCPサーバー提供開始",
+      "url": "https://ict-enews.net/2026/11/27gmo-5/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-27T01:02:35+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "Astermindsとヒューマンリンク、協業し社員の経験に眠る暗黙知をAIで形式知に",
+      "url": "https://ict-enews.net/2026/11/27asterminds/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-27T01:02:13+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "C&R社、「IT基礎・AI活用Web/SNSマーケ（オンライン）科」の受講生募集",
+      "url": "https://ict-enews.net/2026/11/27cri-6/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-27T01:02:00+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "エデュニア、教材作成の主要工程をAIエージェントで自動化する 「My AI Agent Frontier」正式リリース",
+      "url": "https://ict-enews.net/2026/11/27edunear/",
+      "source": "ICT教育ニュース",
+      "source_id": "ict-enews",
+      "published": "2026-11-27T01:01:32+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "子供の描いた絵が3Dに！「Tripo Studio」で広がる、ものづくりの可能性【【連載】EducAItion Times】",
+      "url": "https://edu.watch.impress.co.jp/docs/serial/educaition-times/2159264.html",
+      "source": "こどもとIT",
+      "source_id": "kodomo-it",
+      "published": "2026-11-26T23:00:00+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "広教、次期学習指導要領見据え「二次元コードの特性」など「情報技術の仕組み」を『事例で学ぶNetモラル』に追加",
+      "url": "https://www.kknews.co.jp/news/20261127o01",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-11-26T22:00:50+00:00",
+      "keywords": [
+        "学習指導要領"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "ポリグロッツ、学校向け英語学習サービスにAI英会話の課題配信機能を追加",
+      "url": "https://www.kknews.co.jp/news/20261127o04",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-11-26T22:00:15+00:00",
+      "keywords": [
+        "AI"
+      ],
+      "status": "auto"
+    },
     {
       "title": "ICT教育の実践と6年間の学びを紹介、『できる東京成徳大学中学・高等学校』を11月26日に発売",
       "url": "https://edu.watch.impress.co.jp/docs/news/2159222.html",
@@ -25,139 +203,6 @@
       "published": "2026-11-26T03:15:03+00:00",
       "keywords": [
         "文科省"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "●絵も文もAIが作ったペラペラ漫画● 【ちゃのまのAIプロト】  第16話  「AIプロト対お掃除ロボットぽち」の巻",
-      "url": "https://ict-enews.net/zoomin/26chanomaai/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-26T01:35:52+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "子どもに勧めたい留学先は 1 位アメリカ、2 位オーストラリア=Mirai Bridge 調べ=",
-      "url": "https://ict-enews.net/2026/11/26gcryugaku-2/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-26T01:23:38+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "AIエージェントナビ、TOPIX100社対象「上場企業100社のAI活用実態調査 2026」",
-      "url": "https://ict-enews.net/2026/11/26marketing-planner/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-26T01:23:27+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "私大連、「学部教育におけるAI利活用に係るアンケート調査」及び「AIを活用した授業実践事例」公開",
-      "url": "https://ict-enews.net/2026/11/26shidairen/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-26T01:23:11+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "業務へのAI導入で不安なことランキング第1位は？=ビズヒッツ調べ=",
-      "url": "https://ict-enews.net/2026/11/26bizhits/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-26T01:22:54+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "若手・後任者が前任者・経験者と同等に判断できるまで6カ月以上かかった41.9%=taiziii調べ=",
-      "url": "https://ict-enews.net/2026/11/26taiziii/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-26T01:22:33+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "東洋大学、「生成AI利用ガイドライン」を公開",
-      "url": "https://ict-enews.net/2026/11/26toyo-2/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-26T01:22:02+00:00",
-      "keywords": [
-        "生成AI",
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "JBS、「2026年度全国選抜小学生プログラミング大会」に協賛",
-      "url": "https://ict-enews.net/2026/11/26jbs-2/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-26T01:21:52+00:00",
-      "keywords": [
-        "プログラミング"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "C&R社、「人の技術はどう受け継がれるのか？―AIとXRで変わる技能継承と人材育成―」12月開催",
-      "url": "https://ict-enews.net/2026/11/26cri-7/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-26T01:21:20+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "代々木高校、「建設DX」のプロを目指す新コース「伊勢志摩・就労eスポーツ」来春開校",
-      "url": "https://ict-enews.net/2026/11/26yoyogi/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-26T01:20:45+00:00",
-      "keywords": [
-        "DX"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "EduLab、AI時代の管理職英語コミュニケーションの“勝ち筋”セミナー12月9日開催",
-      "url": "https://ict-enews.net/2026/11/26edulab-2/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-26T01:20:12+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "ダイワボウ情報システム、2026 Microsoft Japan Partner of the Year Awards ＜Distributor Award＞受賞",
-      "url": "https://ict-enews.net/2026/11/26pc-daiwabo/",
-      "source": "ICT教育ニュース",
-      "source_id": "ict-enews",
-      "published": "2026-11-26T01:19:39+00:00",
-      "keywords": [
-        "Microsoft"
       ],
       "status": "auto"
     },
@@ -225,52 +270,6 @@
       "published": "2026-11-25T05:45:02+00:00",
       "keywords": [
         "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "児童生徒の意見を生成AIで分析、教員の見取りを支援する「協働学習ボード」を発表",
-      "url": "https://edu.watch.impress.co.jp/docs/news/2159050.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-11-25T04:30:00+00:00",
-      "keywords": [
-        "生成AI",
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "内田洋行と電気通信大学、CBT研究で共同研究講座を開設",
-      "url": "https://reseed.resemom.jp/article/2026/11/25/14623.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-11-25T04:15:02+00:00",
-      "keywords": [
-        "CBT"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "児童虐待の気付きを相談へ、地域支援者向け手引き…文科省",
-      "url": "https://reseed.resemom.jp/article/2026/11/25/14622.html",
-      "source": "ReseEd",
-      "source_id": "reseed",
-      "published": "2026-11-25T02:45:03+00:00",
-      "keywords": [
-        "文科省"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "若手教員の86％が学校のアナログ業務に驚き　校務DXの課題を1,014人に調査",
-      "url": "https://edu.watch.impress.co.jp/docs/news/2158913.html",
-      "source": "こどもとIT",
-      "source_id": "kodomo-it",
-      "published": "2026-11-24T23:00:00+00:00",
-      "keywords": [
-        "校務",
-        "DX"
       ],
       "status": "auto"
     }
