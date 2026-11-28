@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-11-27T21:16:05.365094+00:00",
+  "generated_at": "2026-11-28T07:47:52.446805+00:00",
   "note": "自動収集した掲載候補です。内容・制度上の意味は未確認です。",
   "collection": {
     "successful_sources": 4,
     "failed_sources": 0
   },
   "items": [
+    {
+      "title": "生成AIが授業の話し合いを支援する「協働学習ボード」を2027年度に提供へ〜スタディポケット",
+      "url": "https://www.kknews.co.jp/news/20261128o04",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-11-28T01:00:39+00:00",
+      "keywords": [
+        "生成AI",
+        "AI"
+      ],
+      "status": "auto"
+    },
+    {
+      "title": "若手教員の86%が学校のアナログ環境に衝撃、校務DXを阻むものとは〜システックITソリューション調査",
+      "url": "https://www.kknews.co.jp/news/20261128o02",
+      "source": "教育家庭新聞 KKS Web",
+      "source_id": "kknews",
+      "published": "2026-11-28T01:00:23+00:00",
+      "keywords": [
+        "校務",
+        "DX"
+      ],
+      "status": "auto"
+    },
     {
       "title": "武蔵野大学の「AI先輩」が進化、対話ログで学びを支援",
       "url": "https://edu.watch.impress.co.jp/docs/news/2159820.html",
@@ -212,28 +236,6 @@
       "source": "こどもとIT",
       "source_id": "kodomo-it",
       "published": "2026-11-25T23:00:00+00:00",
-      "keywords": [
-        "AI"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "次期学習指導要領の審議まとめ、パブコメ結果を公表 1万7757件の意見寄せられる",
-      "url": "https://www.kknews.co.jp/news/20261126o01",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-11-25T22:00:41+00:00",
-      "keywords": [
-        "学習指導要領"
-      ],
-      "status": "auto"
-    },
-    {
-      "title": "人工知能学会×N高グループ研究部、AI活用の研究奨学プログラム「PRISM」を共同実施",
-      "url": "https://www.kknews.co.jp/news/20261126o04",
-      "source": "教育家庭新聞 KKS Web",
-      "source_id": "kknews",
-      "published": "2026-11-25T22:00:18+00:00",
       "keywords": [
         "AI"
       ],
