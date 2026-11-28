@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-11-27T03:43:15.094255+00:00",
+  "last_run": "2026-11-28T03:26:59.090859+00:00",
   "sources": [
     {
       "id": "mext-school-network",
@@ -13,17 +13,17 @@
       "id": "ietf-dhcpv6",
       "name": "IETF RFC 9915",
       "url": "https://datatracker.ietf.org/doc/rfc9915/",
-      "hash": "279882c72b70d30a859987a8690bbe2b7df256ebbe7b0d89695977a5b8e522d6",
+      "hash": "a37311ac4cd1939a3ee42524aafe576906c47842cf0508aa53a5d401cb7a4fa6",
       "changed": true,
-      "changed_at": "2026-11-27T03:43:15.094255+00:00"
+      "changed_at": "2026-11-28T03:26:59.090859+00:00"
     },
     {
       "id": "ietf-dns-bcp",
       "name": "IETF RFC 10001",
       "url": "https://datatracker.ietf.org/doc/rfc10001/",
-      "hash": "3b979956b2d1956a979effda59394b95187ec98832ac973239e8145adb85a701",
+      "hash": "16e968078d1f18428a8c72f7fa178f8d7af80ddfb776f151921aee00a1e6fd07",
       "changed": true,
-      "changed_at": "2026-11-27T03:43:15.094255+00:00"
+      "changed_at": "2026-11-28T03:26:59.090859+00:00"
     }
   ]
 }
